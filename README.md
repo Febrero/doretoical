@@ -1,2 +1,2 @@
 # doretoical
-Scraping para la filmoteca de Madrid para generar un calendario iCal.
+Scraping sobre la filmoteca de Madrid para generar un calendario iCal.
