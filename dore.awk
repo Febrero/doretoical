@@ -1,3 +1,12 @@
+BEGIN {
+	anyo=0;
+	mes=0;
+	dia=0;
+	reset();
+	count=0;
+	salto=" ";
+	separador="\n"
+}
 function getMes(s) {
 	if (s=="enero") return 1;
 	if (s=="febrero") return 2;
@@ -19,32 +28,34 @@ function reset() {
 	nota="";
 	_hora=0;
 }
+function cero(s) {
+	if ((s+0)>9) return s;
+	return "0" s;
+}
 function item() {
 	if (hora!=0 && sala!=0 && nota!="" && minutos>0) {
 		gsub(/^\s+|\s+$/, "", nota);
 		sub(/^Sala ([0-9]+|Verano) */, "", nota);
-		if (split(nota,a,"\n")>0) {
+		gsub(/^\s+|\s+$/, "", nota);
+		gsub(/^\s*\n\s*/, "\n", nota);
+		if (split(nota,a,separador)>0) {
 			titulo=gensub(/^([^\(]+) *\(.*/, "\\1", "", a[1]);
 			estreno=gensub(/^[^\)]+, ([0-9]+)\).*/, "\\1", "", a[1]);
-
-			print anyo "-" mes "-" dia " " hora;
-			print minutos;
-			print sala;
-			print titulo;
+			gsub(/\n+/, "\n  ", nota);
+			gsub(/^\s+|\s+$/, "", titulo);
+			gsub(/^\s+|\s+$/, "", nota);
+			print "---"
+			print "inicio: \"" anyo "-" cero(mes) "-" cero(dia) " " hora "\"";
+			print "duración: \"" minutos "\"";
+			print "sala: \"" sala "\"";
+			print "título: \"" titulo "\"";
 			#print estreno;
-			print nota;
+			print "nota: |"
+			print "  " nota;
 			print ""
 		}
 	}
 	reset();
-}
-BEGIN {
-	anyo=0;
-	mes=0;
-	dia=0;
-	reset();
-	count=0;
-	salto=" ";
 }
 mes==0 && $1~/^(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)$/ {
 	mes=getMes($1);
@@ -87,7 +98,7 @@ nota!="" {
 
 $NF~/^[0-9]+'$/ {
 	minutos=substr($NF,0,length($NF)-1);
-	if (nota!="") salto="\n";
+	if (nota!="") salto=separador;
 }
 $1~/^[0-2][0-9][0-6][0-9]$/ {
 	_hora=gensub(/(..)(..)/, "\\1:\\2", "", $1);
