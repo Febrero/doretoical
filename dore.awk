@@ -32,6 +32,10 @@ function cero(s) {
 	if ((s+0)>9) return s;
 	return "0" s;
 }
+function escape(s) {
+	gsub(/"/, "\\\"", s);
+	return s
+}
 function item() {
 	if (hora!=0 && sala!=0 && nota!="" && minutos>0) {
 		gsub(/^\s+|\s+$/, "", nota);
@@ -48,7 +52,7 @@ function item() {
 			print "inicio: \"" anyo "-" cero(mes) "-" cero(dia) " " hora "\"";
 			print "duración: \"" minutos "\"";
 			print "sala: \"" sala "\"";
-			print "título: \"" titulo "\"";
+			print "título: \"" escape(titulo) "\"";
 			#print estreno;
 			print "nota: |"
 			print "  " nota;
@@ -70,9 +74,9 @@ anyo==0 && mes>0 && $1~/^[0-9][0-9][0-9][0-9]$/ {
 }
 
 /^.?[0-9]+ - (Lunes|Martes|Miércoles|Jueves|Viernes|Sábado|Domingo)/ {
+	item();
 	dia=$1;
 	sub(/[^0-9]+/, "", dia);
-	item();
 }
 $1~/^[0-9]+:[0-9]+$/ {
 	item();
