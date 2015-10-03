@@ -2,7 +2,7 @@
 
 cd "$(dirname "$0")"
 
-python dorescraper.py
+python doretoical.py
 
 if [ $? -ne 0 ]; then
 	exit 1

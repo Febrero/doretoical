@@ -14,7 +14,6 @@ import yaml
 import bs4
 
 _pdfs = list()
-_json = list()
 txt = re.compile("(Abri|Programa|programaci|enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)", re.IGNORECASE)
 pdf = re.compile(".*(Programa|PrograDore|programDore).*\\.pdf$", re.IGNORECASE)
 
