@@ -1,20 +1,15 @@
 # -*- coding: utf-8 -*-
 
-from pytz import timezone
 import pytz
-from lxml import html, etree
 import re
 import requests
 import sys
 from urlparse import urljoin, urlparse
 from os.path import basename
 import datetime
-import json
 import os
-import time
 from icalendar import Calendar, Event
 import datetime
-from time import mktime
 import yaml
 import bs4
 
@@ -35,8 +30,7 @@ madrid_tz = pytz.timezone("Europe/Madrid")
 def _getPdfs(url):
 	page = requests.get(url)
 	soup = bs4.BeautifulSoup(page.text,"lxml")
-	links = soup.select("#info a")# tree.xpath('//div[@id="info"]//a[contains(@href,".pdf")]') endswith
-	print str(links)
+	links = soup.select("#info a")
 	for l in links:
 		t = l.get_text().strip()
 		if l is not None and txt.match(t) and l.attrs.get('href').endswith('.pdf'):
@@ -76,7 +70,7 @@ def _fillCal(url):
 	f = os.popen("curl -s \"" + url + "\" | pdftotext - - | awk -f dore.awk")
 	docs = yaml.load_all(f)
 	for o in docs:
-		i=datetime.datetime.strptime(o['inicio'], "%Y-%m-%d %H:%M") #datetime.fromtimestamp(mktime(time.strptime(o['inicio'], "%Y-%m-%d %H:%M")), txinfo=madrid_tz)
+		i=datetime.datetime.strptime(o['inicio'], "%Y-%m-%d %H:%M")
 		event = Event()
 		event.add('summary', o[u'título'])
 		event.add('dtstart', i)
