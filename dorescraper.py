@@ -16,6 +16,7 @@ from icalendar import Calendar, Event
 import datetime
 from time import mktime
 import yaml
+import bs4
 
 _pdfs = list()
 _json = list()
@@ -33,17 +34,16 @@ madrid_tz = pytz.timezone("Europe/Madrid")
 
 def _getPdfs(url):
 	page = requests.get(url)
-	tree = html.fromstring(page.text)
-	links = tree.xpath('//div[@id="info"]//a[contains(@href,".pdf")]')
+	soup = bs4.BeautifulSoup(page.text,"lxml")
+	links = soup.select("#info a")# tree.xpath('//div[@id="info"]//a[contains(@href,".pdf")]') endswith
+	print str(links)
 	for l in links:
-		etree.strip_tags(l, "*")
-		if l.text is not None:
-			t = l.text.strip()
-			if txt.match(t):
-				u = urljoin(url, l.get("href"))
-				n = basename(urlparse(u).path)
-				if pdf.match(n):
-					_pdfs.append(u)
+		t = l.get_text().strip()
+		if l is not None and txt.match(t) and l.attrs.get('href').endswith('.pdf'):
+			u = urljoin(url, l.attrs.get('href'))
+			n = basename(urlparse(u).path)
+			if pdf.match(n):
+				_pdfs.append(u)
 	if len(_pdfs) == 0:
 		raise Exception('Programas no encontrados')
 
@@ -90,13 +90,20 @@ def _fillCal(url):
 
 		cal.add_component(event)
 
-if __name__ == "__main__":
-	ar = -1
-	if len(sys.argv) > 1:
-		ar = int(sys.argv[1])
+def run(ar):
 	getPdfs(ar)
 	for pdf in _pdfs:
 		_fillCal(pdf)
+
+if __name__ == "__main__":
+	ar = -1
+	if len(sys.argv) <= 1:
+		run(-1)
+	else:
+		if sys.argv[1].isdigit():
+			run(sys.argv[1])
+		else:
+			_fillCal(sys.argv[1])
 	f = open('dore.ics', 'wb')
 	f.write(cal.to_ical())
 	f.close()
