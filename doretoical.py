@@ -92,16 +92,15 @@ def collect(ar):
 		u = p % (ar)
 		_collect(u)
 	
-def _getYaml(url,abiword=False):
+def _getYaml(url,alternative=False):
 	if not exists(url):
 		return (None, None)
 	bash=''
 	cmd=''
 	s_yaml=''
 	try:
-		if abiword:
-			cmd='abiword'
-			#bash="curl -L -s \"" + url + "\" | abiword --to=txt --to-name=fd://1 fd://0  | awk -f dore.awk"
+		if alternative:
+			cmd='catdoc/iconv/strings'
 			bash="curl -L -s \"" + url + "\" | catdoc | iconv -c -f utf-8 -t ascii | strings | awk -f dore.awk"
 			f = os.popen(bash)
 		elif url.endswith('.pdf'):
