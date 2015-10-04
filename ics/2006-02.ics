@@ -1,0 +1,1328 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cine Doré//github.com santos82 doredb//ES
+X-WR-CALNAME:Cine Dore
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+SUMMARY:Nazarín
+DTSTART;VALUE=DATE-TIME:20060201T173000
+DTEND;VALUE=DATE-TIME:20060201T190600
+UID:0602013017_1_dore
+DESCRIPTION:Sala 1 - Nazarín (Luis Buñuel\, 1958). Int.: Francisco Rabal
+ \, Marga López\, Rita Macedo. México. 96'\n“Buñuel alcanza la cima de
+  su ambigüedad: el fracaso de Nazarín puede expresar lo inútil de la ac
+ titud evangelica ante las dificultades materiales del mundo o se puede lee
+ r como una obra de resonancias cristianas hecha por un ateo convencido” 
+ (Joël Magny).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDor
+ e26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:En medio de ninguna parte
+DTSTART;VALUE=DATE-TIME:20060201T193000
+DTEND;VALUE=DATE-TIME:20060201T213700
+UID:0602013019_1_dore
+DESCRIPTION:Sala 1 - En medio de ninguna parte (Javier Rebollo\, 1997). 23
+ ’. Flores de otro mundo (Icíar Bollaín\, 1999). Int.: José Sancho\, L
+ issete Mejía\, Luis Tosar. España. 104'. Total programa: 127'\nPatricia\
+ , dominicana\, busca un hogar y una seguridad. Milady tiene 20 años y un 
+ mundo entero por recorrer. Marirrosi tiene trabajo y casa\, pero vive en l
+ a más completa soledad. Soledad que comparten tres hombres de Santa Eulal
+ ia. Una caravana de mujeres fuerza el encuentro de todos ellos.\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ich Gelobe
+DTSTART;VALUE=DATE-TIME:20060201T200000
+DTEND;VALUE=DATE-TIME:20060201T215500
+UID:0602010020_2_dore
+DESCRIPTION:Sala 2 - Ich Gelobe (Wolfgang Murnberger\, 1994). Int.: Christ
+ oph Dostal\, Andreas Simma\, Andreas Lust. Austria. VOSE*. 115'\nEn un peq
+ ueño cuartel al Este de Austria\, un recluta hace su servicio militar mie
+ ntras se escapa en cuanto puede a su mundo de fantasía. Segunda proyecci
+ ón día 4.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
+ ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26
+ .pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Do The Right Thing
+DTSTART;VALUE=DATE-TIME:20060201T220000
+DTEND;VALUE=DATE-TIME:20060202T000000
+UID:0602010022_1_dore
+DESCRIPTION:Sala 1 - Do The Right Thing (Haz lo que debas\, Spike Lee\, 19
+ 88). Int.: John Turturro\, Spike Lee\, Ossie Davis. EE UU. VOSE. 120'\n“
+ La mejor película de Lee\, relato de un día tórrido en una manzana de B
+ rooklyn\, cuanndo una serie de tropiezos e incidentes nimios conducen a un
+ a explosión de violencia racial” (Jonathan Rosenbaum).\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le notti bianche
+DTSTART;VALUE=DATE-TIME:20060202T173000
+DTEND;VALUE=DATE-TIME:20060202T190400
+UID:0602023017_1_dore
+DESCRIPTION:Sala 1 - Le notti bianche (Noches blancas\, Luchino Visconti\,
+  1957). Int.: Marcello Mastroianni\, Maria Schell\, Clara Calamai. Italia.
+  VOSE*. 94'\nAdaptación de la novela de Dostoievski. “Visconti consigue
+  crear de manera artificial un clima extraño\, de una infinita suavidad y
+  ternura que se esfuma en un desenlace especialmente cruel” (Jean Tulard
+ ).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
+ areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorias de un paisaje
+DTSTART;VALUE=DATE-TIME:20060202T193000
+DTEND;VALUE=DATE-TIME:20060202T220000
+UID:0602023019_1_dore
+DESCRIPTION:Sala 1 - Memorias de un paisaje (José Luis Guerín\, 1979). 1
+ 7’. En construcción (José Luis Guerín\, 2000). Int.: Juana Rodríguez
+ \, Iván Guzmán\, Juan López López. España. 133'. Total programa: 150
+ ’\nCosas vistas y oidas durante la construcción de un nuevo inmueble en
+  "el Chino"\, un barrio popular de la ciudad\, que nace y muere con el sig
+ lo.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jenseits des Kriegens
+DTSTART;VALUE=DATE-TIME:20060202T200000
+DTEND;VALUE=DATE-TIME:20060202T215700
+UID:0602020020_2_dore
+DESCRIPTION:Sala 2 - Jenseits des Kriegens (Al Este de la guerra\, Ruth Be
+ ckermann\, 1996). Documental. Austria. VOSE*. 117'\nTestimonios de antiguo
+ s soldados de la Wehrmacht con motivo de una exposición itinerante sobre 
+ los crímenes de la Segunda Guerra Mundial. Segunda proyección día 5.\n\
+ n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
+ -cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Great Day in the Morning
+DTSTART;VALUE=DATE-TIME:20060202T222000
+DTEND;VALUE=DATE-TIME:20060202T235200
+UID:0602022022_1_dore
+DESCRIPTION:Sala 1 - Great Day in the Morning (Una pistola al amanecer\, J
+ acques Tourneur\, 1956). Int.: Virginia Mayo\, Robert Stack\, Ruth Roman. 
+ EE UU. VOSE*. 92'\nEn vísperas de la Guerra de Secesión\, un oficial con
+ federado debe desviar y apoderarse de un cargamento de oro. En su misión 
+ se cruzan dos mujeres. Segunda proyección día 5.\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robinson Crusoe / The Adventures of Robinson Crusoe
+DTSTART;VALUE=DATE-TIME:20060203T173000
+DTEND;VALUE=DATE-TIME:20060203T190800
+UID:0602033017_1_dore
+DESCRIPTION:Sala 1 - Robinson Crusoe / The Adventures of Robinson Crusoe (
+ Luis Buñuel\, 1952). Int.: Dan O'Herlihy\, Jaime Fernández\, Felipe de A
+ lba. México / EE UU. VOSE*. 98'\n“Sobre un tema clásico\, Buñuel hace
+  una ampia reflexión sobre el silencio de Dios y la fraternidad humana. A
+ ñade también unos toques de sexualidad. El Pathécolor crea un clima a m
+ enudo onírico” (Jean Tulard).\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nordrand
+DTSTART;VALUE=DATE-TIME:20060203T193000
+DTEND;VALUE=DATE-TIME:20060203T210500
+UID:0602033019_1_dore
+DESCRIPTION:Sala 1 - Nordrand (Barbara Albert\, 1999). Int.: Nina Proll\, 
+ Edita Malovcic\, Michael Tanczos. Austria. VOSE*. 95'\nLa vida cotidiana d
+ e unos jóvenes en los suburbios de Viena conforma un retrato multirracial
+  de la sociedad austriaca contemporánea. Presentación a cargo de Alexand
+ er Horwarth\, director del Oesterreichisches Filmmuseum. Segunda proyecci
+ ón día 5.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
+ ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26
+ .pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sirenas
+DTSTART;VALUE=DATE-TIME:20060203T200000
+DTEND;VALUE=DATE-TIME:20060203T215500
+UID:0602030020_2_dore
+DESCRIPTION:Sala 2 - Sirenas (Fernando León de Aranoa\, 1994). 15’. Pí
+ dele cuentas al rey (José Antonio Quirós\, 2001). Int.: Antonio Resines\
+ , Adriana Ozores\, Manuel Alexandre. España. 100'. Total programa: 115'\n
+ Fidel\, un minero asturiano\, tras el cierre de la mina\, decide ir camina
+ ndo hasta Madrid para pedir cuentas al Rey de por qué no se cumple la Con
+ stitución\, en concreto el artículo que señala que todos los españoles
+  tienen derecho a un trabajo digno.\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Copy Shop
+DTSTART;VALUE=DATE-TIME:20060203T220000
+DTEND;VALUE=DATE-TIME:20060203T233800
+UID:0602030022_1_dore
+DESCRIPTION:Sala 1 - Copy Shop (Virgil Widrich\, 2001). 12'. Heimkehr der 
+ Jäger (Michael Kreihsl\, 2000). Int.: Ulrich Tukur\, Julia Filimonow\, Jo
+ hannes Silberschneider. 86'. Austria. VOSE*. Total programa: 98'\nHeim...:
+  Franz se dedica a copiar cuadros de maestros antiguos y poco a poco pierd
+ e el sentido de la realidad\, sufre angustias imaginarias y se encamina a 
+ la autodestrucción. Segunda proyección día 7.\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amores que matan
+DTSTART;VALUE=DATE-TIME:20060204T173000
+DTEND;VALUE=DATE-TIME:20060204T191600
+UID:0602043017_1_dore
+DESCRIPTION:Sala 1 - Amores que matan (Icíar Bollaín\, 2000). 20’. Leo
+  (José Luis Borau\, 2000). Int.: Icíar Bollaín\, Javier Batanero\, Vale
+ ry Jlevinski. España. 86'. Total programa: 106'\nSalva trabaja como vigil
+ ante nocturno en uno de los mayores polígonos industriales de Madrid. All
+ í conoce en circunstancias extrañas a Leo\, una chica que se gana la vid
+ a recogiendo cartones.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
+ rograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Granturismo
+DTSTART;VALUE=DATE-TIME:20060204T194500
+DTEND;VALUE=DATE-TIME:20060204T221000
+UID:0602044519_1_dore
+DESCRIPTION:Sala 1 - Granturismo (Günther & Loredana Selichar)\, 2001). 5
+ '. Traxdata (Jürgen Moritz y Norbert Pfaffenbichler\, 1998). 4'. Trans (M
+ ichaela Grill\, 2003). 9'. Mobile V (reMI\, 2000). 3'. Solo mit Choir (Kar
+ ø Goldt\, 2004). 6'. 2:20 (Billy Roisz\, 2003). 4'. R4 (Michaela Schwentn
+ er\, 2000). 7'. The Cinemascope Trilogy (Peter Tscherkassky): L'Arrivée (
+ 1997-8). 2'. Outer Space (1999). 10'. Dream Work (2001). 11'\nPausa de 15 
+ minutos. Film Spricht viele Sprachen (Gustav Deutsch\, 1995). 1'. Preservi
+ ng Cultural Traditions in a Period of Instability (John y Henry Ford\, 200
+ 4). 3'. Korridor (Dietman Brehm\, 1998). 18'. Instructions for a Light and
+  Sound Machine (Peter Tscherkavssky\, 2005). 17'. Alone (Martin Arnold\, 1
+ 998). 16'. Racine1 (Dietmar Brehm\, 1999). 8'. Total programa: 145'\nPrese
+ ntación a cargo de Alexander Horwarth. Segunda proyección día 17.\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Devil and Daniel Webster
+DTSTART;VALUE=DATE-TIME:20060204T200000
+DTEND;VALUE=DATE-TIME:20060204T214400
+UID:0602040020_2_dore
+DESCRIPTION:Sala 2 - The Devil and Daniel Webster (El hombre que vendió s
+ u alma\, William Dieterle\, 1941). Int.: Walter Huston\, Simone Simon\, Ed
+ ward Arnold. EE UU. VOSE*. 104'\nAdaptación de un conocido relato de Step
+ hen Vincent Benet en el que la disputa por el alma de un granjero sirve pa
+ ra hacer un balance de la historia americana y un alegato por la intervenc
+ ión en la lucha antifascista.\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ich Gelobe
+DTSTART;VALUE=DATE-TIME:20060204T221500
+DTEND;VALUE=DATE-TIME:20060205T001000
+UID:0602041522_2_dore
+DESCRIPTION:Sala 2 - Ich Gelobe (Wolfgang Murnberger\, 1994). Int.: Christ
+ oph Dostal\, Andreas Simma\, Andreas Lust. Austria. VOSE*. 115'\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Great Day in the Morning
+DTSTART;VALUE=DATE-TIME:20060205T173000
+DTEND;VALUE=DATE-TIME:20060205T190200
+UID:0602053017_1_dore
+DESCRIPTION:Sala 1 - Great Day in the Morning (Una pistola al amanecer\, J
+ acques Tourneur\, 1956). Int.: Virginia Mayo\, Robert Stack\, Ruth Roman. 
+ EE UU. VOSE*. 92'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
+ d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Progra
+ Dore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Some Call It Loving / Sleeping Beauty
+DTSTART;VALUE=DATE-TIME:20060205T193000
+DTEND;VALUE=DATE-TIME:20060205T211300
+UID:0602053019_1_dore
+DESCRIPTION:Sala 1 - Some Call It Loving / Sleeping Beauty (La bella durmi
+ ente\, James B. Harris\, 1973). Int.:\nZalman King\, Carol White\, Richard
+  Pryor. EE UU. VOSE. 103'\nVariación contemporánea sobre la fábula de L
+ a bella durmiente. Un hombre compra a una mujer dormida a los dueños de u
+ na feria ambulante. Cuando la despierta descubre que ella no comparte su v
+ isión idealista del amor.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 06/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jenseits des Kriegens
+DTSTART;VALUE=DATE-TIME:20060205T200000
+DTEND;VALUE=DATE-TIME:20060205T215700
+UID:0602050020_2_dore
+DESCRIPTION:Sala 2 - Jenseits des Kriegens (Al Este de la guerra\, Ruth Be
+ ckermann\, 1996). Documental. Austria. VOSE*. 117'\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nordrand
+DTSTART;VALUE=DATE-TIME:20060205T221500
+DTEND;VALUE=DATE-TIME:20060205T235000
+UID:0602051522_1_dore
+DESCRIPTION:Sala 1 - Nordrand (Barbara Albert\, 1999). Int.: Nina Proll\, 
+ Edita Malovcic\, Michael Tanczos. Austria.\nVOSE*. 95'\n\n\nFuente: http:/
+ /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
+ fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Copy Shop
+DTSTART;VALUE=DATE-TIME:20060207T173000
+DTEND;VALUE=DATE-TIME:20060207T190800
+UID:0602073017_1_dore
+DESCRIPTION:Sala 1 - Copy Shop (Virgil Widrich\, 2001). 12'. Heimkehr der 
+ Jäger (Michael Kreihsl\, 2000). Int.: Ulrich Tukur\, Julia Filimonow\, Jo
+ hannes Silberschneider. 86'. Austria. VOSE*. Total programa: 98'\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caught
+DTSTART;VALUE=DATE-TIME:20060207T193000
+DTEND;VALUE=DATE-TIME:20060207T205700
+UID:0602073019_1_dore
+DESCRIPTION:Sala 1 - Caught (Atrapados\, Max Ophuls\, 1943). Int.: Barbara
+  Bel Geddes\, Robert Ryan. James Mason.\nEE UU. VOSE*. 87'\n“Como Almas 
+ desnudas\, se trata de una casi obra maestra del melodrama negro\, el gén
+ ero que mejor expresa la vida domestica americana de finales de los cuaren
+ ta. Habla de amor pero se centra en las ambiciones mórbidas y la ilusión
+  de la ascensión social de la sociedad de posguerra” (Pacific Film Arch
+ ive).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El reino de Víctor
+DTSTART;VALUE=DATE-TIME:20060207T200000
+DTEND;VALUE=DATE-TIME:20060207T222000
+UID:0602070020_2_dore
+DESCRIPTION:Sala 2 - El reino de Víctor (Juanma Bajo Ulloa\, 1989). 35’
+ . El viaje de Arián (Eduard Bosch\, 2000). Int.: Ingrid Rubio\, Abel Folk
+ \, Txema Blasco. España. 105'. Total programa: 140'\nA través de Vivaldi
+ \, un terrorista obsesionado por la música clásica\, del que está enamo
+ rada\, Arián\, una joven radical\, comienza a integrarse en ETA realizand
+ o tareas de información.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/200
+ 6/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Crucible
+DTSTART;VALUE=DATE-TIME:20060207T220000
+DTEND;VALUE=DATE-TIME:20060208T000400
+UID:0602070022_1_dore
+DESCRIPTION:Sala 1 - The Crucible (El crisol\, Nicholas Hytner\, 1996). In
+ t.: Daniel Day Lewis\, Winona Ryder\, Joan Allen. EE UU. VOSE. 124'\nAdapt
+ ación de la obra teatral de Arthur Miller\, con guión del escritor\, que
+ \, a partir de un relato histórico sobre los puritanos de Nueva Inglaterr
+ a\, denuncia los estragos del fanatismo y la intolerancia.\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
+ /mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Überfall
+DTSTART;VALUE=DATE-TIME:20060208T173000
+DTEND;VALUE=DATE-TIME:20060208T185400
+UID:0602083017_1_dore
+DESCRIPTION:Sala 1 - Der Überfall (Florian Flickere\, 2000). Int.: Roland
+  Düringer\, Josef Hader\, Joachim Bißmeier. Austria. VOSE*. 84'\nUn para
+ do que trata de atracar un supermercado acaba secuestrando en su tienda a 
+ un sastre y su cliente. Entre los tres se establecerá una compleja relaci
+ ón. Segunda proyección día 11.\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stromboli\, terra di Dio
+DTSTART;VALUE=DATE-TIME:20060208T193000
+DTEND;VALUE=DATE-TIME:20060208T211700
+UID:0602083019_1_dore
+DESCRIPTION:Sala 1 - Stromboli\, terra di Dio (Roberto Rossellini\, 1949).
+  Int.: Ingrid Bergman\, Mario Vitale\, Renzo Cesana. Italia. VOISE*. 107'\
+ n“Es como si el cine de Rossellini\, hasta Stromboli\, esperara\, sin sa
+ berlo\, la llegada imprevisible de Ingrid Bergman para llegar al límite d
+ e ese descubrimiento del cine moderno como cine de lo heterogéneo” (Ala
+ in Bergala).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore2
+ 6.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No disponible
+DTSTART;VALUE=DATE-TIME:20060208T200000
+DTEND;VALUE=DATE-TIME:20060208T213800
+UID:0602080020_2_dore
+DESCRIPTION:Sala 2 - No disponible (Pedro Mario Herrero\, 1969). Int.: Alf
+ redo Landa\, Analía Gadé\, Carmen Lozano. España. 98'\nPara apartar de 
+ la bebida a su boxeador\, el entrenador le presenta a una hermosa mujer oc
+ ultándole que es prostituta.\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Frucht deines Leibes
+DTSTART;VALUE=DATE-TIME:20060208T220000
+DTEND;VALUE=DATE-TIME:20060208T234800
+UID:0602080022_1_dore
+DESCRIPTION:Sala 1 - Die Frucht deines Leibes (Barbara Albert\, 1996). 28'
+ . Lovely Rita (Jessica Hausner\, 2001). Int.: Barbara Osika\, Wolfgang Kos
+ tal\, Karina Brandlmayr\, Peter Flaia. 80'. Austria. VOSE*. Total programa
+ : 108'\nLovely...: Rita\, una adolescente solitaria\, se siente desplazada
+ \, tanto dentro de su familia como en el colegio. Segunda proyección día
+  10.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
+ d/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viaggio in Italia
+DTSTART;VALUE=DATE-TIME:20060209T173000
+DTEND;VALUE=DATE-TIME:20060209T185600
+UID:0602093017_1_dore
+DESCRIPTION:Sala 1 - Viaggio in Italia (Te querré siempre\, Roberto Rosse
+ llini\, 1953). Int.: Ingrid Bergman\, George Sanders\, Marie Mauban. Itali
+ a. VOISE*. 86'\n“Es una pareja cuyo matrimonio es realmente una asociaci
+ ón de negocios: han formado una sociedad. En el momento en que vienen a I
+ talia de vacaciones (…) se encuentran solos\, el uno frente el otro y de
+ scubren que no se aman” (Roberto Rossellini).\n\n\nFuente: http://www.me
+ cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
+ -dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtudes Bastián
+DTSTART;VALUE=DATE-TIME:20060209T193000
+DTEND;VALUE=DATE-TIME:20060209T205600
+UID:0602093019_1_dore
+DESCRIPTION:Sala 1 - Virtudes Bastián (Francisco Avizanda\, 1986). 16’.
+  Sé quién eres (Patricia Ferreira\, 2000). Int.: Ana Fernández\, Miguel
+  Ángel Solá\, Roberto Enríquez. España. 107'. Total programa:123' Una 
+ joven psiquiatra se siente atraída por un enfermo con el síndrome de Kor
+ sakov\, que le impide recordar los acontecimientos recientes. La doctora d
+ escubre que su paciente estuvo relacionado con la guerra sucia durante la 
+ Transición española\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Pr
+ ograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsewhere
+DTSTART;VALUE=DATE-TIME:20060209T200000
+DTEND;VALUE=DATE-TIME:20060210T000000
+UID:0602090020_2_dore
+DESCRIPTION:Sala 2 - Elsewhere (Nikolaus Geyrhalter\, 2001). Documental. A
+ ustria. VOSE*. 240'\nEl año 2000 en cualquier parte. 12 meses. 12 episodi
+ os en sitios distintos y con gente de diferentes culturas. Segunda proyecc
+ ión día 12.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
+ ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore
+ 26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Angst essen Seele auf
+DTSTART;VALUE=DATE-TIME:20060209T220000
+DTEND;VALUE=DATE-TIME:20060209T233300
+UID:0602090022_1_dore
+DESCRIPTION:Sala 1 - Die Angst essen Seele auf (Todos nos llamamos Alí\, 
+ Rainer Werner Fassbinder\, 1973). Int.: Brigitte Mira\, El Hedi ben Salem\
+ , Barbara Valentin. Alemania. VOSE. 93'\nLa historia de amor entre una muj
+ er sexagenaria y un joven emigrante marroquí\, homenaje y adaptación con
+ temporánea de Sólo el cielo lo sabe\, de Douglas Sirk. Segunda proyecci
+ ón día 12.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore2
+ 6.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Birds
+DTSTART;VALUE=DATE-TIME:20060210T173000
+DTEND;VALUE=DATE-TIME:20060210T192800
+UID:0602103017_1_dore
+DESCRIPTION:Sala 1 - The Birds (Los pájaros\, Alfred Hitchcock\, 1963). I
+ nt.: Tippi Hedren\, Rod Steiger\, Jessica Tandy. EE UU. VOSE. 118'\n“La 
+ única incursión de Hitchcock en el fantástico puro y su película más 
+ angustiosa\, en tanto su premisa es irracional. Al mismo tiempo la obra de
+  un moralista implacable y de un técnico en la cima de su maestría. Auda
+ cias técnicas para convertir la crítica social en una reflexión metafí
+ sica” (Joël Magny).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
+ rograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Frucht deines Leibes
+DTSTART;VALUE=DATE-TIME:20060210T195000
+DTEND;VALUE=DATE-TIME:20060210T213800
+UID:0602105019_1_dore
+DESCRIPTION:Sala 1 - Die Frucht deines Leibes (Barbara Albert\, 1996). 28'
+ . Lovely Rita (Jessica Hausner\, 2001). Int.: Barbara Osika\, Wolfgang Kos
+ tal\, Karina Brandlmayr\, Peter Flaia. 80'. Austria. VOSE*. Total programa
+ : 108'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
+ ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dispatch from Reuters
+DTSTART;VALUE=DATE-TIME:20060210T200000
+DTEND;VALUE=DATE-TIME:20060210T212900
+UID:0602100020_2_dore
+DESCRIPTION:Sala 2 - Dispatch from Reuters (William Dieterle\, 1940). Int.
+ : Edward G. Robinson\, Edna Best\, Eddie\nAlbert. EE UU. VOSE*. 89'\nBiogr
+ afía de Paul Julius Reuter\, el fundador de la agencia internacional de n
+ oticias\, que empezó empleando palomas mensajeras para transmitir la info
+ rmación.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.p
+ df
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sin libertad
+DTSTART;VALUE=DATE-TIME:20060210T220000
+DTEND;VALUE=DATE-TIME:20060210T235200
+UID:0602100022_1_dore
+DESCRIPTION:Sala 1 - Sin libertad (Iñaki Arteta\, 2001). 30’. Asesinato
+  en febrero (Eterio Ortega\, 2001). Documental. España. 82'. Total progra
+ ma: 112'\nDocudrama inspirado en el asesinato del parlamentario vasco soci
+ alista Fernando Buesa y de su escolta Jorge Díaz.\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One\, Two\, Three
+DTSTART;VALUE=DATE-TIME:20060211T173000
+DTEND;VALUE=DATE-TIME:20060211T191400
+UID:0602113017_1_dore
+DESCRIPTION:Sala 1 - One\, Two\, Three (Un\, dos tres\, Billy Wilder\, 196
+ 1). Int.: James Cagney\, Horst Buchholz\, Pamela Tiffin. EE UU. VOSE. 104'
+ \nLa hija del dueño de Coca Cola\, de vacaciones de Berlín\, se casa en 
+ secreto con un joven comunista del Este ante la desesperación del directo
+ r comercial de la empresa\, encargado de vigilarla.\n\n\nFuente: http://ww
+ w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
+ cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Mirror of Maya Deren
+DTSTART;VALUE=DATE-TIME:20060211T193000
+DTEND;VALUE=DATE-TIME:20060211T210000
+UID:0602113019_1_dore
+DESCRIPTION:Sala 1 - In the Mirror of Maya Deren (Martina Kudlacek\, 2001)
+ . Documental. Austria. VOSE*. 90'\nUn retrato de la cineasta y experta en 
+ vudú Maya Deren. Segunda proyección día 14.\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Incident
+DTSTART;VALUE=DATE-TIME:20060211T200000
+DTEND;VALUE=DATE-TIME:20060211T213800
+UID:0602110020_2_dore
+DESCRIPTION:Sala 2 - The Incident (El incidente\, Larry Peerce\, 1967). In
+ t.: Victor Arnold\, Robert Bannard\, Brock Peters. EE UU. VOSE. 98'\nDos j
+ óvenes delincuentes secuestran a los viajeros de un vagón de metro de Nu
+ eva York.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.p
+ df
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Überfall
+DTSTART;VALUE=DATE-TIME:20060211T220000
+DTEND;VALUE=DATE-TIME:20060211T232400
+UID:0602110022_1_dore
+DESCRIPTION:Sala 1 - Der Überfall (Florian Flickere\, 2000). Int.: Roland
+  Düringer\, Josef Hader\, Joachim Bißmeier. Austria. VOSE*. 84'\n\n\nFue
+ nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
+ ra/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Angst essen Seele auf
+DTSTART;VALUE=DATE-TIME:20060212T173000
+DTEND;VALUE=DATE-TIME:20060212T190300
+UID:0602123017_1_dore
+DESCRIPTION:Sala 1 - Die Angst essen Seele auf (Todos nos llamamos Alí\, 
+ Rainer Werner Fassbinder\, 1973). Int.: Brigitte Mira\, El Hedi ben Salem\
+ , Barbara Valentin.Alemania. VOSE. 93'\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsewhere
+DTSTART;VALUE=DATE-TIME:20060212T190000
+DTEND;VALUE=DATE-TIME:20060212T230000
+UID:0602120019_2_dore
+DESCRIPTION:Sala 2 - Elsewhere (Nikolaus Geyrhalter\, 2001). Documental. A
+ ustria. VOSE*. 240'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
+ ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Prog
+ raDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Allanamiento de morada
+DTSTART;VALUE=DATE-TIME:20060212T193000
+DTEND;VALUE=DATE-TIME:20060212T233000
+UID:0602123019_1_dore
+DESCRIPTION:Sala 1 - Allanamiento de morada (Mateo Gil\, 1998). 17’. La 
+ caja 507 (Enrique Urbizu\, 2002). Int.:\nAntonio Resines\, José Coronado\
+ , Goya Toledo. España. 108'. Total programa:125' Unos atracadores revient
+ an las cajas de seguridad de un banco y dejan encerrado en él a Modesto\,
+  el honrado director de la sucursal. Unos papeles de la caja 507 le hacen 
+ ver que la muerte de su hija\, acaecida hace años\, fue consecuencia de u
+ na turbia trama inmobiliaria\,\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presumed Innocent
+DTSTART;VALUE=DATE-TIME:20060212T220000
+DTEND;VALUE=DATE-TIME:20060213T000500
+UID:0602120022_1_dore
+DESCRIPTION:Sala 1 - Presumed Innocent (Presunto inocente\, Alan J. Pakula
+ \, 1990). Int.: Harrison Ford\, Greta Scacchi\, John Spencer. EE UU. VOSE.
+  125'\nAdaptación de un best seller de Scott Turow sobre un hombre acusad
+ o del asesinato de una compañera de trabajo con la que mantenía relacion
+ es.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recursos humanos
+DTSTART;VALUE=DATE-TIME:20060214T173000
+DTEND;VALUE=DATE-TIME:20060214T193900
+UID:0602143017_1_dore
+DESCRIPTION:Sala 1 - Recursos humanos (José Javier Rodríguez\, 2004). 16
+ ’. Los lunes al sol (Fernando León de Aranoa\, 2002). Int.: Javier Bard
+ em\, Luis Tosar\, Celso Bugallo. España. 113'. Total programa: 129'\n“Q
+ uería ver qué pasa cuando se cierran las puertas de las casas de los par
+ ados\, cuando baja la autoestima. En resumen\, qué pasa dentro de las per
+ sonas\, cómo se lleva eso. Fijándome en el aspecto humano y no en el pol
+ ítico" (Fernando León de Aranoa).\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Dad Is 100 Years Old
+DTSTART;VALUE=DATE-TIME:20060214T200000
+DTEND;VALUE=DATE-TIME:20060214T213700
+UID:0602140020_1_dore
+DESCRIPTION:Sala 1 - My Dad Is 100 Years Old (Guy Maddin\, 2005). Vídeo. 
+ 17'. La macchina ammazzacattivi (Roberto Rossellini\, 1948). Int.: Gennaro
+  Pisano\, Giovanni Amato\, William Tubbs. Italia. VOSI/E*. 80'\nTotal prog
+ rama: 97'\nMy Dad…: Cortometraje escrito e interpretado en todos sus pap
+ eles por Isabella Rossellini\, un recuerdo de la figura de sus padres y un
+ a reflexión sobre el destino de su obra. Macchina…: La aproximación de
+  Rossellini a la comedia del arte. Una fábula sobre la desconfianza en el
+  poder de la cámara (o del cine) para reproducir la vida. Con la presenci
+ a de Isabella Rossellini.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/200
+ 6/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johnny O'Clock
+DTSTART;VALUE=DATE-TIME:20060214T201000
+DTEND;VALUE=DATE-TIME:20060214T214500
+UID:0602141020_2_dore
+DESCRIPTION:Sala 2 - Johnny O'Clock (Robert Rossen\, 1946). Int.: Dick Pow
+ ell\, Evelyn Keyes\, Lee J. Cobb. EE UU.VOSE*. 95'\nEl encargado de un loc
+ al de juego se ve envuelto en las intrigas y luchas de poder entre los jef
+ es de la mafia local y la corrupción policial. Segunda proyección día 2
+ 3.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
+ areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Mirror of Maya Deren
+DTSTART;VALUE=DATE-TIME:20060214T222000
+DTEND;VALUE=DATE-TIME:20060214T235000
+UID:0602142022_2_dore
+DESCRIPTION:Sala 2 - In the Mirror of Maya Deren (Martina Kudlacek\, 2001)
+ . Documental. Austria. VOSE*. 90'\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Men
+DTSTART;VALUE=DATE-TIME:20060215T173000
+DTEND;VALUE=DATE-TIME:20060215T185500
+UID:0602153017_1_dore
+DESCRIPTION:Sala 1 - The Men (Hombres\, Fred Zinnemann\, 1950). Int.: Marl
+ on Brando\, Teresa Wright\, Everett Sloane. EE UU. VOSE. 85'\nUn grupo de 
+ soldados\, internados en un hospital\, se enfrenta a las secuelas físicas
+  y psicológicas de sus heridas y trata de reajustarse a la vida civil.\n\
+ n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
+ -cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hundstage
+DTSTART;VALUE=DATE-TIME:20060215T193000
+DTEND;VALUE=DATE-TIME:20060215T213100
+UID:0602153019_1_dore
+DESCRIPTION:Sala 1 - Hundstage (Ulrich Seidl\, 2001). Int.: Alfred Mrva\, 
+ Maria Hofstätter\, Georg Friedrich. Austria. VOSE*. 121'\nSeis historias 
+ cruzadas que desenredan fragmentos de la vida ordinaria de Jo\, a lo largo
+  de un fin de semana tan catastrófico como de costumbre. Segunda proyecci
+ ón día 18.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore2
+ 6.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Body and Soul
+DTSTART;VALUE=DATE-TIME:20060215T200000
+DTEND;VALUE=DATE-TIME:20060215T214400
+UID:0602150020_2_dore
+DESCRIPTION:Sala 2 - Body and Soul (Cuerpo y alma\, Robert Rossen\, 1947).
+  Int.: John Garfield\, Lili Palmer\, Anne Revere. EE UU. VOSE*. 104'\nÁvi
+ do de riqueza y fama\, un joven boxeador se asocia con un agente sin escr
+ úpulos y triunfa poco a poco\, incluso a costa de peleas trucadas. Segund
+ a proyección día 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
+ rograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Positivo
+DTSTART;VALUE=DATE-TIME:20060215T220000
+DTEND;VALUE=DATE-TIME:20060216T000100
+UID:0602150022_1_dore
+DESCRIPTION:Sala 1 - Positivo (Pilar García Elegido\, 1999). 30’. El ef
+ ecto Iguazú (Pere Joan Ventura\, 2002). Documental. España. 91'. Total p
+ rograma: 121'\nEn enero de 2001\, los trabajadores en paro de Sintel acamp
+ aron en la Castellana de Madrid. Se quedaron 187 días. En agosto firmaron
+  un acuerdo y levantaron sus tiendas.\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Höhenrausch
+DTSTART;VALUE=DATE-TIME:20060216T173000
+DTEND;VALUE=DATE-TIME:20060216T192800
+UID:0602163017_1_dore
+DESCRIPTION:Sala 1 - Höhenrausch (Siegfried A. Fruhauf\, 1999). 4'. Landl
+ eben (Christian Berger\, 1995). 18'. Vollgas (Sabine Derflinger\, 2002). I
+ nt.: Henriette Heinze\, Philomena Wolflingseder\, Carmen Gratl. 96'. Austr
+ ia. VOSE*. Total programa: 118'\nVollgas: Una madre soltera\, camarera en 
+ un complejo turístico de la montaña\, desbordada por su vida\, su trabaj
+ o y su necesidad de divertirse\, cae en el alcoholismo. Segunda proyecció
+ n día 18.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.
+ pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All the King's Men
+DTSTART;VALUE=DATE-TIME:20060216T195000
+DTEND;VALUE=DATE-TIME:20060216T213900
+UID:0602165019_1_dore
+DESCRIPTION:Sala 1 - All the King's Men (El político\, Robert Rossen\, 19
+ 49). Int.: Broderick Crawford\, John Ireland\, Joanne Dru. EE UU. VOSE. 10
+ 9'\nEn una ciudad del Sur\, un empleado se mete en política para luchar c
+ ontra la corrupción. Su irresistible ascensión le instala a su vez en el
+  chantaje y la violencia antes de ser derribado. Mesa redonda organizada p
+ or el Dpto de Filosofía Jurídica de la UNED\, con la participación de J
+ osé Luis García Sánchez\, Carlos F. Heredero y Juan Antonio Gómez. Seg
+ unda proyección 18.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Pro
+ graDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Effroyables Jardins
+DTSTART;VALUE=DATE-TIME:20060216T200000
+DTEND;VALUE=DATE-TIME:20060216T213500
+UID:0602160020_2_dore
+DESCRIPTION:Sala 2 - Effroyables Jardins (Jean Becker\, 2003). Int.: Jacqu
+ es Villeret\, André Dussollier\, Suzanne Flon. Francia. VOSE*. 95'\nUn ad
+ olescente que se avergüenza de la afición de su padre a hacer el payaso 
+ descubre el pasado heroico de éste y sus amigos durante la Ocupación ale
+ mana. Segunda proyección día 21.\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hola mamá
+DTSTART;VALUE=DATE-TIME:20060216T220000
+DTEND;VALUE=DATE-TIME:20060216T234100
+UID:0602160022_2_dore
+DESCRIPTION:Sala 2 - Hola mamá (Pablo Fernández\, 1997). 11’. Los abaj
+ o firmantes (Joaquín Oristrell\, 2003). Int.: Javier Cámara\, Juan Diego
+  Botto\, Elvira Mínguez. España. 90'. Total programa: 101'\nUna compañ
+ ía teatral en crisis de gira con una obra de Lorca\, se divide aún más 
+ cuando uno de los actores propone manifestarse públicamente contra la gue
+ rra de Irak.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore2
+ 6.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La sorpresita
+DTSTART;VALUE=DATE-TIME:20060217T173000
+DTEND;VALUE=DATE-TIME:20060217T192700
+UID:0602173017_1_dore
+DESCRIPTION:Sala 1 - La sorpresita (Javier Fesser\, 2001). 2’. La pelota
+  vasca (Julio Medem\, 2003). Documental. España. 115'. Total programa: 11
+ 7'\nEntre-vistas a casi setenta personas sobre el conflicto vasco. La inte
+ nción es la de ofrecer\, desde su diversidad\, un retrato de los múltipl
+ es aspectos de un viejo problema.\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosa Coeli
+DTSTART;VALUE=DATE-TIME:20060217T195000
+DTEND;VALUE=DATE-TIME:20060217T211900
+UID:0602175019_1_dore
+DESCRIPTION:Sala 1 - Rosa Coeli (Josef Dabernig\, 2003). VOSE*. 24'. Mein 
+ Stern (Valeska Grisebach\, 2001). Int.: Nicole Gläser\, Christopher Schö
+ ps\, Tina Sanoker. VOSE. 65'. Austria. Total programa: 89'\nMein…: La hi
+ storia de amor de dos adolescentes que se enfrentan a sus sentimientos con
+  la seriedad de los niños y la libertad de los adultos. Segunda proyecci
+ ón día 19.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore2
+ 6.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brave Bulls
+DTSTART;VALUE=DATE-TIME:20060217T200000
+DTEND;VALUE=DATE-TIME:20060217T214400
+UID:0602170020_2_dore
+DESCRIPTION:Sala 2 - The Brave Bulls (Robert Rossen\, 1951). Int.: Mel Fer
+ rer\, Miroslava Stern\, Anthony Quinn. EE UU. VOSE*. 104'\n“Comparte con
+  Cuerpo y alma el problema de la dignidad\, la atracción del dinero y del
+  reconocimiento social que lleva a un hombre a sus límites” (Jean Tular
+ d).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Granturismo
+DTSTART;VALUE=DATE-TIME:20060217T220000
+DTEND;VALUE=DATE-TIME:20060218T002500
+UID:0602170022_1_dore
+DESCRIPTION:Sala 1 - Granturismo (Günther & Loredana Selichar)\, 2001). 5
+ '. Traxdata (Jürgen Moritz y Norbert Pfaffenbichler\, 1998). 4'. Trans (M
+ ichaela Grill\, 2003). 9'. Mobile V (reMI\, 2000). 3'. Solo mit Choir (Kar
+ ø Goldt\, 2004). 6'. 2:20 (Billy Roisz\, 2003). 4'. R4 (Michaela Schwentn
+ er\, 2000). 7'. The Cinemascope Trilogy (Peter Tscherkassky): L'Arrivée (
+ 1997-8). 2'. Outer Space (1999). 10'. Dream Work (2001). 11'\nPausa de 15 
+ minutos. Film Spricht viele Sprachen (Gustav Deutsch\, 1995). 1'. Preservi
+ ng Cultural Traditions in a Period of Instability (John y Henry Ford\, 200
+ 4). 3'. Korridor (Dietman Brehm\, 1998). 18'. Instructions for a Light and
+  Sound Machine (Peter Tscherkavssky\, 2005). 17'. Alone (Martin Arnold\, 1
+ 998). 16'. Racine1 (Dietmar Brehm\, 1999). 8'. Total programa: 145'\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All the King's Men
+DTSTART;VALUE=DATE-TIME:20060218T173000
+DTEND;VALUE=DATE-TIME:20060218T191900
+UID:0602183017_1_dore
+DESCRIPTION:Sala 1 - All the King's Men (El político\, Robert Rossen\, 19
+ 49). Int.: Broderick Crawford\, John Ireland\, Joanne Dru. EE UU. VOSE. 10
+ 9'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
+ areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lalia
+DTSTART;VALUE=DATE-TIME:20060218T194000
+DTEND;VALUE=DATE-TIME:20060218T214600
+UID:0602184019_1_dore
+DESCRIPTION:Sala 1 - Lalia (Silvia Munt\, 1999). 14’. Hay motivo (Varios
+  autores\, 2004). Documental. Vídeo.\nEspaña. 112'. Total programa: 126'
+ \n32 pequeñas piezas\, de alrededor de tres minutos de duración\, más u
+ n epílogo. Cada una dirigida por un director distinto y tiene por objeto 
+ denunciar algún aspecto de la realidad política y social española que s
+ e vio especialmente deteriorada durante la Legislatura de 2000 a 2004.\n\n
+ \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
+ cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Höhenrausch
+DTSTART;VALUE=DATE-TIME:20060218T200000
+DTEND;VALUE=DATE-TIME:20060218T215800
+UID:0602180020_2_dore
+DESCRIPTION:Sala 2 - Höhenrausch (Siegfried A. Fruhauf\, 1999). 4'. Landl
+ eben (Christian Berger\, 1995). 18'. Vollgas (Sabine Derflinger\, 2002). I
+ nt.: Henriette Heinze\, Philomena Wolflingseder\, Carmen Gratl. 96'. Austr
+ ia. VOSE*. Total programa: 118'\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hundstage
+DTSTART;VALUE=DATE-TIME:20060218T222000
+DTEND;VALUE=DATE-TIME:20060219T002100
+UID:0602182022_1_dore
+DESCRIPTION:Sala 1 - Hundstage (Ulrich Seidl\, 2001). Int.: Alfred Mrva\, 
+ Maria Hofstätter\, Georg Friedrich. Austria.\nVOSE*. 121'\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
+ /mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosa Coeli
+DTSTART;VALUE=DATE-TIME:20060219T173000
+DTEND;VALUE=DATE-TIME:20060219T185900
+UID:0602193017_1_dore
+DESCRIPTION:Sala 1 - Rosa Coeli (Josef Dabernig\, 2003). VOSE*. 24'. Mein 
+ Stern (Valeska Grisebach\, 2001). Int.: Nicole Gläser\, Christopher Schö
+ ps\, Tina Sanoker. VOSE. 65'. Austria. Total programa: 89'\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
+ /mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Retrato de Teresa
+DTSTART;VALUE=DATE-TIME:20060219T193000
+DTEND;VALUE=DATE-TIME:20060219T211300
+UID:0602193019_1_dore
+DESCRIPTION:Sala 1 - Retrato de Teresa (Pastor Vega\, 1979). Int.: Daisy G
+ ranados\, Adolfo Llaurado\, Alina Sanchez.\nCuba. 103'\n“Más que un fil
+ me de ficción es un documental que muestra la situación actual de la muj
+ er en Cuba\; el código de familia reconoce principios y derechos que en m
+ uchos casos han quedado en el papel\; de ahí que la película nos muestre
+  todo lo que hay que andar todavía” (G. García Márquez).\n\n\nFuente:
+  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
+ ine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Megacities
+DTSTART;VALUE=DATE-TIME:20060219T200000
+DTEND;VALUE=DATE-TIME:20060219T213000
+UID:0602190020_2_dore
+DESCRIPTION:Sala 2 - Megacities (Michael Glawogger\, 1998). Documental. Au
+ stria. VOSE*. 90'\nBombay\, México DF\, Moscú\, Nueva York: monstruos se
+ ductores y repelentes en los que diariamente miles de personas se esfuerza
+ n en sobrevivir con inteligencia\, ingenio y dignidad. Segunda proyección
+  día 21.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.p
+ df
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mambo
+DTSTART;VALUE=DATE-TIME:20060219T220000
+DTEND;VALUE=DATE-TIME:20060219T234500
+UID:0602190022_1_dore
+DESCRIPTION:Sala 1 - Mambo (Mambo\, Robert Rossen\, 1954). Int.: Silvana M
+ angano\, Vittorio Gassman\, Shelley Winters. EE UU / Italia. VOSE*. 105'\n
+ Una joven dependienta veneciana se convierte en una famosa bailarina de ma
+ mbo.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
+ d/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Megacities
+DTSTART;VALUE=DATE-TIME:20060221T173000
+DTEND;VALUE=DATE-TIME:20060221T190000
+UID:0602213017_1_dore
+DESCRIPTION:Sala 1 - Megacities (Michael Glawogger\, 1998). Documental. Au
+ stria. VOSE*. 90'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
+ d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Progra
+ Dore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El columpio
+DTSTART;VALUE=DATE-TIME:20060221T193000
+DTEND;VALUE=DATE-TIME:20060221T210900
+UID:0602213019_1_dore
+DESCRIPTION:Sala 1 - El columpio (Álvaro Fernández Armero\, 1992). 9’.
+  El calentito (Chus Gutiérrez.\, 2004). Int.:\nVerónica Sánchez\, Juan 
+ Sanz\, Macarena Gómez. España. 90'. Total programa: 99'\nEn vísperas de
+ l 23F una chica de buena familia se apunta a un grupo punk para perder la 
+ virginidad.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
+ ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26
+ .pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Effroyables Jardins
+DTSTART;VALUE=DATE-TIME:20060221T200000
+DTEND;VALUE=DATE-TIME:20060221T213500
+UID:0602210020_2_dore
+DESCRIPTION:Sala 2 - Effroyables Jardins (Jean Becker\, 2003). Int.: Jacqu
+ es Villeret\, André Dussollier\, Suzanne Flon. Francia. VOSE*. 95'\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alexander the Great
+DTSTART;VALUE=DATE-TIME:20060221T220000
+DTEND;VALUE=DATE-TIME:20060222T001500
+UID:0602210022_1_dore
+DESCRIPTION:Sala 1 - Alexander the Great (Alejandro el Magno\, Robert Ross
+ en\, 1955). Int.: Richard Burton\,\nFredric March\, Claire Bloom. EE UU / 
+ España. 135'\n“Una épica en Scope más personal e inteligente que otra
+ s muestras del género. El Alejandro de Rossen es una continuación de Hue
+ y Long\, un demagogo en una tambaleante posición de poder” (Dave Kehr).
+  Segunda proyección día 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brigada criminal
+DTSTART;VALUE=DATE-TIME:20060222T173000
+DTEND;VALUE=DATE-TIME:20060222T185400
+UID:0602223017_1_dore
+DESCRIPTION:Sala 1 - Brigada criminal (Ignacio F. Iquino\, 1950). Int.: Jo
+ sé Suárez\, Maruchi Fresno\, Isabel de Castro. España. 84'\nUn agente d
+ e policía recién salido de la academia inicia una investigación sobre u
+ n robo que resulta ser más importante de lo que creía.\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Remains of the Day
+DTSTART;VALUE=DATE-TIME:20060222T193000
+DTEND;VALUE=DATE-TIME:20060222T214400
+UID:0602223019_1_dore
+DESCRIPTION:Sala 1 - The Remains of the Day (Lo que queda del día\, James
+  Ivory\, 1993). Int.: Anthony Hopkins\, Emma Thompson\, Christopher Reeve.
+  EE UU. VOSE. 134'\nSuntuosa y algo sentimentalizada adaptación de la nov
+ ela homónima del japonés Kazuo Ishiguro\, descripción de los ambientes 
+ aristocráticos británicos y su implicación en la ascensión nazi.\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sea Concrete Human
+DTSTART;VALUE=DATE-TIME:20060222T200000
+DTEND;VALUE=DATE-TIME:20060222T214200
+UID:0602220020_2_dore
+DESCRIPTION:Sala 2 - Sea Concrete Human (Michael Palm\, 2001). 29'. Hat Wo
+ lff von amerongen Konkirsdelikte begangen? (Gerhardt Frield\, 2004). 73'. 
+ Austria. VOSE*. Total programa: 102'\nHat...: Una disección irónica de l
+ a corrupción económica alemana. Segunda proyección día 24.\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Island in the Sun
+DTSTART;VALUE=DATE-TIME:20060222T221000
+DTEND;VALUE=DATE-TIME:20060223T000000
+UID:0602221022_1_dore
+DESCRIPTION:Sala 1 - Island in the Sun (La isla del sol\, Robert Rossen\, 
+ 1957). Int.: James Mason\, Harry Belafonte\, Dorothy Dandridge. EE UU. VOS
+ E*. 110'\nHistoria de infidelidades y apasionados romances en una cálida 
+ isla del Caribe que causó el escandalo que buscaba al incluir dos relacio
+ nes interraciales. Segunda proyección día 25.\n\n\nFuente: http://www.me
+ cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
+ -dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anna
+DTSTART;VALUE=DATE-TIME:20060223T173000
+DTEND;VALUE=DATE-TIME:20060223T191800
+UID:0602233017_1_dore
+DESCRIPTION:Sala 1 - Anna (Ana\, Alberto Lattuada\, 1951). Int.: Silvana M
+ angano\, Raf Vallone\, Romolo Valli. Italia. VOSE*. 108'\nCuando Anna\, un
+ a joven enfermera\, se dispone a pronunciar sus votos y entrar en un conve
+ nto se encuentra por azar con un antiguo amor.\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¿Con qué la lavaré?
+DTSTART;VALUE=DATE-TIME:20060223T194000
+DTEND;VALUE=DATE-TIME:20060223T213900
+UID:0602234019_1_dore
+DESCRIPTION:Sala 1 - ¿Con qué la lavaré? (María Trénor\, 2003). 11’
+ . Reinas (Manuel Gómez Pereira\, 2005). Int.: Verónica Forqué\, Carmen 
+ Maura\, Marisa Paredes. España. 108'. Total programa: 119'\nComedia sobre
+  tres parejas de chicos en víspera de sus bodas y sus entrometidas madres
+ \, que no hacen más que entorpecer la situación.\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ägypten
+DTSTART;VALUE=DATE-TIME:20060223T200000
+DTEND;VALUE=DATE-TIME:20060223T214100
+UID:0602230020_2_dore
+DESCRIPTION:Sala 2 - Ägypten (Kathrin Resetaris\, 1997). 10'. Phantom fre
+ ndes Wien (Lisl Ponger\, 2004). 27'. Passagen (Lisl Ponger\, 1996). 12'. D
+ as wirst du nie verstehen (Anja Salomonowitz\, 2993). 52'. Austria. VOSE*.
+  Total programa: 101'\nSegunda proyección día 26.\n\n\nFuente: http://ww
+ w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
+ cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johnny O'Clock
+DTSTART;VALUE=DATE-TIME:20060223T220000
+DTEND;VALUE=DATE-TIME:20060223T233500
+UID:0602230022_1_dore
+DESCRIPTION:Sala 1 - Johnny O'Clock (Robert Rossen\, 1946). Int.: Dick Pow
+ ell\, Evelyn Keyes\, Lee J. Cobb. EE UU.VOSE*. 95'\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:They Came to Cordura
+DTSTART;VALUE=DATE-TIME:20060224T173000
+DTEND;VALUE=DATE-TIME:20060224T193300
+UID:0602243017_1_dore
+DESCRIPTION:Sala 1 - They Came to Cordura (Robert Rossen\, 1959). Int.: Ga
+ ry Cooper\, Rita Hayworth\, Van Heflin. EE UU. VOSE*. 123'\nEl mayor Thorn
+ \, que arrastra una reputación de cobarde\, recibe el encargo de seleccio
+ nar a cinco soldados para ser condecorados y atravesar con ellos el desier
+ to. Por el camino se les une una mujer.\n\n\nFuente: http://www.mecd.gob.e
+ s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
+ ogramacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dichtung und Wahrheit
+DTSTART;VALUE=DATE-TIME:20060224T195000
+DTEND;VALUE=DATE-TIME:20060224T213600
+UID:0602245019_1_dore
+DESCRIPTION:Sala 1 - Dichtung und Wahrheit (Peter Kubelka\, 1996-2003). Mu
+ da. 13'. 49/95 Tausendjahrekino (Kurt Kren\, 1995). 3'. Welt spiegel Kino 
+ (Gustav Deutsch\, 2005). Documental experimental. 90'. Austria. VOSE*. Tot
+ al programa: 106'\nSegunda proyección día 26.\n\n\nFuente: http://www.me
+ cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
+ -dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trabajando con la muerte
+DTSTART;VALUE=DATE-TIME:20060224T200000
+DTEND;VALUE=DATE-TIME:20060224T214700
+UID:0602240020_2_dore
+DESCRIPTION:Sala 2 - Trabajando con la muerte (Miguel Olid\, 2002). Docume
+ ntal. 49'. Sobrevivir a un hijo (Miguel Olid\, 2003). Documental. 58'. Ví
+ deo. España. Total programa: 107'\nTrabajando…: El día a día de los p
+ rofesionales relacionados con la muerte: forenses\, enterradores… Sobrev
+ ivir…: Los participantes hablan sobre la experiencia de perder a un hijo
+ . Con la presencia del director.\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sea Concrete Human
+DTSTART;VALUE=DATE-TIME:20060224T221000
+DTEND;VALUE=DATE-TIME:20060224T235200
+UID:0602241022_1_dore
+DESCRIPTION:Sala 1 - Sea Concrete Human (Michael Palm\, 2001). 29'. Hat Wo
+ lff von amerongen Konkursdelikte begangen? (Gerhardt Friedl\, 2004). 73'. 
+ Austria. VOSE*. Total programa: 102'\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Island in the Sun
+DTSTART;VALUE=DATE-TIME:20060225T173000
+DTEND;VALUE=DATE-TIME:20060225T192000
+UID:0602253017_1_dore
+DESCRIPTION:Sala 1 - Island in the Sun (La isla del sol\, Robert Rossen\, 
+ 1957). Int.: James Mason\, Joan Fontaine\, Dorothy Dandridge. EE UU. VOSE*
+ . 110'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
+ ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Numax presenta...
+DTSTART;VALUE=DATE-TIME:20060225T194000
+DTEND;VALUE=DATE-TIME:20060225T212500
+UID:0602254019_1_dore
+DESCRIPTION:Sala 1 - Numax presenta... (Joaquim Jordà\, 1979). Documental
+ . España. Vídeo. 105'\n“Numax presenta es el resultado de la iniciativ
+ a de la asamblea de trabajadores de la empresa de electrodomésticos Numax
+ . Los trabajadores\, la mayoría mujeres\, deciden encargar una película 
+ que documente su larga huelga y su proceso de autogestión. La fiesta que 
+ cierra la película\, lejos de expresar una decepción\, anticipa la visi
+ ón de una sociedad en la que el trabajo de fábrica ha perdido todo senti
+ do. La sociedad entera se ha convertido en fábrica” (Carles Guerra). Se
+ gunda proyección día 28.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 06/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sang et Lumières
+DTSTART;VALUE=DATE-TIME:20060225T200000
+DTEND;VALUE=DATE-TIME:20060225T214000
+UID:0602250020_2_dore
+DESCRIPTION:Sala 2 - Sang et Lumières (Sangre y luces\, Georges Rouquier\
+ , 1954). Int.: Daniel Gélin\, Zsa Zsa Gabor\, Henri Vilbert. Francia /Esp
+ aña. VOSE*. 100'\nUn famoso torero\, impresionado por la muerte de un mie
+ mbro de su cuadrilla\, decide abandonar los toros. Su amante y su empresar
+ io recurren a cualquier medio para hacerle regresar.\n\n\nFuente: http://w
+ ww.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe
+ /cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:20 años no es nada
+DTSTART;VALUE=DATE-TIME:20060225T220000
+DTEND;VALUE=DATE-TIME:20060225T235700
+UID:0602250022_1_dore
+DESCRIPTION:Sala 1 - 20 años no es nada (Joaquim Jordà\, 2004). Document
+ al. España. 117'\n“Desde un presente que descarta toda visión nostálg
+ ica del pasado\, Jordà reflexiona sobre lo que queda de la revolución a 
+ partir del destino de unos seres que perdieron su inocencia en la acción 
+ y que se acostumbraron a vivir en otro mundo” (Àngel Quintana). Segunda
+  proyección día 28.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Pr
+ ograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alexander the Great
+DTSTART;VALUE=DATE-TIME:20060226T173000
+DTEND;VALUE=DATE-TIME:20060226T194500
+UID:0602263017_1_dore
+DESCRIPTION:Sala 1 - Alexander the Great (Alejandro el Magno\, Robert Ross
+ en\, 1955). Int.: Richard Burton\, Fredric March\, Claire Bloom. EE UU / E
+ spaña. 135'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore2
+ 6.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ägypten
+DTSTART;VALUE=DATE-TIME:20060226T200000
+DTEND;VALUE=DATE-TIME:20060226T214100
+UID:0602260020_2_dore
+DESCRIPTION:Sala 2 - Ägypten (Kathrin Resetaris\, 1997). 10'. Phantom fre
+ ndes Wien (Lisl Ponger\, 2004). 27'.\nPassagen (Lisl Ponger\, 1996). 12'. 
+ Das wirst du nie verstehen (Anja Salomonowitz\, 2993). 52'. Austria. VOSE*
+ . Total programa: 101'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
+ rograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Body and Soul
+DTSTART;VALUE=DATE-TIME:20060226T201000
+DTEND;VALUE=DATE-TIME:20060226T215400
+UID:0602261020_1_dore
+DESCRIPTION:Sala 1 - Body and Soul (Cuerpo y alma\, Robert Rossen\, 1947).
+  Int.: John Garfield\, Lili Palmer\, Anne\nRevere. EE UU. VOSE*. 104'\n\n\
+ nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
+ ultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dichtung und Wahrheit
+DTSTART;VALUE=DATE-TIME:20060226T221500
+DTEND;VALUE=DATE-TIME:20060227T000100
+UID:0602261522_1_dore
+DESCRIPTION:Sala 1 - Dichtung und Wahrheit (Peter Kubelka\, 1996-2003). Mu
+ da. 13'. 49/95 Tausendjahrekino\n(Kurt Kren\, 1995). 3'. Welt spiegel Kino
+  (Gustav Deutsch\, 2005). Documental experimental. 90'. Austria. VOSE*. To
+ tal programa: 106'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Progr
+ aDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Siebtelbauern
+DTSTART;VALUE=DATE-TIME:20060228T173000
+DTEND;VALUE=DATE-TIME:20060228T190500
+UID:0602283017_1_dore
+DESCRIPTION:Sala 1 - Die Siebtelbauern (Los herederos\, Stefan Ruzowitzky\
+ , 1998). Int.: Simon Schwartz\, Sophie Tois\, Lars Rudolph. Austria. VOSE.
+  95'\nNorte de Austria. Años treinta. Siete campesinos heredan una granja
+  tras el asesinato de su dueño. Es el principio de una dramática lucha.\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Picture Show
+DTSTART;VALUE=DATE-TIME:20060228T193000
+DTEND;VALUE=DATE-TIME:20060228T212800
+UID:0602283019_1_dore
+DESCRIPTION:Sala 1 - The Last Picture Show (La última película\, Peter B
+ ogdanovich\, 1971). Int.: Timothy Bottons\, Jeff Bridges\, Ben Johnson. EE
+  UU. VOSE*. 118'\n“Los problemas de la adolescencia en un pueblo de Texa
+ s en los años cincuenta. Bogdanovich describe con exactitud el lugar y la
+  época y muestra una enorme simpatía hacia sus personajes. La clausura d
+ el cine local marca el fin de una época personal e histórica” (Geoff A
+ ndrews).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pd
+ f
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Numax presenta...
+DTSTART;VALUE=DATE-TIME:20060228T200000
+DTEND;VALUE=DATE-TIME:20060228T214500
+UID:0602280020_2_dore
+DESCRIPTION:Sala 2 - Numax presenta... (Joaquim Jordà\, 1979). Documental
+ . España. Vídeo. 105'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
+ ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/
+ PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:20 años no es nada
+DTSTART;VALUE=DATE-TIME:20060228T220000
+DTEND;VALUE=DATE-TIME:20060228T235700
+UID:0602280022_1_dore
+DESCRIPTION:Sala 1 - 20 años no es nada (Joaquim Jordà\, 2004). Document
+ al. España. 117'\n </pre> </body> </html>\n\n\nFuente: http://www.mecd.go
+ b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
+ /programacion/2006/PrograDore26.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+END:VCALENDAR

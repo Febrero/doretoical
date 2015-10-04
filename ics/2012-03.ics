@@ -1,0 +1,1599 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cine Doré//github.com santos82 doredb//ES
+X-WR-CALNAME:Cine Dore
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+SUMMARY:El prximo otoo
+DTSTART;VALUE=DATE-TIME:20120301T173000
+DTEND;VALUE=DATE-TIME:20120301T185500
+UID:1203013017_1_dore
+DESCRIPTION:Sala 1 - El prximo otoo (A. Eceiza\, 1963). Int.: Manuel Manza
+ neque\, Sonia Bruno\, Tota Alba. Espaa. 85'\nSegunda proyeccin y nota da 3
+ 1.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
+ areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gaud
+DTSTART;VALUE=DATE-TIME:20120301T193000
+DTEND;VALUE=DATE-TIME:20120301T212000
+UID:1203013019_1_dore
+DESCRIPTION:Sala 1 - Gaud (pera en dos actos compuesta por J. Guinjoan y c
+ on libreto de Josep Mara Carandell\, 1989-1992). Int.: Robert Bork\, Vicen
+ te Ombuena\, Elisabete Matos\, Francisco Vas\, y la Orquestra Simfnica i C
+ or del Gran Teatre del Liceu\, bajo la direccin musical de Josep Pons. Vde
+ o. 110'\n"La pera Gaud responde a un encargo de la Olimpada Cultural\, la 
+ plataforma cultural de los Juegos Olmpicos de 1992\, al compositor Joan Gu
+ injoan (Riudoms\, 1931)\, quien la escribi entre 1989 y 1992. La eleccin d
+ e la figura de Gaud -vinculada al Camp de Tarragona y\, naturalmente\, a B
+ arcelona- se debe al libretista\, escritor y periodista Josep M. Carandell
+  (Barcelona\, 1934-2003)\, de familia originaria de Reus\, estudioso de la
+  figura y de la obra del arquitecto." (Teresa Lloret) Tras haberse escucha
+ do en 1992 el fragmento Trencads en el Teatro Real de Madrid y\, en 2002\,
+  en el marco del Ao Gaud\, unos fragmentos de la suite sinfnica del ballet
+  Trencads en el Palau de la Generalitat\, esta pera se estren ntegra el 3 
+ de noviembre de 2004 en el Gran Teatre del Liceo de Barcelona y la present
+ e grabacin se corresponde con la representacin del 10 de noviembre de 2004
+ . Presentacin a cargo de Joan Guinjoan y Xavier Gell\, moderada por Jos Lu
+ is Garca del Busto. Entrada libre hasta completar el aforo.\n\n\nFuente: h
+ ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
+ e/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gnalogies dun crime / Genealogias de um crime
+DTSTART;VALUE=DATE-TIME:20120301T200000
+DTEND;VALUE=DATE-TIME:20120301T215300
+UID:1203010020_2_dore
+DESCRIPTION:Sala 2 - Gnalogies dun crime / Genealogias de 	um crime (Genea
+ logas de un crimen\, R. Ruiz\, 1997). Int.: Catherine Deneuve\, Michel Pic
+ coli\, Melvil Poupaud. Francia / Portugal. VOSE*. 113'\nSegunda proyeccin 
+ y nota da 28.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
+ ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore
+ 99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harakiri
+DTSTART;VALUE=DATE-TIME:20120301T221000
+DTEND;VALUE=DATE-TIME:20120302T000300
+UID:1203011022_1_dore
+DESCRIPTION:Sala 1 - Harakiri (F. Lang\, 1919). Int.: Paul Biensfeldt\, Li
+ l Dagover. Alemania. MRA/E*. 84' a 18 f/s Acompaamiento al piano de Marian
+ o Marn. Segunda proyeccin y nota da 7.\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De cuerpo presente
+DTSTART;VALUE=DATE-TIME:20120302T173000
+DTEND;VALUE=DATE-TIME:20120302T190300
+UID:1203023017_1_dore
+DESCRIPTION:Sala 1 - De cuerpo presente (A. Eceiza\, 1965). Int.: Carlos L
+ arraaga\, Franoise Brion\, Lina Canalejas. Espaa. 93'\nSegunda proyeccin y
+  nota da 27.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore9
+ 9-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rescatando sombras: cine\, muerte y memoria
+DTSTART;VALUE=DATE-TIME:20120302T193000
+DTEND;VALUE=DATE-TIME:20120302T203300
+UID:1203023019_1_dore
+DESCRIPTION:Sala 1 - Rescatando sombras: cine\, muerte y memoria (Julin Fr
+ anco Lorenzana\, 2012). Documental. Espaa. Digital. 63'\nReflexin en torno
+  a la conservacin y restauracin del patrimonio cinematogrfico a travs de u
+ n anlisis de los procesos que se siguen\, y de la evolucin del Cine como a
+ rte\, como industria y como hecho cultural. Tras la proyeccin\, coloquio c
+ on Alfonso del Amo\, Jos Briz\, Antonio Castro\, Luciano Berriata\, Pedro 
+ Joaqun del Rey y Julin Franco Lorenzana. Entrada libre hasta completar el 
+ aforo.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
+ ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.
+ doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shattered Image / Jessie
+DTSTART;VALUE=DATE-TIME:20120302T200000
+DTEND;VALUE=DATE-TIME:20120302T214300
+UID:1203020020_2_dore
+DESCRIPTION:Sala 2 - Shattered Image / Jessie (En brazos de mi asesino\, R
+ . Ruiz\, 1997). Int.: Anne Parillaud\, William Baldwin\, Lisanne Falk. EE 
+ UU / Canad / Reino Unido. VOISE. 103'\n"En este relato fragmentario\, hay 
+ dos Jessie (...). Una en Seattle\, asesina a sueldo que evoca Nikita\; la 
+ otra\, rica heredera\, suicida (violada\, adems)\, de luna de miel en Jama
+ ica con su marido\, Brian. A eso se aade\, entre las dos Jessie\, una enti
+ dad invisible que las une y que cambia completamente las circunstancias." 
+ (Louis-Jos Lestocart)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/Pr
+ ograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der mde Tod
+DTSTART;VALUE=DATE-TIME:20120302T220000
+DTEND;VALUE=DATE-TIME:20120302T234300
+UID:1203020022_1_dore
+DESCRIPTION:Sala 1 - Der mde Tod (Las tres luces\, Fritz Lang\, 1921). Int
+ .: Bernhard Goetzke\, Lil Dagover\, Walter Janssen. Alemania. MRA/E*. 95' 
+ a 20 f/s Acompaamiento al piano de Mariano Marn. "Fue al ver Der mde Tod c
+ uando comprend sin la menor duda que yo quera hacer cine. No me interesaro
+ n las tres historias en s\, sino el episodio central\, la llegada del homb
+ re del sombrero negro -enseguida supe que se trataba de la Muerte- a un pu
+ eblo flamenco\, y la escena del cementerio. Algo que haba en aquella pelcu
+ la me conmovi profundamente iluminando mi vida. Esta sensacin se agudiz co
+ n otras pelculas de Fritz Lang como Los Nibelungos y Metrpolis." (Luis Buu
+ el) Segunda proyeccin da 13. Sbado 3\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pippi Lngstrump p de sju haven
+DTSTART;VALUE=DATE-TIME:20120302T173000
+DTEND;VALUE=DATE-TIME:20120302T185600
+UID:1203023017_1_dore
+DESCRIPTION:Sala 1 - Pippi Lngstrump p de sju haven (Pippi en la isla de T
+ aka Tuka\, Olle Hellbom\, 1970). Int.: Inger Nilsson\, Maria Persson\, Pr 
+ Sundberg. RFA / Suecia. VE. 86'\n"Con su belleza atemporal y su sensibilid
+ ad hacia los textos originales [de Astrid Lindgren]\, las interpretaciones
+  visuales de Hellbom se han convertido en clsicos de la cinematografa infa
+ ntil sueca." (Eva Mara Metcalf) Entrada libre para menores de 14 aos.\n\n\
+ nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
+ ultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Nibelungen I. Siegfried
+DTSTART;VALUE=DATE-TIME:20120302T193000
+DTEND;VALUE=DATE-TIME:20120302T205600
+UID:1203023019_1_dore
+DESCRIPTION:Sala 1 - Die Nibelungen I. Siegfried (Los Nibelungos. 1 parte:
+  Sigfrido\, F. Lang\, 1923). Int.: Paul Richter\, Margarethe Schn\, Hanna 
+ Ralph. Alemania. MRA/E*. 128' a 22 f/s Acompaamiento al piano de Mariano M
+ arn. Segunda proyeccin y nota da 8.\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Temps retrouv / Il tempo ritrovato / O tempo reencontrado
+DTSTART;VALUE=DATE-TIME:20120302T200000
+DTEND;VALUE=DATE-TIME:20120302T224900
+UID:1203020020_2_dore
+DESCRIPTION:Sala 2 - Le Temps retrouv / Il tempo ritrovato / O tempo reenc
+ ontrado (R. Ruiz\, 1998). Int.: Catherine Deneuve\, Emmanuelle Bart\, Vinc
+ ent Perez. Francia / Italia / Portugal. VOSE*. 169'\n"Sigo creyendo que\, 
+ a pesar de las apariencias\, su obra es cinematogrfica. Algunas novelas so
+ n visuales\, pero no funcionan cuando se transponen en imgenes. Proust no 
+ es verdaderamente visual\, pero utiliza procedimientos cinematogrficos." (
+ R. Ruiz)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-do
+ c.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jingi naki tatakai / Battles Without Honor and Humanity
+DTSTART;VALUE=DATE-TIME:20120302T220000
+DTEND;VALUE=DATE-TIME:20120302T233900
+UID:1203020022_1_dore
+DESCRIPTION:Sala 1 - Jingi naki tatakai / Battles Without Honor and Humani
+ ty (Kinji Fukasaku\, 1973). Int.: Bunta Sugawara\, Hiroki Matsukata\, Kuni
+ e Tanaka. Japn. VOSF/E*. 99'\n"En una sola pelcula\, Kinji Fukasaku reinve
+ nta el cine de gnero japons. Igual que ms tarde John Woo\, a mediados de l
+ os aos 80\, revitalizar el cine de accin de Hong Kong con su serie legenda
+ ria El sindicato del crimen. Battles Without Honor and Humanity tiene adem
+ s un inmenso xito en Japn que incita al estudio Toei a producir otros cuat
+ ro episodios a continuacin\, a ejemplo de la saga criminal de El Padrino c
+ on la que la serie japonesa comparte una gemelaridad evidente." (Yves Mont
+ mayeur)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc
+ .doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ltimo encuentro
+DTSTART;VALUE=DATE-TIME:20120304T173000
+DTEND;VALUE=DATE-TIME:20120304T184800
+UID:1203043017_1_dore
+DESCRIPTION:Sala 1 - ltimo encuentro (A. Eceiza\, 1966). Int.: Antonio Gad
+ es\, Mara Cuadra\, La Polaca\, Jos Mara Prada. Espaa. 78'\nSegunda proyecc
+ in y nota da 9.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDo
+ re99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Nibelungen II. Kriemhilds Rache
+DTSTART;VALUE=DATE-TIME:20120304T191000
+DTEND;VALUE=DATE-TIME:20120304T202800
+UID:1203041019_1_dore
+DESCRIPTION:Sala 1 - Die Nibelungen II. Kriemhilds Rache (Los Nibelungos. 
+ 2 parte: La venganza de Crimilda\, F. Lang\, 1924). Int.: Margarethe Schn\
+ , Hans Adalbert von Schlettow\, Rudolf Klein-Rogge. Alemania. MRA/E*. 134'
+  a 22 Acompaamiento al piano de Mariano Marn. "La segunda parte de Los Nib
+ elungos\, rodada un ao despus de la primera\, muestra un cambio de estilo 
+ bastante sorprendente. La venganza de Crimilda es menos esttica\; adems el
+  tema es ms vehemente\, dinmico\, brillante e impone ms movimientos. La le
+ ntitud pica de La muerte de Sigfrido\, cancin de gesta\, idilio y 'Volksli
+ ed' melanclico que se lamenta de la muerte infligida al hroe de rubia cabe
+ llera\, ha dejado sitio a una intensa aceleracin del destino\, a un cresce
+ ndo fulgurante que arrastra hacia su aniquilacin a todos los responsables 
+ de la muerte de Sigfrido." (Lotte H. Eisner) Segunda proyeccin da 9.\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Combat d'amour en songe
+DTSTART;VALUE=DATE-TIME:20120304T200000
+DTEND;VALUE=DATE-TIME:20120304T220700
+UID:1203040020_2_dore
+DESCRIPTION:Sala 2 - Combat d'amour en songe (R. Ruiz\, 2000). Int.: Melvi
+ l Poupaud\, Elsa Zylberstein\, Lambert Wilson. Francia / Portugal / Chile.
+  VOSP/E*. 127'\nSegunda proyeccin y nota da 16.\n\n\nFuente: http://www.me
+ cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
+ -dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gokud no onna-tachi/ The Yakuza Wives
+DTSTART;VALUE=DATE-TIME:20120304T214500
+DTEND;VALUE=DATE-TIME:20120304T234300
+UID:1203044521_1_dore
+DESCRIPTION:Sala 1 - Gokud no onna-tachi/ The Yakuza Wives (Hideo Gosha\, 
+ 1986). Int.: Shima Iwashita\, Rino Katase\, Akiko Kana. Japn. VOSF/E*. 118
+ '\nMigiwa Awatsu (Shima Iwashita) es la mujer de un jefe yakuza. Como ste 
+ est en prisin\, ella asume la direccin del gang de quinientos yakuzas\, qu
+ e lleva con mano de hierro. Decide casar a su hermana pequea Mako (Rino Ka
+ tase) con un hombre de negocios para alejarla del hampa\, pero Mako est en
+ amorada de un joven yakuza de un gang enemigo...\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Per grazia ricevuta
+DTSTART;VALUE=DATE-TIME:20120306T173000
+DTEND;VALUE=DATE-TIME:20120306T192900
+UID:1203063017_1_dore
+DESCRIPTION:Sala 1 - Per grazia ricevuta (Las tentaciones de 	Benedetto\, 
+ Nino Manfredi\, 1970). Int.: N. Manfredi\, Lionel Stander\, Delia Boccardo
+ . Italia. VOSE*. 119'\n"Era un argumento que nadie haba abordado en Italia
+ \, el de la perniciosa educacin religiosa\, que puede llegar a castrar a u
+ n hombre." (N. Manfredi) Segunda proyeccin da 31.\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metropolis
+DTSTART;VALUE=DATE-TIME:20120306T195000
+DTEND;VALUE=DATE-TIME:20120306T221600
+UID:1203065019_1_dore
+DESCRIPTION:Sala 1 - Metropolis (Metrpolis\, F. Lang\, 1926). Int.: Brigit
+ te Helm\, Alfred Abel\, Gustav Frhlich. Alemania. MRE con msica. 146'\n"Vi
+ ne a Amrica por primera vez\, brevemente\, en 1924\, y me hizo una gran im
+ presin. La primera tarde\, cuando llegamos\, ramos todava enemigos extranj
+ eros\, as que no podamos dejar el barco. Fue atracado en algn lugar del We
+ st Side de Nueva York. Mir las calles -las luces brillantes y los altos ed
+ ificios- y all conceb Metrpolis." (F. Lang) Reconstruccin de la versin ori
+ ginal de Metrpolis que incluye los casi 30 min. de metraje perdidos por lo
+ s cortes y remontajes posteriores a su estreno en Berln el 10 de enero de 
+ 1927. Estas escenas fueron halladas en 2008 en una copia en 16 mm. del mon
+ taje original conservada por el Museo del Cine 'Pablo C. Ducrs Hicken' de 
+ Buenos Aires. En la banda sonora se recupera tambin la partitura original 
+ compuesta por Gottfried Huppertz\, que fue interpretada en vivo tanto dura
+ nte el citado estreno de la versin ntegra de la pelcula como en su reestre
+ no en Berln\, tras su reconstruccin\, el 12 de enero de 2010. Segunda proy
+ eccin en abril.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDo
+ re99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metaal en Melancholie
+DTSTART;VALUE=DATE-TIME:20120306T200000
+DTEND;VALUE=DATE-TIME:20120306T212000
+UID:1203060020_2_dore
+DESCRIPTION:Sala 2 - Metaal en Melancholie (Metal y melancola\, H. Honigma
+ nn\, 1993). Documental. Pases Bajos / Per. Vdeo. VOE. 80'\nEn la Lima de l
+ os noventa\, altos profesionales se vieron obligados a trabajar como taxis
+ tas a causa de la crisis econmica. Viajando en sus taxis\, Heddy nos lleva
+  de la mano de sus personajes por una Lima cruda\, prejuiciosa\, humilde\,
+  creyente\, improvisada\, creativa\, luchadora y melanclica. Segunda proye
+ ccin da 17. Mircoles 7\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/P
+ rograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harakiri
+DTSTART;VALUE=DATE-TIME:20120306T173000
+DTEND;VALUE=DATE-TIME:20120306T185000
+UID:1203063017_1_dore
+DESCRIPTION:Sala 1 - Harakiri (F. Lang\, 1919). Int.: Paul Biensfeldt\, Li
+ l Dagover. Alemania. MRA/E*. 84' a 18 f/s Acompaamiento al piano de Marian
+ o Marn. "Encontrada en la filmoteca holandesa\, restaurada por la cinemate
+ ca de Koblenz y proyectada en el festival de San Sebastin de 1987\, en una
+  copia que no sobrepasa la hora de duracin\, Hara-Kiri resulta un jaln ext
+ rao en la trayectoria languiana. Todo hace in-tuir que fue un encargo de P
+ ommer sin participacin directa de Lang en el guin definitivo. Lil Dagover\
+ , tras los pasos de Ressel Orla como reina de la Decla\, tuvo la oportunid
+ ad de afrontar un personaje atractivo e inusual\, la geisha japonesa que s
+ ucumbe a los encantos de un oficial de marina occidental y ve desmoronarse
+  el rgido mundo en que le han enseado a vivir. Hara-Kiri es una adaptacin 
+ de la clebre Madame Butterfly realizada con notable tacto." (Quim Casas) S
+ emana de cine de Hong Kong\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 12/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hong Kong / China. VOSI/E*. 117'
+DTSTART;VALUE=DATE-TIME:20120306T193000
+DTEND;VALUE=DATE-TIME:20120306T212700
+UID:1203063019_1_dore
+DESCRIPTION:Sala 1 - Hong Kong / China. VOSI/E*. 117'\nReinventando las ex
+ periencias de su niez\, Alex Law compone esta carta de amor al Hong Kong d
+ e los aos 60. Su joven protagonista corretea por el vecindario con una pec
+ era en la cabeza a modo de casco de astronauta\, y tiene por padre a un za
+ patero muy trabajador\, una madre afable y por hermano mayor a un atleta a
+ l que admira. Vemos a la afectuosa familia capear el temporal de los incie
+ rtos sesenta\; en parte perdura\, en parte se queda desgarrada. Rodada pri
+ ncipalmente en estudio\, la pelcula evoca la encantadora nostalgia de la i
+ nocencia pasada. Segunda proyeccin da 11.\n\n\nFuente: http://www.mecd.gob
+ .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
+ programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tot ziens
+DTSTART;VALUE=DATE-TIME:20120306T210000
+DTEND;VALUE=DATE-TIME:20120306T225400
+UID:1203060021_2_dore
+DESCRIPTION:Sala 2 - Tot ziens (Adis\, H. Honigmann\, 1995). Int.: Johanna
+  ter Steege\, Guy Van Sande\, Els Dottermans. Pases Bajos. Vdeo. VOSE*. 11
+ 4'\nSegunda proyeccin y nota da 23.\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las secretas intenciones
+DTSTART;VALUE=DATE-TIME:20120308T173000
+DTEND;VALUE=DATE-TIME:20120308T190000
+UID:1203083017_1_dore
+DESCRIPTION:Sala 1 - Las secretas intenciones (A. Eceiza\, 1969). Int.: Je
+ an-Louis Trintignant\, Hayde Politoff\, Teresa del Ro. Espaa. 90'\nPasaran
+  tres aos hasta que Eceiza volviese a hacer una cuarta (y sera la ltima) p
+ elcula con Querejeta: Las secretas intenciones (1969). La smosis originari
+ a Querejeta-Eceiza ha quedado atrs. Ahora el segundo es un realizador al q
+ ue la productora encarga un guin\, que ha de escribir con Rafael Azcona\, 
+ y que debe finalmente dirigir. (J. Angulo) "...en esta pelcula la muerte (
+ ms concretamente\, el suicidio) se convierte en el leitmotiv de la pelcula
+ ." (J. Angulo\, M. Beloki\, J. L. Rebordinos\, A. Santamarina) Segunda pro
+ yeccin da 30.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
+ ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore
+ 99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Nibelungen I. Siegfried
+DTSTART;VALUE=DATE-TIME:20120308T192000
+DTEND;VALUE=DATE-TIME:20120308T205000
+UID:1203082019_1_dore
+DESCRIPTION:Sala 1 - Die Nibelungen I. Siegfried (Los Nibelungos 1 parte: 
+ Sigfrido\, F. Lang\, 1923). Int.: Paul Richter\, Margarethe Schn\, Hanna R
+ alph. Alemania. MRA/E*. 128' a 22 f/s Acompaamiento al piano de Mariano Ma
+ rn. "Las inmensas arquitecturas de Los Nibelungos constituyen un marco ide
+ al para la gran estatura de esos hroes de epopeya. Lang\, que pretende uno
+ s efectos espectaculares\, anima la rigidez grandiosa de esta arquitectura
+  con las luces." (Lotte H. Eisner)\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:O amor natural
+DTSTART;VALUE=DATE-TIME:20120308T200000
+DTEND;VALUE=DATE-TIME:20120308T211700
+UID:1203080020_2_dore
+DESCRIPTION:Sala 2 - O amor natural (El amor natural\, H. Honigmann\, 1996
+ ). Documental. Pases Bajos / Brasil. VOSE*. 77'\nO Amor Natural es el ttul
+ o del libro de poemas erticos escrito por uno de los poetas ms reconocidos
+  de Brasil\, Carlos Drummond de Andrade (1902-1987). Los versos son ledos 
+ por personas mayores\, que lejos de ruborizarse\, recuerdan los mejores ao
+ s de su vida amorosa y sexual. Segunda proyeccin da 24.\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Da lui toi / Gallants
+DTSTART;VALUE=DATE-TIME:20120308T220000
+DTEND;VALUE=DATE-TIME:20120308T233800
+UID:1203080022_1_dore
+DESCRIPTION:Sala 1 - Da lui toi / Gallants (Derek Kwok y Clement Cheng\, 2
+ 010). Int.: Leung Siu-lung\, Chen Kuan-tai. Hong Kong / China. VOSI/E*. 98
+ '\nSegunda proyeccin y nota da 17.\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ltimo encuentro
+DTSTART;VALUE=DATE-TIME:20120309T173000
+DTEND;VALUE=DATE-TIME:20120309T184800
+UID:1203093017_1_dore
+DESCRIPTION:Sala 1 - ltimo encuentro (A. Eceiza\, 1966). Int.: Antonio Gad
+ es\, Mara Cuadra\, La Polaca\, Jos Mara Prada. Espaa. 78'\n... vuelvo otra
+  vez a lo otro\, a la historia de un bailaor\, con las ventas\, el proleta
+ riado\, los norteamericanos\; dentro de que tenga ms vivacidad\, porque ha
+ y baile flamenco\, es una vuelta al esquema si no naturalista\, por lo men
+ os realista\, de cierto tipo americano\, de cine negro. (A. Eceiza)\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Nibelungen II. Kriemhilds Rache
+DTSTART;VALUE=DATE-TIME:20120309T191500
+DTEND;VALUE=DATE-TIME:20120309T203300
+UID:1203091519_1_dore
+DESCRIPTION:Sala 1 - Die Nibelungen II. Kriemhilds Rache (Los Nibelungos. 
+ 2 parte: La venganza de Crimilda\, F. Lang\, 1924). Int.: Margarethe Schn\
+ , Hans Adalbert von Schlettow\, Rudolf Klein-Rogge. Alemania. MRA/E*. 134'
+  a 22 Acompaamiento al piano de Mariano Marn. Ver nota da 4.\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Het ondergrondse orkest
+DTSTART;VALUE=DATE-TIME:20120309T200000
+DTEND;VALUE=DATE-TIME:20120309T214800
+UID:1203090020_2_dore
+DESCRIPTION:Sala 2 - Het ondergrondse orkest (La orquesta subterrnea\, H. 
+ Honigmann\, 1997). Documental. Pases Bajos / Francia. VOSE*. 108'\nSegunda
+  proyeccin y nota da 21.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
+ /PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Duk haan chau faan / All About Love
+DTSTART;VALUE=DATE-TIME:20120309T220000
+DTEND;VALUE=DATE-TIME:20120309T234500
+UID:1203090022_1_dore
+DESCRIPTION:Sala 1 - Duk haan chau faan / All About Love (Ann Hui\, 2010).
+  Int.: Sandra Ng\, Vivian Chow\, William Chan\, Cheung Siu-fai. Hong Kong 
+ / China. VOSI/E*. 105'\nDesenfadada e irreverente comedia de enredos\, don
+ de la bisexualidad y el lesbianismo estn a la orden del da. Dos mujeres qu
+ e han sido pareja en un pasado\, se vuelven a descubrir enamoradas cuando 
+ estn\, ambas\, embarazadas de dos aventuras heterosexuales diferentes. Un 
+ guin muy afilado que se debate entre lo desenfadado y polticamente correct
+ o. (Casa Asia Film Week 2011) Segunda proyeccin da 15. Sbado 10\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dumbo
+DTSTART;VALUE=DATE-TIME:20120309T173000
+DTEND;VALUE=DATE-TIME:20120309T183300
+UID:1203093017_1_dore
+DESCRIPTION:Sala 1 - Dumbo (Dumbo\, Ben Sharpsteen\, 1941). 	Animacin. EE 
+ UU. VE. 63'\n"En la casa de fieras del circo\, Dumbo\, el pequeo elefante\
+ , es objeto de burla a causa de sus grandes orejas. Su amigo el ratn le su
+ giere que intente volar con esas orejas. Lo consigue y se convierte en una
+  estrella." (Jean Tulard) Entrada libre para menores de 14 aos.\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dr. Mabuse\, der Spieler I. Der grosse Spieler - Ein Bild der Zeit
+DTSTART;VALUE=DATE-TIME:20120309T190000
+DTEND;VALUE=DATE-TIME:20120309T214500
+UID:1203090019_1_dore
+DESCRIPTION:Sala 1 - Dr. Mabuse\, der Spieler I. Der grosse Spieler - Ein 
+ Bild der Zeit (El doctor Mabuse. 1 Parte: El gran jugador\, F. Lang\, 1922
+ ). Int.: Rudolf Klein-Rogge\, Aud Egede Nissen\, Alfred Abel. Alemania. MR
+ A/E*. 155' a 20 f/s. Pausa de 10' al final del IV acto. Total programa: 16
+ 5'\nAcompaamiento al piano de Mariano Marn. "Mabuse -Lang es consciente de
+  ello- slo poda aparecer en Alemania\, en el pas donde haba nacido la idea
+  nietzscheana de superhombre. Pero en esta pelcula\, est todava muy alejad
+ o del loco de El Testamento del Dr. Mabuse\, que prefigura el hitlerismo."
+  (Lotte H. Eisner)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/Progr
+ aDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forever
+DTSTART;VALUE=DATE-TIME:20120309T200000
+DTEND;VALUE=DATE-TIME:20120309T213500
+UID:1203090020_2_dore
+DESCRIPTION:Sala 2 - Forever (H. Honigmann\, 2006). Documental. Pases Bajo
+ s / Francia. VOSE. 95'\nEn el cementerio de Pre-Lachaise (Pars)\, reposan 
+ grandes artistas y personalidades del mundo. A medida que los visitantes c
+ omparten con nosotros la importancia del arte y la belleza en sus vidas\, 
+ el cementerio se va revelando en s mismo como una fuente de inspiracin par
+ a los vivos. Segunda proyeccin da 22.\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jiu Tu/The Drunkard
+DTSTART;VALUE=DATE-TIME:20120309T221500
+DTEND;VALUE=DATE-TIME:20120310T000100
+UID:1203091522_1_dore
+DESCRIPTION:Sala 1 - Jiu Tu/The Drunkard (Freddie Wong\, 2010). Int.: Iren
+ e Wan\, John Chang\, Joman Chiang. Hong Kong / China. VOSI/E*. 106'\nSegun
+ da proyeccin y nota da 14.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 12/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Felicidades\, Tovarich
+DTSTART;VALUE=DATE-TIME:20120311T173000
+DTEND;VALUE=DATE-TIME:20120311T190500
+UID:1203113017_1_dore
+DESCRIPTION:Sala 1 - Felicidades\, Tovarich (A. Eceiza\, 1995). Int.: Fran
+ cisco Rabal\, Ruth Gabriel\, Xabier Elorriaga. Espaa. 95'\nEn 1995\, adems
+  del viejo cine\, tambin los idea-les revolucionarios acaban de ser arrast
+ rados por el viento de la historia ante el avance incontenible de los nuev
+ os tiempos. Para Eceiza\, y junto con l toda una generacin de viejos comun
+ istas\, el sentimiento de decepcin\, de prdida y de desorientacin es de ta
+ l calibre que (conforme manifiesta el personaje de Francisco Rabal) slo ca
+ be huir hacia ninguna parte y sustituir el intento de anlisis dialctico de
+  Ke arteko egunak por un exabrupto\, ese Me cago en todo que abre\, cierra
+  y preside toda la narracin. (J. Angulo\, M. Beloki\, J. L. Rebordinos\, A
+ . Santamarina)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDor
+ e99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El cielo gira
+DTSTART;VALUE=DATE-TIME:20120311T190000
+DTEND;VALUE=DATE-TIME:20120311T205500
+UID:1203110019_2_dore
+DESCRIPTION:Sala 2 - El cielo gira (M. lvarez\, 2004). Documental. Espaa. 
+ 115'\nEn Aldeaseor\, un pequeo pueblo de los pramos altos de Soria\, queda
+ n hoy 14 habitantes. Son la ltima generacin\, despus de mil aos de histori
+ a ininterrumpida. Hoy\, la vida contina. Dentro de poco\, se extinguir sin
+  estrpito y sin ms testigos. Los vecinos de Aldeaseor y el trabajo del pin
+ tor Pello Azketa comparten algo en comn: las cosas han comenzado a desapar
+ ecer delante de ellos. La narradora vuelve a su origen y asiste a ese fina
+ l al tiempo que intenta recuperar una imagen primera del mundo\, de la inf
+ ancia. Segunda proyeccin da 27.\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dr. Mabuse\, der Spieler II. Inferno - Ein spiel von Menschen unse
+ rer Zeit
+DTSTART;VALUE=DATE-TIME:20120311T193000
+DTEND;VALUE=DATE-TIME:20120311T212500
+UID:1203113019_1_dore
+DESCRIPTION:Sala 1 - Dr. Mabuse\, der Spieler II. Inferno - Ein 	spiel von
+  Menschen unserer Zeit (El doctor Mabuse. 2 parte: Infierno\, F. Lang\, 19
+ 22). Int.: Rudolf Klein-Rogge\, Aud Egede Nissen\, Alfred Abel. Alemania. 
+ MRA/E*. 115' a 20 f/s Acompaamiento al piano de Mariano Marn. Ver nota da 
+ 10.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shui yuet sun tau/ Echoes of the Rainbow
+DTSTART;VALUE=DATE-TIME:20120311T214500
+DTEND;VALUE=DATE-TIME:20120311T234200
+UID:1203114521_1_dore
+DESCRIPTION:Sala 1 - Shui yuet sun tau/ Echoes of the Rainbow (Alex Law\, 
+ 2009). Int.: Simon Yam\, Sandra Ng. Hong Kong / China. VOSI/E*. 117'\nVer 
+ nota da 7.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-
+ doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ikuska 1: Ikastolak
+DTSTART;VALUE=DATE-TIME:20120313T173000
+DTEND;VALUE=DATE-TIME:20120313T184400
+UID:1203133017_1_dore
+DESCRIPTION:Sala 1 - Ikuska 1: Ikastolak (Jos Luis Egea\, 1979). 12' Ikusk
+ a 3: Bilbo (Anton Merikaetxebarria\, 1979). 12'. Ikuska 5: Elebitasuna (Ko
+ ldo Izagirre\, 1979). 10'. Ikuska 9: Artistak (Jos Julin Bakedano\, 1980).
+  10'. Ikuska 11: Herribehera (Montxo Armendriz\, 1981). 11'. Ikuska 16: Do
+ nibane Lohitzun (A. Eceiza\, 1983). 9'. Ikuska 18: Bertsolariak (A. Eceiza
+ \, 1984). 10'. Documentales. Vdeo. VOEusSE*. Total programa: 74'\n"En 1977
+  Eceiza vuelve a Euskadi dando por terminado su exilio mexicano. Y va a co
+ menzar una etapa determinada por la produccin de los Ikuskas\, serie de co
+ rtometrajes que queran\, inicialmente\, cumplir un doble objetivo: por un 
+ lado\, crear un noticiario vasco\, en euskera\, que diera cuenta casi en t
+ iempo real de lo que estaba sucediendo en el pas y que recuperara\, al mis
+ mo tiempo\, la memoria colectiva del pueblo vasco\; por otro\, desarrollar
+  equipos de trabajo que pusieran los cimientos de una futura industria cin
+ ematogrfica nacional vasca." (J. Angulo\, M. Beloki\, J. L. Rebordinos\, A
+ . Santamarina) Con la presencia de Joxean Fernndez\, director de Euskadiko
+  Filmategia / Filmoteca Vasca. Segunda proyeccin da 29.\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der mde Tod
+DTSTART;VALUE=DATE-TIME:20120313T193000
+DTEND;VALUE=DATE-TIME:20120313T204400
+UID:1203133019_1_dore
+DESCRIPTION:Sala 1 - Der mde Tod (Las tres luces\, Fritz Lang\, 1921). Int
+ .: Bernhard Goetzke\, Lil Dagover\, Walter Janssen. Alemania. MRA/E*. 95' 
+ a 20 f/s Acompaamiento al piano de Mariano Marn. Ver nota da 2.\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:And Then One Day
+DTSTART;VALUE=DATE-TIME:20120313T200000
+DTEND;VALUE=DATE-TIME:20120313T211400
+UID:1203130020_2_dore
+DESCRIPTION:Sala 2 - And Then One Day (Y un buen da...\, H. Honigmann\, 20
+ 11). Int.: Maryan Hossouni\, Nasdrin Dchar. Pases Bajos. Digital. VOSE. 30
+ '. Goed man\, lieve zoon (Buen hombre\, querido hijo\, H. Honigmann\, 2001
+ ). Documental. Pases Bajos / Bosnia. Vdeo. VOSE*. 50'. Total programa: Seg
+ unda proyeccin y nota da 30.\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yan kan hei ket / La Comdie humaine
+DTSTART;VALUE=DATE-TIME:20120313T213000
+DTEND;VALUE=DATE-TIME:20120313T231000
+UID:1203133021_1_dore
+DESCRIPTION:Sala 1 - Yan kan hei ket / La Comdie humaine (Chan Hing-kai y 
+ Janet Chun\, 2010). Int.: Chapman To\, Wong Cho-lam\, Fiona Sit. Hong Kong
+  / China. VOSI/E*. 100'\nSegunda proyeccin y nota da 18. Mircoles 14\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Place in the Sun
+DTSTART;VALUE=DATE-TIME:20120313T173000
+DTEND;VALUE=DATE-TIME:20120313T193200
+UID:1203133017_1_dore
+DESCRIPTION:Sala 1 - A Place in the Sun (Un lugar en el sol\, George Steve
+ ns\, 1951). Int.: Montgomery Clift\, E. Taylor\, Shelley Winters. EE UU. V
+ OSE. 122'\nSegunda proyeccin y nota da 17.\n\n\nFuente: http://www.mecd.go
+ b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
+ /programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El olvido
+DTSTART;VALUE=DATE-TIME:20120313T200000
+DTEND;VALUE=DATE-TIME:20120313T213300
+UID:1203130020_1_dore
+DESCRIPTION:Sala 1 - El olvido (H. Honigmann\, 2008). Documental. Pases Ba
+ jos / Per. VOE. 93'\n"Una sociedad sin memoria es una sociedad anestesiada
+ \, incapaz de reflexionar sobre s misma. Contra la prdida de memoria lucha
+  Heddy Honigmann en su ltimo largometraje documental El Olvido (2009). La 
+ directora regresa a su Lima natal quince aos despus del rodaje de Metal y 
+ Melancola\, pelcula que firm en 1992\, durante la profunda crisis econmica
+  en la que estaba sumergido el pas. Heddy Honigmann construye un retrato c
+ olectivo de la sociedad peruana contraponiendo a los testimonios de sus pe
+ rsonajes\, gente trabajadora\, imgenes de archivo de la toma de posesin de
+  los distintos presidentes de Per: Fernando Belaunde\, Fujimori y Alan Gar
+ ca. Los presidentes se suceden jurando lealtad a la nacin pero nada cambia
+  para los habitantes de El Olvido\, quienes de forma cclica padecen las ma
+ las polticas de sus gobernantes (...)." (N. Garca) Presentacin y coloquio 
+ con la directora Heddy Honigmann moderado por Noem Garca\, profesora de la
+  Univ. Complutense y co-directora de la Diplomatura en Guin y Direccin de 
+ documentales del Instituto del cine. Entrada libre hasta completar el afor
+ o. Segunda proyeccin da 25.\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jiu Tu/ The Drunkard
+DTSTART;VALUE=DATE-TIME:20120313T210000
+DTEND;VALUE=DATE-TIME:20120313T224600
+UID:1203130021_2_dore
+DESCRIPTION:Sala 2 - Jiu Tu/ The Drunkard (Freddie Wong\, 2010). Int.: Ire
+ ne Wan\, John Chang\, Joman Chiang. Hong Kong / China. VOSI/E*. 106'\nLas 
+ comparaciones con In the Mood for Love de Wong Kar Wai son probables\, per
+ o este literario debut en la direccin de Freddie Wong\, basado tambin en l
+ a literatura de Liu Yichang\, tiene poco en comn ms all de su origen. Lau 
+ es el borracho del ttulo: un intelectual obligado\, para llegar a fin de m
+ es -y mantener su adiccin a la bebida- a escribir porno pulp en el Hong Ko
+ ng de los 60. La lucha incesante entre arte y comercio y el problema ms mo
+ derno de la piratera subyacen en el filme mientras Lau navega entre sus br
+ utales recuerdos y las mujeres que dominan su vida.\n\n\nFuente: http://ww
+ w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
+ cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clase magistral impartida por Heddy Honigmann. Duracin: 2 horas y 
+ media. Entrada gratuita previa reserva en: http://docma.es/3xdoc/master-cl
+ ass/.
+DTSTART;VALUE=DATE-TIME:20120315T173000
+DTEND;VALUE=DATE-TIME:20120315T191600
+UID:1203153017_1_dore
+DESCRIPTION:Sala 1 - Clase magistral impartida por Heddy Honigmann. Duraci
+ n: 2 horas y media. Entrada gratuita previa reserva en: http://docma.es/3x
+ doc/master-class/.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/Progr
+ aDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado de futuros
+DTSTART;VALUE=DATE-TIME:20120315T203000
+DTEND;VALUE=DATE-TIME:20120315T222000
+UID:1203153020_1_dore
+DESCRIPTION:Sala 1 - Mercado de futuros (M. lvarez\, 2011). Documental. Es
+ paa. Vdeo. VOSE. 110'\n"Simnides descubri el valor de los lugares y objeto
+ s como depositarios de una memoria inmaterial: Hubo un tiempo\, cuenta la 
+ narracin\, en que las ciudades eran portadoras de la memoria colectiva de 
+ sus habitantes Mercado de futuros se centra\, sin embargo\, en los no-luga
+ res de la ciudad\, un concepto acuado por el antroplogo Marc Aug para refe
+ rirse a los lugares de trnsito\, lugares annimos\, sin memoria\, donde res
+ ulta difcil establecer lazos identitarios. En Mercado de futuros encontram
+ os una diversidad de espacios despersonalizados: ferias inmobiliarias\, lu
+ gares de inversin\, congresos de li-derazgo\, a los que la directora contr
+ apone el Mercat dels Encants de Barcelona\, un lugar de memoria donde se a
+ cumulan objetos de todo tipo o 'restos del alma'. Frente a esos espacios d
+ e compra y venta de ilusiones y sueos que se proyectan hacia el futuro\, e
+ l mercado dels Encants se muestra como un lugar de presente\, de comunicac
+ in\, de intercambio. (...). La pelcula de Mercedes lvarez expone de una ma
+ nera potica y reflexiva los peligros de la mercantilizacin de la sociedad\
+ , donde el ciudadano es sustituido por un consumidor\, que vive constantem
+ ente proyectndose en el sueo de un futuro (econmico) mejor. Pero el futuro
+  siempre es incierto\, tal y como ha demostrado la crisis econmica en la q
+ ue nos vemos sumergidos y esa mirada anticipatoria no genera sino una prdi
+ da del presente y en consecuencia una falta de conciencia sobre el pasado.
+ " (N. Garca) Coloquio con la directora Mercedes lvarez\, moderado por Noem
+  Garca. Entrada libre hasta completar el aforo. Segunda proyeccin da 18.\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Duk haan chau faan / All About Love
+DTSTART;VALUE=DATE-TIME:20120315T210000
+DTEND;VALUE=DATE-TIME:20120315T224500
+UID:1203150021_2_dore
+DESCRIPTION:Sala 2 - Duk haan chau faan / All About Love (Ann Hui\, 2010).
+  Int.: Sandra Ng\, Vivian Chow\, William Chan. Hong Kong / China. VOSI/E*.
+  105'\nVer nota da 9.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/Pr
+ ograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fun sau suet oi nei / Break Up Club
+DTSTART;VALUE=DATE-TIME:20120316T173000
+DTEND;VALUE=DATE-TIME:20120316T192300
+UID:1203163017_1_dore
+DESCRIPTION:Sala 1 - Fun sau suet oi nei / Break Up Club (Barbara Wong\, 2
+ 010). Int.: Fiona Sit\, Jaycee Chan\, Patrick Tang. Hong Kong / China. VOS
+ I/E*. 113'\nLlena de vida\, alegre\, optimista\, y taaaan triste\, Barbara
+  Wong mezcla estilos\, incluidos el falso documental y el DIY (Do It Yours
+ elf) vdeo\, y se saca de la manga un romance adolescente casi ideal constr
+ uido sobre la endeble premisa de chico es dejado\, chico recupera a chica 
+ y chico es dejado definitivamente. Fiona Sit y Jaycee Chan demuestran much
+ a qumica como la joven y voluble pareja de clase trabajadora deslumbrada p
+ or el sexo opuesto y desconcertada por algo tan difuso como eso que llamam
+ os un futuro mejor. Segunda proyeccin da 20.\n\n\nFuente: http://www.mecd.
+ gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
+ re/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giant
+DTSTART;VALUE=DATE-TIME:20120316T200000
+DTEND;VALUE=DATE-TIME:20120316T232100
+UID:1203160020_1_dore
+DESCRIPTION:Sala 1 - Giant (Gigante\, George Stevens\, 1956). Int.: E. Tay
+ lor\, Rock Hudson\, James Dean. EE UU. VOSE*. 201'\nSegunda proyeccin y no
+ ta da 20.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-d
+ oc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Combat d'amour en songe
+DTSTART;VALUE=DATE-TIME:20120316T203000
+DTEND;VALUE=DATE-TIME:20120316T223700
+UID:1203163020_2_dore
+DESCRIPTION:Sala 2 - Combat d'amour en songe (R. Ruiz\, 2000). Int.: Melvi
+ l Poupaud\, Elsa Zylberstein\, Lambert Wilson. Francia / Portugal / Chile.
+  VOSP/E*. 127'\n"Despus de Le Temps retrouv\, que era una gran produccin\,
+  Branco haba dicho a Raoul [Ruiz] que en su siguiente pelcula poda hacer l
+ o que quisiera: Tengo dinero\, te lo doy y haces haces lo que quieras. As 
+ es como Raoul pudo hacer Combat d'amour en songe a partir de un solo diagr
+ ama matemtico\, lo que nadie en el mundo habra podido hacer. Por la maana\
+ , no sabamos lo que bamos a rodar\, pero Raoul se pasaba toda la noche esc
+ ribiendo\, embarcndose en verdaderas ensoaciones\, en una especie de locur
+ a que siempre dominaba." (M. Poupaud) Sbado 17\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bian lian
+DTSTART;VALUE=DATE-TIME:20120316T173000
+DTEND;VALUE=DATE-TIME:20120316T191100
+UID:1203163017_1_dore
+DESCRIPTION:Sala 1 - Bian lian (El rey de las mscaras\, Wu Tian-ming\, 199
+ 6). Int.: Chu Yuk\, Zhang Riuyang\, Zhao Zhigang. China / Hong Kong. VE. 1
+ 01'\n"A principios del siglo XX\, en Sichuan\, un actor\, anciano y viudo\
+ , compra a un nio a fin de ensearle el oficio\; empero\, resulta ser una n
+ ia... Una de las cimas del cine oriental de los aos noventa\, en cuanto co
+ mbina muy bien el realismo social\, el costumbrismo pintoresco\, el compro
+ miso ideolgico y la sensibilidad de la fbula." (Carlos Aguilar) Entrada li
+ bre para menores de 14 aos. Segunda proyeccin da 31.\n\n\nFuente: http://w
+ ww.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe
+ /cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Da lui toi / Gallants
+DTSTART;VALUE=DATE-TIME:20120316T193000
+DTEND;VALUE=DATE-TIME:20120316T210800
+UID:1203163019_1_dore
+DESCRIPTION:Sala 1 - Da lui toi / Gallants (Derek Kwok y Clement Cheng\, 2
+ 010). Int.: Leung Siu-lung\, Chen Kuan-tai. Hong Kong / China. VOSI/E*. 98
+ '\nUn estimulante homenaje a las estrellas de antao del cine de accin de H
+ ong Kong y a las comedias de este gnero\, Gallants muestra a dos ex maestr
+ os de artes marciales\, Leung Siu-lung y Chan Kwun-tai\, que se refugian e
+ n el restaurante de un pueblo para cuidar a su maestro en coma. Los proble
+ mas llegan bajo la forma de una panda de matones de los despiadados promot
+ ores inmobiliarios a los que se les hace la boca agua con su propiedad. El
+  maestro vuelve en s sobresaltado\, y empuja sus antiguos alumnos a luchar
+  por el hogar y el pas. El director Derek Kwok ha reinventado un gran subg
+ nero con aplomo y un ojo puesto en nuevos horizontes.\n\n\nFuente: http://
+ www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
+ e/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metaal en Melancholie
+DTSTART;VALUE=DATE-TIME:20120316T200000
+DTEND;VALUE=DATE-TIME:20120316T212000
+UID:1203160020_2_dore
+DESCRIPTION:Sala 2 - Metaal en Melancholie (Metal y melancola\, H. Honigma
+ nn\, 1993). Documental. Pases Bajos / Per. Vdeo. VOE. 80'\nVer nota da 6.\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Place in the Sun
+DTSTART;VALUE=DATE-TIME:20120316T220000
+DTEND;VALUE=DATE-TIME:20120317T000200
+UID:1203160022_1_dore
+DESCRIPTION:Sala 1 - A Place in the Sun (Un lugar en el sol\, George Steve
+ ns\, 1951). Int.: Montgomery Clift\, E. Taylor\, Shelley Winters. EE UU. V
+ OSE. 122'\n"...y si George Stevens no hubiese sido el primero en utilizar 
+ la primera pelcula en diecisis en color en Auschwitz y Ravensbrck nunca\, 
+ sin duda\, la felicidad de Elizabeth Taylor habra encontrado un lugar en e
+ l sol..." (Jean-Luc Godard en Histoire(s) du cinma)\n\n\nFuente: http://ww
+ w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
+ cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un verano para matar / Meurtres au soleil / Ricatto alla mala
+DTSTART;VALUE=DATE-TIME:20120318T173000
+DTEND;VALUE=DATE-TIME:20120318T192600
+UID:1203183017_1_dore
+DESCRIPTION:Sala 1 - Un verano para matar / Meurtres au soleil / Ricatto a
+ lla mala (Antonio Isasi-Isasmendi\, 1972). Int.: Christopher Mitchum\, Oli
+ via Hussey\, Karl Malden. Espaa / Francia / Italia. 116'\n"Un verano para 
+ matar cierra la triloga de la edad de oro de Isasi\, su esplendor cosmopol
+ ita. Es un slido thriller de accin\, convencional\, desigual\, cuyo argume
+ nto vendra a responder a la pregunta formulada en una de sus impagables fr
+ ases publicitarias: 'Por qu un muchacho atractivo\, al que le gustan las c
+ hicas\, los perros y las motos\, va por ah matando gente?' El muchacho de 
+ marras\, encarnado por un rubiales Christopher Mitchum que intenta imitar 
+ el inimitable gesto lacnico de su padre Robert\, es en realidad un ngel ve
+ ngador." (Jordi Batlle) Segunda proyeccin da 28.\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yan kan hei ket / La Comdie humaine
+DTSTART;VALUE=DATE-TIME:20120318T183000
+DTEND;VALUE=DATE-TIME:20120318T201000
+UID:1203183018_2_dore
+DESCRIPTION:Sala 2 - Yan kan hei ket / La Comdie humaine (Chan Hing-kai y 
+ Janet Chun\, 2010). Int.: Chapman To\, Wong Cho-lam\, Fiona Sit. Hong Kong
+  / China. VOSI/E*. 100'\nUn asesino a sueldo profesional de China cae lite
+ ralmente del cielo para un desafortunado guionista cuatro ojos\, y los dos
+  beben tanto que cuatro ojos empieza a contar a su nuevo amigo historias s
+ entimentales. Naturalmente\, tratan sobre una mujer. Ella es hermosa y le 
+ ama pero cuando se enrabieta le pega una paliza\, lo que sucede con bastan
+ te frecuencia. A partir de unas premisas tan extravagantes\, los directore
+ s Chan Hing-kai y Janet Chun crean una deliciosa comedia sobre una de las 
+ fantasas ms extraas y estpidas de la humanidad: el amor puede con todo. Y 
+ todo ello con algunos giros endiablados\, para rematar.\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado de futuros
+DTSTART;VALUE=DATE-TIME:20120318T195000
+DTEND;VALUE=DATE-TIME:20120318T214000
+UID:1203185019_1_dore
+DESCRIPTION:Sala 1 - Mercado de futuros (M. lvarez\, 2011). Documental. Es
+ paa. Vdeo. VOSE. 110'\nVer nota da 15.\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yuet Moon Hin Nei See / Crossing Hennessy
+DTSTART;VALUE=DATE-TIME:20120318T210000
+DTEND;VALUE=DATE-TIME:20120318T224500
+UID:1203180021_2_dore
+DESCRIPTION:Sala 2 - Yuet Moon Hin Nei See / Crossing Hennessy (Ivy Ho\, 2
+ 010). Int.: Jacky Cheung\, Tang Wei\, Danny Lee. Hong Kong / China. VOSI/E
+ *. 105'\nSegunda proyeccin y nota da 21.\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giant
+DTSTART;VALUE=DATE-TIME:20120320T173000
+DTEND;VALUE=DATE-TIME:20120320T205100
+UID:1203203017_1_dore
+DESCRIPTION:Sala 1 - Giant (Gigante\, George Stevens\, 1956). Int.: E. Tay
+ lor\, Rock Hudson\, James Dean. EE UU. VOSE*. 201'\n"En Gigante\, una Liz 
+ que avanza hacia el sex-symbol y hacia su propio perfeccionamiento como ac
+ triz (es decir\, mejora de personalidad) tiene\, de cara a su cotizacin\, 
+ el acicate mximo de convertirse en algo as como la madre de medio Texas. N
+ os encontramos en pleno apogeo de la saga nacional\, y si el film empieza 
+ con una Liz jovencsima\, tal vez caprichosa como siempre\, no ser sin que\
+ , tres horas y media de proyeccin ms tarde (o cuarenta aos de duracin temp
+ oral\, si se prefiere)\, se nos aparezca madura\, abuela\, consciente de s
+ us deberes histricos: histrica ella misma. Es una Liz all-american\, que s
+ e convierte en favorita del pblico por resumir -y se presenta- todas las e
+ sencias del matriarcado creador de razas." (Terenci Moix)\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El otro
+DTSTART;VALUE=DATE-TIME:20120320T200000
+DTEND;VALUE=DATE-TIME:20120320T213800
+UID:1203200020_2_dore
+DESCRIPTION:Sala 2 - El otro (Taller de fotografa y vdeo social coordinado
+  por Juan Carlos Garca-Sampedro\, 2011). Vdeo. 26'. Superliberal (Scott Cl
+ averdon y Assumpta Serna\, 2010). Vdeo. 5'. Deseos (Yolanda Olmos\, 2011).
+  Vdeo. 17'. La media pena (Sergio Barrejn\, 2011). Digital. 14'. Notas de 
+ un inmigrante (Bruno Barranco\, 2010). Vdeo. 24'. La broma (Luis Arenas). 
+ 12'. Total programa: 98'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
+ /PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fun sau suet oi nei / Break Up Club
+DTSTART;VALUE=DATE-TIME:20120320T213000
+DTEND;VALUE=DATE-TIME:20120320T232300
+UID:1203203021_1_dore
+DESCRIPTION:Sala 1 - Fun sau suet oi nei / Break Up Club (Barbara Wong\, 2
+ 010). Int.:\nFiona Sit\, Jaycee Chan\, Patrick Tang. Hong Kong / China. VO
+ SI/E*. 113'\nVer nota da 16. Mircoles 21\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yuet Moon Hin Nei See / Crossing Hennessy
+DTSTART;VALUE=DATE-TIME:20120320T173000
+DTEND;VALUE=DATE-TIME:20120320T191500
+UID:1203203017_1_dore
+DESCRIPTION:Sala 1 - Yuet Moon Hin Nei See / Crossing Hennessy (Ivy Ho\, 2
+ 010). Int.: Jacky Cheung\, Tang Wei\, Danny Lee. Hong Kong / China. VOSI/E
+ *. 105'\nHennessy Road en Wanchai es el autntico Hong Kong\, como Delancey
+  en el Lower East Side es el autntico Nueva York. Oi-lin (Tang Wei) y Loy 
+ (Jacky Cheung) viven y trabajan en Hennessy Road. Ella se ocupa de los alm
+ acenes de baeras de su to\, y l es vendedor ambulante de los deshumidifica
+ dores de su madre. Sus mayores\, impacientes por casarles\, les apaan una 
+ cita. Pero\, desgraciadamente\, Loy contina perdidamente enamorado de un a
+ ntiguo amor\, y Oi-lin est esperando a que su novio salga de la crcel. Con
+  un encantador reparto y un exquisito guin\, el director Ivy Ho lleva a bu
+ en puerto una comedia romntica nica en su especie\, llena de valores famil
+ iares y que es\, a la vez\, 100% de Hong Kong y completamente universal.\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spione
+DTSTART;VALUE=DATE-TIME:20120320T193500
+DTEND;VALUE=DATE-TIME:20120320T221500
+UID:1203203519_1_dore
+DESCRIPTION:Sala 1 - Spione (Spione\, F. Lang\, 1927). Int.: Rudolf Klein-
+ Rogge\, Gerda Maurus\, Willy Fritsch. Alemania. MRA/E*. 150' a 24 f/s. Pau
+ sa de 10' a mitad de la pelcula. Total programa: 160'\nAcompaamiento al pi
+ ano de Mariano Marn. "Mabuse\, el doctor loco\, smbolo y metfora de la mor
+ alidad decadente y del malestar de la Alemania de postguerra\, mostraba\, 
+ al menos en un episodio de su carrera criminal... algo parecido a un gesto
+  de humanidad. (...) Haghi\, el jefe espa\, no es nada menos que lo que ll
+ amaramos hoy un ordenador humano. Haghi no tiene sentimientos. Siente un c
+ ompleto desprecio por los seres humanos. Para l\, slo son peones que despl
+ aza sobre un tablero de ajedrez segn su espritu matemtico." (Fritz Lang Se
+ gunda proyeccin da 30.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/P
+ rograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Het ondergrondse orkest
+DTSTART;VALUE=DATE-TIME:20120320T200000
+DTEND;VALUE=DATE-TIME:20120320T214800
+UID:1203200020_2_dore
+DESCRIPTION:Sala 2 - Het ondergrondse orkest (La orquesta subterrnea\, H. 
+ Honigmann\, 1997). Documental. Pases Bajos / Francia. VOSE*. 108'\nDescend
+ emos al metro de Pars donde encontramos a msicos de todo el mundo que toca
+ n para sobrevivir. Se trata de inmigrantes ilegales que escaparon de la re
+ presin poltica de sus pases de origen y que ahora encuentran refugio en es
+ ta gran ciudad.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDo
+ re99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Secret Ceremony
+DTSTART;VALUE=DATE-TIME:20120322T173000
+DTEND;VALUE=DATE-TIME:20120322T191900
+UID:1203223017_1_dore
+DESCRIPTION:Sala 1 - Secret Ceremony (Ceremonia secreta\, Joseph Losey\, 1
+ 968). Int.: E. Taylor\, Mia Fa-rrow\, Robert Mitchum. Reino Unido. VOSE*. 
+ 109'\nSegunda proyeccin y nota da 24.\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austeria
+DTSTART;VALUE=DATE-TIME:20120322T194000
+DTEND;VALUE=DATE-TIME:20120322T212500
+UID:1203224019_1_dore
+DESCRIPTION:Sala 1 - Austeria (Jerzy Kawalerowicz\, 1982). Int.: Francisze
+ k Pieczka\, Wojgiech Pszoniak\, Li-liana Glabczinska. Polonia. Digital. VO
+ SE. 105'\n1914\, primer da de la Primera Guerra Mundial. En una localidad 
+ al este del Imperio Austro-Hngaro -uno de los primeros lugares afectados p
+ or las persecuciones de los cosacos-\, en la posada del viejo Tag\, encuen
+ tran refugio otros judos\, desheredados\, de diferente procedencia. As emp
+ ieza esta adaptacin de la novela Austeria\, de Julian Stryjkowski\, cuyo t
+ tulo da nombre a la posada en la que se sita el argumento. Esta pelcula -l
+ a ms significativa de Kawalerowicz junto a Madre Juana de los ngeles- nos 
+ introduce en la desconocida y lejana cultura de los judos polacos. Una soc
+ iedad de costumbres originales\, con su filosofa y religiosidad propias\, 
+ y con su especfico sentido del humor. Ahora bien\, aunque pueda ser interp
+ retada como un presagio del Holocausto (en la secuencia final la sangre se
+  mezcla con el agua...)\, no se hace ninguna referencia explcita. Por otra
+  parte\, el viejo Tag\, estoico\, razonable\, provisto de consejos\, es el
+  nico personaje con una visin crtica de su sociedad y representa el vnculo
+  entre el mundo hermtico de estos judos\, inconscientes de lo que sucede\;
+  y la realidad\, de la que tiene una visin ms escptica. Filme programado e
+ n el marco de la exposicin Y sigo viendo sus rostros. Los judos polacos en
+  las fotografas\, visitable hasta el 10 de abril en la sede de Sefarad Isr
+ ael en Madrid.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDor
+ e99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forever
+DTSTART;VALUE=DATE-TIME:20120322T200000
+DTEND;VALUE=DATE-TIME:20120322T213500
+UID:1203220020_2_dore
+DESCRIPTION:Sala 2 - Forever (H. Honigmann\, 2006). Documental. Pases Bajo
+ s / Francia. VOSE. 95'\nVer nota da 10.\n\n\nFuente: http://www.mecd.gob.e
+ s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
+ ogramacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reflections in a Golden Eye
+DTSTART;VALUE=DATE-TIME:20120322T215000
+DTEND;VALUE=DATE-TIME:20120322T233900
+UID:1203225021_1_dore
+DESCRIPTION:Sala 1 - Reflections in a Golden Eye (Reflejos en 	un ojo dora
+ do\, John Huston\, 1967). Int.: E. Taylor\, Marlon Brando. EE UU. VOSS/E*.
+  109'\nSegunda proyeccin y nota da 30.\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Une femme douce
+DTSTART;VALUE=DATE-TIME:20120323T173000
+DTEND;VALUE=DATE-TIME:20120323T185800
+UID:1203233017_1_dore
+DESCRIPTION:Sala 1 - Une femme douce (Robert Bresson\, 1969). Int.: Domini
+ que Sanda\, Guy Frangin\, Jeanne Lobre. Francia. VOSE*. 88'\nSegunda proye
+ ccin y nota da 28.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/Progr
+ aDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suddenly\, Last Summer
+DTSTART;VALUE=DATE-TIME:20120323T193000
+DTEND;VALUE=DATE-TIME:20120323T212400
+UID:1203233019_1_dore
+DESCRIPTION:Sala 1 - Suddenly\, Last Summer (De repente\, el 	ltimo verano
+ \, Joseph L. Mankiewicz\, 1959). Int.: E. Taylor\, Katharine Hepburn\, Mon
+ tgomery Clift. EE UU. VOSE*. 114'\nDe la noche a la maana\, lo que haba si
+ do un beauty symbol se erotizaba considerablemente para dar el salto que v
+ a de la tirana de Rapsodia a la casi demente sexual Maggie de La gata sobr
+ e el tejado de cinc o la Catherine de Suddenly Last Summer cuya demencia s
+  tiene\, realmente\, slo razones de un erotismo frustrado. Es\, para enten
+ dernos\, cuando Liz Taylor\, ex novia de Amrica\, irrumpe con una nueva\, 
+ clida sensualidad en el mundo pretendidamente explosivo de Tennessee Willi
+ ams. (T. Moix) "Mankiewicz est merecidamente orgulloso de la actuacin que 
+ obtuvo de Elizabeth Taylor y de la extraordinaria secuencia en flashback q
+ ue concibi para ilustrar el relato de ella sobre la muerte de Sebastian." 
+ (Kenneth L. Geist) Segunda proyeccin da 27.\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tot ziens
+DTSTART;VALUE=DATE-TIME:20120323T200000
+DTEND;VALUE=DATE-TIME:20120323T215400
+UID:1203230020_2_dore
+DESCRIPTION:Sala 2 - Tot ziens (Adis\, H. Honigmann\, 1995). Int.: Johanna
+  ter Steege\, Guy Van Sande\, Els Dottermans. Pases Bajos. Vdeo. VOSE*. 11
+ 4'\nTot Ziens es una historia de amor imposible porque Jan est casado\, am
+ a a su mujer y no puede soportar engaarla. Por eso intenta una y otra vez 
+ poner fin a su relacin con Laura. No pueden estar juntos pero tampoco sepa
+ rados.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
+ ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.
+ doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sandpiper
+DTSTART;VALUE=DATE-TIME:20120323T220000
+DTEND;VALUE=DATE-TIME:20120323T235700
+UID:1203230022_1_dore
+DESCRIPTION:Sala 1 - The Sandpiper (Castillos en la arena\, Vincente Minne
+ lli\, 1965). Int.: E. Taylor\, Richard Burton\, Eva Marie Saint. EE UU. VO
+ SE. 117'\n...ella [Elizabeth Taylor] interpretaba a un espritu libre que d
+ esafa lo convencional\, y l [Richard Burton] a un pastor protestante cuyas
+  inhibiciones se desvanecen gracias al amor que siente por ella. (V. Minne
+ lli) Segunda proyeccin da 29. Sbado 24\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Guerre des boutons
+DTSTART;VALUE=DATE-TIME:20120323T173000
+DTEND;VALUE=DATE-TIME:20120323T190000
+UID:1203233017_1_dore
+DESCRIPTION:Sala 1 - La Guerre des boutons (La guerra de los 	botones\, Yv
+ es Robert\, 1961). Int.: Jacques Dufilho\, Yvette Etivant\, Michel Galabru
+ . Francia. VE. 90'\nYves Robert produce l mismo con su esposa Da-nile Delo
+ rme\, La Guerre des boutons (1961)\, basada en la obra de Louis Pergaud\, 
+ que no quera nadie con el pretexto de que las pelculas infantiles no dan n
+ unca dinero. Distribuida al fin por la compaa americana Warner Bros\, esta
+  epopeya cmica de la infancia aldeana triunfa en Francia\, y luego fuera. 
+ Se lleva el premio Jean-Vigo 1962 y lanza al personaje del Petit Gibus (Ma
+ rtin Lartigue)\, que se convierte en la estrella de Bebert et lomnibus (19
+ 63). (Jacques Siclier) Entrada libre para menores de 14 aos.\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who's Afraid of Virginia Woolf?
+DTSTART;VALUE=DATE-TIME:20120323T193000
+DTEND;VALUE=DATE-TIME:20120323T214100
+UID:1203233019_1_dore
+DESCRIPTION:Sala 1 - Who's Afraid of Virginia Woolf? (Quin teme a Virginia
+  Woolf?\, Mike Nichols\, 1966). Int.: E. Taylor\, Richard Burton\, George 
+ Segal. EE UU. VOSE*. 131'\nEn Quin teme a Virginia Woolf? (por la que gan 
+ su segundo scar a la mejor actriz\, tras Una mujer marcada)\, [Taylor] era
+  una estridente vieja bruja que utilizaba la bebida para anestesiar las de
+ cepciones de la vida y la agresin verbal para proporcionar la ilusin de co
+ ntrol. (Fiona Valentine y Audrey E. Kupferberg) Segunda proyeccin da 28.\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:O amor natural
+DTSTART;VALUE=DATE-TIME:20120323T200000
+DTEND;VALUE=DATE-TIME:20120323T211700
+UID:1203230020_2_dore
+DESCRIPTION:Sala 2 - O amor natural (El amor natural\, H. Honigmann\, 1996
+ ). Documental. Pases Bajos / Brasil. VOSE*. 77'\nVer nota da 8.\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Secret Ceremony
+DTSTART;VALUE=DATE-TIME:20120323T220000
+DTEND;VALUE=DATE-TIME:20120323T234900
+UID:1203230022_1_dore
+DESCRIPTION:Sala 1 - Secret Ceremony (Ceremonia secreta\, Joseph Losey\, 1
+ 968). Int.: E. Taylor\, Mia Farrrow\, Robert Mitchum. Reino Unido. VOSE*. 
+ 109'\nEs la historia de tres personas que viven una absoluta soledad\, que
+  se necesitan unas a otras y que acaban destruyndose. (J. Losey)\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleopatra
+DTSTART;VALUE=DATE-TIME:20120325T173000
+DTEND;VALUE=DATE-TIME:20120325T204200
+UID:1203253017_1_dore
+DESCRIPTION:Sala 1 - Cleopatra (Cleopatra\, Joseph L. Mankiewicz\, 1963). 
+ Int.: E. Taylor\, Richard Burton\, Rex Harrison. EE UU. Digital. VOSE. 192
+ '\n"Cuando cog la neumona\, estaba trabajando en Londres en la produccin d
+ e Walter Wanger de Cleopatra. Los papeles no estaban asignados cuando acab
+  Una mujer marcada. Para cuando me hube recuperado lo suficiente como para
+  trabajar de nuevo\, el equipo inicial de Cleopatra haba sido completament
+ e disuelto\, el guin reescrito\, Joe Mankiewicz hecho director -y guionist
+ a principal- el escenario trasladado a Roma\, y el proyecto entero inflado
+  a escala pantagrulica. Incluso mi camerino era cinco veces el normal. Est
+ uve vinculada a Cleopatra durante cinco aos de manera intermitente\, y seg
+ uramente esa pelcula sea la obra de entretenimiento ms extraa que se haya 
+ acometido -las circunstancias\, la gente involucrada\, el dinero gastado."
+  (E. Taylor)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore9
+ 9-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El olvido
+DTSTART;VALUE=DATE-TIME:20120325T190000
+DTEND;VALUE=DATE-TIME:20120325T203300
+UID:1203250019_2_dore
+DESCRIPTION:Sala 2 - El olvido (H. Honigmann\, 2008). Documental. Pases Ba
+ jos / Per. VOE. 93'\nVer nota da 14.\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Diable probablement
+DTSTART;VALUE=DATE-TIME:20120325T211500
+DTEND;VALUE=DATE-TIME:20120325T225100
+UID:1203251521_1_dore
+DESCRIPTION:Sala 1 - Le Diable probablement (El diablo probablemente\, Rob
+ ert Bresson\, 1976). Int.: Antoine Monnier\, Tina Irissari\, Henri de Maub
+ lanc. Francia. VOSP/E*. 96'\nEn un film de Bresson se trata menos de mostr
+ ar que de ocultar. La ecologa\, la iglesia moderna\, la droga\, la psiquia
+ tra\, el suicidio? No\, el tema de El diablo probablemente no est ah. El v
+ erdadero tema es la inteligencia\, la gravedad y la belleza de los adolesc
+ entes de hoy y\, especialmente\, de cuatro de ellos de los que podra decir
+ se con Cocteau que el aire que respiran es ms ligero que el aire. No encon
+ traris esta nobleza en muchos films. El cine es un arte\, pero no todos lo
+ s cineastas son artistas\, Bresson s\, y su nueva obra maestra El diablo p
+ robablemente es un film voluptuoso. (Franois Truffaut\, 1977) Segunda proy
+ eccin da 27.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore9
+ 9-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El cielo gira
+DTSTART;VALUE=DATE-TIME:20120327T173000
+DTEND;VALUE=DATE-TIME:20120327T192500
+UID:1203273017_1_dore
+DESCRIPTION:Sala 1 - El cielo gira (M. lvarez\, 2004). Documental. Espaa. 
+ 115'\nVer nota da 11.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/Pr
+ ograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Diable probablement
+DTSTART;VALUE=DATE-TIME:20120327T194500
+DTEND;VALUE=DATE-TIME:20120327T212100
+UID:1203274519_1_dore
+DESCRIPTION:Sala 1 - Le Diable probablement (El diablo probablemente\, Rob
+ ert Bresson\, 1976). Int.: Antoine Monnier\, Tina Irissari. Francia. VOSE*
+ . 96'\nVer nota da 25.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/P
+ rograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A travs de San Sebastin
+DTSTART;VALUE=DATE-TIME:20120327T200000
+DTEND;VALUE=DATE-TIME:20120327T215200
+UID:1203270020_2_dore
+DESCRIPTION:Sala 2 - A travs de San Sebastin (Antxon Eceiza y Elas Quereje
+ ta\, 1960). Documental. Espaa. 11'. A travs del ftbol (A. Eceiza y E. Quer
+ ejeta\, 1961). Doc. Espaa. 8'. De cuerpo presente (A. Eceiza\, 1965). Int.
+ : Carlos Larraaga\, Franoise Brion. Espaa. 93'. Total programa: 112'\n"En 
+ A travs de San Sebastin [Querejeta y Eceiza] filman la ciudad lejos de los
+  clichs tursticos habituales\, con inslitos encuadres que rompen con el 'm
+ arco incomparable' que pregonan los folletos tursticos. A travs del ftbol\
+ , que traza un paralelismo entre el deporte rey y distintos sucesos de la 
+ Espaa de la primera mitad del siglo XX\, lleg a contar con ms de treinta c
+ ortes [de la censura] que se llevaron por delante cuatro de sus once minut
+ os." (Jess Angulo) "De cuerpo presente (1965) es un thriller de atmsfera s
+ urrealista\, trufado de humor irnico\, que permanece hoy como el ms intere
+ sante de los cuatro largometrajes que Eceiza realiz para Querejeta. Junto 
+ al decidido tono surreal\, el director practica cierto experimentalismo fo
+ rmal entre el que se dejan ver cidas cargas de profundidad contra la estti
+ ca del diseo y la publicidad\, que la Escuela de Barcelona\, a punto de na
+ cer\, enarbolara como una de sus enseas. (J. Angulo) Segunda proyeccin cor
+ tometrajes da 31.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
+ d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/Progra
+ Dore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suddenly\, Last Summer
+DTSTART;VALUE=DATE-TIME:20120327T214000
+DTEND;VALUE=DATE-TIME:20120327T233400
+UID:1203274021_1_dore
+DESCRIPTION:Sala 1 - Suddenly\, Last Summer (De repente\, el ltimo verano\
+ , Joseph L. Mankiewicz\, 1959). Int.: E. Taylor\, Katharine Hepburn\, Mont
+ gomery Clift. EE UU. VOSE*. 114'\nVer nota da 23. Mircoles 28\n\n\nFuente:
+  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
+ ine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gnalogies dun crime / Genealogias de um crime
+DTSTART;VALUE=DATE-TIME:20120327T173000
+DTEND;VALUE=DATE-TIME:20120327T192300
+UID:1203273017_2_dore
+DESCRIPTION:Sala 2 - Gnalogies dun crime / Genealogias de 	um crime (Genea
+ logas de un crimen\, R. Ruiz\, 1997). Int.: Catherine Deneuve\, Michel Pic
+ coli\, Melvil Poupaud. Francia / Portugal. VOSE*. 113'\n"Solange (Catherin
+ e Deneuve) es abogada\, acaba de perder a su hijo y se encuentra simultnea
+ mente en la situacin de defender a Ren (Melvil Poupaud)\, joven taciturno 
+ acusado del asesinato de su ta\, Jeanne\, en misteriosas circunstancias. E
+ ste punto de partida\, evidentemente\, es nicamente el detonador de una mq
+ uina infernal con mecanismo de relojera\, la base frgil de un edificio bar
+ roco que se tambalea ms de una vez ante nosotros. El verdadero origen de l
+ a pelcula (y del crimen) es la historia de Hermine van Hug\, psiconalista 
+ amiga de Freud\, asesinada por su sobrino. Este suceso que ha quedado como
+  un punto oscuro en la historia del movimiento analtico\, es tanto ms curi
+ osa en cuanto que el sobrino en cuestin fue para la ta Hermine un tema de 
+ estudio muy valioso." (Thierry Jouss)\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who's Afraid of Virginia Woolf?
+DTSTART;VALUE=DATE-TIME:20120327T191500
+DTEND;VALUE=DATE-TIME:20120327T212600
+UID:1203271519_1_dore
+DESCRIPTION:Sala 1 - Who's Afraid of Virginia Woolf? (Quin teme a Virginia
+  Woolf?\, Mike Nichols\, 1966). Int.: E. Taylor\, Richard Burton\, George 
+ Segal. EE UU. VOSE*. 131'\nVer nota da 24.\n\n\nFuente: http://www.mecd.go
+ b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
+ /programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un verano para matar / Meurtres au soleil / Ricatto alla mala
+DTSTART;VALUE=DATE-TIME:20120327T200000
+DTEND;VALUE=DATE-TIME:20120327T215600
+UID:1203270020_2_dore
+DESCRIPTION:Sala 2 - Un verano para matar / Meurtres au soleil / Ricatto a
+ lla mala (Antonio Isasi-Isasmendi\, 1972). Int.: Christopher Mitchum\, Oli
+ via Hussey\, Karl Malden. Espaa / Francia / Italia. 116'\nVer nota da 18.\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Une femme douce
+DTSTART;VALUE=DATE-TIME:20120327T214500
+DTEND;VALUE=DATE-TIME:20120327T231300
+UID:1203274521_1_dore
+DESCRIPTION:Sala 1 - Une femme douce (Robert Bresson\, 1969). Int.: Domini
+ que Sanda\, Guy Frangin\, Jeanne Lobre. Francia. VOSE*. 88'\nLa historia e
+ s banal\, la historia misma es crnica de sucesos\, banal. Mucho menos bana
+ l es el hombre que ante esta muerta se interroga y se encuentra ante una c
+ aja cerrada que nunca dir nada y de la que nunca se sabr nada\, y que no e
+ s interpretable. No es\, de ninguna manera\, la historia del suicidio\; es
+ o no tiene inters para m. Es la confrontacin entre la muerte y la vida. (R
+ . Bresson)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-
+ doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sandpiper
+DTSTART;VALUE=DATE-TIME:20120329T173000
+DTEND;VALUE=DATE-TIME:20120329T192700
+UID:1203293017_1_dore
+DESCRIPTION:Sala 1 - The Sandpiper (Castillos en la arena\, Vincente Minne
+ lli\, 1965). Int.: E. Taylor\, Richard Burton\, Eva Marie Saint. EE UU. VO
+ SE. 117'\nVer nota da 23.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/201
+ 2/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frau im Mond
+DTSTART;VALUE=DATE-TIME:20120329T200000
+DTEND;VALUE=DATE-TIME:20120329T225000
+UID:1203290020_1_dore
+DESCRIPTION:Sala 1 - Frau im Mond (La mujer en la luna\, Fritz Lang\, 1929
+ ). Int.: Gerda Maurus\, Willy Fritsch. Alemania. MRA/E*. 160' a 24 f/s. Pa
+ usa de 10' a mitad de pelcula. Total programa: 170'\nAcompaamiento al pian
+ o de J. Prez de Azpeitia. "Ahora que el hombre ha ido realmente a la luna\
+ , es fcil ver nicamente en esta fantasa sobre un viaje al futuro una visin
+  modernizada del Voyage dans la Lune (Mlis\, 1902). No olvidemos\, sin emb
+ argo\, la obsesin de Lang por la exactitud. Sus mtodos de trabajo sistemti
+ cos\, siempre fundados en bases documentales\, le llevaron a consultar a e
+ specialistas: contrat como consejero tcnico a Herman Oberth\, gran experto
+  en materia de cohetes y viajes interplanetarios\, asistido por Willy Ley.
+ " (Lotte H. Eisner) Segunda proyeccin da 31.\n\n\nFuente: http://www.mecd.
+ gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
+ re/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regeneracin
+DTSTART;VALUE=DATE-TIME:20120329T204500
+DTEND;VALUE=DATE-TIME:20120329T214300
+UID:1203294520_2_dore
+DESCRIPTION:Sala 2 - Regeneracin (Pedro Estepa\, 2011). Vdeo. 6'. Pasares 
+ (Jos Luis Mora\, 2011). Vdeo. 6'. Mi amor vive en las alcantarillas (Manue
+ l Arija\, 2008). Vdeo. 18'. La persecucin (pre) establecida (Miguel . Garc
+ a de la Calera\, 2011). Vdeo. 14'. Nadie tiene la culpa (Esteban Crespo\, 
+ 2011). 14'. Total programa: 58'\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ikuska 1: Ikastolak
+DTSTART;VALUE=DATE-TIME:20120329T220000
+DTEND;VALUE=DATE-TIME:20120329T231400
+UID:1203290022_2_dore
+DESCRIPTION:Sala 2 - Ikuska 1: Ikastolak (Jos Luis Egea\, 1979). 12'. Ikus
+ ka 3: Bilbo\n(Anton Merikaetxebarria\, 1979). 12'. Ikuska 5: Elebitasuna (
+ Koldo Izagirre\, 1979). 10'. Ikuska 9: Artistak (Jos Julin Bakedano\, 1980
+ ). 10'. Ikuska 11: Herribehera (Montxo Armendriz\, 1981). 11'. Ikuska 16: 
+ Donibane Lohitzun (A. Eceiza\, 1983). 9'. Ikuska 18: Bertsolariak (A. Ecei
+ za\, 1984). 10'. Documentales. Vdeo. VOEusSE*. Total programa: 74'\nVer no
+ ta da 13.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-d
+ oc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reflections in a Golden Eye
+DTSTART;VALUE=DATE-TIME:20120330T173000
+DTEND;VALUE=DATE-TIME:20120330T191900
+UID:1203303017_1_dore
+DESCRIPTION:Sala 1 - Reflections in a Golden Eye (Reflejos en 	un ojo dora
+ do\, John Huston\, 1967). Int.: E. Taylor\, Marlon Brando. EE UU. VOSS/E*.
+  109'\n"Se podra decir que Reflejos en un ojo dorado es una historia sobre
+  las pasiones humanas\, sobre el deseo de satisfaccin sexual y sus distint
+ as manifestaciones y sobre el concepto de normalidad y anormalidad (...). 
+ Reflejos en un ojo dorado fue una pelcula muy atrevida para la poca\, teni
+ endo en cuenta\, sobre todo\, el peso que dentro de la industria hollywood
+ ense tenan por entonces Marlon Brando y Elizabeth Taylor." (Marcial Canter
+ o)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
+ areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spione
+DTSTART;VALUE=DATE-TIME:20120330T194000
+DTEND;VALUE=DATE-TIME:20120330T222000
+UID:1203304019_1_dore
+DESCRIPTION:Sala 1 - Spione (Spione\, F. Lang\, 1927). Int.: Rudolf Klein-
+ Rogge\, Gerda Maurus\, Willy Fritsch. Alemania. MRA/E*. 150' a 24 f/s. 10'
+  de pausa a mitad de pelcula. Total programa: 160'\nAcompaamiento al piano
+  de J. Prez de Azpeitia. Ver nota da 21.\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:And Then One Day
+DTSTART;VALUE=DATE-TIME:20120330T200000
+DTEND;VALUE=DATE-TIME:20120330T224000
+UID:1203300020_2_dore
+DESCRIPTION:Sala 2 - And Then One Day (Y un buen da...\, H. Honigmann\, 20
+ 11). Int.: Maryan Hossouni\, Nasdrin Dchar. Pases Bajos. Digital. VOSE. 30
+ '. Goed man\, lieve zoon (Buen hombre\, querido hijo\, H. Honigmann\, 2001
+ ). Documental. Pases Bajos / Bosnia. Vdeo. VOSE*. 50'. Total programa: And
+  Then One Day: Alia y Hamza son una joven pareja de enamorados marroqu. Pa
+ ra hacer frente a la controvertida ley que prohbe el uso del hiyab\, Alia\
+ , con el apoyo incondicional de su marido y sus colegas\, encuentra una fo
+ rma atpica y divertida de saltarse las normas. Goed man\, lieve zoon: La v
+ ida transcurre a un ritmo tranquilo en Ahatovici\, una pintoresca aldea en
+  las colinas de Sarajevo. Ms del 80% de la poblacin (mayoritariamente masc
+ ulina)\, fue encarcelada y asesinada durante las guerras civiles. Diez aos
+  despus\, las mujeres realizan las labores domsticas y los rituales cotidi
+ anos\, cargando el peso del dolor.\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las secretas intenciones
+DTSTART;VALUE=DATE-TIME:20120330T220000
+DTEND;VALUE=DATE-TIME:20120330T233000
+UID:1203300022_2_dore
+DESCRIPTION:Sala 2 - Las secretas intenciones (A. Eceiza\, 1969). Int.: Je
+ an-Louis Trintignant\, Hayde Politoff\, Teresa del Ro. Espaa. 90'\nVer not
+ a da 8. Sbado 31\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograD
+ ore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bian lian
+DTSTART;VALUE=DATE-TIME:20120330T173000
+DTEND;VALUE=DATE-TIME:20120330T191100
+UID:1203303017_1_dore
+DESCRIPTION:Sala 1 - Bian lian (El rey de las mscaras\, Wu Tianming\, 1996
+ ). Int.: Chu Yuk\, Zhang Riuyang\, Zhao Zhigang. China / Hong Kong. VE. 10
+ 1'\nEntrada libre para menores de 14 aos. Ver nota da 17.\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A travs de San Sebastin
+DTSTART;VALUE=DATE-TIME:20120330T190000
+DTEND;VALUE=DATE-TIME:20120330T215000
+UID:1203300019_2_dore
+DESCRIPTION:Sala 2 - A travs de San Sebastin (Antxon Eceiza y Elas Quereje
+ ta\, 1960). Documental. Espaa. 11'. A travs del ftbol (A. Eceiza y E. Quer
+ ejeta\, 1961). Doc. Espaa. 8'. El prximo otoo (A. Eceiza\, 1963). Int.: Ma
+ nuel Manzaneque\, Sonia Bruno\, Tota Alba. Espaa. 85'. Total programa: 104
+ '\nthhhhh Q=p==== `fjlsWl*I "$fg=n |pppppppppp Alemania. MRA/E*. 160' a 24
+  f/s. 10' de pausa a mitad de pelcula. Total programa: 170'\nAcompaamiento
+  al piano de J. Prez de Azpeitia. Ver nota da 29.\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2012/PrograDore99-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Per grazia ricevuta
+DTSTART;VALUE=DATE-TIME:20120330T220000
+DTEND;VALUE=DATE-TIME:20120330T235900
+UID:1203300022_2_dore
+DESCRIPTION:Sala 2 - Per grazia ricevuta (Las tentaciones de Benedetto\, N
+ ino Manfredi\, 1970). Int.: N. Manfredi\, Lionel Stander. Italia. 119'\nVe
+ r nota da 6.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore9
+ 9-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+END:VCALENDAR

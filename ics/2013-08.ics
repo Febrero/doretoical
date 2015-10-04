@@ -1,0 +1,986 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cine Doré//github.com santos82 doredb//ES
+X-WR-CALNAME:Cine Dore
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+SUMMARY:Mortadelo y Filemn. Misin: Salvar la Tierra
+DTSTART;VALUE=DATE-TIME:20130802T180000
+DTEND;VALUE=DATE-TIME:20130802T193400
+UID:1308020018_1_dore
+DESCRIPTION:Sala 1 - Mortadelo y Filemn. Misin: Salvar la Tierra (Miguel B
+ ardem\, 2007). Int.: Eduard Soto\, Pepe Viyuela\, Berta Ojea. Espaa. 35mm.
+  94'\nSi Fesser so a los personajes de Ibez en el centro de su potica pers
+ onal\, Bardem intenta acercarse ms a su modelo\, articulando una aventura 
+ quizs menos excntrica\, pero ms legible\, con voluntad de lograr un produc
+ to familiar (Jordi Costa). Entrada libre para menores de 14 aos.\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:True Grit
+DTSTART;VALUE=DATE-TIME:20130802T200000
+DTEND;VALUE=DATE-TIME:20130802T213400
+UID:1308020020_1_dore
+DESCRIPTION:Sala 1 - True Grit (Valor de ley\, Joel y Ethan Coen\, 2010). 
+ Int.: Jeff Bridges\, Matt Damon\, Josh Brolin. EE UU. 35mm. VOSE. 108 Segu
+ nda proyeccin y nota da 6.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 13/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Shock Doctrine
+DTSTART;VALUE=DATE-TIME:20130802T223000
+DTEND;VALUE=DATE-TIME:20130803T000400
+UID:1308023022_1_dore
+DESCRIPTION:Sala 1 - The Shock Doctrine (La doctrina del shock\, Michael W
+ interbottom y Mat Whitecross\, 2009). Documental. Reino Unido. B-R. VOSE. 
+ 79 Ver nota da 1.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
+ d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Progra
+ Dore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Swan
+DTSTART;VALUE=DATE-TIME:20130804T180000
+DTEND;VALUE=DATE-TIME:20130804T193400
+UID:1308040018_1_dore
+DESCRIPTION:Sala 1 - Black Swan (Cisne negro\, Darren Aronofsky\, 2011). I
+ nt.: Natalie Portman\, Vincent Cassel\, Mila Kunis. EE UU. 35mm. VOSE. 108
+  Lo que realmente importa es que Aronofsky ve el mundo con los ojos de su 
+ herona\, y se mete dentro de su cuerpo y de su cabeza para que lo veamos y
+  lo pensemos igual que ella\, como si su delirante transformacin recogiera
+  ecos de La mosca\, pero tambin de Repulsin\, pelcula de la que Cisne negr
+ o parece un remake en formato panormico\, con sus fantasmas erticos y su l
+ ocura orgnica. (Sergi Snchez) Segunda proyeccin da 7.\n\n\nFuente: http://
+ www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
+ e/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hereafter
+DTSTART;VALUE=DATE-TIME:20130804T204500
+DTEND;VALUE=DATE-TIME:20130804T221900
+UID:1308044520_1_dore
+DESCRIPTION:Sala 1 - Hereafter (Ms all de la vida\, Clint Eastwood\, 2011)
+ . Int.: Matt Damon\, Ccile de France\, Bryce Dallas Howard. EE UU. 35mm. V
+ OSE. 124 Ms all de la vida vuelve a reclamar del espectador una fe absolut
+ a en la ficcin\, un gesto anacrnico en tiempos de interrogantes y sospecha
+ s. Sin rastro alguno de irona y prximo al exceso sentimentalista\, Eastwoo
+ d construye un drama planetario a tres bandas\, en el que supervivientes d
+ e tsunamis y amenazas terroristas nos presentan la posibilidad de la vida 
+ tras la muerte como una certeza. (Manu Yez)\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suspiros del corazn
+DTSTART;VALUE=DATE-TIME:20130806T180000
+DTEND;VALUE=DATE-TIME:20130806T193400
+UID:1308060018_1_dore
+DESCRIPTION:Sala 1 - Suspiros del corazn (Enrique Gabriel Lipschutz\, 2007
+ ). Int.: Roger Coma\, Mara Dupla\, Alejandro Awada. Espaa. 35mm. 89 A Fern
+ ando Valbuena de Montijos\, joven empresario espaol afincado en Buenos Air
+ es\, una revista de fotonovelas le acierta el horscopo de forma sorprenden
+ te. A pesar de no creer en el azar\, Fernando querr conocer a cualquier pr
+ ecio sus predicciones astrales del mes siguiente\, pues est a punto de tom
+ ar una importante decisin de negocios. Para ello\, acabar transformndose e
+ n actor de fotonovelas.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
+ ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/
+ PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Tree
+DTSTART;VALUE=DATE-TIME:20130806T200000
+DTEND;VALUE=DATE-TIME:20130806T214200
+UID:1308060020_1_dore
+DESCRIPTION:Sala 1 - The Tree (El rbol\, Julie Bertuccelli\, 2011). Int.: 
+ Charlotte Gainsbourg\, Morgana Davies\, Marton Csokas. Francia/Australia/A
+ lemania/Italia. 35mm. VOISE. 102'\nSegunda proyeccin y nota da 9.\n\n\nFue
+ nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
+ ra/cine/mc/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:True Grit
+DTSTART;VALUE=DATE-TIME:20130806T221000
+DTEND;VALUE=DATE-TIME:20130806T235200
+UID:1308061022_1_dore
+DESCRIPTION:Sala 1 - True Grit (Valor de ley\, Joel y Ethan Coen\, 2010). 
+ Int.: Jeff Bridges\, Matt Damon\, Josh Brolin. EE UU. 35mm. VOSE. 108 Plan
+ teada como una fbula sobre el valor de la venganza\, la prdida de la inoce
+ ncia y la posibilidad del perdn\, esta relectura del film de 1969 se erige
+  en una hipntica fantasmagora plagada de reliquias del Viejo Oeste. As\, a
+ sordinando el cinismo de su mirada\, pero conservando intactas la mordacid
+ ad y el retorcido humor negro\, los Coen vuelven a retratar el choque entr
+ e la cara amable del espritu yanqui y la cruda realidad de la Amrica amora
+ l\, habitada por monstruos deformados y antihroes moribundos. (Manu Yez) M
+ ircoles 7\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore116-
+ doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los colores de la montaa
+DTSTART;VALUE=DATE-TIME:20130806T180000
+DTEND;VALUE=DATE-TIME:20130806T194200
+UID:1308060018_1_dore
+DESCRIPTION:Sala 1 - Los colores de la montaa (Carlos Csar Arbelez\, 2010)
+ . Int.: Hernn Mndez Alonso\, Hernn Ocampo\, Norberto Snchez. Colombia. 35m
+ m. 92 Se trata aqu de ver cmo se va gestando una guerra secreta entre la g
+ uerrilla y el ejrcito\, intercambiables en su brutalidad- sin dar demasiad
+ as explicaciones de lo que est ocurriendo\, ponindose a la altura de los o
+ jos de la inocencia para que sea ella quien nos muestre la tensin de los a
+ dultos\, la disolucin de una comunidad. (Sergi Snchez) Segunda proyeccin d
+ a 10.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore116-doc.
+ doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lo mejor de m
+DTSTART;VALUE=DATE-TIME:20130806T200000
+DTEND;VALUE=DATE-TIME:20130806T214200
+UID:1308060020_1_dore
+DESCRIPTION:Sala 1 - Lo mejor de m (Roser Aguilar\, 2007). Int: Marian lva
+ rez\, Juan Sanz\, Llus Homar. Espaa. 35mm. 86 Pelcula comprometida con sus
+  criaturas\, inslitamente madura y ejemplarmente elegante\, habla de cosas
+  graves con una ejemplar falta de solemnidad\, pero\, al tiempo\, con la m
+ ayor seriedad del mundo. (Mirito Torreiro)\n\n\nFuente: http://www.mecd.go
+ b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
+ /programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Swan
+DTSTART;VALUE=DATE-TIME:20130806T215000
+DTEND;VALUE=DATE-TIME:20130806T233200
+UID:1308065021_1_dore
+DESCRIPTION:Sala 1 - Black Swan (Cisne negro\, Darren Aronofsky\, 2011). I
+ nt.: Natalie Portman\, Vincent Cassel\, Mila Kunis. EE UU. 35mm. VOSE. 108
+  Ver nota da 4.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDo
+ re116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tourne
+DTSTART;VALUE=DATE-TIME:20130808T180000
+DTEND;VALUE=DATE-TIME:20130808T194200
+UID:1308080018_1_dore
+DESCRIPTION:Sala 1 - Tourne (Tourne\, Mathieu Amalric\, 2011). Int.: Mathi
+ eu Amalric\, Miranda Colclasure\, Angela De Lorenzo. Francia. 35mm. VOSE. 
+ El New Burlesque es un movimiento lsbico\, de independencia y reivindicaci
+ n\, de rechazo de las representaciones habituales de la mujer y la sexuali
+ dad. Los shows son polticos incluso si no se hablan de poltica. Tambin por
+  eso me atraa\, ya que tena ganas de hablar de la produccin de cine sin ha
+ blar de cine. (Mathieu Amalric)\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:O estranho caso de Anglica
+DTSTART;VALUE=DATE-TIME:20130808T201000
+DTEND;VALUE=DATE-TIME:20130808T215200
+UID:1308081020_1_dore
+DESCRIPTION:Sala 1 - O estranho caso de Anglica (El extrao caso de Anglica
+ \, Manoel de Oliveira\, 2010). Int.: Pilar Lpez de Ayala\, Ricardo Trpa\, 
+ Felipe Vargas Portugal/Espaa/ Francia. 35mm. VOPSE. 93 Segunda proyeccin y
+  nota da 11.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore1
+ 16-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pina
+DTSTART;VALUE=DATE-TIME:20130808T220000
+DTEND;VALUE=DATE-TIME:20130808T234200
+UID:1308080022_1_dore
+DESCRIPTION:Sala 1 - Pina (Pina\, Wim Wenders\, 2011). Documental. Alemani
+ a/Francia/Reino Unido. 35mm. VOSE. 100 Wim Wenders renuncia desde el prime
+ r momento a realizar la gran biografa de Pina Bausch: su acercamiento es e
+ pidrmico y esencial. No le interesa contarlo todo sobre ella\, sino que lo
+  contado se vea verdadero\, intenso y franco. Wenders logra meter al espec
+ tador en las coreografas\, romper los dos espacios\, platea y escenario. (
+ Ricardo Aldarondo) Segunda proyeccin da 11.\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:53 das de invierno
+DTSTART;VALUE=DATE-TIME:20130809T180000
+DTEND;VALUE=DATE-TIME:20130809T194200
+UID:1308090018_1_dore
+DESCRIPTION:Sala 1 - 53 das de invierno (Judith Colell\, 2006). Int.: Merc
+ edes Sampietro\, lex Brendemhl\, Aina Clotet. Espaa. 35mm. 91 Puede que a 
+ estas alturas no sea original una narrativa de historias cruzadas\, pero n
+ o se ve todos los das tal cuidado en la puesta en escena y en la construcc
+ in de los personajes\, y tampoco es nada frecuente que se respeten la inte
+ ligencia y la sensibilidad del espectador. (Natalia Ruiz)\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Potiche
+DTSTART;VALUE=DATE-TIME:20130809T200000
+DTEND;VALUE=DATE-TIME:20130809T214200
+UID:1308090020_1_dore
+DESCRIPTION:Sala 1 - Potiche (Potiche\, mujeres al poder\, Franois Ozon\, 
+ 2010). Int.: Catherine Deneuve\, Fabrice Luchini\, Grard Depardieu. Franci
+ a. 35mm. VOSE. 103 La sensibilidad de Ozon para lo kitsch se topa con una 
+ cmplice de altura\, una Deneuve que se lo pasa en grande mientras deconstr
+ uye su divismo para ponerse al servicio de una autoparodia que prueba tres
+  cosas: 1) Que\, desde Sitcom hasta Gotas de agua sobre piedras calientes\
+ , Ozon ha demostrado que tiene un talento singular para reformular los uso
+ s y costumbres del teatro de boulevard sin que se le caigan los anillos\; 
+ 2) Que\, como hizo Demy en clave musical\, es posible hablar de la lucha d
+ e clases sin caer en las trampas del panfleto social\; y 3) Para ser una e
+ strella perdurable hay que sacar a pasear el sentido del humor. (Sergi Snc
+ hez) Segunda proyeccin da 13.\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Tree
+DTSTART;VALUE=DATE-TIME:20130809T220000
+DTEND;VALUE=DATE-TIME:20130809T234200
+UID:1308090022_1_dore
+DESCRIPTION:Sala 1 - The Tree (El rbol\, Julie Bertuccelli\, 2011). Int.: 
+ Charlotte Gainsbourg\, Morgana Davies\, Marton Csokas. Francia/Australia/A
+ lemania/Italia. 35mm. VOISE. 102 Al fin y al cabo\, El rbol es en esencia 
+ la historia de un duelo y la lucha de una mujer por superar la muerte de s
+ u marido y sacar a sus hijos adelante. (Gerard Alonso)\n\n\nFuente: http:/
+ /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
+ fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Adventures of Tintin: The Secret of the Unicorn
+DTSTART;VALUE=DATE-TIME:20130809T180000
+DTEND;VALUE=DATE-TIME:20130809T194200
+UID:1308090018_1_dore
+DESCRIPTION:Sala 1 - The Adventures of Tintin: The Secret of the Unicorn (
+ Las aventuras de Tintin: El secreto del Unicornio\, Steven Spielberg\, 201
+ 1). Int.: Jamie Bell\, Daniel Craig\, Simon Pegg. EE UU. 35mm. VE. 109 Spi
+ elberg ha transformado el universo limpio del reportero belga en porosa y 
+ viril fantasa pulp liberada de la tirana de las leyes fsicas. Algunas set-
+ pieces cargan la pantalla de autntico genio cinematogrfico\, sin obsesiona
+ rse con el tintinfilo integrista que\, de hecho\, tambin puede soliviantar
+ se con el espritu ldico de unos guionistas. (Jordi Costa) Entrada libre pa
+ ra menores de 14 aos.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Pr
+ ograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los colores de la montaa
+DTSTART;VALUE=DATE-TIME:20130809T201000
+DTEND;VALUE=DATE-TIME:20130809T215200
+UID:1308091020_1_dore
+DESCRIPTION:Sala 1 - Los colores de la montaa (Carlos Csar Arbelez\, 2010)
+ . Int.: Hernn Mndez Alonso\, Hernn Ocampo\, Norberto Snchez. Colombia. 35m
+ m. 92 Ver nota da 7.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Pro
+ graDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Margin Call
+DTSTART;VALUE=DATE-TIME:20130809T220000
+DTEND;VALUE=DATE-TIME:20130809T234200
+UID:1308090022_1_dore
+DESCRIPTION:Sala 1 - Margin Call (Margin Call\, J.C. Chandor\, 2011) Int.:
+  Kevin Spacey\, Paul Bettany\, Jeremy Irons. EE UU. 35mm. VOSE. 110 Segund
+ a proyeccin y nota da 14.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/201
+ 3/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todos estamos invitados
+DTSTART;VALUE=DATE-TIME:20130811T180000
+DTEND;VALUE=DATE-TIME:20130811T194200
+UID:1308110018_1_dore
+DESCRIPTION:Sala 1 - Todos estamos invitados (Manuel Gutirrez Aragn\, 2007
+ ). Int.: Jos Coronado\, scar Jaenada\, Vanessa Incontrada. Espaa. 35mm. 95
+  Todos estamos invitados habla de la difcil vida de los amenazados y de la
+  conflictiva identidad de los asesinos\, pero lo hace desde una mirada y c
+ on unas estrategias narrativas que rechazan tanto la equidistancia farisai
+ ca como los maniquesmos simplificadores. (Carlos F. Heredero)\n\n\nFuente:
+  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
+ ine/mc/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pina
+DTSTART;VALUE=DATE-TIME:20130811T195000
+DTEND;VALUE=DATE-TIME:20130811T213200
+UID:1308115019_1_dore
+DESCRIPTION:Sala 1 - Pina (Pina\, Wim Wenders\, 2011). Documental. Alemani
+ a/Francia/Reino Unido. 35mm. VOSE. 100 Ver nota da 8.\n\n\nFuente: http://
+ www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
+ e/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:O estranho caso de Anglica
+DTSTART;VALUE=DATE-TIME:20130811T220000
+DTEND;VALUE=DATE-TIME:20130811T234200
+UID:1308110022_1_dore
+DESCRIPTION:Sala 1 - O estranho caso de Anglica (El extrao caso de Anglica
+ \, Manoel de Oliveira\, 2010). Int.: Pilar Lpez de Ayala\, Ricardo Trpa\, 
+ Felipe Vargas Portugal/Espaa/ Francia. 35mm.VOPSE. 97. Manoel de Oliveira 
+ fabrica fantasmas para esperar la llegada del fantasma\, ese ser que provo
+ ca una quiebra de lo real al invadir un tiempo que ya no le pertenece. (Ca
+ rlos Losilla)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
+ ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore
+ 116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La carta esfrica
+DTSTART;VALUE=DATE-TIME:20130813T180000
+DTEND;VALUE=DATE-TIME:20130813T194200
+UID:1308130018_1_dore
+DESCRIPTION:Sala 1 - La carta esfrica (Imanol Uribe\, 2007). Int.: Carmelo
+  Gmez\, Aitana Snchez-Gijn\, Enrico Lo Verso. Espaa. 35mm. 108 Coy\, un ma
+ rinero que se ha visto obligado a abandonar su oficio debido a un accident
+ e de navegacin\, conoce en Barcelona (en una subasta de objetos navales) a
+  Tnger\, una atractiva y misteriosa mujer\, que en dura pugna con Nino Pal
+ ermo\, un aventurero italiano\, consigue hacerse con una joya cartogrfica 
+ del XVIII: el Atlas Martimo de Urrutia.\n\n\nFuente: http://www.mecd.gob.e
+ s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
+ ogramacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Lions
+DTSTART;VALUE=DATE-TIME:20130813T201000
+DTEND;VALUE=DATE-TIME:20130813T215200
+UID:1308131020_1_dore
+DESCRIPTION:Sala 1 - Four Lions (Four Lions\, Chris Morris\, 2010). Int.: 
+ Riz Ahmed\, Arsher Ali\, Nigel Lindsay. Reino Unido. 35mm. VOSE. 103 Con s
+ u textura de hiperrealidad videovigilada\, Four Lions parece recoger el te
+ stigo de la stira poltica que nutra el retrato del activismo antiimperiali
+ sta en La vida de Brian (Terry Jones\, 1979)\, pero obtiene su mayor logro
+  al modular el sentido trgico de la peripecia de estos yihadistas\, cuyo s
+ acrificio no obedecer a ninguna verdad esencial\, sino a la ms siniestra y
+  apocalptica declinacin del slapstick. (Jordi Costa) Segunda proyeccin da 
+ 14.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore116-doc.do
+ c
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mammuth
+DTSTART;VALUE=DATE-TIME:20130813T223000
+DTEND;VALUE=DATE-TIME:20130814T001200
+UID:1308133022_1_dore
+DESCRIPTION:Sala 1 - Mammuth (Mammuth\, Gustave Kervern y Benot Delpine\, 
+ 2011). Int.: Grard Depardieu\, Yolande Moreau\, Isabelle Adjani. Francia. 
+ 35mm. VOSE. 87 Segunda proyeccin y nota da 18. Mircoles 14\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
+ /mc/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How Do You Know
+DTSTART;VALUE=DATE-TIME:20130813T180000
+DTEND;VALUE=DATE-TIME:20130813T194200
+UID:1308130018_1_dore
+DESCRIPTION:Sala 1 - How Do You Know (Cmo sabes si\, James L. Brooks\, 201
+ 0). Int.: Reese Witherspoon\, Owen Wilson\, Paul Rudd. EE UU. 35mm. VOSE. 
+ 116 Segunda proyeccin y nota da 17.\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Margin Call
+DTSTART;VALUE=DATE-TIME:20130813T201500
+DTEND;VALUE=DATE-TIME:20130813T215700
+UID:1308131520_1_dore
+DESCRIPTION:Sala 1 - Margin Call (Margin Call\, J.C. Chandor\, 2011) Int.:
+  Kevin Spacey\, Paul Bettany\, Jeremy Irons. EE UU. 35mm. VOSE. 110 A vuel
+ tas con la crisis econmica\, Margin Call actualiza la feroz crtica que Dav
+ id Mamet perpetr contra el capitalismo salvaje en Glengarry Glen Ross cues
+ tionando\, otra vez\, las bases de un sueo americano que favorece antes al
+  gran monstruo corporativo que al individuo que suda sangre para llegar a 
+ fin de mes. (Sergi Snchez)\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 13/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Lions
+DTSTART;VALUE=DATE-TIME:20130813T223000
+DTEND;VALUE=DATE-TIME:20130814T001200
+UID:1308133022_1_dore
+DESCRIPTION:Sala 1 - Four Lions (Four Lions\, Chris Morris\, 2010). Int.: 
+ 	Riz Ahmed\, Arsher Ali\, Nigel Lindsay. Reino Unido. 35mm. VOSE. 103 Ver 
+ nota da 13.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
+ ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore11
+ 6-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La caja
+DTSTART;VALUE=DATE-TIME:20130816T180000
+DTEND;VALUE=DATE-TIME:20130816T194200
+UID:1308160018_1_dore
+DESCRIPTION:Sala 1 - La caja (Juan Carlos Falcn\, 2007). Int.: ngela Molin
+ a\, Mnica Molina\, Elvira Mnguez. Espaa. Espaa/Portugal. 35mm. 113 Siempre
+  me ha resultado muy atractivo ese teatrillo que en nuestra cultura canari
+ a en particular\, y espaola en general\, se desarrolla alrededor de un vel
+ atorio. En La caja\, la muerte est tan presente que se vuelve cotidiana. L
+ a caja es\, adems\, una historia de mujeres solas\, fuertes\, valientes\, 
+ entregadas a los suyos\, acostumbradas a llorar en silencio y a no contar 
+ con los hombres para salir adelante. (Juan Carlos Falcn)\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:36 Vues du picnic Saint Loup
+DTSTART;VALUE=DATE-TIME:20130816T201500
+DTEND;VALUE=DATE-TIME:20130816T215700
+UID:1308161520_1_dore
+DESCRIPTION:Sala 1 - 36 Vues du picnic Saint Loup (El ltimo verano\, Jacqu
+ es Rivette\, 2009). Int.: Jane Birkin\, Julie-Marie Parmentier\, Sergio Ca
+ stellitto. Francia. 35mm. VOSE. 84 La figura de Jacques Rivette\, el ms de
+ sconocido de los grandes maestros de la Nouvelle Vague\, nos transporta a 
+ un universo heterodoxo\, plagado de conspiraciones\, secretos traumticos y
+  turbulencias sentimentales. Un territorio que\, cada cierto tiempo\, se n
+ os aparece regido por juguetones espejismos en los que la realidad se conf
+ unde con el espectculo\, desplegado sobre los ms diversos escenarios. (Man
+ u Yez) Segunda proyeccin da 20.\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Restless
+DTSTART;VALUE=DATE-TIME:20130816T223000
+DTEND;VALUE=DATE-TIME:20130817T001200
+UID:1308163022_1_dore
+DESCRIPTION:Sala 1 - Restless (Restless\, Gus van Sant\, 2011). Int.: Henr
+ y Hopper\, Mia Wasikowska\, Ryo Kase. EE UU. 35mm. VOSE. 92 Segunda proyec
+ cin y nota 20. Sbado 17\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
+ ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/
+ PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Une vie de chat
+DTSTART;VALUE=DATE-TIME:20130816T180000
+DTEND;VALUE=DATE-TIME:20130816T194200
+UID:1308160018_1_dore
+DESCRIPTION:Sala 1 - Une vie de chat (Un gato en Pars\, Jean-Loup Feliciol
+ i y Alain Gagnol\, 2010). Animacin. Francia/Blgica. 35mm. VE. 70 Dino tien
+ e una doble vida: de da\, es el gatito de Zo\, de noche\, es el cmplice de
+  Nico\, un ladrn de joyas con quien pasea por los tejados de Pars. Zo no p
+ uede hablar desde que Vctor Costa\, enemigo pblico nmero uno\, mat a su pa
+ dre\, agente de la polica. Una noche\, la pequea\, guiada por la curiosida
+ d\, persigue a su gato y se topa con Costa y su pandilla. La elaboracin ar
+ tesanal de Un gato en Pars tiene mucho de acto de fe\, de intentona artsti
+ ca a contracorriente y de vocacin intempestiva. (Alejandro Daz) Entrada li
+ bre para menores de 14 aos.\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:En la ciudad de Sylvia
+DTSTART;VALUE=DATE-TIME:20130816T193000
+DTEND;VALUE=DATE-TIME:20130816T211200
+UID:1308163019_1_dore
+DESCRIPTION:Sala 1 - En la ciudad de Sylvia (Jos Luis Guern\, 2007). Int.:
+  Xavier Lafitte\, Pilar Lpez de Ayala\, Tanja Czichi. Espaa/Francia. 35mm.
+  VOSE. 85 El chico callejea observando y dibujando gestos y expresiones ca
+ ptadas azarosamente en la calle. Mira a una chica\, despus mira a otra y a
+  otra Me gusta pensar el cine como un arte del retrato. En la ciudad de Sy
+ lvia es una pelcula muy ldica en su realizacin. Se trata de la bsqueda mti
+ ca de la mujer luminosa y el dcalage con el paisaje. (Jos Luis Guern)\n\n\
+ nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
+ ultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How Do You Know
+DTSTART;VALUE=DATE-TIME:20130816T213000
+DTEND;VALUE=DATE-TIME:20130816T231200
+UID:1308163021_1_dore
+DESCRIPTION:Sala 1 - How Do You Know (Cmo sabes si\, James L. Brooks\, 201
+ 0). Int.: Reese Witherspoon\, Owen Wilson\, Paul Rudd. EE UU. 35mm. VOSE. 
+ 116 La pelcula supera ese lmite donde las muestras del gnero se suelen des
+ inflar y se percibe la pericia de James L. Brooks como narrador. (Fernando
+  Bernal)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore116-d
+ oc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El honor de las injurias
+DTSTART;VALUE=DATE-TIME:20130818T180000
+DTEND;VALUE=DATE-TIME:20130818T194200
+UID:1308180018_1_dore
+DESCRIPTION:Sala 1 - El honor de las injurias (Carlos Garca-Alix\, 2007). 
+ Documental. Espaa. BDG. 86 Despus de verlo se sale a un Madrid que ya no s
+ e mira de la misma forma que al entrar. Hemos podido ver miles de imgenes 
+ de esta ciudad durante la Guerra Civil\, pero pocas veces se ha retratado 
+ y se ha contado con tanta fuerza en una pelcula. (Jons Trueba)\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mammuth
+DTSTART;VALUE=DATE-TIME:20130818T194500
+DTEND;VALUE=DATE-TIME:20130818T212700
+UID:1308184519_1_dore
+DESCRIPTION:Sala 1 - Mammuth (Mammuth\, Gustave Kervern y Benot Delpine\, 
+ 2011). Int.: Grard Depardieu\, Yolande Moreau\, Isabelle Adjani. Francia. 
+ 35mm. VOSE. 87 El futuro est negro. O\, como mnimo\, oscuro. Sobre todo\, 
+ si eres un obrero no especializado que nunca ha estado enfermo ni en el pa
+ ro\, jubilado forzoso a los 60 aos y con una larga vida laboral que no sie
+ mpre ha sido legalizada por tus patronos por lo que no puedes tener acceso
+  a un cmodo retiro. Grard Depardieu le presta a este personaje un fsico de
+ sbordante\, una fealdad atractiva\, una mirada entristecida\, que llena a 
+ Mammuth de matices inesperados. (Nuria Vidal)\n\n\nFuente: http://www.mecd
+ .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
+ ore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Job
+DTSTART;VALUE=DATE-TIME:20130818T214500
+DTEND;VALUE=DATE-TIME:20130818T232700
+UID:1308184521_1_dore
+DESCRIPTION:Sala 1 - Inside Job (Inside Job\, Charles Ferguson\, 2010). Do
+ cumental. EE UU. 35mm. VOSE. 108 Segunda proyeccin y nota da 21.\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bajo las estrellas
+DTSTART;VALUE=DATE-TIME:20130820T180000
+DTEND;VALUE=DATE-TIME:20130820T194200
+UID:1308200018_1_dore
+DESCRIPTION:Sala 1 - Bajo las estrellas (Flix Viscarret\, 2007). Int.: Alb
+ erto San Juan\, Emma Surez\, Julin Villagrn. Espaa. 35mm. 108 Viscarret re
+ cupera\, por un lado\, algunos de los personajes\, temas y espacios recurr
+ entes de un cierto cine independiente americano y\, por otro\, aquel espri
+ tu gamberro e irreverente que puso de moda hace algunos aos Lars von Trier
+  con Dogma. (Asier Aranzubia)\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Restless
+DTSTART;VALUE=DATE-TIME:20130820T201000
+DTEND;VALUE=DATE-TIME:20130820T215200
+UID:1308201020_1_dore
+DESCRIPTION:Sala 1 - Restless (Restless\, Gus van Sant\, 2011). Int.: Henr
+ y Hopper\, Mia Wasikowska\, Ryo Kase. EE UU. 35mm. VOSE. 92 Restless es\, 
+ en primer lugar\, una admirable bisagra entre dos tendencias de la obra\, 
+ una bisagra que excede ampliamente la oposicin entre el riesgo experimenta
+ l y la sumisin industrial que parece organizarla. Adems\, la gran forma de
+ l film se revela inesperada. Comienza con acentos burtonianos pero rpidame
+ nte se desliza hacia otra cosa\, arrastrada por una empresa regeneradora d
+ e pureza y un alegato a favor de la bondad. (Dominique Pani)\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:36 Vues du picnic Saint Loup
+DTSTART;VALUE=DATE-TIME:20130820T220000
+DTEND;VALUE=DATE-TIME:20130820T234200
+UID:1308200022_1_dore
+DESCRIPTION:Sala 1 - 36 Vues du picnic Saint Loup (El ltimo verano\, Jacqu
+ es Rivette\, 2009). Int.: Jane Birkin\, Julie-Marie Parmentier\, Sergio Ca
+ stellitto. Francia. 35mm. VOSE. 84 Ver nota da 16. Mircoles 21\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Danse
+DTSTART;VALUE=DATE-TIME:20130820T180000
+DTEND;VALUE=DATE-TIME:20130820T194200
+UID:1308200018_1_dore
+DESCRIPTION:Sala 1 - La Danse (La danza\, Frederick Wiseman\, 2009). Docum
+ ental. Francia/EE UU. 35mm. VOSE. 152 La pelcula de Wiseman es un retrato 
+ coral en plano general de hasta siete ballets y de lo que esconden entre b
+ astidores\, pero sobre todo se trata de una pelcula que intenta desentraar
+  una ideologa\, una forma de poltica cultural. (Jaime Pena) Segunda proyec
+ cin da 25.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore116
+ -doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Job
+DTSTART;VALUE=DATE-TIME:20130820T211000
+DTEND;VALUE=DATE-TIME:20130820T225200
+UID:1308201021_1_dore
+DESCRIPTION:Sala 1 - Inside Job (Inside Job\, Charles Ferguson\, 2010). Do
+ cumental. EE UU. 35mm. VOSE. 108 La meticulosa investigacin de Ferguson no
+  renuncia a la sana irona e incrementa su voltaje cuando seala a los monst
+ ruos de la funcin e interroga de forma incisiva a los pocos que aceptan da
+ r la cara. (Manu Yaez)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/P
+ rograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El prado de las estrellas
+DTSTART;VALUE=DATE-TIME:20130822T180000
+DTEND;VALUE=DATE-TIME:20130822T194200
+UID:1308220018_1_dore
+DESCRIPTION:Sala 1 - El prado de las estrellas (Mario Camus\, 2007). Int.:
+  lvaro de Luna\, Marin Aguilera\, Rodolfo Sancho. Espaa. 35mm. 121 Alfonso
+  vive jubilado en su casa de siempre y visita a Nanda\, una anciana que fu
+ e su vecina y un poco su madre cuando se qued hurfano. Nanda vive ahora en
+  una residencia de ancianos en la que trabaja Luisa\, una joven asistente 
+ social que trata de vivir su propia vida. Una maana\, Alfonso se encuentra
+  con un joven que aparece entre la niebla en su bicicleta...\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El silencio antes de Bach
+DTSTART;VALUE=DATE-TIME:20130822T202000
+DTEND;VALUE=DATE-TIME:20130822T220200
+UID:1308222020_1_dore
+DESCRIPTION:Sala 1 - El silencio antes de Bach (Pere Portabella\, 2007). I
+ nt.: Alex Brendemhl\, Feodor Atkine\, Christian Brembeck. Espaa. 35mm. 101
+  La pelcula propone un apasionante debate sobre las bases culturales europ
+ eas\, sobre el modo cmo el arte puede crear armona frente al caos y sobre 
+ la tensa relacin existente entre la cultura y la barbarie. (ngel Quintana)
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Route Irish
+DTSTART;VALUE=DATE-TIME:20130822T222000
+DTEND;VALUE=DATE-TIME:20130823T000200
+UID:1308222022_1_dore
+DESCRIPTION:Sala 1 - Route Irish (Route Irish\, Ken Loach\, 2011). Int.: 	
+ Mark Womack\, Stephen Lord\, Najwa Nimri. Reino Unido. 35mm. VOSE. 112 Nos
+  propone un reencuentro con el Loach ms indignado\, aferrado a su cmara co
+ n la urgencia de antao. La pelcula retroalimenta su furia gracias a un rel
+ ato en el que lo personal (la deriva postraumtica de un mercenario atormen
+ tado por la culpa) se engarza con una funesta realidad social: las miseria
+ s del negocio de la guerra\, privatizado y normalizado por el libre mercad
+ o. (Manu Yez) Segunda proyeccin da 23.\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cenizas del cielo
+DTSTART;VALUE=DATE-TIME:20130823T180000
+DTEND;VALUE=DATE-TIME:20130823T194200
+UID:1308230018_1_dore
+DESCRIPTION:Sala 1 - Cenizas del cielo (Jos Antonio Quirs\, 2007). Int.: B
+ eatriz Rico\, Celso Bugallo\, Clara Segura. Espaa. 35mm. 96 Sin moverse de
+  un plcido rincn de Asturias\, [el director] se pone (y nos pone) de parte
+  del protagonista\, un honesto campesino que lleva 40 aos intentando que l
+ a central trmica que domina el valle (y pudre con sus humos contaminantes 
+ frutas y verduras\, extermina los salmones del ro e incluso se dice que da
+ a los espermatozoides) se cierre y que ahora ve en el acuerdo de Kyoto el 
+ momento oportuno. (Jordi Batlle Caminal)\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Route Irish
+DTSTART;VALUE=DATE-TIME:20130823T200000
+DTEND;VALUE=DATE-TIME:20130823T214200
+UID:1308230020_1_dore
+DESCRIPTION:Sala 1 - Route Irish (Route Irish\, Ken Loach\, 2011). Int.: 	
+ Mark Womack\, Stephen Lord\, Najwa Nimri. Reino Unido. 35mm. VOSE. 112 Ver
+  nota da 22.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore1
+ 16-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pactar con el gato
+DTSTART;VALUE=DATE-TIME:20130823T222000
+DTEND;VALUE=DATE-TIME:20130824T000200
+UID:1308232022_1_dore
+DESCRIPTION:Sala 1 - Pactar con el gato (Joan Marimn\, 2007). Int.: Albert
+ o Jimnez\, Pau Roca\, Rose Avalon. Espaa. 35mm. VOSI. 104 Julia\, de 17 ao
+ s tiene una gata tuerta y una enorme dependencia de su to David\, veterina
+ rio\, de quien est profundamente enamorada. Julia hace lo imposible por es
+ tar el mayor tiempo junto a su to David. Pero David tiene una novia muy at
+ ractiva\, Sara. El mejor amigo de Julia es Aparisi. Es ms que un buen amig
+ o\, la ama en secreto. Aparisi hace todo lo que Julia le pide\, desde arre
+ glar un enchufe hasta buscar un gato perdido. Eso le permite estar a su la
+ do... Sbado 24\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDor
+ e116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RH+. El vampiro de Sevilla
+DTSTART;VALUE=DATE-TIME:20130823T180000
+DTEND;VALUE=DATE-TIME:20130823T194200
+UID:1308230018_1_dore
+DESCRIPTION:Sala 1 - RH+. El vampiro de Sevilla (Antonio Zurera\, 2008). A
+ nimacin. Espaa. 35mm. 80 Tras 500 aos trabajando en un castillo alemn\, al
+  servicio de los Condes von Salchichen de Francfurt \, a Don Manuel Malasa
+ ngre y su familia\, convertidos en vampiros por extraas circunstancias\, s
+ e les presenta la oportunidad de volver a casa. Han comprado por Internet 
+ un castillo en su tierra natal. Pero cuando emprenden el viaje comienzan l
+ os problemas: una serie de incidentes que los llevan a conocer a otras div
+ ertidas criaturas y a terminar en la ciudad de Nueva York\, lejos de su de
+ stino inicial. Entrada libre para menores de 14 aos.\n\n\nFuente: http://w
+ ww.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe
+ /cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Petits Mouchoirs
+DTSTART;VALUE=DATE-TIME:20130823T194000
+DTEND;VALUE=DATE-TIME:20130823T212200
+UID:1308234019_1_dore
+DESCRIPTION:Sala 1 - Les Petits Mouchoirs (Pequeas mentiras sin importanci
+ a\, Guillaume Canet\, 2011.). Int.: Francois Cluzet\, Marion Cotillard\, B
+ enot Magimel. Francia. 35mm. VOSE. 154 Segunda proyeccin y nota da 27.\n\n
+ \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
+ cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Human Resources Manager
+DTSTART;VALUE=DATE-TIME:20130823T223500
+DTEND;VALUE=DATE-TIME:20130824T001800
+UID:1308233522_1_dore
+DESCRIPTION:Sala 1 - The Human Resources Manager (El viaje del director de
+  Recursos Humanos\, Eran Riklis\, 2010). Int.: Mark Ivanir\, Guri Alfi\, N
+ oah Silver\, Rozina Cambos. Alemania/Francia/Israel. 35mm. VOSE. 103'\nCon
+  un aplomo considerable para la puesta en escena y unos actores no siempre
+  en el mismo registro interpretativo\, Rifklis cuenta una peripecia llena 
+ de claroscuros\, poblada de personajes entre lo risible y lo dramtico. Y l
+ o hace con una solvencia del todo inhabitual: que las aventuras de ese cad
+ ver se nos hagan entraables es\, cuanto menos\, un dato a apuntar en el ha
+ ber de su inusual talento narrativo. (Mirito Torreiro)\n\n\nFuente: http:/
+ /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
+ fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las trece rosas
+DTSTART;VALUE=DATE-TIME:20130825T180000
+DTEND;VALUE=DATE-TIME:20130825T194300
+UID:1308250018_1_dore
+DESCRIPTION:Sala 1 - Las trece rosas (Emilio Martnez Lzaro\, 2007). Int.: 
+ Pilar Lpez de Ayala\, Vernica Snchez\, Marta Etura. Espaa. 35mm. VOSI. Emi
+ lio Martnez-Lzaro intenta no caer en las mltiples trampas que la historia 
+ contiene. Y le sale bien: la pelcula logra transmitir la dinmica liviandad
+  de la vida de unas cras considerablemente inconscientes\, y cuando se tra
+ ta de fajarse con el drama\, lo cierto es que obtiene algo ms que lgrimas.
+  Y no es poco en un film que pretende aunar Historia y diversin\, que pret
+ ende llegar a un pblico amplio con una trama real poco conocida. (Mirito T
+ orreiro)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore116-d
+ oc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Danse
+DTSTART;VALUE=DATE-TIME:20130825T204500
+DTEND;VALUE=DATE-TIME:20130825T222800
+UID:1308254520_1_dore
+DESCRIPTION:Sala 1 - La Danse (La danza\, Frederick Wiseman\, 2009). Docum
+ ental. Francia/EE UU. 35mm. VOSE. 152 Ver nota da 21.\n\n\nFuente: http://
+ www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
+ e/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Petits Mouchoirs
+DTSTART;VALUE=DATE-TIME:20130827T180000
+DTEND;VALUE=DATE-TIME:20130827T194300
+UID:1308270018_1_dore
+DESCRIPTION:Sala 1 - Les Petits Mouchoirs (Pequeas mentiras sin importanci
+ a\, Guillaume Canet\, 2011.). Int.: Francois Cluzet\, Marion Cotillard\, B
+ enot Magimel. Francia. 35mm. VOSE. 154 Pequeas mentiras sin importancia es
+  en sus reacciones\, gestos y dinmicas una pelcula en la que es fcil verse
+  reflejado\, y que busca (y consigue) esa conexin humana. (Elena Duque)\n\
+ n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
+ -cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La soledad
+DTSTART;VALUE=DATE-TIME:20130827T210000
+DTEND;VALUE=DATE-TIME:20130827T224300
+UID:1308270021_1_dore
+DESCRIPTION:Sala 1 - La soledad (Jaime Rosales\, 2007). Int.: Sonia Almarc
+ ha\, Petra Martnez\, Miriam Correa. Espaa. 35mm. 131 No se trata de contar
+  las dos historias por separado\, cada una de ellas en una mitad del plano
+  sino de ofrecer\, alternativamente\, dos ngulos de una misma escena\, dos
+  espacios de una misma casa. Ms porosa y abierta que su film anterior\, La
+  soledad es tambin una obra capaz de afirmar un estilo\, una manera de mir
+ ar y de filmar. (Carlos F. Heredero)\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REC
+DTSTART;VALUE=DATE-TIME:20130827T180000
+DTEND;VALUE=DATE-TIME:20130827T194300
+UID:1308270018_1_dore
+DESCRIPTION:Sala 1 - REC (Jaume Balaguer y Paco Plaza\, 2007). Int.: Manue
+ la Velasco\, Ferran Terraza\, Jorge Serrano. Espaa. 35mm. 75 Un trabajo qu
+ e logra ser muchas cosas a la vez: intencionado juego metalingstico (donde
+  la eleccin de la actriz Manuela Velasco tiene un papel fundamental)\, rec
+ ital de contundentes y estremecedores golpes de efecto y envenenado fresco
+  de paranoias de patio vecinal. [REC] pertenece a esa rara estirpe de pelc
+ ulas que logran dar miedo (muchsimo) sin renunciar a la (prudencial) dista
+ ncia irnica. El secreto est en la precisin de la puesta en escena y\, sobr
+ e todo\, en la capacidad de acabar construyendo\, en ese difcil registro\,
+  un muy bien articulado y tremendamente original cuento de horror. (Jordi 
+ Costa)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
+ ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore116-doc
+ .doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mistrios de Lisboa
+DTSTART;VALUE=DATE-TIME:20130827T193500
+DTEND;VALUE=DATE-TIME:20130827T211800
+UID:1308273519_1_dore
+DESCRIPTION:Sala 1 - Mistrios de Lisboa (Misterios de Lisboa\, Ral Ruiz\, 
+ 2010). Int.: Adriano Luz\, Maria Joo Bastos. Portugal / Francia. DCP. VOSE
+ . 266. Con pausa de 15 entre la primera y la segunda parte. Segunda proyec
+ cin y nota da 30.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
+ d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Progra
+ Dore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Luz de domingo
+DTSTART;VALUE=DATE-TIME:20130829T180000
+DTEND;VALUE=DATE-TIME:20130829T194300
+UID:1308290018_1_dore
+DESCRIPTION:Sala 1 - Luz de domingo (Jos Luis Garci\, 2007). Int.: Alfredo
+  Landa\, Paula Echevarra\, lex Gonzlez. Espaa. 35mm. 114 En el pueblecito 
+ asturiano de Cenciella\, la enconada lucha entre dos bandos polticos trae 
+ la desgracia a unos seres bondadosos e ingenuos: la pareja formada por Urb
+ ano y Estrella. Aunque Urbano\, secretario del ayuntamiento\, es persona l
+ iberal e idealista\, uno de los grupos polticos que lo consideran del band
+ o enemigo decide vengarse de su neutralidad.\n\n\nFuente: http://www.mecd.
+ gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
+ re/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las acacias
+DTSTART;VALUE=DATE-TIME:20130829T201500
+DTEND;VALUE=DATE-TIME:20130829T215800
+UID:1308291520_1_dore
+DESCRIPTION:Sala 1 - Las acacias (Las acacias\, Pablo Giorgelli\, 2011). I
+ nt.: Germn de Silva\, Hebe Duarte\, Nayra Calle Mamani. Espaa /Argentina. 
+ 35mm. Ver nota da 28.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Pr
+ ograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Electric Mist
+DTSTART;VALUE=DATE-TIME:20130829T220000
+DTEND;VALUE=DATE-TIME:20130829T234300
+UID:1308290022_1_dore
+DESCRIPTION:Sala 1 - In the Electric Mist (En el centro de la tormenta\, B
+ ertrand Tavernier\, 2011). Int.: Tommy Lee Jones\, John Goodman\, Peter Sa
+ rsgaard. EE UU/Francia. 35mm. VOISE. 113 Ver nota da 27.\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mistrios de Lisboa
+DTSTART;VALUE=DATE-TIME:20130830T180000
+DTEND;VALUE=DATE-TIME:20130830T194300
+UID:1308300018_1_dore
+DESCRIPTION:Sala 1 - Mistrios de Lisboa (Misterios de Lisboa\, Ral Ruiz\, 
+ 2010). Int.: Adriano Luz\, Maria Joo Bastos. Portugal / Francia. DCP. VOSE
+ . 266. Con pausa de 15 entre la primera y la segunda parte. No suele menci
+ onarse que Ral Ruiz est entre los ms ingeniosos adaptadores de material li
+ terario preexistente en todo el mundo del cine. El modo en que traslada\, 
+ transmuta\, condensa y expande\, desplaza y pulveriza los elementos sbitam
+ ente diseminados del original es siempre asombroso. El enfoque de Ruiz se 
+ basa tanto en el anlisis cuidadoso como en el despreocupado olvido del tex
+ to original. (Adrian Martin)\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nocturna\, una aventura mgica
+DTSTART;VALUE=DATE-TIME:20130830T180000
+DTEND;VALUE=DATE-TIME:20130830T194300
+UID:1308300018_1_dore
+DESCRIPTION:Sala 1 - Nocturna\, una aventura mgica	(Adrin Garca y Vctor Ma
+ ldonado\, 2007). Animacin. Espaa. 35mm. 80 La animacin nos daba la posibil
+ idad de construir esta especie de visin infantil de la ciudad de la noche\
+ , el reto era conseguir encontrar el equilibrio entre lo fascinante y lo e
+ xcesivamente oscuro o ttrico. Un mundo escondido que se superpone al nuest
+ ro y que un nio sera capaz de imaginar\, asimismo. (Adrin Garca y Vctor Ma
+ ldonado) Entrada libre para menores de 14 aos.\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Pre de mes enfants
+DTSTART;VALUE=DATE-TIME:20130830T194000
+DTEND;VALUE=DATE-TIME:20130830T212300
+UID:1308304019_1_dore
+DESCRIPTION:Sala 1 - Le Pre de mes enfants (Le Pre de mes enfants\, Mia Ha
+ nsen-Lve\, 2011). Int.: Louis-Do deLencquesaing\, Chiara Caselli\, Alice d
+ e Lencquesaing. Francia/ Alemania. 35mm. VOFSE. 110 Ver nota da 30.\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Gamin au vlo
+DTSTART;VALUE=DATE-TIME:20130830T220000
+DTEND;VALUE=DATE-TIME:20130830T234300
+UID:1308300022_1_dore
+DESCRIPTION:Sala 1 - Le Gamin au vlo (El nio de la bicicleta\, Jean Pierre
+  y Luc Dardenne\, 2011). Int.: Ccile de France\, Thomas Doret\, Jrmie Reni
+ er. Blgica / Francia / Italia. B-R. VOSE. 89 h CJ hvCJ h $ hF hd[CJ {{ndZ{
+ S hd[CJ dKD0' hF ' hF DDDDDD `wg]T]TgNTNTD=D gd[# ' hF $ hF $ hF hfsCJ hq}
+ CJ hS&CJ hfsCJ hfsCJ ' hF PIPIP ' hD pgND= anza sus mejores momentos cuand
+ o se encuentra despojada de todo ornamento\, cuando vemos los esfuerzos de
+ sesperados de un nio para poder dar respuesta a la situacin de abandono en
+  la que le ha sumido su padre. Las ideas dramticas que nos proponen los Da
+ rdenne son muy simples: bsqueda del padre\, encuentro con una nueva madre\
+ , tentacin del mal\, arrepentimiento y crisis moral. (ngel Quintana). Segu
+ nda proyeccin septiembre. PAGE PAGE 18\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2013/PrograDore116-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+END:VCALENDAR

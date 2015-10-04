@@ -1,0 +1,1441 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cine Doré//github.com santos82 doredb//ES
+X-WR-CALNAME:Cine Dore
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+SUMMARY:Johnny Guitar
+DTSTART;VALUE=DATE-TIME:20050301T173000
+DTEND;VALUE=DATE-TIME:20050301T192000
+UID:0503013017_1_dore
+DESCRIPTION:Sala 1 - Johnny Guitar (Johnny Guitar\, Nicholas Ray\, 1953). 
+ Int.: Joan Crawford\, Sterling Hayden\, Mercedes McCambridge. EE UU. VOSE*
+ . 110’\n“La película es antes que nada un conflicto entre dos mujeres
+ . Esto permite una lectura feminista de la película en la que dos mujeres
+  se enfrentan para preservar su autonomía y las consecuencias de ese duel
+ o determinan el destino de los hombres que las rodean” (Stephen Sarrazin
+ ). Segunda proyección día 20.\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El cochecito
+DTSTART;VALUE=DATE-TIME:20050301T194000
+DTEND;VALUE=DATE-TIME:20050301T210500
+UID:0503014019_1_dore
+DESCRIPTION:Sala 1 - El cochecito (Marco Ferreri\, 1960). Int.: José Isbe
+ rt\, José Luis López Vázquez\, Pedro Porcel. Fotografía: Juan Julio Ba
+ ena. España. 85’\n“Nadie puede poner en duda que El cochecito\, de Ju
+ an Julio Baena marcó una tendencia decisiva para la orientación de la fo
+ tografía en el desarrollo del cine español” (Jesús G. de Dueñas).\n\
+ n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
+ -cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dollmaker
+DTSTART;VALUE=DATE-TIME:20050301T200000
+DTEND;VALUE=DATE-TIME:20050301T222000
+UID:0503010020_2_dore
+DESCRIPTION:Sala 2 - The Dollmaker (Daniel Petrie\, 1984). Int.: Jane Fond
+ a\, Levon Helm\, Geraldine Page. EE UU. VOSE*. 140’\nDurante la Segunda 
+ Guerra Mundial una familia campesina se traslada a Detroit a trabajar en l
+ as fábricas de armamento. Segunda proyección día 12.\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los olvidados
+DTSTART;VALUE=DATE-TIME:20050301T220000
+DTEND;VALUE=DATE-TIME:20050301T232000
+UID:0503010022_1_dore
+DESCRIPTION:Sala 1 - Los olvidados (Luis Buñuel\, 1950). Int.: Alfonso Me
+ jía\, Roberto Cobo\, Stella Inda. México. 80’\n“La grandeza de este 
+ film se capta inmediatamente cuando se ha comprendido que no se refiere ja
+ más a categorías morales. (…) Estos niños son hermosos no porque obre
+ n bien o mal\, sino porque son niños hasta en el crimen y hasta en la mue
+ rte” (André Bazin).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
+ rograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Night of the Hunter
+DTSTART;VALUE=DATE-TIME:20050302T173000
+DTEND;VALUE=DATE-TIME:20050302T190300
+UID:0503023017_1_dore
+DESCRIPTION:Sala 1 - The Night of the Hunter (La noche del cazador\, Charl
+ es Laughton\, 1955). Int.: Robert Mitchum\, Shelley Winters\, Lillian Gish
+ . EE UU. VOSE. 93'\n"La infancia\, decididamente. La definitiva tristeza p
+ or no haber sido secuestrado\, raptado\, no haber sido (deliciosamente) "r
+ obado" por un hombre\, un padre\, venido del cine para buscarme. El destin
+ o de disfrutar más tarde del paso de unos niños perdidos (sin collares)\
+ , de ser ese padre (perverso) hacia el que quizá van. La infancia\, en es
+ e momento\, con aquella Noche del cazador\, la película americana más be
+ lla del mundo" (Serge Daney). Segunda proyección día 4.\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dolores
+DTSTART;VALUE=DATE-TIME:20050302T193000
+DTEND;VALUE=DATE-TIME:20050302T210100
+UID:0503023019_1_dore
+DESCRIPTION:Sala 1 - Dolores (José Luis García Sánchez y Andrés Linare
+ s\, 1980). Documental. España. 91’\nBiografía documental de Dolores Ib
+ árruri La Pasionaria narrada por ella misma y complementada con materiale
+ s de su archivo\, desde su infancia\, a finales del siglo XIX\, hasta su r
+ egreso a España en 1977.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/200
+ 5/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Frau meiner Traüme
+DTSTART;VALUE=DATE-TIME:20050302T200000
+DTEND;VALUE=DATE-TIME:20050302T213300
+UID:0503020020_2_dore
+DESCRIPTION:Sala 2 - Die Frau meiner Traüme (Georg Jacoby\, 1944). Int.: 
+ Marika Rökk\, Wolfgang Lukschy\, Walter Müller. Alemania. VOSP/E*. 93’
+ \nEste delirante musical en color sobre una cantante que huye de su direct
+ or artístico y encuentra el amor en las montañas\, fue el mayor éxito d
+ e taquilla del último año de guerra en Alemania. Segunda proyección dí
+ a 13.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Enfance nue
+DTSTART;VALUE=DATE-TIME:20050302T220000
+DTEND;VALUE=DATE-TIME:20050302T231900
+UID:0503020022_1_dore
+DESCRIPTION:Sala 1 - L'Enfance nue (Maurice Pialat\, 1970). Int.: Raoul Bi
+ llerey\, Maurice Coussonneau\, Pierrette Deplanque. Francia. VOSE. 79’\n
+ “La primera película de Pialat anuncia el tono de su obra. Es dura\, pe
+ ro no desprovista de sentimiento. El niño no es estudiado como un caso\, 
+ ni como un fenómeno\, es un ser humano complejo\, inestable\, torpe y mar
+ cado. Notamos su simpatía profunda por él y su rabia y desconfianza haci
+ a las estructuras sociales y administrativas que no entienden la psicolog
+ ía del niño” (Gilbert Salachas).\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El espíritu de la colmena
+DTSTART;VALUE=DATE-TIME:20050303T173000
+DTEND;VALUE=DATE-TIME:20050303T191600
+UID:0503033017_1_dore
+DESCRIPTION:Sala 1 - El espíritu de la colmena (Víctor Erice\, 1973). In
+ t.: Ana Torrent\, Fernando Fernán Gómez\, Teresa Gimpera. España. 106
+ ’\n“La España cautiva y petrificada de Franco marca el imaginario ten
+ ebroso de una niña mediante una película y de ahí surge una obra delica
+ da\, hecha de susurros e impresiones fugaces\, que recrea la visión onír
+ ica y vagamente aterradora que una niña se hace del mundo adulto” (Sté
+ phan Krezinsky).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograD
+ ore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El pájaro de la felicidad
+DTSTART;VALUE=DATE-TIME:20050303T193000
+DTEND;VALUE=DATE-TIME:20050303T212800
+UID:0503033019_1_dore
+DESCRIPTION:Sala 1 - El pájaro de la felicidad (Pilar Miró\, 1993). Int.
+ : Mercedes Sampietro\, Aitana Sánchez-Gijón\, José Sacristán. España.
+  118’\nCarmen\, mujer madura\, decide irse a vivir al sur\, a empezar un
+ a nueva vida sólo relacionada con su trabajo. Hasta que aparecen un profe
+ sor de literatura\, primero\, y Nani\, la mujer de su hijo\, con su bebé\
+ , después.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
+ ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15
+ .pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dernier domicile connu
+DTSTART;VALUE=DATE-TIME:20050303T200000
+DTEND;VALUE=DATE-TIME:20050303T214300
+UID:0503030020_2_dore
+DESCRIPTION:Sala 2 - Dernier domicile connu (Último domicilio conocido\, 
+ Jose Giovanni\, 1970). Int.: Lino Ventura\, Marlène Jobert\, Philippe Mar
+ ch. Francia. VOSE. 103’\nUn policía apartado del servicio se encarga\, 
+ junto a una joven compañera\, de entontrar a un testigo clave. Empieza un
+ a búsqueda larga y minuciosa.\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Boys of the Road
+DTSTART;VALUE=DATE-TIME:20050303T220000
+DTEND;VALUE=DATE-TIME:20050303T230800
+UID:0503030022_1_dore
+DESCRIPTION:Sala 1 - Wild Boys of the Road (William Wellman\, 1933). Int.:
+  Frankie Darro\, Edwin Phillips\, Rochelle Hudson. EE UU. VOSE*. 68’\nCo
+ nsiderada por algunos la obra maestra de Wellman\, ejemplo de la tendencia
+  social de la Warner en los años treinta\, la película describe la situa
+ ción de bandadas de niños empujados por la Depresión a abandonar sus ho
+ gares y vagabundear por el país. Segunda proyección día 27.\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosetta
+DTSTART;VALUE=DATE-TIME:20050304T173000
+DTEND;VALUE=DATE-TIME:20050304T190500
+UID:0503043017_1_dore
+DESCRIPTION:Sala 1 - Rosetta (Rosetta\, Jean-Pierre Dardenne y Luc Dardenn
+ e\, 1999). Int.: Émilie Dequenne\, Fabrizio Rongione\, Anne Yernaux. Fran
+ cia /Bélgica. VOSE. 95’\n“Nos acordamos del personaje de K\, de El ca
+ stillo\, de Kafka. No puede acceder al castillo\, es rechazado por el pueb
+ lo y empieza a cuestionarse su propia existencia. Nos dio la idea de una c
+ hica marginada\, que quiere conseguir algo que la devuelva al seno de la s
+ ociedad\, pero que siempre es rechazada” (Luc Dardenne). Segunda proyecc
+ ión día 6.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore1
+ 5.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mararía
+DTSTART;VALUE=DATE-TIME:20050304T193000
+DTEND;VALUE=DATE-TIME:20050304T212200
+UID:0503043019_1_dore
+DESCRIPTION:Sala 1 - Mararía (Antonio Betancor\, 1998). Int.: Carmelo Gó
+ mez\, Iain Glen\, Goya Toledo. Fotografía: Juan Ruiz Anchía. España. 11
+ 2’\n“El operador afronta el reto de mostrar sutilmente lo que está m
+ ás allá de las apariencias\, el fondo que puede revelarse como una prese
+ ncia inquietante” (Jesús G. de Dueñas).\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Edvard Munch
+DTSTART;VALUE=DATE-TIME:20050304T200000
+DTEND;VALUE=DATE-TIME:20050304T224700
+UID:0503040020_2_dore
+DESCRIPTION:Sala 2 - Edvard Munch (Peter Watkins\, 1973). Int.: Geir Westb
+ y\, Gro Fraas\, Eric Allum. Noruega / Suecia. DVD. VOSE. 167'\n"Cautivado 
+ por la iconografía del pintor\, Watkins decidió llevar su vida a la pant
+ alla tomando como pretexto sus diarios íntimos. (...) La biografía se tr
+ ansformó en la autobiografía inconfesada de Peter Watkins" (Ángel Quint
+ ana).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Night of the Hunter
+DTSTART;VALUE=DATE-TIME:20050304T220000
+DTEND;VALUE=DATE-TIME:20050304T233300
+UID:0503040022_1_dore
+DESCRIPTION:Sala 1 - The Night of the Hunter (La noche del cazador\, Charl
+ es Laughton\, 1955). Int.: Robert Mitchum\, Shelley Winters\, Lillian Gish
+ . EE UU. VOSE. 93'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Progr
+ aDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Gold Rush
+DTSTART;VALUE=DATE-TIME:20050305T173000
+DTEND;VALUE=DATE-TIME:20050305T184000
+UID:0503053017_1_dore
+DESCRIPTION:Sala 1 - The Gold Rush (La quimera del oro\, Charles Chaplin\,
+  1925). Int.: Charles Chaplin\, Georgia Hale\, Mack Swain. EE UU. VOSE. 70
+ ’\n“La belleza del blanco y negro\, la sobriedad\, los matices y la in
+ tensidad de la interpretación\, la perfección cómica de las escenas de 
+ interior han contribuido a que sea una película universalmente apreciada 
+ y una de las menos discutidas de la obra de Chaplin“ (Jacques Lourcelles
+ ). Segunda proyección día 6.\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La casa de Bernarda Alba
+DTSTART;VALUE=DATE-TIME:20050305T193000
+DTEND;VALUE=DATE-TIME:20050305T211300
+UID:0503053019_1_dore
+DESCRIPTION:Sala 1 - La casa de Bernarda Alba (Mario Camus\, 1987). Int.: 
+ Irene Gutiérrez Caba\, Ana Belén\, Florinda Chico. Fotografia: Fernando 
+ Arribas. España. 103’\n“Expresión de una actitud muy reflexiva ante 
+ el tratamiento visual del encierro y la obstinación\, imaginería dramát
+ ica que ya estaba presente en dos títulos como Pim\, pam\, pum...¡fuego!
+  o Un hombre llamado Flor de Otoño” (Jesús G. de Dueñas).\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El camino
+DTSTART;VALUE=DATE-TIME:20050305T200000
+DTEND;VALUE=DATE-TIME:20050305T213000
+UID:0503050020_2_dore
+DESCRIPTION:Sala 2 - El camino (Ana Mariscal\, 1965). Int.: José Antonio 
+ Mejías\, Maribel Martín\, Angel Díaz. España. 90’\nEn una aldea cast
+ ellana\, un chaval\, que forma parte de un grupo de tres amigos\, está a 
+ punto de marcharse a la ciudad\, donde su padre quiere que estudie el bach
+ illerato.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.p
+ df
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brief Encounter
+DTSTART;VALUE=DATE-TIME:20050305T220000
+DTEND;VALUE=DATE-TIME:20050305T232600
+UID:0503050022_1_dore
+DESCRIPTION:Sala 1 - Brief Encounter (Breve encuentro\, David Lean\, 1945)
+ . Int.: Trevor Howard\, Celia Johnson\, Stanley Holloway. GB. VOSE*. 86’
+ \nDurante los últimos días de la II Guerra Mundial\, Laura\, una mujer c
+ asada\, conoce a Alec\, un médico\, en la sala de espera de la estación 
+ de cercanías. El encuentro se repite en días posteriores\, nace una amis
+ tad y después el amor. Segunda proyección día 10.\n\n\nFuente: http://w
+ ww.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe
+ /cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Gold Rush
+DTSTART;VALUE=DATE-TIME:20050306T173000
+DTEND;VALUE=DATE-TIME:20050306T184000
+UID:0503063017_1_dore
+DESCRIPTION:Sala 1 - The Gold Rush (La quimera del oro\, Charles Chaplin\,
+  1925). Int.: Charles Chaplin\, Georgia Hale\, Mack Swain. EE UU. VOSE. 70
+ ’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Women Have Curves
+DTSTART;VALUE=DATE-TIME:20050306T193000
+DTEND;VALUE=DATE-TIME:20050306T210000
+UID:0503063019_1_dore
+DESCRIPTION:Sala 1 - Real Women Have Curves (Las mujeres de verdad tienen 
+ curvas\, Patricia Cardoso\, 2002). Int.: America Ferrera\, Lupe Ontiveros\
+ , Ingrid Oliu. EE UU. VOSE. 90’\nLa historia de Ana\, una adolescente m
+ éxico-americana. Aunque ha obtenido una beca para estudiar en Columbia\, 
+ la tradición le obliga a buscar un trabajo para ayudar al sustento famili
+ ar. Segunda proyección día 9.\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aftonlandet
+DTSTART;VALUE=DATE-TIME:20050306T200000
+DTEND;VALUE=DATE-TIME:20050306T215000
+UID:0503060020_2_dore
+DESCRIPTION:Sala 2 - Aftonlandet (Tierra de noche\, Peter Watkins\, 1976).
+  Int.: Jon Bang Carlsen\, Peter Bay\, Claus Bølling. Dinamarca. DVD. VOSE
+ *. 110'\n"En esta ocasión\, el relato de política ficción tiene como pu
+ nto de partida una huelga en los astilleros de Copenhague para protestar c
+ ontra el proceso de fabricación de submarinos nucleares para la armada fr
+ ancesa" (Ángel Quintana).\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 05/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosetta
+DTSTART;VALUE=DATE-TIME:20050306T220000
+DTEND;VALUE=DATE-TIME:20050306T233500
+UID:0503060022_1_dore
+DESCRIPTION:Sala 1 - Rosetta (Rosetta\, Jean-Pierre Dardenne y Luc Dardenn
+ e\, 1999). Int.: Émilie Dequenne\, Fabrizio Rongione\, Anne Yernaux. Fran
+ cia /Bélgica. VOSE. 95’\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 05/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Te doy mis ojos
+DTSTART;VALUE=DATE-TIME:20050308T173000
+DTEND;VALUE=DATE-TIME:20050308T191900
+UID:0503083017_1_dore
+DESCRIPTION:Sala 1 - Te doy mis ojos (Icíar Bollaín\, 2003). Int.: Laia 
+ Marull\, Luis Tosar\, Candela Peña. España. 109’\nUna noche de inviern
+ o\, una mujer\, Pilar\, sale huyendo de su casa. Lleva consigo apenas cuat
+ ro cosas y a su hijo\, Juan. Antonio no tarda en ir a buscarla. Pilar es s
+ u sol\, dice\, y además\, "le ha dado sus ojos".\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mi vida sin mí / My Life Without You
+DTSTART;VALUE=DATE-TIME:20050308T194000
+DTEND;VALUE=DATE-TIME:20050308T212800
+UID:0503084019_1_dore
+DESCRIPTION:Sala 1 - Mi vida sin mí / My Life Without You (Isabel Coixet\
+ , 2003). Int.: Sarah Polley\, Amanda Plummer\, Scott Speedman. España / C
+ anadá. VOSE. 108’\nAnn tiene veintitrés años\, dos hijas y un marido 
+ que pasa más tiempo en paro que trabajando. Su existencia gris cambia com
+ pletamente tras un reconocimiento médico. Desde ese día\, Ann descubre e
+ l placer de vivir.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Progr
+ aDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Goût de la violence
+DTSTART;VALUE=DATE-TIME:20050308T200000
+DTEND;VALUE=DATE-TIME:20050308T212500
+UID:0503080020_2_dore
+DESCRIPTION:Sala 2 - Le Goût de la violence (El sabor de la violencia\, R
+ obert Hossein\, 1960). Int.: Robert Hossein\, Giovanna Ralli\, Madeleine R
+ obinson. Francia / Italia / Alemania. VOSE*. 85’\nRevolucionarios sudame
+ ricanos secuestran a la hija del presidente para intercambiarla por los pr
+ isioneros de su grupo. Segunda proyección día 10.\n\n\nFuente: http://ww
+ w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
+ cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ladri di biciclette
+DTSTART;VALUE=DATE-TIME:20050308T220000
+DTEND;VALUE=DATE-TIME:20050308T232000
+UID:0503080022_1_dore
+DESCRIPTION:Sala 1 - Ladri di biciclette (Ladrón de bicicletas\, Vittorio
+  de Sica\, 1948). Int.: Lamberto Maggiorani\, Enzo Staiola\, Lianella Care
+ ll. Italia. VOSE*. 80’\n“Es el niño quien da a la aventura del obrero
+  su dimensión ética y crea una perspectiva moral individual en este dram
+ a que podría no ser más que social. (…) Es la admiración que en tanto
+  que niño le demuestra y la conciencia que su padre tiene de esto lo que 
+ confieren al fin de la película su grandeza trágica” (André Bazin). S
+ egunda proyección día 12.\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaaba
+DTSTART;VALUE=DATE-TIME:20050309T173000
+DTEND;VALUE=DATE-TIME:20050309T190000
+UID:0503093017_1_dore
+DESCRIPTION:Sala 1 - Yaaba (Idrissa Ouedraogo\, 1989). Int.: Fatimata Sang
+ a\, Noufou Ouédraogo\, Roukietou Barry. Burkina-Faso / Suiza / Francia. V
+ OSE*. 90’\n“ Idrissa Ouedraogo va aún más lejos\, fiel a su deseo de
+  usar lo menos posible el diálogo y expresar todo con miradas\, lágrimas
+  o sonrisas (…). Este cuento de una abuela está hecho de viento\, de ho
+ rizonte\, de lluvias repentinas\, de noches calurosas\, con murmullos adul
+ tos y risas locas infantiles y la mirada tierna de una mamá vieja” (Jea
+ n Rouch). Segunda proyección día 12.\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beltenebros
+DTSTART;VALUE=DATE-TIME:20050309T193000
+DTEND;VALUE=DATE-TIME:20050309T212400
+UID:0503093019_1_dore
+DESCRIPTION:Sala 1 - Beltenebros (Pilar Miró\, 1996). Int.: Terence Stamp
+ \, José Luis Gómez\, Patsy Kensit. Fotografía: Javier Aguirresarobe. Es
+ paña / Holanda. VOSE. 114’\n“Esa sutilidad en la gradación cromátic
+ a\, la estricta austeridad colorística empleada por el operador\, tales a
+ rtificios de contención y de elocuencia imaginativa determinan el caráct
+ er profundo del film y subrayan su seco valor testimonial y crítico” (J
+ esús G. de Dueñas). Presentación del ciclo\n\n\nFuente: http://www.mecd
+ .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
+ ore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ceux d’en face
+DTSTART;VALUE=DATE-TIME:20050309T200000
+DTEND;VALUE=DATE-TIME:20050309T213200
+UID:0503090020_2_dore
+DESCRIPTION:Sala 2 - Ceux d’en face (Jean-Daniel Pollet\, 2001). Int.: M
+ ichael Lonsdale\, Valentine Vidal\, Alain Beigel. Francia. VOSE*. 92’\nE
+ n una gran casa aislada vive un compositor. Un día\, un joven llega con e
+ l encargo de buscar unas fotos que ilustran todos los males del mundo. Seg
+ unda proyección día 11.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/200
+ 5/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Women Have Curves
+DTSTART;VALUE=DATE-TIME:20050309T220000
+DTEND;VALUE=DATE-TIME:20050309T233000
+UID:0503090022_2_dore
+DESCRIPTION:Sala 2 - Real Women Have Curves (Las mujeres de verdad tienen 
+ curvas\, Patricia Cardoso\, 2002). Int.: America Ferrera\, Lupe Ontiveros\
+ , Ingrid Oliu. EE UU. VOSE. 90’\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brief Encounter
+DTSTART;VALUE=DATE-TIME:20050310T173000
+DTEND;VALUE=DATE-TIME:20050310T185600
+UID:0503103017_1_dore
+DESCRIPTION:Sala 1 - Brief Encounter (Breve encuentro\, David Lean\, 1945)
+ . Int.: Trevor Howard\, Celia Johnson\, Stanley Holloway. GB. VOSE*. 86’
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El mar
+DTSTART;VALUE=DATE-TIME:20050310T193000
+DTEND;VALUE=DATE-TIME:20050310T212100
+UID:0503103019_1_dore
+DESCRIPTION:Sala 1 - El mar (Agustí Villaronga\, 2000). Int.: Roger Casam
+ ajor\, Bruno Bergonzini\, Antonia Torrens. Fotografía: Jaume Peracaula. E
+ spaña. VOE. 111’\nTras haber vivido juntos la crueldad de la guerra\, M
+ anuel y Ramallo\, enfermos de turberculosis\, se reecuentran en un hospita
+ l. Su amistad renacerá y crecerá marcada por la miseria\, la violencia\,
+  el sexo y la traición.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005
+ /PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Goût de la violence
+DTSTART;VALUE=DATE-TIME:20050310T200000
+DTEND;VALUE=DATE-TIME:20050310T212500
+UID:0503100020_2_dore
+DESCRIPTION:Sala 2 - Le Goût de la violence (El sabor de la violencia\, R
+ obert Hossein\, 1960). Int.: Robert Hossein\, Giovanna Ralli\, Madeleine R
+ obinson. Francia / Italia / Alemania. VOSE*. 85’\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moonfleet
+DTSTART;VALUE=DATE-TIME:20050310T220000
+DTEND;VALUE=DATE-TIME:20050310T232700
+UID:0503100022_1_dore
+DESCRIPTION:Sala 1 - Moonfleet (Los contrabandistas de Moonfleet\, Fritz L
+ ang\, 1954). Int.: Steward Granger\, George Sanders\, Jon Whiteley. EE UU.
+  VOSE. 87’\n"Jeremy Fox no es el protagonista\, sino el centro de la pel
+ ícula\, porque el noble desclasado convertido en contrabandista es el ún
+ ico personaje que puede ser cambiado por la historia. Fox reconquista in e
+ xtremis su autoestima\, sentimiento clave en el universo de Lang\, a trav
+ és de la estima que le profesa el niño" (Serge Daney). Segunda proyecci
+ ón día 13.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore1
+ 5.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pather panchali
+DTSTART;VALUE=DATE-TIME:20050311T173000
+DTEND;VALUE=DATE-TIME:20050311T193200
+UID:0503113017_1_dore
+DESCRIPTION:Sala 1 - Pather panchali (Satyajit Ray\, 1955). Int.: Kanu Ban
+ nerjee\, Karuna Bannerjee\, Subir Bannerjee\, Uma Das Gupta. India. VOBeng
+ alí SE*. 122’\n“Elegí Pather Panchali porque es un gran libro\, llen
+ o de humanismo\, de lirismo y con un aire de verdad. El guión debía rete
+ ner la cualidad errática de la novela porque es la clave de su autenticid
+ ad: la vida en un pobre pueblecito bengalí es errática” (Satyajit Ray)
+ .\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
+ reas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los lobos de Washington
+DTSTART;VALUE=DATE-TIME:20050311T195000
+DTEND;VALUE=DATE-TIME:20050311T212300
+UID:0503115019_1_dore
+DESCRIPTION:Sala 1 - Los lobos de Washington (Mariano Barroso\, 1999). Int
+ .: Javier Bardem\, Eduard Fernández \, Ernesto Alterio. Fotografía: Nés
+ tor Calvo. España. 93’\n“Néstor Calvo\, capaz de fabular imágenes t
+ an distintas como las dislocadas y brillantes de Más que amor\, frenesí 
+ o las sombrías y angustiosas de Nos miran\, nos depara el severo ejercici
+ o formal de Los lobos de Washington” (Jesús G. de Dueñas).\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ceux d’en face
+DTSTART;VALUE=DATE-TIME:20050311T200000
+DTEND;VALUE=DATE-TIME:20050311T213200
+UID:0503110020_2_dore
+DESCRIPTION:Sala 2 - Ceux d’en face (Jean-Daniel Pollet\, 2001). Int.: M
+ ichael Lonsdale\, Valentine Vidal\, Alain Beigel. Francia. VOSE*. 92’\n\
+ n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
+ -cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El juego de la silla
+DTSTART;VALUE=DATE-TIME:20050311T220000
+DTEND;VALUE=DATE-TIME:20050311T233300
+UID:0503110022_1_dore
+DESCRIPTION:Sala 1 - El juego de la silla (Ana Katz\, 2002). Int.: Raquel 
+ Bank\, Diego de Paula\, Ana Katz. Argentina. 93’\n“Usted llega a una d
+ e las tantas rutinarias reuniones familiares. (…) De a poco y desde la l
+ upa deformante del alcohol y la distancia observa el accionar de sus famil
+ iares (…). Repentinamente\, advierte cómo estas tradiciones legitimadas
+  desde siempre se vuelven extrañas y hasta incomprensibles” (Ana Katz).
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ladri di biciclette
+DTSTART;VALUE=DATE-TIME:20050312T173000
+DTEND;VALUE=DATE-TIME:20050312T185000
+UID:0503123017_1_dore
+DESCRIPTION:Sala 1 - Ladri di biciclette (Ladrón de bicicletas\, Vittorio
+  de Sica\, 1948). Int.: Lamberto Maggiorani\, Enzo Staiola\, Lianella Care
+ ll. Italia. VOSE*. 80’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005
+ /PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sin noticias de Dios
+DTSTART;VALUE=DATE-TIME:20050312T193000
+DTEND;VALUE=DATE-TIME:20050312T212200
+UID:0503123019_1_dore
+DESCRIPTION:Sala 1 - Sin noticias de Dios (Agustín Díaz Yanes\, 2001). I
+ nt.: Victoria Abril\, Penélope Cruz\, Fanny Ardant. Fotografía: Francisc
+ o Femenía. España / Francia / Italia. 112’\n“Desde las suntuosas com
+ posiciones de Volavérunt\, pasando por ese delirio de imaginación malici
+ osa que es Sin noticias de Dios\, puede llegar Francisco Femenía a la tur
+ badora sensualidad de Carmen” (Jesús G. de Dueñas).\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dollmaker
+DTSTART;VALUE=DATE-TIME:20050312T200000
+DTEND;VALUE=DATE-TIME:20050312T222000
+UID:0503120020_2_dore
+DESCRIPTION:Sala 2 - The Dollmaker (Daniel Petrie\, 1984). Int.: Jane Fond
+ a\, Levon Helm\, Geraldine Page. EE UU. VOSE*. 140’\n\n\nFuente: http://
+ www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
+ e/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaaba
+DTSTART;VALUE=DATE-TIME:20050312T220000
+DTEND;VALUE=DATE-TIME:20050312T233000
+UID:0503120022_1_dore
+DESCRIPTION:Sala 1 - Yaaba (Idrissa Ouedraogo\, 1989). Int.: Fatimata Sang
+ a\, Noufou Ouédraogo\, Roukietou Barry. Burkina-Faso / Suiza / Francia. V
+ OSE*. 90’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
+ ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15
+ .pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moonfleet
+DTSTART;VALUE=DATE-TIME:20050313T173000
+DTEND;VALUE=DATE-TIME:20050313T185700
+UID:0503133017_1_dore
+DESCRIPTION:Sala 1 - Moonfleet (Los contrabandistas de Moonfleet\, Fritz L
+ ang\, 1954). Int.: Steward Granger\, George Sanders\, Jon Whiteley. EE UU.
+  VOSE. 87’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore1
+ 5.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don Juan en los infiernos
+DTSTART;VALUE=DATE-TIME:20050313T193000
+DTEND;VALUE=DATE-TIME:20050313T210400
+UID:0503133019_1_dore
+DESCRIPTION:Sala 1 - Don Juan en los infiernos (Gonzalo Suarez\, 1991). In
+ t.: Fernando Guillén\, Charo López\, Mario Pardo. Fotografía: Carlos Su
+ árez. España . 94’\n“De Carlos Suárez y de su Don Juan en los infie
+ rnos se puede decir que es la prolongación natural de una constante elabo
+ ración de recursos muy refinados que ha ido desarrollando hasta desemboca
+ r en el deslumbrante ejercicio de La luz prodigiosa” (Jesús G. de Dueñ
+ as).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
+ d/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Frau meiner Traüme
+DTSTART;VALUE=DATE-TIME:20050313T200000
+DTEND;VALUE=DATE-TIME:20050313T213300
+UID:0503130020_2_dore
+DESCRIPTION:Sala 2 - Die Frau meiner Traüme (Georg Jacoby\, 1944). Int.: 
+ Marika Rökk\, Wolfgang Lukschy\, Walter Müller. Alemania. VOSP/E*. 93’
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alice in den Städten
+DTSTART;VALUE=DATE-TIME:20050313T220000
+DTEND;VALUE=DATE-TIME:20050313T235200
+UID:0503130022_1_dore
+DESCRIPTION:Sala 1 - Alice in den Städten (Alicia en las ciudades\, Wim W
+ enders\, 1974). Int.: Rüdiger Vogler\, Yella Rottländer\, Lisa Kreuzer. 
+ Alemania. VOSE. 112’\n“Búsqueda geográfica a la vez que interior\, d
+ e la identidad alemana mediante las huellas de la cultura americana\, la p
+ elícula descansa sobre la relación de complicidad y ternura que se teje 
+ entre la niña volcada hacia el futuro y el adulto bloqueado por el pasado
+ ” (Joël Magny). Segunda proyección día 17.\n\n\nFuente: http://www.me
+ cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
+ -dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La caja 507
+DTSTART;VALUE=DATE-TIME:20050315T173000
+DTEND;VALUE=DATE-TIME:20050315T192200
+UID:0503153017_1_dore
+DESCRIPTION:Sala 1 - La caja 507 (Enrique Urbizu\, 2002 ). Int.: José Cor
+ onado\, Antonio Resines\, Goya Toledo. Fotografía: Carles Gusi. España. 
+ 112’\n“La caja 507\, de Carlos Gusi es la consecuencia natural\, y la 
+ culminación si preferís\, de logros de cohesión visual de ambientes tan
+  diversos como pueden ser\, sólo a primera vista\, Acción mutante o Un c
+ uerpo en el bosque” (Jesús G. de Dueñas).\n\n\nFuente: http://www.mecd
+ .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
+ ore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bande à part
+DTSTART;VALUE=DATE-TIME:20050315T194000
+DTEND;VALUE=DATE-TIME:20050315T213400
+UID:0503154019_1_dore
+DESCRIPTION:Sala 1 - Bande à part (Bandaparte\, Jean-Luc Godard\, 1964). 
+ Int.: Anna Karina\, Claude Brasseur\, Sami Frey. Francia. VOSE*. 95’. Ti
+ empos duros en Ríos Rosas (Manolo Marinero\, 1982). Int.: Aurora Pastor\,
+  Antonio Gasset. España. 19’. Total programa: 114’\nBande…: "Godard
+  reflexiona como el soñador que sostiene despierta en el sueño toda su c
+ onsciencia. El análisis escolta siempre en paréntesis a las inmersiones 
+ poéticas con el resultado —doblemente poético — de una linterna ambu
+ lante en zona de eclipse" (Manolo Marinero). Mesa redonda tras la proyecci
+ ón de la película con la asistencia\, entre otros\, de Luis Ariño\, Ped
+ ro Costa\, Víctor Erice\, Miguel Hermoso\, Miguel Marías\, Manuel Matji 
+ y Luciano Valverde.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
+ ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Prog
+ raDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaime
+DTSTART;VALUE=DATE-TIME:20050315T200000
+DTEND;VALUE=DATE-TIME:20050315T222600
+UID:0503150020_2_dore
+DESCRIPTION:Sala 2 - Jaime (António Reis\, 1974). Documental. 35’. Trà
+ s-os-montes (Margarida Cordeiro y António Reis\, 1976). Documental. 111
+ ’. Portugal. VOSE*. Total programa: 146’\nJaime: "¿Como penetrar en l
+ a locura? ¿Cómo penetrar en la pintura? ¿Cómo penetrar en una persona.
+  Tres desafíos para el cine de Reis\, un poeta convertido en director" (J
+ orge Leitão Ramos)." Acto de amor por un pueblo\, por una tierra\, por un
+ a cultura\, Trás-osMontes graba indeleblemente las señales de una resist
+ encia secular\, en las piedras\, las leyendas\, los rostros de un Nordeste
+  en el que se perfila otro espacio de civilización" (Jorge Leitão Ramos)
+ . Segunda proyección día 19.\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Truhanes
+DTSTART;VALUE=DATE-TIME:20050315T224000
+DTEND;VALUE=DATE-TIME:20050316T001900
+UID:0503154022_1_dore
+DESCRIPTION:Sala 1 - Truhanes (Miguel Hermoso\, 1983). Int.: Francisco Rab
+ al\, Arturo Fernández\, Isabel Mestres. Coargumentista: Manolo Marinero. 
+ España. 99’\n Gonzalo\, un estafador de altura\, conoce en la cárcel a
+  Ginés\, un ratero de poca monta\, a quien ofrece trabajo cuando ambos sa
+ lgan en libertad.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
+ d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Progra
+ Dore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tacones lejanos
+DTSTART;VALUE=DATE-TIME:20050316T173000
+DTEND;VALUE=DATE-TIME:20050316T192300
+UID:0503163017_1_dore
+DESCRIPTION:Sala 1 - Tacones lejanos (Pedro Almodóvar\, 1991). Int.: Mari
+ sa Paredes\, Victoria Abril\, Miguel Bosé. Fotografía: Alfredo Mayo. Esp
+ aña / Francia. 113’\n“Aunque adoro el melodrama clásico he prescindi
+ do del habitual maniqueísmo propio del género y de su complacencia senti
+ mental. Tacones lejanos es un melodrama duro\, por momentos cercano al ter
+ ror o a la serie negra (y por qué no\, a la comedia musical)” (Pedro Al
+ modóvar).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.
+ pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rio Lobo
+DTSTART;VALUE=DATE-TIME:20050316T194500
+DTEND;VALUE=DATE-TIME:20050316T213900
+UID:0503164519_1_dore
+DESCRIPTION:Sala 1 - Rio Lobo (Río Lobo\, Howard Hawks\, 1970). Int.: Joh
+ n Wayne\, Jorge Rivero\, Jennifer O’Neill\, EE UU. VOSE*. 114’\n“Otr
+ o de los fascinantes retratos de individuos dispares unidos moralmente por
+  el respeto mutuo\, la responsabilidad y las necesidades físicas y emocio
+ nales. Aunque no tiene la perfección formal de Rio Bravo ni es la conmove
+ dora elegía a la vejez de Eldorado\, es con todo una película maravillos
+ a” (Geoff Andrews).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Pr
+ ograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mi tío Jacinto
+DTSTART;VALUE=DATE-TIME:20050316T200000
+DTEND;VALUE=DATE-TIME:20050316T213000
+UID:0503160020_2_dore
+DESCRIPTION:Sala 2 - Mi tío Jacinto (Ladislao Vajda\, 1956). Int.: Pablit
+ o Calvo\, Antonio Vico\, José Marco Davó. España. 90’\n“Una de las 
+ diez mejores películas del cine español. Pepote\, un niño huérfano de 
+ diez años\, protege a su tío Jacinto\, un vago alcohólico que ha sido t
+ orero y sigue considerándose torero. Pepote admira a Jacinto. (… ) Es u
+ na película vivaz\, divertida y de una tristeza honda\, y su desenlace es
+ \, con el de Cielo negro\, el mejor del cine español” (Manolo Marinero)
+ .\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
+ reas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Topio stin omichli
+DTSTART;VALUE=DATE-TIME:20050316T220000
+DTEND;VALUE=DATE-TIME:20050316T235800
+UID:0503160022_1_dore
+DESCRIPTION:Sala 1 - Topio stin omichli (Paisaje en la niebla\, Theo Angel
+ opulos\, 1988). Int.: Tania Palaiologou\, Michalis Zeke\, Stratos Tzortzog
+ lou. Grecia. VOSE. 118’\n“Dos hermanos buscan a su desconocido y proba
+ blemente inexistente padre que\, dice su madre\, vive en Alemania. Puntuad
+ a por cartas soñadoras a su padre eternamente silencioso\, la odisea de l
+ os niños es una búsqueda existencial de la identidad ancestral y la comu
+ nidad” (Acquarello). Segunda proyección día 23.\n\n\nFuente: http://ww
+ w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
+ cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alice in den Städten
+DTSTART;VALUE=DATE-TIME:20050317T173000
+DTEND;VALUE=DATE-TIME:20050317T192200
+UID:0503173017_1_dore
+DESCRIPTION:Sala 1 - Alice in den Städten (Alicia en las ciudades\, Wim W
+ enders\, 1974). Int.: Rüdiger Vogler\, Yella Rottländer\, Lisa Kreuzer. 
+ Alemania. VOSE. 112’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
+ rograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lluvia en los zapatos
+DTSTART;VALUE=DATE-TIME:20050317T193400
+DTEND;VALUE=DATE-TIME:20050317T210400
+UID:0503173419_1_dore
+DESCRIPTION:Sala 1 - Lluvia en los zapatos (María Ripoll\, 1998). Int.: L
+ ena Headey\, Douglas Henshall\, Penélope Cruz. Fotografía: Javier Salmon
+ es. España / Francia. VOISE. 90’\n“Lluvia en los zapatos demuestra la
+  versatilidad de Javier Salmones\, que se manifiesta con la misma soltura 
+ y una perspectiva serena en alegres comedias como Alegre ma non troppo o e
+ n truculentas narrativas como Trece campanadas” (Jesús G. de Dueñas).\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bon Voyeur
+DTSTART;VALUE=DATE-TIME:20050317T210000
+DTEND;VALUE=DATE-TIME:20050317T221300
+UID:0503170021_2_dore
+DESCRIPTION:Sala 2 - Bon Voyeur (Iraida Lombardía\, 2004). 5’. DVD. La 
+ casa vacía (Paulino Ibáñez\, 2004) 13’. DVD. A la cola (David Goberna
+  & Adrian Castañeda\, 2004). DVD. 22’. Temporada baja (Sergio G. Sánch
+ ez\, 2003). 23’. Nenyure (Jorge Rivero\, 2004). VOISE. 10’. España. T
+ otal programa: 73’\nCon la presencia de Iraida Lombardía y Paulino Ibá
+ ñez.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mon oncle
+DTSTART;VALUE=DATE-TIME:20050317T220000
+DTEND;VALUE=DATE-TIME:20050318T000000
+UID:0503170022_1_dore
+DESCRIPTION:Sala 1 - Mon oncle (Mi tío\, Jacques Tati\, 1958). Int.: Jacq
+ ues Tati\, Jean-Pierre Zola\, Alain Bécourt. Francia. VOSE. 120’\n"”C
+ on su humor característico y sus gags imprevisibles\, Tati hace su person
+ al versión del viejo esquema en que un hombre\, extraordinario o corrient
+ e\, bondadoso o malvado\, es el ídolo de un niño: (…) Moonfleet\, Mi t
+ ío Jacinto… Una obra maestra” (Manolo Marinero). Segunda proyección 
+ día 19.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pd
+ f
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Enfant sauvage
+DTSTART;VALUE=DATE-TIME:20050318T173000
+DTEND;VALUE=DATE-TIME:20050318T185500
+UID:0503183017_1_dore
+DESCRIPTION:Sala 1 - L'Enfant sauvage (François Truffaut\, 1973). Int.: F
+ rançois Truffaut\, Jean-Pierre Cargol\, Jean Dasté. Francia. VOSE. 85’
+ \n“L’Enfant sauvage participa a la vez de Los cuatrocientos golpes y d
+ e Fahrenheit 451. En Los cuatrocientos golpes mostré a un niño que carec
+ e de amor\, que crece sin cariño\; en Fahrenheit se trata de un hombre qu
+ e carece de libros\, es decir\, de cultura. Para Victor\, la carencia es t
+ odavía más radical: el lenguaje” (François Truffaut). Segunda proyecc
+ ión día 19.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
+ ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore
+ 15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mater amatisima
+DTSTART;VALUE=DATE-TIME:20050318T193000
+DTEND;VALUE=DATE-TIME:20050318T211300
+UID:0503183019_1_dore
+DESCRIPTION:Sala 1 - Mater amatisima (José Antonio Salgot\, 1980). Int.: 
+ Victoria Abril\, Julio de la Cruz\, Consuelo Tura. España. 103’\n“Ya 
+ en solitario\, Salgot produce y dirige la muy notable Mater amatisima\, a 
+ partir de una idea argumental de Bigas Luna sobre la claustrofóbica histo
+ ria de una madre soltera con un niño autista\, presentada en la Quincena 
+ de Realizadores del festival de Cannes” (J. E. Monterde).\n\n\nFuente: h
+ ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
+ e/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amáquina
+DTSTART;VALUE=DATE-TIME:20050318T210000
+DTEND;VALUE=DATE-TIME:20050318T221000
+UID:0503180021_2_dore
+DESCRIPTION:Sala 2 - Amáquina (Francisco Deborja\, 2004). DVD. 15’. Mar
+ ía Luisa (Patricia García Quesada\, 2004). DVD. 9’. Tierra de guerrill
+ eros (Amanda Castro\, 2004). DVD. VOA. 15’. Entaina (Alberto Pardo\, 200
+ 4). DVD. VOA. 16’. Lo que el ojo no ve (Jose Braña\, 2003). 15’. Espa
+ ña. Total programa: 70’\nCon la presencia de Patricia García.\n\n\nFue
+ nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
+ ra/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:King's Row
+DTSTART;VALUE=DATE-TIME:20050318T220000
+DTEND;VALUE=DATE-TIME:20050319T000700
+UID:0503180022_1_dore
+DESCRIPTION:Sala 1 - King's Row (Sam Wood\, 1942). Int.: Anne Sheridan\, R
+ obert Cummings\, Ronald Reagan. EE UU. VOSE*. 127’\n“King’s Row es u
+ n clásico de la forma particular del gótico americano… un arte del dua
+ lismo\, de los personajes atormentados\, de la violencia y del horror. Aun
+ que se reclama del lado del bien\, se siente fascinada por el mal” (Mich
+ ael Rogin). Segunda proyección día 22.\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mon oncle
+DTSTART;VALUE=DATE-TIME:20050319T173000
+DTEND;VALUE=DATE-TIME:20050319T193000
+UID:0503193017_1_dore
+DESCRIPTION:Sala 1 - Mon oncle (Mi tío\, Jacques Tati\, 1958). Int.: Jacq
+ ues Tati\, Jean-Pierre Zola\, Alain Bécourt. Francia. VOSE. 120’\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You're the One
+DTSTART;VALUE=DATE-TIME:20050319T195000
+DTEND;VALUE=DATE-TIME:20050319T214100
+UID:0503195019_1_dore
+DESCRIPTION:Sala 1 - You're the One (Una historia de entonces) (José Luis
+  Garci\, 2000). Int.: Julia Gutiérrez Caba\, Lydia Bosch\, Iñaki Miramó
+ n. Fotografía: Raúl Pérez Cubero. España. 111’\n“Raúl Pérez Cube
+ ro ha logrado con You’re the One esa calidad de orfebre que se solicita 
+ cuando la gama de colores se reduce al blanco y negro\, pero ya había exp
+ uesto su amplia paleta en El abuelo” (Jesús G. de Dueñas).\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaime
+DTSTART;VALUE=DATE-TIME:20050319T200000
+DTEND;VALUE=DATE-TIME:20050319T222600
+UID:0503190020_2_dore
+DESCRIPTION:Sala 2 - Jaime (António Reis\, 1974). Documental. 35’. Trà
+ s-osmontes (Margarida Cordeiro y António Reis\, 1976). Documental. 111’
+ . Portugal. VOSE*. Total programa: 146’\n\n\nFuente: http://www.mecd.gob
+ .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
+ programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Enfant sauvage
+DTSTART;VALUE=DATE-TIME:20050319T220000
+DTEND;VALUE=DATE-TIME:20050319T232500
+UID:0503190022_1_dore
+DESCRIPTION:Sala 1 - L'Enfant sauvage (François Truffaut\, 1973). Int.: F
+ rançois Truffaut\, Jean-Pierre Cargol\, Jean Dasté. Francia. VOSE. 85’
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidi
+DTSTART;VALUE=DATE-TIME:20050320T173000
+DTEND;VALUE=DATE-TIME:20050320T185800
+UID:0503203017_1_dore
+DESCRIPTION:Sala 1 - Heidi (Allan Dwan\, 1937). Int.: Shirley Temple\, Jea
+ n Hersholt\, Mary Nash. EE UU. VOSE. 88’\n"Dwan hizo una versión sonora
+  de Robin Hood con Shirley Temple: la protagonista de Heidi es secuestrada
+  de la montaña en la que vive con su abuelo y encerrada en una mansión d
+ e la gran ciudad\, donde ayuda a una niña inválida a pesar de las intrig
+ as de otra usurpadora malvada\, la señorita Rottenmeier" (Bill Krohn).\n\
+ n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
+ -cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intacto
+DTSTART;VALUE=DATE-TIME:20050320T194000
+DTEND;VALUE=DATE-TIME:20050320T212800
+UID:0503204019_1_dore
+DESCRIPTION:Sala 1 - Intacto (Juan Carlos Fresnadillo\, 2001) Int.: Leonar
+ do Sbaraglia\, Eusebio Poncela\, Mónica López. Fotografía: Xavier Gimé
+ nez. España. 108’\n“Xavier Giménez supo mantener un pulso firme para
+  retratar la gélida atmósfera dramática de Intacto\, y quiso y pudo apl
+ icar en un registro nuevo la gran tradición de los maestros expresionista
+ s de la luz en Los sin nombre” (Jesús G. de Dueñas).\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shonen
+DTSTART;VALUE=DATE-TIME:20050320T200000
+DTEND;VALUE=DATE-TIME:20050320T214500
+UID:0503200020_1_dore
+DESCRIPTION:Sala 1 - Shonen (Nagisa Oshima\, 1969). Int.: Tetsuo Abe\, Fum
+ io Watanabe\, Akiko Koyama. Japón. VOSE*. 105’\nSegunda proyección dí
+ a 31.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johnny Guitar
+DTSTART;VALUE=DATE-TIME:20050320T220000
+DTEND;VALUE=DATE-TIME:20050320T235000
+UID:0503200022_1_dore
+DESCRIPTION:Sala 1 - Johnny Guitar (Johnny Guitar\, Nicholas Ray\, 1953). 
+ Int.: Joan Crawford\, Sterling Hayden\, Mercedes McCambridge. EE UU. VOSE*
+ . 110’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pd
+ f
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Al Sur de Granada
+DTSTART;VALUE=DATE-TIME:20050322T173000
+DTEND;VALUE=DATE-TIME:20050322T192300
+UID:0503223017_1_dore
+DESCRIPTION:Sala 1 - Al Sur de Granada (Fernando Colomo\, 2003). Int.: Mat
+ hew Goode \, Verónica Sánchez\, Guillermo Toledo. Fotografía: José Lui
+ s Alcaine . España. 113’\n“Quizá podría optar por otra película de
+  José Luis Alcaine\, en lugar de Al sur de Granada (…) pero en la pelí
+ cula elegida se percibe ese aroma propio de un clima en el que se ha forja
+ do la personalidad emotiva de su autor” (Jesús G. de Dueñas).\n\n\nFue
+ nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
+ ra/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:King's Row
+DTSTART;VALUE=DATE-TIME:20050322T193000
+DTEND;VALUE=DATE-TIME:20050322T213700
+UID:0503223019_1_dore
+DESCRIPTION:Sala 1 - King's Row (Sam Wood\, 1942). Int.: Anne Sheridan\, R
+ obert Cummings\, Ronald Reagan. EE UU. VOSE*. 127’\n\n\nFuente: http://w
+ ww.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe
+ /cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todos os llamais Mohamed
+DTSTART;VALUE=DATE-TIME:20050322T200000
+DTEND;VALUE=DATE-TIME:20050322T211400
+UID:0503220020_2_dore
+DESCRIPTION:Sala 2 - Todos os llamais Mohamed (Maximiliano Lemcke\, 1997).
+  30’. Lección de Historia (Javier San Román\, David Troncoso y Luis Co
+ llar). 6’. Frontera Sur (Alex Muñoz Riera y Helena Maleno\, 2003). Víd
+ eo 13’. Tiempo de soleá (Emilio Romero y Samuel Restucci\, 2003). Víde
+ o. 3’48” Amigo no gima (Iñaki Peñafiel\, 2003). Vídeo. 12’. Cada 
+ día paso por aquí (Raúl Arroyo Solís y Ramón Gonzalez\, 2003). Vídeo
+ . 8’38”. España. Total programa: 74’\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zéro de conduite
+DTSTART;VALUE=DATE-TIME:20050322T221500
+DTEND;VALUE=DATE-TIME:20050322T233200
+UID:0503221522_1_dore
+DESCRIPTION:Sala 1 - Zéro de conduite (Jean Vigo\, 1934). Int.: Jean Dast
+ é\, Louis Lefèvre\, Gilbert Pluchon. Francia. VOSE*. 41’. Caza de bruj
+ as (Antonio Drove\, 1967). Int.: José Luis Romero\, José Antonio Blasco\
+ , Antonio Puente. España. 36’. Total programa: 77’\nZero…: “Un Vi
+ go violento e irreal\, cercano al mudo\, que opone dos mundos irremediable
+ mente extraños y hostiles\, los niños y los adultos. (…) Una fuerte do
+ sis de ira y agresividad recorre la película\, a menudo edulcorada por lo
+ s críticos\, y si duda a ella se debe que la obra perdure y esa especie d
+ e pureza radical que ha podido conservar hasta hoy” (Jacques Lourcelles)
+ . Caza…: Práctica de la EOC\, que el autor considera una de sus obras m
+ ás personales\, basada en los recuerdos de la represión católica en la 
+ escuela. Segunda proyección día 27.\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El día de la bestia
+DTSTART;VALUE=DATE-TIME:20050323T173000
+DTEND;VALUE=DATE-TIME:20050323T191300
+UID:0503233017_1_dore
+DESCRIPTION:Sala 1 - El día de la bestia (Alex de la Iglesia\, 1995). Int
+ .: Santiago Segura\, Alex Angulo\, Nathalie Seseña. Fotografía: Flavio M
+ artínez Labiano. España / Italia. 103’\n“El día de la bestia\, ha q
+ uedado como modelo de un tratamiento esperpéntico del paisaje urbano\, cu
+ yas posibilidades ya había explorado\, matizando el carácter irrisorio d
+ e tal escenario\, y en blanco y negro\, en Matías\, juez de línea” (Je
+ sús G. de Dueñas).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Pro
+ graDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Topio stin omichli
+DTSTART;VALUE=DATE-TIME:20050323T193000
+DTEND;VALUE=DATE-TIME:20050323T212800
+UID:0503233019_1_dore
+DESCRIPTION:Sala 1 - Topio stin omichli (Paisaje en la niebla\, Theo Angel
+ opulos\, 1988). Int.: Tania Palaiologou\, Michalis Zeke\, Stratos Tzortzog
+ lou. Grecia. VOSE. 118’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/200
+ 5/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parsifal
+DTSTART;VALUE=DATE-TIME:20050323T200000
+DTEND;VALUE=DATE-TIME:20050323T213500
+UID:0503230020_2_dore
+DESCRIPTION:Sala 2 - Parsifal (Daniel Mangrané\, 1951). Int.: Ludmila Tch
+ erina\, Gustavo Rojo\, José Tusset. España. 95’\n“En la formalista y
+  pretendidamente modernizadora Parsifal (…) se propone una inesperada 
+ “relectura católica y catalana” de la pieza homónima de Wagner\, cuy
+ as imágenes aparecen envueltas en un diseño escenográfico y visual de n
+ otoria extravagancia” (Carlos F. Heredero).\n\n\nFuente: http://www.mecd
+ .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
+ ore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ponette
+DTSTART;VALUE=DATE-TIME:20050323T220000
+DTEND;VALUE=DATE-TIME:20050323T233700
+UID:0503230022_1_dore
+DESCRIPTION:Sala 1 - Ponette (Ponette\, Jacques Doillon\, 1996). Int.: Vic
+ toire Thivisol\, Marie Trintignant\, Xavier Beauvois. Francia. VOSE. 97’
+ \n“Una película sobre la reacción de una niña ante la muerte\, su con
+ frontación con la desaparición brutal de su madre en un accidente. Ponet
+ te tiene cuatro años y no lo puede soportar. Busca a su madre\, habla con
+  ella. Con una cabezonería y fe enormes\, está convencida de que volver
+ á a verla” (Cinémathèque de Toulouse). Segunda proyección día 27.\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Kid
+DTSTART;VALUE=DATE-TIME:20050326T173000
+DTEND;VALUE=DATE-TIME:20050326T183800
+UID:0503263017_1_dore
+DESCRIPTION:Sala 1 - The Kid (El chico\, Charles Chaplin\, 1921). Int.: Ch
+ arles Chaplin\, Jackie Coogan\, Edna Purviance. EE UU. SRE. 68’\n“Chap
+ lin persigue simbólicamente\, a través de Charlot\, un solo y único mit
+ o femenino. (…) Una sola excepción: El chico\, en el que el amor pseudo
+ -parternal sustituye al afecto por la joven pura” (André Bazin).\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les 400 coups
+DTSTART;VALUE=DATE-TIME:20050326T193000
+DTEND;VALUE=DATE-TIME:20050326T210300
+UID:0503263019_1_dore
+DESCRIPTION:Sala 1 - Les 400 coups (Los cuatrocientos golpes\, François T
+ ruffaut\, 1959). Int.: Jean-Pierre Léaud\, Claire Maurier\, Albert Rémy.
+  Francia. VOSE. 93’\n“François Truffaut entra en el cine moderno y en
+  la universidad de nuestras infancias. Niños humillados de Bernanos. Niñ
+ os terribles de Melville-Cocteau. Y niños de Vigo\, niños de Rossellini\
+ , en resumen\, niños de Truffaut\, expresión que tras el estreno de la p
+ elícula se hará parte del lenguaje. Pronto diremos ‘niños de Truffaut
+ ’ como se dice lanceros bengalíes\, reyes de la mafia\, locos del volan
+ te\, es decir\, adictos al cine” (Jean-Luc Godard\, 1959). Segunda proye
+ cción día 31.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDo
+ re15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pixote: A lei do mais fraco
+DTSTART;VALUE=DATE-TIME:20050326T200000
+DTEND;VALUE=DATE-TIME:20050326T220700
+UID:0503260020_2_dore
+DESCRIPTION:Sala 2 - Pixote: A lei do mais fraco (Pixote\, Hector Babenco\
+ , 1981). Int.: Fernando Ramos Da Silva\, Jorge Juliao\, Gilberto Moura. Br
+ asil. VOSE. 127’\n“Una mezcla de realismo social y mito. Un niño de d
+ iez años de los suburbios de Sâo Paulo vive en un mundo de pobreza. La v
+ ida criminal de Pixote es la versión moderna del gángster de la Depresi
+ ón\, pero esta vez el héroe es un niño. Un potente retrato de la inocen
+ cia y la corrupción” (Pacific Film Archive).\n\n\nFuente: http://www.me
+ cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
+ -dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sib
+DTSTART;VALUE=DATE-TIME:20050326T221500
+DTEND;VALUE=DATE-TIME:20050326T234100
+UID:0503261522_1_dore
+DESCRIPTION:Sala 1 - Sib (La manzana\, Samira Majmalbaf\, 1998). Int.: Mas
+ soumeh Naderi\, Zahra Naderi\, Ghorban Ali Naderi. Irán. VOSE. 86’\nEn 
+ un barrio pobre de Teherán\, varias familias escriben a la Asistencia Soc
+ ial para denunciar que\, en su calle\, un padre tiene secuestradas a sus d
+ os hijas desde que nacieron. Una asistente social se encarga de la investi
+ gación. Segunda proyección día 30.\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zero de conduite
+DTSTART;VALUE=DATE-TIME:20050327T173000
+DTEND;VALUE=DATE-TIME:20050327T184700
+UID:0503273017_1_dore
+DESCRIPTION:Sala 1 - Zero de conduite (Jean Vigo\, 1934). Int.: Jean Dast
+ é\, Louis Lefèvre\, Gilbert Pluchon. Francia. VOSE*. 41’. Caza de bruj
+ as (Antonio Drove\, 1967). Int.: José Luis Romero\, José Antonio Blasco\
+ , Antonio Puente. España. 36’. Total programa: 77’\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ponette
+DTSTART;VALUE=DATE-TIME:20050327T193000
+DTEND;VALUE=DATE-TIME:20050327T210700
+UID:0503273019_1_dore
+DESCRIPTION:Sala 1 - Ponette (Ponette\, Jacques Doillon\, 1996). Int.: Vic
+ toire Thivisol\, Marie Trintignant\, Xavier Beauvois. Francia. VOSE. 97’
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Boys of the Road
+DTSTART;VALUE=DATE-TIME:20050327T200000
+DTEND;VALUE=DATE-TIME:20050327T210800
+UID:0503270020_2_dore
+DESCRIPTION:Sala 2 - Wild Boys of the Road (William Wellman\, 1933). Int.:
+  Frankie Darro\, Edwin Phillips\, Rochelle Hudson. EE UU. VOSE*. 68’\n\n
+ \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
+ cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ohayo
+DTSTART;VALUE=DATE-TIME:20050327T220000
+DTEND;VALUE=DATE-TIME:20050327T233500
+UID:0503270022_1_dore
+DESCRIPTION:Sala 1 - Ohayo (Buenos días\, Yasuhiro Ozu\, 1959). Int.: Chi
+ shu Ryu\, Keiji Sada\, Yoshiko Kuga. Japón. VOSE. 95’\n“Ozu filma la 
+ huelga de palabras de los niños como hubiera filmado la huelga de los obr
+ eros de una fábrica\, con la diferencia de que su protesta es mucho más 
+ eficaz: al remedar los comportamientos autoritarios de los adultos les dev
+ uelven su vanidad\, su propia sumisión a la ley. Más ferozmente\, les re
+ prochan que hayan olvidado esa sumision. Al coger en falta a los padres\, 
+ los niños recuerdan la verdad universal de la ley y se muestran más resp
+ onsables que ellos. Clase contra clase: aunque los niños se comporten com
+ o adultos\, no serán nunca más que niños” (Yann Lardeau). Segunda pro
+ yección día 29.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
+ d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Progra
+ Dore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ohayo
+DTSTART;VALUE=DATE-TIME:20050329T173000
+DTEND;VALUE=DATE-TIME:20050329T190500
+UID:0503293017_1_dore
+DESCRIPTION:Sala 1 - Ohayo (Buenos días\, Yasuhiro Ozu\, 1959). Int.: Chi
+ shu Ryu\, Keiji Sada\, Yoshiko Kuga. Japón. VOSE. 95’\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La gata
+DTSTART;VALUE=DATE-TIME:20050329T193000
+DTEND;VALUE=DATE-TIME:20050329T210400
+UID:0503293019_1_dore
+DESCRIPTION:Sala 1 - La gata (Margarita Aleixandre y Rafael Torrecilla\, 1
+ 956). Int.: Aurora Bautista\, Jorge Mistral\, José Nieto. Fotografía: Ju
+ an Mariné. España. 94’\n“La pantalla ancha del CinemaScope se experi
+ menta por primera vez en 1955 dentro de La gata\, y es el operador Juan Ma
+ riné quien rueda con ella su primera película en color” (Carlos G. Her
+ edero). Entrega de las medallas de la AEHC a Margarita Aleixandre\, Rafael
+  M. Torrecilla y Juan Mariné con la intervención de María Camí-Vela\, 
+ Alejo Loren y Julio Pérez Perucha.\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:France Tour Détour Deux Enfants
+DTSTART;VALUE=DATE-TIME:20050329T200000
+DTEND;VALUE=DATE-TIME:20050329T214800
+UID:0503290020_2_dore
+DESCRIPTION:Sala 2 - France Tour Détour Deux Enfants (Jean-Luc Godard\, 1
+ 977-78). Capítulos 1-4. Francia. Vídeo. Total programa: 108’\n“Muest
+ ra a este niño y a esta niña en cierto modo en el proceso e aprender a h
+ ablar\, de relacionar palabras\, sentimiento y experiencias\, les toma en 
+ serio y a la vez los vuelve serios” (Jerôme Prieur).\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelle erobreren
+DTSTART;VALUE=DATE-TIME:20050329T220000
+DTEND;VALUE=DATE-TIME:20050330T003700
+UID:0503290022_2_dore
+DESCRIPTION:Sala 2 - Pelle erobreren (Pelle el conquistador\, Bille August
+ \, 1987). Int.: Pelle Hvenegaard\, Max von Sydow\, Erik Paaske. Dinamarca 
+ / Suiza. VOSE. 157’\nA través de la historia de un padre y un hijo suec
+ os que emigran a una isla danesa huyendo del hambre\, se narra el nacimien
+ to y desarrollo de la condición obrera en Dinamarca.\n\n\nFuente: http://
+ www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
+ e/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sib
+DTSTART;VALUE=DATE-TIME:20050330T173000
+DTEND;VALUE=DATE-TIME:20050330T185600
+UID:0503303017_1_dore
+DESCRIPTION:Sala 1 - Sib (La manzana\, Samira Majmalbaf\, 1998). Int.: Mas
+ soumeh Naderi\, Zahra Naderi\, Ghorban Ali Naderi. Irán. VOSE. 86’\n\n\
+ nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
+ ultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cría cuervos
+DTSTART;VALUE=DATE-TIME:20050330T193000
+DTEND;VALUE=DATE-TIME:20050330T211700
+UID:0503303019_1_dore
+DESCRIPTION:Sala 1 - Cría cuervos (Carlos Saura\, 1976). Int.: Ana Torren
+ t\, Geraldine Chaplin\, Maite Sánchez. España. 107’\n“Cría cuervos 
+ es la radiografía del mundo fantasmático de Ana\, de su relación afunci
+ onal con los adultos\, y por extensión una radiografía de la familia\, v
+ ista como el microcosmos de una sociedad” (Román Gubern).\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:France Tour Détour Deux Enfants
+DTSTART;VALUE=DATE-TIME:20050330T200000
+DTEND;VALUE=DATE-TIME:20050330T214800
+UID:0503300020_2_dore
+DESCRIPTION:Sala 2 - France Tour Détour Deux Enfants (Jean-Luc Godard\, 1
+ 977-78). Capítulos 5-8. Francia. Vídeo. Total programa: 108’\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Omen
+DTSTART;VALUE=DATE-TIME:20050330T220000
+DTEND;VALUE=DATE-TIME:20050330T235100
+UID:0503300022_1_dore
+DESCRIPTION:Sala 1 - The Omen (La profecía\, Richard Donner\, 1976). Int.
+ : Gregory Peck\, Lee Remick\, David Warner. Música: Jerry Goldsmith. EE U
+ U. VOSE. 111’\nUna bebé muere y es sutituido por otro. Alrededor de est
+ e último\, Damien\, se producen toda clase de desgracia que llevan a pens
+ ar que es el enviado del Mal.\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shonen
+DTSTART;VALUE=DATE-TIME:20050331T173000
+DTEND;VALUE=DATE-TIME:20050331T191500
+UID:0503313017_1_dore
+DESCRIPTION:Sala 1 - Shonen (Nagisa Oshima\, 1969). Int.: Tetsuo Abe\, Fum
+ io Watanabe\, Akiko Koyama. Japón. VOSE*. 105’\n"Un hombre y una mujer 
+ viajan con su hijo\, a quien han enseñado a fingir accidentes para chanta
+ jear a los conductores. Oshima vuelve a un estilo narrativo más directo e
+ n su película más conmovedora\, un retrato amable de su protagonista y u
+ na salvaje visión de los valores familiares japoneses" (Martin Stollery).
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les 400 coups
+DTSTART;VALUE=DATE-TIME:20050331T193000
+DTEND;VALUE=DATE-TIME:20050331T210300
+UID:0503313019_1_dore
+DESCRIPTION:Sala 1 - Les 400 coups (Los cuatrocientos golpes\, François T
+ ruffaut\, 1959). Int.: Jean-Pierre Léaud\, Claire Maurier\, Albert Rémy.
+  Francia. VOSE. 93’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Pr
+ ograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:France Tour Détour Deux Enfants
+DTSTART;VALUE=DATE-TIME:20050331T200000
+DTEND;VALUE=DATE-TIME:20050331T214800
+UID:0503310020_2_dore
+DESCRIPTION:Sala 2 - France Tour Détour Deux Enfants (Jean-Luc Godard\, 1
+ 977-78). Capítulos 9-12. Francia. Vídeo. Total programa: 108’\n\n\nFue
+ nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
+ ra/cine/mc/fe/cine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lola\, a little spanish girl
+DTSTART;VALUE=DATE-TIME:20050331T223000
+DTEND;VALUE=DATE-TIME:20050331T232200
+UID:0503313022_1_dore
+DESCRIPTION:Sala 1 - Lola\, a little spanish girl (Belén Herrera\, 2004).
+  18'. Vámonos (Francisco M. Díaz\, 2003). 12'. Mi hermano (Marco Fetolin
+ i\, 2004). 7'. Pelonas (Ramón de Fontecha y L. Zambrano\, 2003). 15'. Esp
+ aña. Total programa: 52'\n </pre> </body> </html>\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2005/PrograDore15.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+END:VCALENDAR

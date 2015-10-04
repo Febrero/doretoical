@@ -1,0 +1,1454 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cine Doré//github.com santos82 doredb//ES
+X-WR-CALNAME:Cine Dore
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+SUMMARY:Cuerda de presos
+DTSTART;VALUE=DATE-TIME:20100202T173000
+DTEND;VALUE=DATE-TIME:20100202T185400
+UID:1002023017_1_dore
+DESCRIPTION:Sala 1 - Cuerda de presos (Pedro Lazaga\, 1956). Int.: Lis Rog
+ i\, Aníbal Vela\, Fernando M. Delgado. 84'\nEn 1890\, una pareja de la Gu
+ ardia Civil se ve obligada a trasladar a un peligroso criminal desde el pu
+ eblo leonés en que ha sido capturado hasta Vitoria\, donde lo van a juzga
+ r.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
+ areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks. Primera temporada. Episodio piloto
+DTSTART;VALUE=DATE-TIME:20100202T190000
+DTEND;VALUE=DATE-TIME:20100202T211700
+UID:1002020019_2_dore
+DESCRIPTION:Sala 2 - Twin Peaks. Primera temporada. Episodio piloto (David
+  Lynch\, 1990). 91’. Episodio 1 (Duwayne Dunham\, 1990). 46’. Vídeo. 
+ VOSE. Total programa: 137’\nEntrada libre hasta completar aforo.\n\n\nFu
+ ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
+ ura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shakespeare in Love
+DTSTART;VALUE=DATE-TIME:20100202T193000
+DTEND;VALUE=DATE-TIME:20100202T213300
+UID:1002023019_1_dore
+DESCRIPTION:Sala 1 - Shakespeare in Love (Shakespeare enamorado\, John Mad
+ den\, 1998). Guión: Tom Stoppard. Int.: Gwyneth Paltrow\, Joseph Fiennes\
+ , Geoffrey Rush. Reino Unido / EE UU. VOSE. 123'\nLondres\, verano de 1593
+ . El joven William Shakespeare\, precoz talento de la escena londinense\, 
+ necesita urgentemente romper con la mala fortuna por la que está atravesa
+ ndo su carrera de escritor. Sí\, lo que Will necesita es una musa. Segund
+ a proyección día 5.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Pr
+ ograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eraserhead
+DTSTART;VALUE=DATE-TIME:20100202T220000
+DTEND;VALUE=DATE-TIME:20100202T232900
+UID:1002020022_1_dore
+DESCRIPTION:Sala 1 - Eraserhead (Cabeza borradora\, David Lynch\, 1976). I
+ nt.: Jack Nance\, Charlotte Stewart\, Allen Joseph. EE UU. VOSE. 89'\n“E
+ n mi cabeza era un mundo entre una fábrica y un barrio industrial. Un lug
+ ar pequeño\, desconocido\, raro\, silencioso y perdido en el que existen 
+ pequeños detalles y pequeñas aflicciones. Y la gente lucha en la oscurid
+ ad. Viven en el límite y ésa es la gente que me gusta de verdad” (Davi
+ d Lynch). Segunda proyección día 11.\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ro.Go.Pa.G [Roberto Rossellini
+DTSTART;VALUE=DATE-TIME:20100203T173000
+DTEND;VALUE=DATE-TIME:20100203T192500
+UID:1002033017_1_dore
+DESCRIPTION:Sala 1 - Ro.Go.Pa.G [Roberto Rossellini (Illibatezza. Int.: Ro
+ sanna Schiaffino\, Bruce Balaban. 33')\, Jean-Luc Godard\, Pier Paolo Paso
+ lini\, Ugo Gregoretti\, 1962]. Francia / Italia. VOSE. 115'\nIllibatezza: 
+ “Completa un discurso didáctico sobre la noción del realismo en el cin
+ e\, que alcanzaba una de sus cumbres en Ingrid Bergman\, a la vez que acla
+ ra el significado de Anima nera\, donde se denunciaba que su autor no cre
+ ía ya en el cine (tras la fe total de Vanina Vanini). (…) Es significat
+ ivamente la última película ‘de ficción’ rodada por Rossellini y su
+  adiós definitivo al cine.” (José Luis Guarner).\n\n\nFuente: http://w
+ ww.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe
+ /cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks. Primera temporada. Episodio 2
+DTSTART;VALUE=DATE-TIME:20100203T190000
+DTEND;VALUE=DATE-TIME:20100203T211800
+UID:1002030019_2_dore
+DESCRIPTION:Sala 2 - Twin Peaks. Primera temporada. Episodio 2 (David Lync
+ h\, 1990). 46’. Episodio 3 (Tina Rathborne\, 1990). 46’. Episodio 4 (T
+ im Hunter\, 1990). 46’. Vídeo. VOSE. Total programa: 138’\nEntrada li
+ bre hasta completar aforo.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plácido
+DTSTART;VALUE=DATE-TIME:20100203T200000
+DTEND;VALUE=DATE-TIME:20100203T212800
+UID:1002030020_1_dore
+DESCRIPTION:Sala 1 - Plácido (Luis G. Berlanga\, 1961). Int.: Cassen\, Jo
+ sé Luis López Vázquez\, Elvira Quintillá\, Fernando Delgado. 88'\n“P
+ lácido aparece\, con el paso de los años\, como el retrato al minuto má
+ s fiel\, riguroso y aterrador de la absoluta incomunicabilidad de los espa
+ ñoles en los 60. Si hay 40 personajes\, hay otros tantos discursos\, fero
+ zmente aislados\, estancos\, impenetrables” (José Luis Guarner).\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Elephant Man
+DTSTART;VALUE=DATE-TIME:20100203T220000
+DTEND;VALUE=DATE-TIME:20100204T000200
+UID:1002030022_1_dore
+DESCRIPTION:Sala 1 - The Elephant Man (El hombre elefante\, David Lynch\, 
+ 1980). Int.: Anthony Hopkins\, John Hurt\, Anne Bancroft. EE UU. VOSE. 122
+ '\n“Merrick es objeto de tres miradas en el transcurso del film. Tres mi
+ radas para tres eras del cine: burlesco\, moderno\, clásico. Es decir: la
+  feria\, el hospital\, el teatro. En la feria no hay alma sino sólo cuerp
+ os de los que reírse\; en el hospital hay respeto por el otro\, mala conc
+ iencia y erotismo mórbido\; y teatro es el que deben hacer quienes lo vis
+ itan con una máscara de amabilidad que oculta lo que sienten al verlo. Pa
+ ra ellos\, el hombre elefante es un espejo\, no para reconocerse sino para
+  aprender a fingir\, a ocultar\, a mentir aún más” (Serge Daney). Segu
+ nda proyección día 12.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El crimen del cine Oriente
+DTSTART;VALUE=DATE-TIME:20100204T173000
+DTEND;VALUE=DATE-TIME:20100204T190900
+UID:1002043017_1_dore
+DESCRIPTION:Sala 1 - El crimen del cine Oriente (Pedro Costa\, 1997). Int.
+ : Anabel Alonso\, Pepe Rubianes\, Marta Fernández-Muro. 99'\nEl cine Orie
+ nte es el escenario en el que María\, una sirvienta expulsada de todas la
+ s casas donde ha trabajado y Salvador\, encargado del local\, viven su his
+ toria imposible y su trágico final.\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks. Primera temporada. Episodio 5
+DTSTART;VALUE=DATE-TIME:20100204T190000
+DTEND;VALUE=DATE-TIME:20100204T211600
+UID:1002040019_2_dore
+DESCRIPTION:Sala 2 - Twin Peaks. Primera temporada. Episodio 5 (Lesli Link
+ a Glatter\, 1990). 45’. Episodio 6 (Caleb Deschanel\, 1990). 45’. Epis
+ odio 7 (Mark Frost\, 1990). 46’. Vídeo. VOSE. Total programa: 136’\nE
+ ntrada libre hasta completar aforo.\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monsieur Verdoux
+DTSTART;VALUE=DATE-TIME:20100204T193000
+DTEND;VALUE=DATE-TIME:20100204T213600
+UID:1002043019_1_dore
+DESCRIPTION:Sala 1 - Monsieur Verdoux (Monsieur Verdoux\, Charles Chaplin\
+ , 1947). Int.: Charles Chaplin\, Martha Raye\, Marilyn Nash. EE UU. VOSE*.
+  126'\n“Antes\, podíamos imaginar que las aventuras de Charlot se desar
+ rollaban en un mundo reservado al cine\, que eran como una especie de cuen
+ tos de hadas. Con Monsieur Verdoux ya no hay equívoco posible. Se trata s
+ in duda de nuestro tiempo\, y los problemas expuestos en la pantalla son s
+ in duda nuestros problemas. Saliendo así de una fórmula que le ofrecía 
+ completa seguridad\, abordando de frente la crítica de la sociedad en la 
+ que vive –tarea peligrosa donde las haya–\, nuestro autor eleva nuestr
+ o oficio al rango de las grandes expresiones clásicas del espíritu human
+ o\, y fortifica nuestra esperanza de poder considerarlo cada vez más como
+  un arte” (Jean Renoir).\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Velvet
+DTSTART;VALUE=DATE-TIME:20100204T220000
+DTEND;VALUE=DATE-TIME:20100205T000000
+UID:1002040022_1_dore
+DESCRIPTION:Sala 1 - Blue Velvet (Terciopelo azul\, David Lynch\, 1986). I
+ nt.: Isabella Rossellini\, Kyle MacLachlan\, Dennis Hopper. EE UU. VOSE. 1
+ 20'\n“Como la oreja amputada que encuentra el joven Jeffrey\, la valla b
+ lanca y el pájaro mecánico que anuncia un retorno a la moralidad\, Blue 
+ Velvet es una broma constante y brutal\, El Mago de Oz vuelto a filmar con
+  guión de Franz Kafka y decorados de Francis Bacon” (J. G. Ballard). Se
+ gunda proyección día 13.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shakespeare in Love
+DTSTART;VALUE=DATE-TIME:20100205T173000
+DTEND;VALUE=DATE-TIME:20100205T193300
+UID:1002053017_1_dore
+DESCRIPTION:Sala 1 - Shakespeare in Love (Shakespeare enamorado\, John Mad
+ den\, 1998). Guión: Tom Stoppard. Int.: Gwyneth Paltrow\, Joseph Fiennes\
+ , Geoffrey Rush. Reino Unido / EE UU. VOSE. 123'\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks. Segunda temporada. Episodio 8
+DTSTART;VALUE=DATE-TIME:20100205T190000
+DTEND;VALUE=DATE-TIME:20100205T211500
+UID:1002050019_2_dore
+DESCRIPTION:Sala 2 - Twin Peaks. Segunda temporada. Episodio 8 (David Lync
+ h\, 1990). 90’. Episodio 9 (David\nLynch\, 1990). 45’. Vídeo. VOSE. T
+ otal programa: 135’\nEntrada libre hasta completar aforo.\n\n\nFuente: h
+ ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
+ e/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Río abajo
+DTSTART;VALUE=DATE-TIME:20100205T200000
+DTEND;VALUE=DATE-TIME:20100205T214100
+UID:1002050020_1_dore
+DESCRIPTION:Sala 1 - Río abajo (José Luis Borau\, 1984). Int.: David Car
+ radine\, Scott Wilson\, Victoria Abril. España / EE UU. VOISE. 101'\n“T
+ odo lo que ocurre en Río abajo es totalmente real. Los personajes son inv
+ entados\, pero ese grupo humano existe en la frontera entre México y Esta
+ dos Unidos. No es un trabajo sobre los ‘mojados’ (los emigrantes que p
+ asan la frontera del Río Grande a nado) sino sobre ese grupo de gentes qu
+ e viven junto a la raya divisoria: contrabandistas\, policías\, prostitut
+ as. Un mundo que nace y vive al calor de la política artificial que crea 
+ una frontera” (José Luis Borau).\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild at Heart
+DTSTART;VALUE=DATE-TIME:20100205T220000
+DTEND;VALUE=DATE-TIME:20100206T000400
+UID:1002050022_1_dore
+DESCRIPTION:Sala 1 - Wild at Heart (Corazón salvaje\, David Lynch\, 1990)
+ . Int.: Nicolas Cage\, Laura Dern\, Willem Dafoe. EE UU. VOSE. 124'\n“Sa
+ ilor y Lula eran unos personajes grandiosos. (…) Avanzaban codo con codo
+  en este extraño mundo\, siendo ellos mismos y sintiéndose cómodos con 
+ la otra persona\, sin que ésta dejara de ser ella misma. Así que me pare
+ ció que era una historia de amor realmente moderna en un mundo violento\,
+  un película acerca de encontrar el amor en el infierno” (David Lynch).
+  Segunda proyección día 14.\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fantasia
+DTSTART;VALUE=DATE-TIME:20100206T173000
+DTEND;VALUE=DATE-TIME:20100206T192400
+UID:1002063017_1_dore
+DESCRIPTION:Sala 1 - Fantasia (Fantasía\, Ben Sharpsteen\, 1940). Animaci
+ ón. EE UU. VE. 114'\nColección de interpretaciones animadas de grandes o
+ bras de música clásica. En “El aprendiz de brujo” Mickey Mouse es ma
+ go primerizo que sobrepasa sus límites. “La consagración de la primave
+ ra” cuenta la historia de la evolución\, desde los seres unicelulares h
+ asta la extinción de los dinosaurios. Etc. Entrada libre para menores de 
+ 14 años.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.p
+ df
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks. Segunda temporada. Episodio 10
+DTSTART;VALUE=DATE-TIME:20100206T190000
+DTEND;VALUE=DATE-TIME:20100206T211500
+UID:1002060019_2_dore
+DESCRIPTION:Sala 2 - Twin Peaks. Segunda temporada. Episodio 10 (Lesli Lin
+ ka Glatter\, 1990). 45’. Episodio 11 (Todd Holland\, 1990). 45’. Episo
+ dio 12 (Graeme Clifford\, 1990). 45’. Vídeo. VOSE. Total programa: 135
+ ’\nEntrada libre hasta completar aforo.\n\n\nFuente: http://www.mecd.gob
+ .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
+ programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saint Joan
+DTSTART;VALUE=DATE-TIME:20100206T195000
+DTEND;VALUE=DATE-TIME:20100206T214000
+UID:1002065019_1_dore
+DESCRIPTION:Sala 1 - Saint Joan (Santa Juana\, Otto Preminger\, 1957). Int
+ .: Jean Seberg\, Richard Widmark\, Richard Todd. Reino Unido / EE UU. VOSE
+ *. 110'\n“Porque Preminger está siempre interesado en las maquinaciones
+  del poder\, la fuerza amenazante de la pureza de Juana de Arco se convier
+ te en la cuestión central\, la espina dorsal –el equivalente preciso de
+  la steady-cam moviéndose a través de la multitud. Cuando Preminger cons
+ agra un primer plano a Joan en devoto soliloquio mientras encuadra al futu
+ ro rey jugando a la rayuela tras ella\, destila la dinámica política de 
+ esta historia feminista en una sola imagen” (Jonathan Rosenbaum). Segund
+ a proyección día 11.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
+ rograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lost Highway
+DTSTART;VALUE=DATE-TIME:20100206T220000
+DTEND;VALUE=DATE-TIME:20100207T001500
+UID:1002060022_1_dore
+DESCRIPTION:Sala 1 - Lost Highway (Carretera perdida\, David Lynch\, 1997)
+ . Int.: Bill Pullman\, Patricia Arquette\, Balthazar Getty. EE UU. VOSE*. 
+ 135'\n“Supongo que es justo decir que en realidad trata de un hombre que
+  se encuentra en una situación extrema\, y sufre una especie de ataque de
+  pánico. Pasa por momentos muy difíciles al enfrentarse a las consecuenc
+ ias de sus actos\; y eso le fractura en cierto sentido. Creo que es un est
+ udio muy realista y directo sobre una persona que se encuentra perdida en 
+ su enfrentamiento con el modo en que van saliendo las cosas” (Barry Giff
+ ord). Segunda proyección día 16.\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El pisito
+DTSTART;VALUE=DATE-TIME:20100207T173000
+DTEND;VALUE=DATE-TIME:20100207T184500
+UID:1002073017_1_dore
+DESCRIPTION:Sala 1 - El pisito (Marco Ferreri\, 1958). Int.: José Luis L
+ ópez Vázquez\, Mary Carrillo\, Concha López Silva. 75'\n“Una mirada n
+ eutra\, imperturbable\, casi cruel en su impavidez\, ante la cual va toman
+ do forma una realidad simultáneamente repulsiva y patética (...) La comb
+ inación del miserabilismo estético y el desierto moral\, da como resulta
+ do un estilo a medio camino entre el distanciamiento brechtiano y el sarca
+ smo sainetesco: los planos son largos y estáticos\, y el consiguiente inm
+ ovilismo de la acción provoca que la absurda locuacidad de los personajes
+  se desplace continuamente\, como flotando\, en un terreno incierto y move
+ dizo” (Carlos Losilla).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/201
+ 0/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks. Segunda temporada. Episodio 13
+DTSTART;VALUE=DATE-TIME:20100207T190000
+DTEND;VALUE=DATE-TIME:20100207T211500
+UID:1002070019_2_dore
+DESCRIPTION:Sala 2 - Twin Peaks. Segunda temporada. Episodio 13 (Lesli Lin
+ ka Glatter\, 1990). 45’. Episodio 14 (David Lynch\, 1990). 45’. Episod
+ io 15 (Caleb Deschanel\, 1990). 45’. Vídeo. VOSE. Total programa: 135
+ ’\nEntrada libre hasta completar aforo.\n\n\nFuente: http://www.mecd.gob
+ .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
+ programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Empire of the Sun
+DTSTART;VALUE=DATE-TIME:20100207T191000
+DTEND;VALUE=DATE-TIME:20100207T214200
+UID:1002071019_1_dore
+DESCRIPTION:Sala 1 - Empire of the Sun (El imperio del sol\, Steven Spielb
+ erg\, 1987). Guión: Tom Stoppard. Int.: Christian Bale\, John Malkovich\,
+  Miranda Richardson. EE UU. VOSE. 152'\n“La fuente de esta Spielburger 
+ –rodada con la artesanía y astucia características de su director y po
+ seída de un cierto toque de espectáculo histriónico a lo Cecil B. DeMil
+ le–\, es la notable novela autobiográfica de J. G. Ballard acerca de su
+  experiencia infantil en Shanghai durante la II Guerra Mundial. Aparte de 
+ algunos ‘ajustes sentimentales’\, Spielberg y el guionista Tom Stoppar
+ d permanecen fieles a la trama del libro\, traicionando casi por completo 
+ su espíritu” (Jonathan Rosenbaum).\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Straight Story
+DTSTART;VALUE=DATE-TIME:20100207T220500
+DTEND;VALUE=DATE-TIME:20100207T235700
+UID:1002070522_1_dore
+DESCRIPTION:Sala 1 - The Straight Story (Una historia verdadera\, David Ly
+ nch\, 1999). Int.: Richard Farnsworth\, Sissy Spacek\, Jack Walsh. EE UU. 
+ VOSE. 112'\n“¿No podría ser que en un mundo posmoderno\, donde el comp
+ romiso ético radical es percibido como algo ridículo y trasnochado\, fue
+ ra Alvin Straight el personaje auténticamente extravagante? ¿No podría 
+ ser que fuese ESTE el mensaje último de la película: que la ética es 
+ ‘la más oscura y atrevida de las conspiraciones’\, que el sujeto éti
+ co es precisamente aquel que más amenaza el orden existente\, y no la lar
+ ga serie de pervertidos lyncheanos\, los cuales en último término no hac
+ en más que sostenerlo?” (Slavoj Žižek). Segunda proyección día 17.\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atraco a las tres
+DTSTART;VALUE=DATE-TIME:20100209T173000
+DTEND;VALUE=DATE-TIME:20100209T190300
+UID:1002093017_1_dore
+DESCRIPTION:Sala 1 - Atraco a las tres (José María Forqué\, 1962) Int.:
+  José Luis López Vázquez\, Cassen\, Gracita Morales. 93'\nLos empleados
+  de una oficina bancaria contemplan indignados como su director\, al que a
+ precian\, es cesado y su más odiado compañero es nombrado en su lugar. H
+ artos de humillaciones y sueldos miserables\, deciden atracar su propio ba
+ nco –Yo no quiero ser pobre durante más tiempo.\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr.
+DTSTART;VALUE=DATE-TIME:20100209T193000
+DTEND;VALUE=DATE-TIME:20100209T215500
+UID:1002093019_1_dore
+DESCRIPTION:Sala 1 - Mulholland Dr. (Mulholland Drive\, David Lynch\, 2001
+ ). Int.: Naomi Watts\, Laura Elena Harring\, Justin Theroux. VOSE. 145'\n
+ “Mulholland Drive es\, esencialmente\, la historia de un sueño que se p
+ udre\, según la misma fatalidad que condena al Technicolor más radiante 
+ a la corrupción del celuloide. Dicho esto\, puede apuntarse que este pen
+ último Lynch contiene muchas películas posibles\, desde el candor de una
+  investigación policial casi en clave Enid Blyton hasta el horror abstrac
+ to que una criatura onírica parapetada en un callejón podría guardar en
+  un cubo polisémico. También es un melodrama estremecedor de amores y am
+ istades traicionadas” (Jordi Costa). Segunda proyección día 19.\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¿Por qué pecamos a los cuarenta?
+DTSTART;VALUE=DATE-TIME:20100209T200000
+DTEND;VALUE=DATE-TIME:20100209T213100
+UID:1002090020_2_dore
+DESCRIPTION:Sala 2 - ¿Por qué pecamos a los cuarenta? (Pedro Lazaga\, 19
+ 69). Int.: Fernando Fernán Gómez\, José Luis López Vázquez\, Juanjo M
+ enéndez. 91'\nAlejandro Quesada\, un eminente médico cuarentón con gran
+  éxito entre las mujeres\, impulsa a sus antiguos amigos Federico y Enriq
+ ue a cambiar su actitud ante la vida\, y esto es: buscar relaciones con mu
+ jeres de menor edad que sus esposas.\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blockade
+DTSTART;VALUE=DATE-TIME:20100209T221500
+DTEND;VALUE=DATE-TIME:20100209T233800
+UID:1002091522_1_dore
+DESCRIPTION:Sala 1 - Blockade (Bloqueo\, William Dieterle\, 1938). Int.: M
+ adeleine Carroll\, Henry Fonda\, Leo Carrillo. EE UU. VOSE. 83'\n“Una de
+  las pocas películas dedicadas por Hollywood a la Guerra Civil española 
+ integrada en un relato de ficción. Dieterle no esconde sus simpatías\, l
+ o que le causó problemas en la época del maccarthysmo” (Jean Tulard).\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Vraie Nature de Bernadette
+DTSTART;VALUE=DATE-TIME:20100210T173000
+DTEND;VALUE=DATE-TIME:20100210T190500
+UID:1002103017_1_dore
+DESCRIPTION:Sala 1 - La Vraie Nature de Bernadette (La verdadera naturalez
+ a de Bernadette\, Gilles Carle\, 1972). Int.: Micheline Lanctôt\, Donald 
+ Pilon\, Reynald Bouchard. Canadá. VOSE. 95’\nQueriendo aplicar a su vid
+ a las teorías ecologistas y libertarias que la obsesionan\, Bernadette Br
+ own abandona a su marido abogado para marcharse a vivir al campo con su hi
+ jo Yannick. Segunda proyección día 27.\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inland Empire
+DTSTART;VALUE=DATE-TIME:20100210T193000
+DTEND;VALUE=DATE-TIME:20100210T223000
+UID:1002103019_1_dore
+DESCRIPTION:Sala 1 - Inland Empire (Inland Empire\, David Lynch\, 2006). I
+ nt.: Laura Dern\, Jeremy Irons\, Justin Theroux. EE UU. VOSE. 180'\n“No 
+ creemos que Inland Empire hable de cine. Diremos más bien que en la pelí
+ cula\, Lynch habla ‘en cine’ (como diríamos en francés\; o en verso)
+ . ¿De qué habla? De la locura quizá\, pero también de la vida y de ese
+  hecho extraño que es que todo parezca convertible en vida” (Michel Chi
+ on). Segunda proyección día 20.\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La gran familia
+DTSTART;VALUE=DATE-TIME:20100210T200000
+DTEND;VALUE=DATE-TIME:20100210T214400
+UID:1002100020_2_dore
+DESCRIPTION:Sala 2 - La gran familia (Fernando Palacios\, 1962). Alberto C
+ losas\, José Isbert\, José Luis López Vázquez. 104'\nEl cabeza de esta
+  familia numerosa compuesta por un matrimonio\, quince hijos y el abuelo p
+ ractica\, lógicamente y de manera desaforada\, el pluriempleo. No le qued
+ a otro remedio si quiere sacar adelante a sus retoños\, aunque mantenga t
+ odavía la remota esperanza del Premio Nacional de Natalidad.\n\n\nFuente:
+  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
+ ine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las manos
+DTSTART;VALUE=DATE-TIME:20100210T220000
+DTEND;VALUE=DATE-TIME:20100210T235900
+UID:1002100022_2_dore
+DESCRIPTION:Sala 2 - Las manos (Las manos\, Alejandro Doria\, 2006). Int.:
+  Jorge Marrale\, Graciela Borges\, Duilio Marzio. Argentina. 119'\nEl Padr
+ e Mario Pantaleo es un sacerdote italiano que vive en Argentina. Todo pare
+ ce indicar que tiene un don muy especial: diagnosticar y sanar enfermedade
+ s. Gracias a la ayuda de los que creen en su don y a Perla\, su colaborado
+ ra\, construye su propia iglesia.\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Story of Louis Pasteur
+DTSTART;VALUE=DATE-TIME:20100211T173000
+DTEND;VALUE=DATE-TIME:20100211T185400
+UID:1002113017_1_dore
+DESCRIPTION:Sala 1 - The Story of Louis Pasteur (La tragedia de Louis Past
+ eur\, William Dieterle\, 1936). Int.: Paul Muni\, Josephine Hutchinson\, A
+ nita Louise. EE UU. VOSE. 84'\n“Pasteur aparece como un Galileo de la me
+ dicina y el conflicto nace aquí de la oposición del héroe a la opinión
+  general\, es decir a la clase dominante” (Bertolt Brecht).\n\n\nFuente:
+  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
+ ine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eraserhead
+DTSTART;VALUE=DATE-TIME:20100211T193000
+DTEND;VALUE=DATE-TIME:20100211T205900
+UID:1002113019_1_dore
+DESCRIPTION:Sala 1 - Eraserhead (Cabeza borradora\, David Lynch\, 1976). I
+ nt.: Jack Nance\, Charlotte Stewart\, Allen Joseph. EE UU. VOSE. 89'\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks. Segunda temporada. Episodio 16
+DTSTART;VALUE=DATE-TIME:20100211T211000
+DTEND;VALUE=DATE-TIME:20100211T232500
+UID:1002111021_2_dore
+DESCRIPTION:Sala 2 - Twin Peaks. Segunda temporada. Episodio 16 (Tim Hunte
+ r\, 1990). 45’. Episodio 17 (Tina\nRathbone\, 1990). 45’. Episodio 18 
+ (Duwayne Dunham\, 1990). 45’. Vídeo. VOSE. Total programa: 135’\nEntr
+ ada libre hasta completar aforo.\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saint Joan
+DTSTART;VALUE=DATE-TIME:20100211T220000
+DTEND;VALUE=DATE-TIME:20100211T235000
+UID:1002110022_1_dore
+DESCRIPTION:Sala 1 - Saint Joan (Santa Juana\, Otto Preminger\, 1957). Int
+ .: Jean Seberg\, Richard Widmark\, Richard Todd. Reino Unido / EE UU. VOSE
+ *. 110'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Elephant Man
+DTSTART;VALUE=DATE-TIME:20100212T173000
+DTEND;VALUE=DATE-TIME:20100212T193200
+UID:1002123017_1_dore
+DESCRIPTION:Sala 1 - The Elephant Man (El hombre elefante\, David Lynch\, 
+ 1980). Int.: Anthony Hopkins\, John\nHurt\, Anne Bancroft. EE UU. VOSE. 12
+ 2'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
+ areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peppermint Frappé
+DTSTART;VALUE=DATE-TIME:20100212T195000
+DTEND;VALUE=DATE-TIME:20100212T212300
+UID:1002125019_1_dore
+DESCRIPTION:Sala 1 - Peppermint Frappé (Carlos Saura\, 1967). Int.: Geral
+ dine Chaplin\, José Luis López Vázquez\,\nAlfredo Mayo. 93’\nEl mejor
+  amigo de Julián\, Pablo\, acaba de casarse con Elena\, una extranjera co
+ n quien Julián se obsesiona hasta el punto de cortejar a la enfermera de 
+ su consulta\, ya que guarda un gran parecido con ella.\n\n\nFuente: http:/
+ /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
+ fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks. Segunda temporada. Episodio 19
+DTSTART;VALUE=DATE-TIME:20100212T200000
+DTEND;VALUE=DATE-TIME:20100212T221600
+UID:1002120020_2_dore
+DESCRIPTION:Sala 2 - Twin Peaks. Segunda temporada. Episodio 19 (Caleb Des
+ chanel\, 1991). 45’. Episodio 20 (Todd Holland\, 1991). 46’. Episodio 
+ 21 (Uli Edel\, 1991). 45’. Vídeo. VOSE. Total programa: 136’\nEntrada
+  libre hasta completar aforo.\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La bestia y la espada mágica
+DTSTART;VALUE=DATE-TIME:20100212T220000
+DTEND;VALUE=DATE-TIME:20100212T235400
+UID:1002120022_1_dore
+DESCRIPTION:Sala 1 - La bestia y la espada mágica (Jacinto Molina\, 1983)
+ . Int.: Paul Naschy\, Sigheru Amachi\, Beatriz Escudero. España / Japón.
+  114'\nEuropa\, siglo XVI. Condenado a convertirse en hombre lobo las noch
+ es de luna llena a causa de una maldición lanzada sobre su antepasado Iri
+ neus Daninsky\, Waldemar busca desesperadamente una cura. Así descubre la
+  existencia de un sabio en Japón que parece conocer el antídoto para su 
+ mal.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
+ d/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hunchback of Notre Dame
+DTSTART;VALUE=DATE-TIME:20100213T173000
+DTEND;VALUE=DATE-TIME:20100213T192600
+UID:1002133017_1_dore
+DESCRIPTION:Sala 1 - The Hunchback of Notre Dame (Esmeralda la zíngara\, 
+ William Dieterle\, 1939). Int.: Charles Laughton\, Maureen O'Hara\, Thomas
+  Mitchell. EE UU. VE. 116'\n“Dieterle\, fiel al ejemplo schilleriano\, c
+ oloca al poeta comprometido frente a la arbitrariedad de los príncipes 
+ –¡Si los nobles y los ricos tuvieran lo que merecen\, no habría bastan
+ tes picotas en el reino! (…) No se trata aquí de denunciar los excesos 
+ de una Edad Media agonizante\, ni de ilustrar el anticlericalismo del sigl
+ o XIX o la crítica social de Victor Hugo. El oscurantismo descrito en la 
+ pantalla es una realidad contemporánea” (Hervé Dumont).\n\n\nFuente: h
+ ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
+ e/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Velvet
+DTSTART;VALUE=DATE-TIME:20100213T194500
+DTEND;VALUE=DATE-TIME:20100213T214500
+UID:1002134519_1_dore
+DESCRIPTION:Sala 1 - Blue Velvet (Terciopelo azul\, David Lynch\, 1986). I
+ nt.: Isabella Rossellini\, Kyle MacLachlan\, Dennis Hopper. EE UU. VOSE. 1
+ 20'\nVer nota día 4. Tercera proyección día 14.\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks. Segunda temporada. Episodio 22
+DTSTART;VALUE=DATE-TIME:20100213T215500
+DTEND;VALUE=DATE-TIME:20100214T001100
+UID:1002135521_2_dore
+DESCRIPTION:Sala 2 - Twin Peaks. Segunda temporada. Episodio 22 (Diane Kea
+ ton\, 1991). 45’. Episodio 23 (Lesli Linka Glatter\, 1991). 46’. Episo
+ dio 24 (James Foley\, 1991). 45’. Vídeo. VOSE. Total programa: 136’\n
+ Entrada libre hasta completar aforo.\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gritos en la noche
+DTSTART;VALUE=DATE-TIME:20100213T221000
+DTEND;VALUE=DATE-TIME:20100213T234500
+UID:1002131022_1_dore
+DESCRIPTION:Sala 1 - Gritos en la noche (Jess Franco\, 1961). Música: Jos
+ é Pagán. Int.: Howard Vernon\, Conrado San Martín\, Diana Lorys. Españ
+ a / Francia. 95’\nVarias chicas son secuestradas de clubs nocturnos o ca
+ barets y no se vuelve a saber de ellas. El inspector Tanner\, con la ayuda
+  de su prometida\, investiga las desapariciones.\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild at Heart
+DTSTART;VALUE=DATE-TIME:20100214T173000
+DTEND;VALUE=DATE-TIME:20100214T193400
+UID:1002143017_1_dore
+DESCRIPTION:Sala 1 - Wild at Heart (Corazón salvaje\, David Lynch\, 1990)
+ . Int.: Nicolas Cage\, Laura Dern\, Willem Dafoe. EE UU. VOSE. 124'\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks. Segunda temporada. Episodio 25
+DTSTART;VALUE=DATE-TIME:20100214T195000
+DTEND;VALUE=DATE-TIME:20100214T212100
+UID:1002145019_2_dore
+DESCRIPTION:Sala 2 - Twin Peaks. Segunda temporada. Episodio 25 (Duwayne D
+ unham\, 1991). 45’. Episodio 26\n(Jonathan Sanger\, 1991). 46’. Vídeo
+ . VOSE. Total programa: 91’\nEntrada libre hasta completar aforo.\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mi querida señorita
+DTSTART;VALUE=DATE-TIME:20100214T200000
+DTEND;VALUE=DATE-TIME:20100214T212300
+UID:1002140020_1_dore
+DESCRIPTION:Sala 1 - Mi querida señorita (Jaime de Armiñán\, 1971). Int
+ .: José Luis López Vázquez\, Julieta Serrano\, Antonio Ferrandis. 83'\n
+ En una ciudad de provincias\, Adela Castro\, una solterona de cuarenta añ
+ os\, se siente diferente a las demás: se afeita todos los días y se sien
+ te atraída por su criada Isabelita.\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Velvet
+DTSTART;VALUE=DATE-TIME:20100214T220000
+DTEND;VALUE=DATE-TIME:20100215T000000
+UID:1002140022_1_dore
+DESCRIPTION:Sala 1 - Blue Velvet (Terciopelo azul\, David Lynch\, 1986). I
+ nt.: Isabella Rossellini\, Kyle MacLachlan\, Dennis Hopper. EE UU. VOSE. 1
+ 20'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lost Highway
+DTSTART;VALUE=DATE-TIME:20100216T173000
+DTEND;VALUE=DATE-TIME:20100216T194500
+UID:1002163017_1_dore
+DESCRIPTION:Sala 1 - Lost Highway (Carretera perdida\, David Lynch\, 1997)
+ . Int.: Bill Pullman\, Patricia Arquette\,\nBalthazar Getty. EE UU. VOSE*.
+  135'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ensemble\, c’est tout
+DTSTART;VALUE=DATE-TIME:20100216T201000
+DTEND;VALUE=DATE-TIME:20100216T214700
+UID:1002161020_1_dore
+DESCRIPTION:Sala 1 - Ensemble\, c’est tout (Juntos\, nada más\, Claude 
+ Berri\, 2007). Int.: Audrey Tautou\, Guillaume\nCanet\, Laurent Stocker. F
+ rancia. VOSE. 97'\nBasado en el best-seller homónimo de Anna Gavalda\, na
+ rra la relación entre cuatro personajes totalmente diferentes\, que por d
+ iversas circunstancias deben convivir todos juntos en el mismo apartamento
+ . Segunda proyección día 20.\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks. Segunda temporada. Episodio 27
+DTSTART;VALUE=DATE-TIME:20100216T203000
+DTEND;VALUE=DATE-TIME:20100216T225000
+UID:1002163020_2_dore
+DESCRIPTION:Sala 2 - Twin Peaks. Segunda temporada. Episodio 27 (Stephen G
+ yllenhaal\, 1991). 45’. Episodio 28 (Tim Hunter\, 1991). 46’. Episodio
+  29 (David Lynch\, 1991). 49’. Vídeo. Total programa: 140’\nEntrada l
+ ibre hasta completar aforo.\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vier Minuten
+DTSTART;VALUE=DATE-TIME:20100216T220000
+DTEND;VALUE=DATE-TIME:20100216T235300
+UID:1002160022_1_dore
+DESCRIPTION:Sala 1 - Vier Minuten (Cuatro minutos\, Chris Kraus\, 2006). I
+ nt.: Monica Bleibtreu\, Hannah Herzsprung\, Sven Pippig. Alemania. VOSE. 1
+ 13'\nTraude Krüger\, una anciana pianista que da clases de música en una
+  cárcel alemana\, descubre el talento de una joven y conflictiva presa\, 
+ Jenny\, y decide presentarla a un certamen musical para jóvenes intérpre
+ tes. Segunda proyección día 19.\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:En la ciudad sin límites
+DTSTART;VALUE=DATE-TIME:20100217T173000
+DTEND;VALUE=DATE-TIME:20100217T193000
+UID:1002173017_1_dore
+DESCRIPTION:Sala 1 - En la ciudad sin límites (Antonio Hernández\, 2002)
+ . Guión: Enrique Brasó. Int.: Leonardo Sbaraglia\, Fernando Fernán-Góm
+ ez\, Geraldine Chaplin. 120'\nVíctor acude a la llamada de su padre enfer
+ mo\, el cual le desvelará un secreto oculto durante años que cambiará s
+ us vidas.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.p
+ df
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Straight Story
+DTSTART;VALUE=DATE-TIME:20100217T195000
+DTEND;VALUE=DATE-TIME:20100217T214200
+UID:1002175019_1_dore
+DESCRIPTION:Sala 1 - The Straight Story (Una historia verdadera\, David Ly
+ nch\, 1999). Int.: Richard Farnsworth\, Sissy Spacek\, Jack Walsh. EE UU. 
+ VOSE. 112'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.
+ pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Germinal
+DTSTART;VALUE=DATE-TIME:20100217T200000
+DTEND;VALUE=DATE-TIME:20100217T223800
+UID:1002170020_2_dore
+DESCRIPTION:Sala 2 - Germinal (Germinal\, Claude Berri\, 2002). Int.: Rena
+ ud\, Gérard Depardieu\, Miou-Miou.\nBélgica / Francia / Italia. VOSE. 15
+ 8’\nLujo y miseria: gigantesca superproducción basada en la novela hom
+ ónima de Émile Zola\, Germinal narra el origen\, desarrollo y desenlace 
+ de una huelga minera en el norte de Francia en tiempos del Segundo Imperio
+ .\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
+ reas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lynch
+DTSTART;VALUE=DATE-TIME:20100217T221000
+DTEND;VALUE=DATE-TIME:20100217T233400
+UID:1002171022_1_dore
+DESCRIPTION:Sala 1 - Lynch (One) (blackANDwhite\, 2007). Documental. EE UU
+ . Vídeo. VOSE. 84'\nRetrato íntimo del artista total conocido como David
+  Lynch durante la preparación de Inland Empire. Tras un exhaustivo trabaj
+ o de recopilación de material y documentación\, realizado a lo largo de 
+ dos años\, esta película desvela muchos de sus intereses creativos\, as
+ í como su inagotable pasión por dirigir. Segunda proyección día 21.\n\
+ n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
+ -cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La cabina
+DTSTART;VALUE=DATE-TIME:20100218T173000
+DTEND;VALUE=DATE-TIME:20100218T184900
+UID:1002183017_1_dore
+DESCRIPTION:Sala 1 - La cabina (Antonio Mercero\, 1972). Int.: José Luis 
+ López Vázquez\, José Miguel Aguado\, Agustín González. 35’. Antoni 
+ Gaudí… una visión inacabada (John Alaimo\, 1974). Int.: José Luis Ló
+ pez Vázquez. 44’. Vídeo. Total programa: 79’\n“Me preguntan muchas
+  veces qué quise decir con La cabina. Reconozco que cuando José Luis Gar
+ ci y yo escribimos el guión\, estábamos más cerca de la ciencia ficció
+ n y del terror que de cualquier planteamiento político” (Antonio Mercer
+ o). Segunda proyección y nota Antoni Gaudí… día 20.\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cuenca
+DTSTART;VALUE=DATE-TIME:20100218T193000
+DTEND;VALUE=DATE-TIME:20100218T212300
+UID:1002183019_1_dore
+DESCRIPTION:Sala 1 - Cuenca (Carlos Saura\, 1958). Documental. 40’. Los 
+ golfos (Carlos Saura\, 1959). Int.: Manuel Zarzo\, Luis Marín\, Óscar Cr
+ uz. 73’. Música: José Pagán. Total programa: 113’\nCuenca: El Ayunt
+ amiento de Cuenca encargó un documental turístico a Saura cuyo resultado
+  no gustó a las autoridades locales. Los golfos: “Saura nos hace conoce
+ r los barrios bajos de Madrid y sus personajes\, todos perfectos en su ver
+ dad\, sin la menor digresión barroca\, ni efectos plásticos ni pintoresc
+ os. Nos encontramos ante un film que busca lo ‘típico’ en el mejor se
+ ntido de la palabra” (José Francisco Aranda). Con la presencia de Sergi
+ o Pagán.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.p
+ df
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dynamic: 01 – The Best of DavidLynch.com
+DTSTART;VALUE=DATE-TIME:20100218T194500
+DTEND;VALUE=DATE-TIME:20100218T214000
+UID:1002184519_2_dore
+DESCRIPTION:Sala 2 - Dynamic: 01 – The Best of DavidLynch.com (David Lyn
+ ch\, 2007). Darkened Room. 11’. Boat. 7’. Lamp. 31’. Out Yonder: Nei
+ ghbor Boy. 10’. Industrial Soundscape. 10’. Bug Crawls. 4’. Interval
+ ometer Experiments. 13’. Dumbland (David Lynch\, 2002). Animación. 35
+ ’. EE UU. Vídeo. VOSE*. Total programa: 115’\nDynamic: Colección de 
+ siete cortos procedentes de la celebrada página web del director\, presen
+ tados por él mismo. Dumbland: “Una cruda\, estúpida\, violenta y absur
+ da serie” (David Lynch). Segunda proyección día 21.\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk with Me
+DTSTART;VALUE=DATE-TIME:20100218T220000
+DTEND;VALUE=DATE-TIME:20100219T001500
+UID:1002180022_1_dore
+DESCRIPTION:Sala 1 - Twin Peaks: Fire Walk with Me (Twin Peaks: Fuego cami
+ na conmigo\, David Lynch\, 1992). Int.: Sheryl Lee\, Ray Wise\, Kyle MacLa
+ chlan. EE UU. VOSE*. 135'\n“Contiene algunas de las escenas más fuertes
+  de Lynch\, en particular aquellas en las que se describen\, con frescura 
+ y violencia\, sensaciones vitales elementales: impresión de confusión ur
+ bana y de pánico en plena calle o el sentimiento de tener alas cuando una
+  chica te ha sonreído. En el título Fire Walk with Me hay al menos una p
+ alabra que inspiró especialmente a Lynch\, que es walk. (…) Es la idea 
+ de la película\, la de ir con Laura Palmer hasta el fin\, hasta el fin de
+  su noche” (Michel Chion). Segunda proyección día 21.\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Españolas en París
+DTSTART;VALUE=DATE-TIME:20100219T173000
+DTEND;VALUE=DATE-TIME:20100219T185000
+UID:1002193017_1_dore
+DESCRIPTION:Sala 1 - Españolas en París (Roberto Bodegas\, 1971). Int.: 
+ Laura Valenzuela\, Ana Belén\, Máximo Valverde. 80’\nA principio de lo
+ s años setenta\, más de cuarenta mil españolas trabajan en París como 
+ sirvientas. Pocas habían cruzado antes la frontera y la mayoría ni siqui
+ era habían salido de su pueblo. Una joven de diecinueve años\, Isabel\, 
+ llega a la ciudad\, donde conocerá el amor de otro español emigrado.\n\n
+ \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
+ cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vier Minuten
+DTSTART;VALUE=DATE-TIME:20100219T193000
+DTEND;VALUE=DATE-TIME:20100219T212300
+UID:1002193019_1_dore
+DESCRIPTION:Sala 1 - Vier Minuten (Cuatro minutos\, Chris Kraus\, 2006). I
+ nt.: Monica Bleibtreu\, Hannah Herzsprung\, Sven Pippig. Alemania. VOSE. 1
+ 13'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Short Films of David Lynch. Six Figures Getting Sick
+DTSTART;VALUE=DATE-TIME:20100219T200000
+DTEND;VALUE=DATE-TIME:20100219T212600
+UID:1002190020_2_dore
+DESCRIPTION:Sala 2 - The Short Films of David Lynch. Six Figures Getting S
+ ick (1968). Animación. 6’. The\nAlphabet (1968). Int.: Peggy Lynch. 4
+ ’. The Grandmother (1970). Int.: Richard White\, Dorothy McGinnis. 34’
+ . The Amputee (1974). Int.: Catherine Coulson\, David Lynch. 5’. The Cow
+ boy and the Frenchman (1988). Episodio de Les français vus par. Int.: Har
+ ry Dean Stanton\, Jack Nance. 26’. Premonition Following An Evil Deed (1
+ 995). Episodio de Lumière et compagnie. Int.: Jeff Alperi\, Mark Wood. 55
+ ’’. EE UU. Vídeo. VOSE. Total programa: 86’\nSegunda proyección d
+ ía 20.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Telémaco
+DTSTART;VALUE=DATE-TIME:20100219T214000
+DTEND;VALUE=DATE-TIME:20100219T223900
+UID:1002194021_2_dore
+DESCRIPTION:Sala 2 - Telémaco (Jorge M. Rodrigo Blanco\, 2009). Vídeo. 4
+ '. Las últimas horas de Pompeyo (Javier Jiménez Palomero\, 2008). Vídeo
+ . 30'. Señales (Pedro Moreno del Oso\, 2009). Vídeo. 4'. La Tama (Martí
+ n Costa). 21’. Total programa: 59'\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr.
+DTSTART;VALUE=DATE-TIME:20100219T220000
+DTEND;VALUE=DATE-TIME:20100220T002500
+UID:1002190022_1_dore
+DESCRIPTION:Sala 1 - Mulholland Dr. (Mulholland Drive\, David Lynch\, 2001
+ ). Int.: Naomi Watts\, Laura Elena\nHarring\, Justin Theroux. VOSE. 145'\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Duck Soup
+DTSTART;VALUE=DATE-TIME:20100220T173000
+DTEND;VALUE=DATE-TIME:20100220T183800
+UID:1002203017_1_dore
+DESCRIPTION:Sala 1 - Duck Soup (Sopa de ganso\, Leo McCarey\, 1933). Int.:
+  Groucho Marx\, Harpo Marx\, Chico\nMarx\, Margaret Dumont. EE UU. VE. 68'
+ \n“La mejor de las películas del trío (aquí cuarteto) anarco-surreali
+ sta\, una parodia increíblemente divertida e imaginativa del melodrama b
+ élico\, con un par de estados ruritanos declarándose la guerra porque al
+ guien acusa al presidente Groucho de ser un advenedizo. Totalmente irrever
+ ente hacia el patriotismo\, la diplomacia\, los tribunales y cualquier cos
+ a vagamente respetable” (Geoff Andrews). Entrada libre para menores de 1
+ 4 años.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pd
+ f
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Short Films of David Lynch. Six Figures Getting Sick
+DTSTART;VALUE=DATE-TIME:20100220T183000
+DTEND;VALUE=DATE-TIME:20100220T195600
+UID:1002203018_2_dore
+DESCRIPTION:Sala 2 - The Short Films of David Lynch. Six Figures Getting S
+ ick (1968). Animación. 6’. The Alphabet (1968). Int.: Peggy Lynch. 4’
+ . The Grandmother (1970). Int.: Richard White\, Dorothy McGinnis. 34’. T
+ he Amputee (1974). Int.: Catherine Coulson\, David Lynch. 5’. The Cowboy
+  and the Frenchman (1988). Episodio de Les français vus par. Int.: Harry 
+ Dean Stanton\, Jack Nance. 26’. Premonition Following An Evil Deed (1995
+ ). Episodio de Lumière et compagnie. Int.: Jeff Alperi\, Mark Wood. 55’
+ ’. EE UU. Vídeo. VOSE. Total programa: 86’\n\n\nFuente: http://www.me
+ cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
+ -dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inland Empire
+DTSTART;VALUE=DATE-TIME:20100220T190000
+DTEND;VALUE=DATE-TIME:20100220T220000
+UID:1002200019_1_dore
+DESCRIPTION:Sala 1 - Inland Empire (Inland Empire\, David Lynch\, 2006). I
+ nt.: Laura Dern\, Jeremy Irons\, Justin\nTheroux. EE UU. VOSE. 180'\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La cabina
+DTSTART;VALUE=DATE-TIME:20100220T201000
+DTEND;VALUE=DATE-TIME:20100220T212900
+UID:1002201020_2_dore
+DESCRIPTION:Sala 2 - La cabina (Antonio Mercero\, 1972). Int.: José Luis 
+ López Vázquez\, José Miguel Aguado\,\nAgustín González. 35’. Antoni
+  Gaudí… una visión inacabada (John Alaimo\, 1974). Int.: José Luis L
+ ópez Vázquez. 44’. Vídeo. Total programa: 79’\nAntoni Gaudí…: Pe
+ lícula rodada para televisión en 16mm sobre los últimos días del famos
+ o arquitecto catalán. Ha permanecido inédita más de treinta años\, al 
+ ser embargada en 1974 por el banco que la financió. Ver nota La cabina d
+ ía 18.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ensemble\, c’est tout
+DTSTART;VALUE=DATE-TIME:20100220T222000
+DTEND;VALUE=DATE-TIME:20100220T235700
+UID:1002202022_1_dore
+DESCRIPTION:Sala 1 - Ensemble\, c’est tout (Juntos\, nada más\, Claude 
+ Berri\, 2007). Int.: Audrey Tautou\, Guillaume Canet\, Laurent Stocker. Fr
+ ancia. VOSE. 97'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograD
+ ore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lynch
+DTSTART;VALUE=DATE-TIME:20100221T173000
+DTEND;VALUE=DATE-TIME:20100221T185400
+UID:1002213017_1_dore
+DESCRIPTION:Sala 1 - Lynch (One) (blackANDwhite\, 2007). Documental. EE UU
+ . Vídeo. VOSE. 84'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
+ ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Prog
+ raDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk with Me
+DTSTART;VALUE=DATE-TIME:20100221T192000
+DTEND;VALUE=DATE-TIME:20100221T213500
+UID:1002212019_1_dore
+DESCRIPTION:Sala 1 - Twin Peaks: Fire Walk with Me (Twin Peaks: Fuego cami
+ na conmigo\, David Lynch\, 1992).\nInt.: Sheryl Lee\, Ray Wise\, Kyle MacL
+ achlan. EE UU. VOSE*. 135'\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dynamic: 01 – The Best of DavidLynch.com
+DTSTART;VALUE=DATE-TIME:20100221T214500
+DTEND;VALUE=DATE-TIME:20100221T234000
+UID:1002214521_2_dore
+DESCRIPTION:Sala 2 - Dynamic: 01 – The Best of DavidLynch.com (David Lyn
+ ch\, 2007). Darkened Room. 11’.\nBoat. 7’. Lamp. 31’. Out Yonder: Ne
+ ighbor Boy. 10’. Industrial Soundscape. 10’. Bug Crawls. 4’. Interva
+ lometer Experiments. 13’. Dumbland (David Lynch\, 2002). Animación. 35
+ ’. EE UU. Vídeo. VOSE*. Total programa: 115’\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arrebato
+DTSTART;VALUE=DATE-TIME:20100221T220000
+DTEND;VALUE=DATE-TIME:20100221T234500
+UID:1002210022_1_dore
+DESCRIPTION:Sala 1 - Arrebato (Iván Zulueta\, 1979). Int.: Eusebio Poncel
+ a\, Cecilia Roth\, Will More. 105’\n“Dime\, ¿cuánto tiempo te podía
+ s llegar a pasar mirando este cromo?… ¿Te acuerdas?… ¿Y éste?… ¿
+ Y esta orla?… ¿Y esta página?… ¡Años\, siglos… toda una mañana!
+  Imposible saberlo\, estabas en plena fuga… éxtasis… colgado en plena
+  pausa… ¡ARREBATADO! ¡MIRA!” (Del guión de Arrebato).\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No es bueno que el hombre esté solo
+DTSTART;VALUE=DATE-TIME:20100223T173000
+DTEND;VALUE=DATE-TIME:20100223T185800
+UID:1002233017_1_dore
+DESCRIPTION:Sala 1 - No es bueno que el hombre esté solo (Pedro Olea\, 19
+ 73). Int.: Eduardo Fajardo\, José Luis López Vázquez\, Helga Liné. 88'
+ \nUn hombre maduro e introvertido que vive con la única compañía de una
+  muñeca de tamaño natural ve su intimidad invadida por sus nuevos vecino
+ s: una prostituta y su amante.\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shanghai Blues
+DTSTART;VALUE=DATE-TIME:20100223T193000
+DTEND;VALUE=DATE-TIME:20100223T210800
+UID:1002233019_1_dore
+DESCRIPTION:Sala 1 - Shanghai Blues (Tsui Hark\, 1984). Int.: Kenny Bee\, 
+ Sally Yeh\, Sylvia Chang. Hong Kong. VOCantonés SI/E*. 98'\n“Comedia en
+  la que el humor se extrae a duras penas del pathos de la posguerra\, de l
+ os amores y trabajos perdidos. El slapstick de las primeras escenas se dis
+ ipa como un mal olor al tiempo que la película se embarca hacia aguas má
+ s profundas\, dejando las convenciones de la Ciudad del Cine varadas en la
+  orilla” (Grady Hendrix).\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Libertarias
+DTSTART;VALUE=DATE-TIME:20100223T200000
+DTEND;VALUE=DATE-TIME:20100223T220600
+UID:1002230020_2_dore
+DESCRIPTION:Sala 2 - Libertarias (Vicente Aranda\, 1996). Guión: Vicente 
+ Aranda\, Antonio Rabinad\, José Luis Guarner. Int.: Ana Belén\, Victoria
+  Abril\, Ariadna Gil\, Raúl Pazos. 126’\n“El fusil representaba el po
+ der para las mujeres porque significaba poder implantar sus ideas\; por es
+ o lucharon contra los nacionales y los republicanos\, perdiendo contra amb
+ os por defender los ideales anarquistas” (Vicente Aranda).\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Upon a Time in China I
+DTSTART;VALUE=DATE-TIME:20100223T220000
+DTEND;VALUE=DATE-TIME:20100223T235200
+UID:1002230022_1_dore
+DESCRIPTION:Sala 1 - Once Upon a Time in China I (Érase una vez en China 
+ I\, Tsui Hark\, 1991). Int.: Jet Li\, Biao Yuen\, Rosamund Kwan. Hong Kong
+ . VOCantonés SI/E*. 112'\nFinales del siglo XIX. La creciente influencia 
+ de occidente se hace sentir en toda China. Las maneras extranjeras perturb
+ an el orden tradicional. Las armas de fuego constituyen una amenaza para e
+ l antiguo arte del combate. Un nuevo comandante\, en connivencia con los c
+ olonizadores\, fuerza a Wong Fei-hung a disolver su escuela de artes marci
+ ales.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El bosque del lobo
+DTSTART;VALUE=DATE-TIME:20100224T173000
+DTEND;VALUE=DATE-TIME:20100224T185900
+UID:1002243017_1_dore
+DESCRIPTION:Sala 1 - El bosque del lobo (Pedro Olea\, 1969). Int.: José L
+ uis López Vázquez\, Amparo Soler Leal\, John Steiner. 89’\nBenito Frei
+ re es un buhonero que vive rodeado de miseria\, en un ambiente subdesarrol
+ lado y supersticioso. Se dedica a la venta ambulante por diferentes pueblo
+ s gallegos y padece severos ataques de epilepsia. Por la comarca comienza 
+ a extenderse el rumor de que está poseído por un espíritu demoníaco y 
+ es un hombre lobo.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Progr
+ aDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queridos cómicos: José Luis López Vázquez
+DTSTART;VALUE=DATE-TIME:20100224T193000
+DTEND;VALUE=DATE-TIME:20100224T202000
+UID:1002243019_1_dore
+DESCRIPTION:Sala 1 - Queridos cómicos: José Luis López Vázquez (Diego 
+ Galán\, 1992). Episodio de la serie de RTVE. Vídeo. 50'\nMesa redonda co
+ n la presencia de Diego Galán\, Paco León\, Pedro Olea\, Adriana Ugarte 
+ y Concha Velasco. Entrada libre hasta completar aforo.\n\n\nFuente: http:/
+ /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
+ fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Upon a Time in China II
+DTSTART;VALUE=DATE-TIME:20100224T200000
+DTEND;VALUE=DATE-TIME:20100224T215200
+UID:1002240020_2_dore
+DESCRIPTION:Sala 2 - Once Upon a Time in China II (Érase una vez en China
+  II\, Tsui Hark\, 1992). Int David Chiang\, Rosamund Kwan\, Jet Li. Hong K
+ ong. VOCantonés SI/E*. 112'\nEn esta versión de una de las leyendas más
+  populares de China\, Wong Fei-hung es un héroe frustrado. Está dividido
+  entre dos facciones: la de San Yat-Sen\, que está luchando contra los di
+ rigentes imperiales corruptos\, y la del clan del Loto Blanco\, un culto b
+ udista místico que predica el odio a los extranjeros.\n\n\nFuente: http:/
+ /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
+ fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Upon a Time in China III
+DTSTART;VALUE=DATE-TIME:20100224T221500
+DTEND;VALUE=DATE-TIME:20100225T000000
+UID:1002241522_1_dore
+DESCRIPTION:Sala 1 - Once Upon a Time in China III (Érase una vez en Chin
+ a III\, Tsui Hark\, 1993). Int.: Rosamund Kwan\, Lau Shun\, Jet Li. Hong K
+ ong. VOCantonés SI/E*. 105'\nChina alrededor de 1900\, durante la dinast
+ ía Qing. La emperatriz decide organizar un torneo de exhibición con el o
+ bjetivo de enfrentar a las naciones que se han asentado en China las unas 
+ contra las otras. Pero su plan fracasa y son las diversas facciones chinas
+  las que participan en la lucha.\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El vikingo
+DTSTART;VALUE=DATE-TIME:20100225T173000
+DTEND;VALUE=DATE-TIME:20100225T190000
+UID:1002253017_1_dore
+DESCRIPTION:Sala 1 - El vikingo (Pedro Lazaga\, 1972). Int.: José Luis L
+ ópez Vázquez\, Concha Velasco\, Máximo Valverde. 90'\nUn tipo de aparie
+ ncia mediocre\, cansado del matrimonio\, va triunfando\, sin embargo\, en 
+ su empresa al lograr cargos cada vez más elevados y mejores puestos sin s
+ aber que su ascenso se debe a los trabajitos con diversos directivos que s
+ e trajina su mujer.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
+ ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Prog
+ raDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Legend of Zu
+DTSTART;VALUE=DATE-TIME:20100225T193000
+DTEND;VALUE=DATE-TIME:20100225T211400
+UID:1002253019_1_dore
+DESCRIPTION:Sala 1 - The Legend of Zu (Tsui Hark\, 2001). Int.: Ekin Cheng
+ \, Cecilia Cheung\, Sammo Hung. Hong Kong / China. VOCantonés SI/E*. 104'
+ \nThe Legend tiene lugar en la mítica montaña Zu\, habitada por una raza
+  inmortal\, los Omei. Están amenazados por un poder maligno\, Insomnia\, 
+ que aspira a gobernar sobre las montañas\, y por Amnesia\, una bruja que 
+ quiere probarse a sí misma.\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In memoriam
+DTSTART;VALUE=DATE-TIME:20100225T200000
+DTEND;VALUE=DATE-TIME:20100225T213900
+UID:1002250020_2_dore
+DESCRIPTION:Sala 2 - In memoriam (Enrique Brasó\, 1977). Int.: Geraldine 
+ Chaplin\, José Luis Gómez\, Eusebio Poncela. 99'\nEnrique Brasó parte d
+ e un cuento del argentino Bioy Casares para narrar una romántica y triang
+ ular historia de amor\, celos\, muerte (y destrucción).\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morte a Venezia
+DTSTART;VALUE=DATE-TIME:20100225T220000
+DTEND;VALUE=DATE-TIME:20100226T000800
+UID:1002250022_1_dore
+DESCRIPTION:Sala 1 - Morte a Venezia (Muerte en Venecia\, Luchino Visconti
+ \, 1971). Int.: Dirk Bogarde\, Silvana Mangano\, Mark Burns. Italia / Fran
+ cia. VOSE. 128'\n“A la novela de Thomas Mann sobre un compositor envejec
+ ido fascinado con un jovencito le es dada la lectura más banal imaginable
+  por Luchino Visconti\, que convierte de plano las metáforas (como la hom
+ osexualidad) en significados y celebra su reducción como si hubiese hecho
+  un descubrimiento profundo” (Dave Kehr). Segunda proyección día 28.\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un casto varón español
+DTSTART;VALUE=DATE-TIME:20100226T173000
+DTEND;VALUE=DATE-TIME:20100226T190100
+UID:1002263017_1_dore
+DESCRIPTION:Sala 1 - Un casto varón español (Jaime Armiñán\, 1973). In
+ t.: José Luis López Vázquez\, María Isbert\, Esperanza Roy. 91'\nSanti
+ ago es un cuarentón que regenta una pastelería en el castizo Madrid de l
+ os Austrias\, cerca de la Plaza Mayor. Un día se entera de que una descon
+ ocida le ha dejado en herencia el burdel que llevaba en Gran Bretaña. Esa
+  desconocida resulta ser su auténtica madre.\n\n\nFuente: http://www.mecd
+ .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
+ ore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Párpados
+DTSTART;VALUE=DATE-TIME:20100226T192000
+DTEND;VALUE=DATE-TIME:20100226T210800
+UID:1002262019_1_dore
+DESCRIPTION:Sala 1 - Párpados (Iván Zulueta 1989). Int.: Marisa Paredes\
+ , Eusebio Poncela. Serie Delirios de amor. 30’. Montaje resumen de El ú
+ ltimo grito (Iván Zulueta\, 1969). 78’. Vídeo. Total programa: 108'\nP
+ ar pa’ dos plantea el tema de la simbiosis total entre dos gemelos\, rep
+ resentada por dos espectros simbólicos\, que actúan como imagen del amor
+  y la unión.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
+ ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore
+ 74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lautrec
+DTSTART;VALUE=DATE-TIME:20100226T200000
+DTEND;VALUE=DATE-TIME:20100226T220600
+UID:1002260020_2_dore
+DESCRIPTION:Sala 2 - Lautrec (Toulouse-Lautrec\, Roger Planchon\, 1999). I
+ nt.: Régis Royer\, Elsa Zylberstein\, Anémone. Francia. VOSE. 126'\n“A
+ quellos pintores de finales del siglo XIX y principios del XX pintaban 14 
+ horas al día\, a pesar de que en aquella época nadie quería ni ver sus 
+ cuadros\, y de que socialmente tenían a todo el mundo en contra\; hace fa
+ lta una fuerza interior enorme para eso\, y esta película es un homenaje 
+ a todos ellos. Muchos vivieron vidas trágicas\, incluido Lautrec\, y sobr
+ e todo Van Gogh\, quien\, como escribió Antonin Artaud\, era ‘un suicid
+ ado de la sociedad’. La diferencia es que Lautrec vivió esa tragedia co
+ n optimismo” (Roger Planchon).\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sparrow
+DTSTART;VALUE=DATE-TIME:20100226T220000
+DTEND;VALUE=DATE-TIME:20100226T232700
+UID:1002260022_1_dore
+DESCRIPTION:Sala 1 - Sparrow (Johnnie To\, 2008). Int.: Simon Yam\, Kelly 
+ Lin\, Lam Ka-tung. China / Hong Kong. VOCantonés SI/E*. 87'\nJohnnie To s
+ educe y acaricia al mismo tiempo con su cautivadora mezcla de cine negro\,
+  musical y melodrama (sus géneros favoritos de Hollywood)\, Cary Grant\, 
+ Stanley Donen y ecos de la nouvelle vague. En la escena final\, Kei es des
+ afiado por un delincuente en un absurdo intento de robo coreografiado con 
+ paraguas bajo la lluvia (un guiño a Los paraguas de Cherburgo).\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taiyo no oji: Horusu no daiboken
+DTSTART;VALUE=DATE-TIME:20100227T173000
+DTEND;VALUE=DATE-TIME:20100227T185100
+UID:1002273017_1_dore
+DESCRIPTION:Sala 1 - Taiyo no oji: Horusu no daiboken (La princesa encanta
+ da\, Isao Takahata\, 1968). Int.: Animación. Japón. VE. 81’\nHols es u
+ n valiente joven que extrae la Espada del Sol clavada en el hombro de un g
+ igante de roca\, que se la regala y le vaticina que si la templa\, será a
+ lgún día conocido como el Príncipe del Sol. Entrada libre para menores 
+ de 14 años.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore7
+ 4.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Habla\, mudita
+DTSTART;VALUE=DATE-TIME:20100227T193000
+DTEND;VALUE=DATE-TIME:20100227T205500
+UID:1002273019_1_dore
+DESCRIPTION:Sala 1 - Habla\, mudita (Manuel Gutiérrez Aragón\, 1973). In
+ t.: Jose Luis López Vazquez\, Kiti Manver\, Francisco Algora. 85'\nDon Ra
+ miro\, editor y hombre preocupado por los problemas del lenguaje y la comu
+ nicación\, pasa el final del verano en las montañas acompañado de su fa
+ milia. En uno de sus paseos encuentra a una pastora muda\, con la que qued
+ ará completamente fascinado.\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Vraie Nature de Bernadette
+DTSTART;VALUE=DATE-TIME:20100227T200000
+DTEND;VALUE=DATE-TIME:20100227T213500
+UID:1002270020_2_dore
+DESCRIPTION:Sala 2 - La Vraie Nature de Bernadette (La verdadera naturalez
+ a de Bernadette\, Gilles Carle\, 1972). Int.: Micheline Lanctôt\, Donald 
+ Pilon\, Reynald Bouchard. Canadá. VOSE. 95’\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:True Women for Sale
+DTSTART;VALUE=DATE-TIME:20100227T220000
+DTEND;VALUE=DATE-TIME:20100227T233000
+UID:1002270022_1_dore
+DESCRIPTION:Sala 1 - True Women for Sale (Herman Yau\, 2008). Documental. 
+ Hong Kong. VOCantonés SI/E*. 90'\nEllas han optado no por vender su cuerp
+ o\, sino su vientre (como el título en chino de la película indica). Una
+  es adicta a las drogas\, la otra es una joven embarazada procedente de Ch
+ ina que se casa con un hombre mayor para poder permanecer en Hong Kong.\n\
+ n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
+ -cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Patrimonio nacional
+DTSTART;VALUE=DATE-TIME:20100228T173000
+DTEND;VALUE=DATE-TIME:20100228T192000
+UID:1002283017_1_dore
+DESCRIPTION:Sala 1 - Patrimonio nacional (Luis G. Berlanga\, 1980). Int.: 
+ Luis Escobar\, José Luis López Vázquez\, Amparo Soler Leal. 110'\n“La
+  aristocracia en nuestros días\, ante la imposibilidad de pervivir en sus
+  feudos campesinos\, se ha insertado en el mundo de los negocios o en el m
+ undo político y cultural de la ciudad. De ambas maneras se ha prostituido
+  y ha perdido la antigua grandeza. Mi película es la crónica del fin de 
+ la raza aristocrática\, que se ha convertido en una raza marginada\, en v
+ ías de extinción” (Luis G. Berlanga).\n\n\nFuente: http://www.mecd.gob
+ .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
+ programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morte a Venezia
+DTSTART;VALUE=DATE-TIME:20100228T194000
+DTEND;VALUE=DATE-TIME:20100228T214800
+UID:1002284019_1_dore
+DESCRIPTION:Sala 1 - Morte a Venezia (Muerte en Venecia\, Luchino Visconti
+ \, 1971). Int.: Dirk Bogarde\, Silvana Mangano\, Mark Burns. Italia / Fran
+ cia. VOSE. 128'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDo
+ re74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lâsky jedne plavovlâsky
+DTSTART;VALUE=DATE-TIME:20100228T200000
+DTEND;VALUE=DATE-TIME:20100228T211700
+UID:1002280020_2_dore
+DESCRIPTION:Sala 2 - Lâsky jedne plavovlâsky (Los amores de una rubia\, 
+ Milos Forman\, 1965). Int.: Hana\nBrejchovâ\, Vladimir Pucholt\, Vladimir
+  Mensík. Checoslovaquia. VOSE. 77'\n“La película que dio a conocer int
+ ernacionalmente a Forman es una amable serie de variaciones sobre la soled
+ ad\, el deseo y el amor. El juego amoroso\, imposible\, volátil\, ridícu
+ lo\, es una manera de huir de la árida vida de soldado u obrero fabril\, 
+ un sueño\, sin duda\, pero necesario para vivir” (Benjamin Halligan).\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tactical Unit – Comrades in Arms
+DTSTART;VALUE=DATE-TIME:20100228T221000
+DTEND;VALUE=DATE-TIME:20100228T234000
+UID:1002281022_1_dore
+DESCRIPTION:Sala 1 - Tactical Unit – Comrades in Arms (Wing-cheong Law\,
+  2009). Int.: Simon Yam\, Maggie Siu\, Suet Lam. Hong Kong. VOCantonés SI
+ /E*. 90'\nVariante de la probada fórmula de género del grupo disfunciona
+ l cuyos miembros han de dejar de lado sus diferencias para actuar como un 
+ equipo unido.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
+ ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore
+ 74.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+END:VCALENDAR
