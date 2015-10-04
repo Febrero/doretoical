@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-
-import pytz
 import re
 import requests
 import sys
@@ -12,44 +10,74 @@ from icalendar import Calendar, Event
 import datetime
 import yaml
 import bs4
+import os.path
+import glob
+import sys
+import traceback
+import httplib
 
+_prog = list()
 _pdfs = list()
-txt = re.compile("(Abri|Programa|programaci|enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)", re.IGNORECASE)
-pdf = re.compile(".*(Programa|PrograDore|programDore).*\\.pdf$", re.IGNORECASE)
+_docs = list()
+txt = re.compile("(Abri|Programa|programaci|enero|febrero|marzo|abril|mayo|Mayoe|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)", re.IGNORECASE)
+pdf = re.compile(".*(Programa|PrograDore|programDore).*\\.(pdf|doc)$", re.IGNORECASE)
 
-cal = Calendar()
-cal.add('version', '2.0')
-cal.add('prodid', u'-//Cine Doré//github.com santos82 doredb//ES')
-cal.add('X-WR-CALNAME','Cine Dore')
-cal.add('x-wr-timezone', 'Europe/Madrid')
-location='Calle de Santa Isabel, 3, 28012 Madrid, España'
-madrid_tz = pytz.timezone("Europe/Madrid")
+FULL='dore.ics'
+CALDIR='ics/'
+LOCATION='Calle de Santa Isabel, 3, 28012 Madrid, España'
 
+def exists(url):
+	try:
+		u=urlparse(url)
+		conn = httplib.HTTPConnection(u.netloc)
+		conn.request('HEAD', u.path)
+		response = conn.getresponse()
+		conn.close()
+		if response.status in (200, 301, 302):
+			return True
+		sys.stderr.write("NOT CONNECT (" +str(response.status) + ") "+ url+"\n")
+	except Exception,e:
+		sys.stderr.write("NOT CONNECT ("+str(e)+") "+ url+"\n")
 
-def _getPdfs(url):
+	return False
+
+def create(programa):
+	_cal = Calendar()
+	_cal.add('version', '2.0')
+	_cal.add('prodid', u'-//Cine Doré//github.com santos82 doredb//ES')
+	_cal.add('X-WR-CALNAME','Cine Dore')
+	_cal.add('x-wr-timezone', 'Europe/Madrid')
+	return _cal
+
+def _collect(url):
+	ct=0;
 	page = requests.get(url)
 	soup = bs4.BeautifulSoup(page.text,"lxml")
 	links = soup.select("#info a")
 	for l in links:
 		t = l.get_text().strip()
-		if l is not None and txt.match(t) and l.attrs.get('href').endswith('.pdf'):
+		if l is not None and txt.match(t) and l.attrs.get('href'):
 			u = urljoin(url, l.attrs.get('href'))
 			n = basename(urlparse(u).path)
 			if pdf.match(n):
-				_pdfs.append(u)
-	if len(_pdfs) == 0:
-		raise Exception('Programas no encontrados')
+				ct=ct+1
+				if n.endswith('.pdf'):
+					_pdfs.append(u)
+				elif n.endswith('.doc'):
+					_docs.append(u)
+	if ct == 0:
+		sys.stderr.write("DATA NOT FOUND in "+ url+"\n")
 
 # ar == -1 <- Último programa
 # ar == 0 <- Todos los programas de la última hoja
 # ar == 1 <- Todos los programas
 # ar > 2000 <- Los programas del año pasado por parametro
-def getPdfs(ar):
+def collect(ar):
 	if ar == -1 or ar == 0 or ar == 1:
-		_getPdfs('http://www.mecd.gob.es/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion.html')
+		_collect('http://www.mecd.gob.es/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion.html')
 		if ar == -1:
 			del _pdfs[1:]
-			return _pdfs
+			return
 
 	p = "http://www.mecd.gob.es/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/%s.html"
 
@@ -58,35 +86,120 @@ def getPdfs(ar):
 		year = datetime.datetime.now().year
 		while y <= year:
 			u = p % (str(y))
-			_getPdfs(u)
+			_collect(u)
 			y += 1
 	if ar > 2000:
 		u = p % (ar)
-		_getPdfs(u)
-	return _pdfs
+		_collect(u)
+	
+def _getYaml(url,abiword=False):
+	if not exists(url):
+		return (None, None)
+	bash=''
+	cmd=''
+	s_yaml=''
+	try:
+		if abiword:
+			cmd='abiword'
+			#bash="curl -L -s \"" + url + "\" | abiword --to=txt --to-name=fd://1 fd://0  | awk -f dore.awk"
+			bash="curl -L -s \"" + url + "\" | catdoc | iconv -c -f utf-8 -t ascii | strings | awk -f dore.awk"
+			f = os.popen(bash)
+		elif url.endswith('.pdf'):
+			cmd='pdftotext'
+			bash="curl -L -s \"" + url + "\" | pdftotext -htmlmeta - - | awk -f dore.awk"
+			f = os.popen(bash)
+		elif url.endswith('.doc'):
+			cmd='catdoc'
+			bash="curl -L -s \"" + url + "\" | catdoc  | awk -f dore.awk"
+			f = os.popen(bash)
+		s_yaml=f.read()
+		f.close()
+	except Exception,e:
+		if cmd=='catdoc':
+			return _getYaml(url,True)
+		sys.stderr.write("Error with curl/"+cmd+" "+ url+"\n")
+		sys.stderr.write("\t"+bash+"\n")
+		sys.stderr.write("\t"+str(e)+"\n")
+		return (None, None)
+	try:
+		docs = yaml.load_all(s_yaml)
+		pr=next(docs)
+		if not pr:
+			sys.stderr.write("Error with yaml - None "+ url+"\n")
+			return (None, None)
+		if ('error' in pr):
+			sys.stderr.write(pr['error']+" "+ url+"\n")
+			return (None, None)
+		if not ('programa' in pr) or not pr['programa']:
+			sys.stderr.write("Error with yaml format 'programa' "+ url+"\n")
+			sys.stderr.write("\t"+bash+"\n")
+			return (None, None)
+		return (docs,pr['programa'])
+	except Exception,e:
+		if cmd=='catdoc':
+			return _getYaml(url,True)
+		sys.stderr.write("Error with yaml "+ url+"\n")
+		sys.stderr.write("\t"+bash+"\n")
+		sys.stderr.write("\t"+str(e)+"\n")
+		return (None, None)
 
 def _fillCal(url):
-	f = os.popen("curl -s \"" + url + "\" | pdftotext - - | awk -f dore.awk")
-	docs = yaml.load_all(f)
-	for o in docs:
-		i=datetime.datetime.strptime(o['inicio'], "%Y-%m-%d %H:%M")
-		event = Event()
-		event.add('summary', o[u'título'])
-		event.add('dtstart', i)
-		event.add('location', location)
-		event.add('uid',i.strftime("%y%m%d%M%H")+"_"+o['sala']+"_dore")
-		if o[u'duración']:
-			f=i + datetime.timedelta(minutes = int(o[u'duración']))
-			event.add('dtend', f)
-		if o['nota']:
-			event.add('DESCRIPTION',"Sala " + o['sala'] + " - " + o['nota']+"\n\nFuente: "+url)
+	docs, programa = _getYaml(url)
+	if not docs or not programa or programa in _prog:
+		return None
+	try:
+		ct=0
+		cal=create(programa)
+		for o in docs:
+			ct=ct+1
+			i=datetime.datetime.strptime(o['inicio'], "%Y-%m-%d %H:%M")
+			event = Event()
+			event.add('summary', o[u'título'])
+			event.add('dtstart', i)
+			event.add('location', LOCATION)
+			event.add('uid',i.strftime("%y%m%d%M%H")+"_"+o['sala']+"_dore")
+			if o[u'duración']:
+				f=i + datetime.timedelta(minutes = int(o[u'duración']))
+				event.add('dtend', f)
+			if o['nota']:
+				event.add('DESCRIPTION',"Sala " + o['sala'] + " - " + o['nota']+"\n\nFuente: "+url)
 
-		cal.add_component(event)
+			cal.add_component(event)
+		if ct==0:
+			sys.stderr.write("NOT EVENTS in ("+programa+") "+ url+"\n")
+		else:
+			f = open(CALDIR + programa + '.ics', 'wb')
+			f.write(cal.to_ical())
+			f.close()
+			_prog.append(programa)
+	except Exception,e:
+		sys.stderr.write("Error in ("+str(programa)+") "+ url+"\n")
+		sys.stderr.write("\t"+str(e)+"\n")
+		if o:
+			print str(o)
+		raise e
 
 def run(ar):
-	getPdfs(ar)
+	collect(ar)
+	if len(_pdfs) == 0 and len(_docs)==0:
+		raise Exception('NOTHING TO DO\n')
 	for pdf in _pdfs:
 		_fillCal(pdf)
+	for doc in _docs:
+		_fillCal(doc)
+
+def join():
+	full=create(FULL)
+	for s in glob.glob(CALDIR + '*.ics'):
+		f = open(s,'rb')
+		cal = Calendar.from_ical(f.read())
+		for component in cal.subcomponents:
+			if component.name == 'VEVENT':
+				full.add_component(component)
+		f.close()
+	f = open(FULL, 'wb')
+	f.write(full.to_ical())
+	f.close()
 
 if __name__ == "__main__":
 	ar = -1
@@ -94,10 +207,8 @@ if __name__ == "__main__":
 		run(-1)
 	else:
 		if sys.argv[1].isdigit():
-			run(sys.argv[1])
+			run(int(sys.argv[1]))
 		else:
 			_fillCal(sys.argv[1])
-	f = open('dore.ics', 'wb')
-	f.write(cal.to_ical())
-	f.close()
+	join()
 
