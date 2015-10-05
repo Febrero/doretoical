@@ -86,7 +86,8 @@ mes==0 && anyo==0 && $0~/^\s*(ENERO|FEBRERO|MARZO|ABRIL|MAYO|JUNIO|JULIO|AGOSTO|
 	mes=getMes($1);
 	anyo=$2;
 	print "---"
-	print "programa: " anyo "-" cero(mes)
+	print "programa: \"" anyo "-" cero(mes) "\"";
+	print "fuente: \"" url "\"";
 	next
 }
 
@@ -97,12 +98,13 @@ mes==0 && $1~/^(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|oct
 anyo==0 && mes>0 && $1~/^[0-9][0-9][0-9][0-9]$/ {
 	anyo=$1;
 	print "---"
-	print "programa: " anyo "-" cero(mes)
+	print "programa: \"" anyo "-" cero(mes) "\"";
+	print "fuente: \"" url "\"";
 }
 
 /^(Segunda proyección el día|Ver nota día|Segunda proyección y nota día) [0-9]+\.?$/ || /^Segunda proyección en /{
 	item();
-	getline
+	next;
 }
 
 NF==1 && $1~/^\s*(Lunes|Martes|Miércoles|Jueves|Viernes|Sábado|Domingo)$/ {
@@ -126,7 +128,7 @@ buscadia==1 && NF==1 && $1~/^[0-9]+$/ {
 	}
 }
 
-/^\s*(Lunes|Martes|Miércoles|Jueves|Viernes|Sábado|Domingo)[ \t]+[0-9]+$/ {
+/^\s*(Lunes|Martes|Miércoles|Jueves|Viernes|Sábado|Domingo)[ \t]+[0-9]+\s*$/ {
 	item();
 	dia=$2;
 	next
