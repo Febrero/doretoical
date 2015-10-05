@@ -93,9 +93,9 @@ DTSTART;VALUE=DATE-TIME:20130302T200000
 DTEND;VALUE=DATE-TIME:20130302T212000
 UID:1303020020_2_dore
 DESCRIPTION:Sala 2 - Tishé! (V. Kossakovsky\, 2002). Documental. Rusia. V
- ídeo. Sin diálogos. 80’\n Segunda proyección y nota día 21.\n\n\nFue
- nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
- ra/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+ ídeo. Sin diálogos. 80’\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -138,14 +138,14 @@ DTSTART;VALUE=DATE-TIME:20130303T193000
 DTEND;VALUE=DATE-TIME:20130303T210300
 UID:1303033019_2_dore
 DESCRIPTION:Sala 2 - 金不換 / The Cure (Bill Yip\, 2011). Int.: Eric Ch
- iu\, Siriwan Khankham. Hong Kong / China. VOSI/E*. 93’ \nUna road-movie 
- que acompaña a dos estafadores que viajan por el país ofreciendo remedio
- s y curas\, engañando a los campesinos. Cuando en Bangkok se revela su tr
- uco\, uno es asesinado y el otro emprende una huída que se convertirá en
-  una búsqueda espiritual que le lleva de regreso a su ciudad natal\, dond
- e el reencuentro con la paz y la naturaleza le cambian totalmente.\n\n\nFu
- ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
- ura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+ iu\, Siriwan Khankham. Hong Kong / China. VOSI/E*. 93’\nUna road-movie q
+ ue acompaña a dos estafadores que viajan por el país ofreciendo remedios
+  y curas\, engañando a los campesinos. Cuando en Bangkok se revela su tru
+ co\, uno es asesinado y el otro emprende una huída que se convertirá en 
+ una búsqueda espiritual que le lleva de regreso a su ciudad natal\, donde
+  el reencuentro con la paz y la naturaleza le cambian totalmente.\n\n\nFue
+ nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
+ ra/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -175,15 +175,15 @@ DTEND;VALUE=DATE-TIME:20130303T232700
 UID:1303032021_1_dore
 DESCRIPTION:Sala 1 - For Your Eyes Only (Sólo para sus ojos\, John Glen\,
   1981). Int.: Roger Moore\, Carole Bouquet\, Topol. Reino Unido. VOSE. 127
- ’ \nEl pesquero inglés St. George es hundido en aguas territoriales alb
- anesas. El barco estaba equipado con ATAC\, un dispositivo ultra-secreto u
- tilizado para transmitir órdenes a los submarinos Polaris\, que si cayera
-  en manos inadecuadas\, podría utilizarse para reprogramar los submarinos
-  y atacar sus propios países y aliados. El hundimiento provoca una carrer
- a entre ingleses y soviéticos para recuperar el pesquero de las profundid
- ades del océano...\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
- ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Prog
- raDore111-doc.doc
+ ’\nEl pesquero inglés St. George es hundido en aguas territoriales alba
+ nesas. El barco estaba equipado con ATAC\, un dispositivo ultra-secreto ut
+ ilizado para transmitir órdenes a los submarinos Polaris\, que si cayera 
+ en manos inadecuadas\, podría utilizarse para reprogramar los submarinos 
+ y atacar sus propios países y aliados. El hundimiento provoca una carrera
+  entre ingleses y soviéticos para recuperar el pesquero de las profundida
+ des del océano...\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Progr
+ aDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -243,8 +243,8 @@ DTEND;VALUE=DATE-TIME:20130306T191000
 UID:1303063017_1_dore
 DESCRIPTION:Sala 1 - El disputado voto del señor Cayo (Antonio. Giménez-
  Rico\, 1986). Int.: Francisco Rabal\, Juan Luis Galiardo\, Lydia Bosch. Es
- paña. 100’ \n“Lo que narra El disputado voto del señor Cayo es el pa
- rticular enfrentamiento que se produce entre la progresista mentalidad pol
+ paña. 100’\n“Lo que narra El disputado voto del señor Cayo es el par
+ ticular enfrentamiento que se produce entre la progresista mentalidad pol
  ítica de los tres amigos y la vieja filosofía campesina del señor Cayo.
   La fascinación que su personalidad produce en Víctor Velasco le lleva a
  l convencimiento de que es más importante que la suya”. (Augusto M. Tor
@@ -297,14 +297,14 @@ DTEND;VALUE=DATE-TIME:20130306T224500
 UID:1303063021_1_dore
 DESCRIPTION:Sala 1 - Kyonetsu no kisetsu / The Warped Ones (Koreyoshi Kura
  hara\, 1960). Int.: Tamio Kawaji\, Eiji Gô\, Noriko Matsumoto. Japón. VO
- SEI/E*. 75’ \nKurahara derrocha energía e ingenio visual tras los pasos
-  de un joven delincuente adicto al jazz en su anárquica carrera hacia el 
- desastre\, trasunto de la claustrofobia espiritual de una generación atra
- pada en el milagro económico japonés\, con la que el director daba carpe
- tazo al cine juvenil y preparaba\, con una explosión\, la llegada de la N
- ueva Ola.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
- a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-
- doc.doc
+ SEI/E*. 75’\nKurahara derrocha energía e ingenio visual tras los pasos 
+ de un joven delincuente adicto al jazz en su anárquica carrera hacia el d
+ esastre\, trasunto de la claustrofobia espiritual de una generación atrap
+ ada en el milagro económico japonés\, con la que el director daba carpet
+ azo al cine juvenil y preparaba\, con una explosión\, la llegada de la Nu
+ eva Ola.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-d
+ oc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -314,15 +314,15 @@ DTEND;VALUE=DATE-TIME:20130307T192900
 UID:1303073017_1_dore
 DESCRIPTION:Sala 1 - Diamonds Are Forever (Diamantes para la eternidad\, G
  uy Hamilton\, 1971). Int.: Sean Connery\, Jill St. John\, Charles Gray. Re
- ino Unido. VOSE. 119’ \nAlguien está acaparando enormes cantidades de d
- iamantes del mercado negro internacional. James Bond es asignado para enco
- ntrar quiénes son los ladrones y por qué los diamantes no han vuelto a l
- a venta. Haciéndose pasar por contrabandista Bond viaja a Holanda para en
- contrarse con una pieza clave del circuito\, la bella Tiffany Case. La pis
- ta le lleva hasta Las Vegas\, donde Bond descubre que su archienemigo Blof
- eld se encuentra detrás del plan.\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2013/PrograDore111-doc.doc
+ ino Unido. VOSE. 119’\nAlguien está acaparando enormes cantidades de di
+ amantes del mercado negro internacional. James Bond es asignado para encon
+ trar quiénes son los ladrones y por qué los diamantes no han vuelto a la
+  venta. Haciéndose pasar por contrabandista Bond viaja a Holanda para enc
+ ontrarse con una pieza clave del circuito\, la bella Tiffany Case. La pist
+ a le lleva hasta Las Vegas\, donde Bond descubre que su archienemigo Blofe
+ ld se encuentra detrás del plan.\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -347,11 +347,11 @@ DTSTART;VALUE=DATE-TIME:20130307T195000
 DTEND;VALUE=DATE-TIME:20130307T210400
 UID:1303075019_1_dore
 DESCRIPTION:Sala 1 - Helsinki\, ikuisesti (Helsinki Forever\, Peter von Ba
- gh\, 2008). Documental. Finlandia. VOSE*. 74’ \n“Al ver Helsinki\, for
- ever terminé entendiendo que von Bagh practica una extraña variedad de l
- a autobiografía. No es que hable en primera persona\, ni que dé ningún 
- detalle de su vida. Pero la película es la reflexión de alguien que desp
- ués de haber visto tantas imágenes se da cuenta de que el siglo XX avanz
+ gh\, 2008). Documental. Finlandia. VOSE*. 74’\n“Al ver Helsinki\, fore
+ ver terminé entendiendo que von Bagh practica una extraña variedad de la
+  autobiografía. No es que hable en primera persona\, ni que dé ningún d
+ etalle de su vida. Pero la película es la reflexión de alguien que despu
+ és de haber visto tantas imágenes se da cuenta de que el siglo XX avanz
  ó a un paso brutal\, que por un lado dejó una enorme concentración de c
  adáveres y\, por el otro\, arrasó el mundo por la vía del progreso y lo
   volvió irreconocible. La implícita autobiografía de von Bagh es el rel
@@ -405,21 +405,21 @@ DTEND;VALUE=DATE-TIME:20130308T204400
 UID:1303083019_2_dore
 DESCRIPTION:Sala 2 - Lastuja – Taiteilijasuvun vuosisata (Splinters - A 
  Century of an Artistic Family\, Peter von Bagh\, 2011). Documental. Finlan
- dia. VOSE*. 74’\n Splinters resulta una película que se ocupa del arte 
- y la naturaleza y deja fuera de campo el trasfondo político y social aunq
- ue este se cuela cada tanto por la ventana. Como uno no sabe nada de la fa
- milia Aho y sabe muy poco de Finlandia en general\, queda frecuentemente p
- erplejo frente a Splinters gracias al curioso método narrativo de von Bag
- h\, a su personalísimo estilo para montar el material de archivo\, la voz
-  en off\, las citas literarias y las fuentes pictóricas que se suceden ev
- itando deliberadamente la sucesión cronológica. Por el contrario\, von B
- agh enlaza los temas con una gran fluidez en las imágenes\, pero mediante
-  alocados saltos temporales. La historia va hacia adelante y hacia atrás 
- como si el orden de los planos estuviera dictado por una asociación de id
- eas que nunca se hace explícita. Con la presencia de Peter von Bagh y de 
- Miguel Marías.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
- cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDo
- re111-doc.doc
+ dia. VOSE*. 74’\nSplinters resulta una película que se ocupa del arte y
+  la naturaleza y deja fuera de campo el trasfondo político y social aunqu
+ e este se cuela cada tanto por la ventana. Como uno no sabe nada de la fam
+ ilia Aho y sabe muy poco de Finlandia en general\, queda frecuentemente pe
+ rplejo frente a Splinters gracias al curioso método narrativo de von Bagh
+ \, a su personalísimo estilo para montar el material de archivo\, la voz 
+ en off\, las citas literarias y las fuentes pictóricas que se suceden evi
+ tando deliberadamente la sucesión cronológica. Por el contrario\, von Ba
+ gh enlaza los temas con una gran fluidez en las imágenes\, pero mediante 
+ alocados saltos temporales. La historia va hacia adelante y hacia atrás c
+ omo si el orden de los planos estuviera dictado por una asociación de ide
+ as que nunca se hace explícita. Con la presencia de Peter von Bagh y de M
+ iguel Marías.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDor
+ e111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -499,10 +499,10 @@ UID:1303093019_2_dore
 DESCRIPTION:Sala 2 - Sodankylä ikuisesti. Elokuvan vuosisata I & II (Soda
  nkylä Forever: The Century of Cinema\, Peter von Bagh\, 2010). Documental
  . Finlandia.VOSE*. Parte I: 88’. Parte II: 58’. Total Programa: 146’
-  \nVer Partes III y IV y nota día 10. Con la presencia de Peter von Bagh 
- y de Miguel Marías.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
- mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Pro
- graDore111-doc.doc
+ \nVer Partes III y IV y nota día 10. Con la presencia de Peter von Bagh y
+  de Miguel Marías.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
+ ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Prog
+ raDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -550,19 +550,19 @@ UID:1303103019_2_dore
 DESCRIPTION:Sala 2 - Sodankylä ikuisesti. Elokuvan vuosisata III & IV (So
  dankylä Forever: The Century of Cinema\, Peter von Bagh\, 2010). Document
  al. Finlandia.VOSE*. Parte III: 58’. Parte IV: 58’. Total Programa: 11
- 6’ \nDesde 1969\, muchos de los más brillantes cineastas han acudido al
-  Midnight Sun Film Festival en Sodankylä para hablar de su forma de ver y
-  hacer cine. De cientos de horas de discusiones públicas grabadas con Sam
- uel Fuller\, Marlen Huciev\, Jacques Demy\, Michael Powell\, Jancsó Mikl
- ós\, Dino Risi\, Jerzy Skolimowski\, Andrej Smirnov\, Ivan Passer\, Josep
- h H. Lewis\,\, Mario Monicelli\, Francis Ford Coppola\, Claude Sautet y ot
- ros\, von Bagh ha esculpido un poderoso\, emotivo\, a menudo melancólico 
- y siempre divertido ensayo sobre el cine como la esencia del siglo XX. Un 
- trabajo espléndido - mitad elegía\, mitad grito - que ve la programació
- n de películas como el arte de construir una comunidad y los festivales c
- omo una utopía para emprender el viaje.\n\n\nFuente: http://www.mecd.gob.
- es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
- rogramacion/2013/PrograDore111-doc.doc
+ 6’\nDesde 1969\, muchos de los más brillantes cineastas han acudido al 
+ Midnight Sun Film Festival en Sodankylä para hablar de su forma de ver y 
+ hacer cine. De cientos de horas de discusiones públicas grabadas con Samu
+ el Fuller\, Marlen Huciev\, Jacques Demy\, Michael Powell\, Jancsó Mikló
+ s\, Dino Risi\, Jerzy Skolimowski\, Andrej Smirnov\, Ivan Passer\, Joseph 
+ H. Lewis\,\, Mario Monicelli\, Francis Ford Coppola\, Claude Sautet y otro
+ s\, von Bagh ha esculpido un poderoso\, emotivo\, a menudo melancólico y 
+ siempre divertido ensayo sobre el cine como la esencia del siglo XX. Un tr
+ abajo espléndido - mitad elegía\, mitad grito - que ve la programación 
+ de películas como el arte de construir una comunidad y los festivales com
+ o una utopía para emprender el viaje.\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -632,9 +632,9 @@ DESCRIPTION:Sala 2 - Carta a Sasha (Javier Reverte y Andoni Jaén\, 2012).
  fuerza del Gurugú (Susana Hidalgo Arenas\, 2012). 5’. Luciérnaga (Carl
  ota Coronado\, 2011). 5’. Alfombra Roja (Iosu López y Manuel Fernández
  \, 2012). 12’. Meskin (Med Ziani\, 2012). 3’. España. Video. Total pr
- ograma: 65’\n  Presentación a cargo de Margarita Benedicto.\n\n\nFuente
- : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
- cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+ ograma: 65’\nPresentación a cargo de Margarita Benedicto.\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -680,10 +680,9 @@ DTSTART;VALUE=DATE-TIME:20130313T183000
 DTEND;VALUE=DATE-TIME:20130313T201000
 UID:1303133018_2_dore
 DESCRIPTION:Sala 2 - 東成西就 / East Meets West (Jeff Lau\, 2011). Int
- .: Eason Chan\, Karen Mok. Hong Kong / China. VOSI/E*. 100’ \nVer nota d
- ía 1.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
- ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc
- .doc
+ .: Eason Chan\, Karen Mok. Hong Kong / China. VOSI/E*. 100’\n\n\nFuente:
+  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
+ ine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -692,21 +691,21 @@ DTSTART;VALUE=DATE-TIME:20130313T200000
 DTEND;VALUE=DATE-TIME:20130313T214000
 UID:1303130020_1_dore
 DESCRIPTION:Sala 1 - Belovy (V. Kossakovsky\, 1993). Documental. Rusia. V
- ídeo. VOSI/E*. 60’    “Desde el punto de vista estético\, quería r
- odar una película alejada de cualquier género específico. Esto explica 
- que en Belovy el drama se desliza fácilmente hacia la comedia\, que luego
-  se transforma en tragedia\, hacia la tragicomedia\, en definitiva. La dra
- maturgia en este tipo de cine documental nace de esa transformación de lo
- s estados de ánimo y sentimientos del espectador\, que se ve abocado a mo
- dificar numerosas veces su relación con los personajes\, experimenta una 
- gran variedad de sentimientos diferentes. Sin embargo\, en el instante sig
- uiente\, de nuevo queda atrapado por la profundidad y la paradoja que tien
- e lugar ante sus ojos\, hasta llegar a querer a los protagonistas. Por eso
-  tiendo a creer que si no se quiere a los personajes\, no vale la pena rod
- ar una película.   Inauguración y coloquio posterior con el autor.   Ent
- rada libre hasta completar aforo.   Segunda proyección día 30.\n\n\nFuen
- te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
- a/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+ ídeo. VOSI/E*. 60’\n“Desde el punto de vista estético\, quería rod
+ ar una película alejada de cualquier género específico. Esto explica qu
+ e en Belovy el drama se desliza fácilmente hacia la comedia\, que luego s
+ e transforma en tragedia\, hacia la tragicomedia\, en definitiva. La drama
+ turgia en este tipo de cine documental nace de esa transformación de los 
+ estados de ánimo y sentimientos del espectador\, que se ve abocado a modi
+ ficar numerosas veces su relación con los personajes\, experimenta una gr
+ an variedad de sentimientos diferentes. Sin embargo\, en el instante sigui
+ ente\, de nuevo queda atrapado por la profundidad y la paradoja que tiene 
+ lugar ante sus ojos\, hasta llegar a querer a los protagonistas. Por eso t
+ iendo a creer que si no se quiere a los personajes\, no vale la pena rodar
+  una película. Inauguración y coloquio posterior con el autor. Entrada l
+ ibre hasta completar aforo. Segunda proyección día 30.\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -716,14 +715,14 @@ DTEND;VALUE=DATE-TIME:20130313T221000
 UID:1303133020_2_dore
 DESCRIPTION:Sala 2 - Kheili dour\, kheili nazdik (Tan lejos\, tan cerca\, 
  Reza Mir-Karimi\, 2005). Int.: Afsin Hashemi\, Elham Hamidi\, Masoud Rayeg
- an. Irán. Blu-ray. VOSE.130’   El Dr. Alam\, un neurólogo prestigioso\
- , vive una vida de lujo\, rodeado por dispositivos de comunicación person
- ales de alta tecnología. Esta existencia ufana se tambalea cuando se ente
- ra de que su hijo adolescente tiene un tumor cerebral. La película sigue 
- el viaje del doctor para ver a su hijo que se ha marchado durante las vaca
- ciones de Año Nuevo.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
- /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Pr
- ograDore111-doc.doc
+ an. Irán. Blu-ray. VOSE.130’ El Dr. Alam\, un neurólogo prestigioso\, 
+ vive una vida de lujo\, rodeado por dispositivos de comunicación personal
+ es de alta tecnología. Esta existencia ufana se tambalea cuando se entera
+  de que su hijo adolescente tiene un tumor cerebral. La película sigue el
+  viaje del doctor para ver a su hijo que se ha marchado durante las vacaci
+ ones de Año Nuevo.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
+ ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Prog
+ raDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -765,20 +764,20 @@ DTSTART;VALUE=DATE-TIME:20130314T210000
 DTEND;VALUE=DATE-TIME:20130314T221000
 UID:1303140021_2_dore
 DESCRIPTION:Sala 2 - Color perro que huye (A. Duque\, 2011). Documental. E
- spaña. Vídeo. 70’\n  “Pienso que el oficio del cineasta es como el d
- e un vampiro\, por lo tanto\, si veo/grabo una imagen y la retengo en mi m
- emoria\, entonces pasa a ser mía por derecho universal. Forma parte de mi
-  imaginario. Y la función que tiene el arte es precisamente esa\, dejarse
-  robar. Cuando ves una obra que te gusta\, la guardas en tu cabeza y así 
- la posees como un tesoro valioso. Ha perdido su autoría\, metafóricament
- e hablando. Y es en este “robo” donde radica su éxito. Cuando hoy me 
- veo enfrentado a un disco duro externo que guarda cantidad de imágenes di
- gitalizadas\, tanto mías como de otros\, me siento con el derecho de util
- izarlas\, porque estoy ligado a ellas emocionalmente”. (Andrés Duque)  
-  Coloquio con el director.   Entrada libre hasta completar aforo.   Segund
- a proyección día 31.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/P
- rograDore111-doc.doc
+ spaña. Vídeo. 70’\n“Pienso que el oficio del cineasta es como el de 
+ un vampiro\, por lo tanto\, si veo/grabo una imagen y la retengo en mi mem
+ oria\, entonces pasa a ser mía por derecho universal. Forma parte de mi i
+ maginario. Y la función que tiene el arte es precisamente esa\, dejarse r
+ obar. Cuando ves una obra que te gusta\, la guardas en tu cabeza y así la
+  posees como un tesoro valioso. Ha perdido su autoría\, metafóricamente 
+ hablando. Y es en este “robo” donde radica su éxito. Cuando hoy me ve
+ o enfrentado a un disco duro externo que guarda cantidad de imágenes digi
+ talizadas\, tanto mías como de otros\, me siento con el derecho de utiliz
+ arlas\, porque estoy ligado a ellas emocionalmente”. (Andrés Duque) Col
+ oquio con el director. Entrada libre hasta completar aforo. Segunda proyec
+ ción día 31.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDor
+ e111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -818,12 +817,12 @@ DTSTART;VALUE=DATE-TIME:20130315T193000
 DTEND;VALUE=DATE-TIME:20130315T205200
 UID:1303153019_1_dore
 DESCRIPTION:Sala 1 - Imani (Caroline Kamya\, 2010). Int.: Stephen Ocen\, R
- ehema Nanfuka\, Philip Buyi Roy. Uganda/Suecia. Vídeo. VOSE. 82’ \n  In
- auguración y presentación a cargo de Agnes Nasozi Kamya\, guionista y de
-  Marion Berger\, Directora de Programación de FCAT.   Segunda proyección
-  día y nota 27.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
- /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograD
- ore111-doc.doc
+ ehema Nanfuka\, Philip Buyi Roy. Uganda/Suecia. Vídeo. VOSE. 82’\nInaug
+ uración y presentación a cargo de Agnes Nasozi Kamya\, guionista y de Ma
+ rion Berger\, Directora de Programación de FCAT. Segunda proyección día
+  y nota 27.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
+ ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore11
+ 1-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -850,13 +849,13 @@ DTEND;VALUE=DATE-TIME:20130315T231800
 UID:1303155021_1_dore
 DESCRIPTION:Sala 1 - Maruhi: shikijô mesu ichiba / The Oldest Profession 
  (Noburo Tanaka\, 1974). Int.: Meika Seri\, Junko Miyashita Japón. VOSE*. 
- 88’\n  Tanaka se sumerge en la vida cotidiana de una prostituta de dieci
- nueve años en la Osaka de los 70. Rodado en blanco y negro y cámara en m
- ano\, de narración fragmentada y estilo impresionista y dotado de un sent
- ido del humor negro y militante\, es uno de los Roman Porno más singulare
- s\, perturbadores y visualmente impecables del género.\n\n\nFuente: http:
- //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
- /fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+ 88’\nTanaka se sumerge en la vida cotidiana de una prostituta de diecinu
+ eve años en la Osaka de los 70. Rodado en blanco y negro y cámara en man
+ o\, de narración fragmentada y estilo impresionista y dotado de un sentid
+ o del humor negro y militante\, es uno de los Roman Porno más singulares\
+ , perturbadores y visualmente impecables del género.\n\n\nFuente: http://
+ www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
+ e/cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -866,14 +865,14 @@ DTEND;VALUE=DATE-TIME:20130316T185300
 UID:1303163017_1_dore
 DESCRIPTION:Sala 1 - Modern Times (Tiempos modernos\, Charles Chaplin\, 19
  36). Int.: Charles Chaplin\, Paulette Godard\, Henry Bergman. EE UU. MRISE
- . 83’ \n“Sin que suceda nada parecido a una ‘toma de conciencia’\,
-  distraídamente\, el más débil es capaz de mostrarse hábil\, astuto\, 
- político incluso\, haciendo del juego infantil una guerrilla de cada inst
- ante\, de cada gesto. Como si en el proceso de mecanización social y téc
- nica estuviese siempre latente la posibilidad de su destrucción”. (King
-  Ludd) Segunda proyección día 21. Entrada libre para menores de 14 años
- .\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
- reas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+ . 83’\n“Sin que suceda nada parecido a una ‘toma de conciencia’\, 
+ distraídamente\, el más débil es capaz de mostrarse hábil\, astuto\, p
+ olítico incluso\, haciendo del juego infantil una guerrilla de cada insta
+ nte\, de cada gesto. Como si en el proceso de mecanización social y técn
+ ica estuviese siempre latente la posibilidad de su destrucción”. (King 
+ Ludd) Segunda proyección día 21. Entrada libre para menores de 14 años.
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -894,17 +893,17 @@ DTEND;VALUE=DATE-TIME:20130316T214000
 UID:1303160020_2_dore
 DESCRIPTION:Sala 2 - Le Chant des mariées (Karin Albou\, 2008). Int.: Liz
  zie Brocheré\, Olympe Borval\, Simon Abkarian. Francia/Túnez. Vídeo. VO
- SE. 100’\n  Premio mejor dirección FCAT 2009. Túnez\, 1942. Nour y Myr
- iam son amigas desde siempre. Viven en el mismo edificio situado en un bar
- rio modesto\, donde judíos y musulmanes conviven en perfecta armonía. Ca
- da una envidia la vida de la otra. Nour siente no poder ir al colegio como
-  su amiga\, pero Myriam sueña con el amor. En noviembre de 1942\, el ejé
- rcito alemán entra en Túnez. Consecuentes con la política de Vichy\, lo
- s nazis obligan a los judíos a pagar impuestos exorbitantes. Prohíben tr
- abajar a Tita\, la madre de Myriam. Acribillada por las deudas\, decide ca
- sar a su hija con un médico rico. Los sueños de Myriam se desvanecen.\n\
- n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
- -cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+ SE. 100’\nPremio mejor dirección FCAT 2009. Túnez\, 1942. Nour y Myria
+ m son amigas desde siempre. Viven en el mismo edificio situado en un barri
+ o modesto\, donde judíos y musulmanes conviven en perfecta armonía. Cada
+  una envidia la vida de la otra. Nour siente no poder ir al colegio como s
+ u amiga\, pero Myriam sueña con el amor. En noviembre de 1942\, el ejérc
+ ito alemán entra en Túnez. Consecuentes con la política de Vichy\, los 
+ nazis obligan a los judíos a pagar impuestos exorbitantes. Prohíben trab
+ ajar a Tita\, la madre de Myriam. Acribillada por las deudas\, decide casa
+ r a su hija con un médico rico. Los sueños de Myriam se desvanecen.\n\n\
+ nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
+ ultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -914,16 +913,16 @@ DTEND;VALUE=DATE-TIME:20130316T232500
 UID:1303164521_1_dore
 DESCRIPTION:Sala 1 - Octopussy (Octopussy\, John Glen\, 1983). Int.: Roger
   Moore\, Maud Adams\, Louis Jourdan. Reino Unido/EE UU. Digital. VOSE. 130
- ’.  El General soviético Orlov se asocia con Kamal Khan\, un contraband
- ista de joyas. Orlov acepta robar joyas valiosas del Kremlin y vendérsela
- s a Khan. Todo el escenario es parte de un elaborado plan en el que Orlov 
- detonará una bomba nuclear en una base militar americana situada en Alema
- nia del Este. Éste predice que los Estados Unidos serán culpados y oblig
- ados a retirar sus fuerzas… Octopussy es una de las mejores películas d
- e la era Roger Moore con un guión muy complejo lleno de personajes exóti
- cos.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
- d/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.d
- oc
+ ’. El General soviético Orlov se asocia con Kamal Khan\, un contrabandi
+ sta de joyas. Orlov acepta robar joyas valiosas del Kremlin y vendérselas
+  a Khan. Todo el escenario es parte de un elaborado plan en el que Orlov d
+ etonará una bomba nuclear en una base militar americana situada en Aleman
+ ia del Este. Éste predice que los Estados Unidos serán culpados y obliga
+ dos a retirar sus fuerzas… Octopussy es una de las mejores películas de
+  la era Roger Moore con un guión muy complejo lleno de personajes exótic
+ os.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.do
+ c
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -949,19 +948,19 @@ DTEND;VALUE=DATE-TIME:20130317T210500
 UID:1303173019_1_dore
 DESCRIPTION:Sala 1 - Barakat! (Djamila Sahraoui\, 2005). Int.: Rachida Bra
  kni\, Fettouma Bouamari\, Zahir Bouzrar. Vídeo. VOSE. Argelia/Francia. 95
- ’\n  Premio mejor dirección FCAT 2007. En Argelia\, en los años 90\, A
- mel es médico en un hospital. Se esfuerza todo lo que puede en ejercer su
-  profesión y en vivir su vida de mujer joven\, a pesar de la guerra civil
-  que causa estragos entre los islamistas y el ejército. Una noche\, cuand
- o vuelve a casa tras una larga guardia\, Amel se da cuenta de que su marid
- o\, periodista\, ha desaparecido. Frente a la indiferencia y la inercia de
-  las autoridades\, decide ir en su búsqueda. Le acompaña Khadija\, enfer
- mera que\, durante su juventud\, combatió por la independencia. En su ave
- ntura incierta y peligrosa\, las dos mujeres se descubrirán la una a la o
- tra\, al mismo tiempo que se enfrentarán a los hombres de su país…   S
- egunda proyección día 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 013/PrograDore111-doc.doc
+ ’\nPremio mejor dirección FCAT 2007. En Argelia\, en los años 90\, Ame
+ l es médico en un hospital. Se esfuerza todo lo que puede en ejercer su p
+ rofesión y en vivir su vida de mujer joven\, a pesar de la guerra civil q
+ ue causa estragos entre los islamistas y el ejército. Una noche\, cuando 
+ vuelve a casa tras una larga guardia\, Amel se da cuenta de que su marido\
+ , periodista\, ha desaparecido. Frente a la indiferencia y la inercia de l
+ as autoridades\, decide ir en su búsqueda. Le acompaña Khadija\, enferme
+ ra que\, durante su juventud\, combatió por la independencia. En su avent
+ ura incierta y peligrosa\, las dos mujeres se descubrirán la una a la otr
+ a\, al mismo tiempo que se enfrentarán a los hombres de su país… Segun
+ da proyección día 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
+ ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/
+ PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -970,15 +969,15 @@ DTSTART;VALUE=DATE-TIME:20130317T200000
 DTEND;VALUE=DATE-TIME:20130317T211500
 UID:1303170020_2_dore
 DESCRIPTION:Sala 2 - Ensayo final para Utopía (A. Duque\, 2012). Document
- al. España. Digital. VOSE. 75’ \n“En cada película me enfrento a un 
- viaje incierto\, donde ocurren cosas que no tenía planteadas\, y que camb
- ia en función de cómo me afecten los problemas que la vida me va poniend
- o. Por eso siempre mantengo abiertas todas las posibilidades. Y estoy cont
- ento\, porque he llegado a donde quería: a una escritura cinematográfica
-  que llevo a cabo a diario\, y que va mutando\, que se ve afectada por lo 
- que me sucede.” (Andrés Duque) Segunda proyección día 27.\n\n\nFuente
- : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
- cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+ al. España. Digital. VOSE. 75’\n“En cada película me enfrento a un v
+ iaje incierto\, donde ocurren cosas que no tenía planteadas\, y que cambi
+ a en función de cómo me afecten los problemas que la vida me va poniendo
+ . Por eso siempre mantengo abiertas todas las posibilidades. Y estoy conte
+ nto\, porque he llegado a donde quería: a una escritura cinematográfica 
+ que llevo a cabo a diario\, y que va mutando\, que se ve afectada por lo q
+ ue me sucede.” (Andrés Duque) Segunda proyección día 27.\n\n\nFuente:
+  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
+ ine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -988,14 +987,14 @@ DTEND;VALUE=DATE-TIME:20130317T234300
 UID:1303173021_1_dore
 DESCRIPTION:Sala 1 - Licence to Kill (007\, Licencia para matar\, John Gle
  n\, 1989). Int.: Timothy Dalton\, Carey Lowell\, Robert Davi. Reino Unido.
-  VOSE. 133’ \n“Se trata de una de las películas de la saga que reflej
- a de forma más fiel y más eficaz el espíritu de las novelas originales\
- , precisamente porque intenta dejar atrás los manierismos desarrollados e
- n sus adaptaciones cinematográficas y convertir a Bond en algo más que u
- n superhéroe con esmoquin.” (Tonio L. Alarcón) Segunda proyección dí
- a 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
- cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.
- doc
+  VOSE. 133’\n“Se trata de una de las películas de la saga que refleja
+  de forma más fiel y más eficaz el espíritu de las novelas originales\,
+  precisamente porque intenta dejar atrás los manierismos desarrollados en
+  sus adaptaciones cinematográficas y convertir a Bond en algo más que un
+  superhéroe con esmoquin.” (Tonio L. Alarcón) Segunda proyección día
+  26.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
+ d/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.d
+ oc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1088,16 +1087,16 @@ DTEND;VALUE=DATE-TIME:20130320T213500
 UID:1303203019_1_dore
 DESCRIPTION:Sala 1 - The Man with the Golden Gun (El hombre de la pistola 
  de oro\, Guy Hamilton\, 1974). Int.: Roger Moore\, Britt Ekland\, Chistoph
- er Lee. Reino Unido. Digital. VOSE. 125’ \nUn extraño paquete ha llegad
- o a la oficina londinense de M\, jefe del servicio secreto de Su Majestad.
-  En su interior hay una bala de oro con la inscripción 007 y una nota ame
- nazando al agente secreto James Bond. Aparentemente\, el mensaje proviene 
- de Francisco Scaramanga\, asesino profesional que cobra un millón de dól
- ares por cada misión cumplida y que siempre utiliza una pistola de oro. B
- ond decide adelantarse al asesino y viaja a Beirut\, escenario de su últi
- mo asesinato.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
- ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore
- 111-doc.doc
+ er Lee. Reino Unido. Digital. VOSE. 125’\nUn extraño paquete ha llegado
+  a la oficina londinense de M\, jefe del servicio secreto de Su Majestad. 
+ En su interior hay una bala de oro con la inscripción 007 y una nota amen
+ azando al agente secreto James Bond. Aparentemente\, el mensaje proviene d
+ e Francisco Scaramanga\, asesino profesional que cobra un millón de dóla
+ res por cada misión cumplida y que siempre utiliza una pistola de oro. Bo
+ nd decide adelantarse al asesino y viaja a Beirut\, escenario de su últim
+ o asesinato.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore1
+ 11-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1171,20 +1170,20 @@ DTSTART;VALUE=DATE-TIME:20130321T200000
 DTEND;VALUE=DATE-TIME:20130321T212000
 UID:1303210020_2_dore
 DESCRIPTION:Sala 2 - Tishé! (V. Kossakovsky\, 2002). Documental. Rusia. V
- ídeo. Sin diálogos. 80’\n  “Tische! nació por azar. Me encontraba e
- n fase de preparación de otro proyecto en Alemania y estuve un año enter
- o esperando los fondos necesarios para hacerlo. Cada dos meses volvía a m
- i casa en San Petersburgo para descansar tres o cuatro días. Comencé a f
- ilmar a través de la ventana de mi habitación sin la intención de hacer
-  una película. Rodaba porque sí. Porque me producía placer. Repetí est
- as vueltas a casa unas seis veces en todo el año. Y cada vez que lo hací
- a tenía la oportunidad de filmar algo bello o extraño. Un año más tard
- e\, seguía sin recibir el dinero necesario para realizar la película en 
- Alemania\, pero tenía ya diez horas de material rodado a través de mi ve
- ntana. Y al final he acabado haciendo una película desde mi propia ventan
- a.” (Victor Kossakovsky)\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 13/PrograDore111-doc.doc
+ ídeo. Sin diálogos. 80’\n“Tische! nació por azar. Me encontraba en 
+ fase de preparación de otro proyecto en Alemania y estuve un año entero 
+ esperando los fondos necesarios para hacerlo. Cada dos meses volvía a mi 
+ casa en San Petersburgo para descansar tres o cuatro días. Comencé a fil
+ mar a través de la ventana de mi habitación sin la intención de hacer u
+ na película. Rodaba porque sí. Porque me producía placer. Repetí estas
+  vueltas a casa unas seis veces en todo el año. Y cada vez que lo hacía 
+ tenía la oportunidad de filmar algo bello o extraño. Un año más tarde\
+ , seguía sin recibir el dinero necesario para realizar la película en Al
+ emania\, pero tenía ya diez horas de material rodado a través de mi vent
+ ana. Y al final he acabado haciendo una película desde mi propia ventana.
+ ” (Victor Kossakovsky)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013
+ /PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1206,9 +1205,9 @@ DTEND;VALUE=DATE-TIME:20130322T214400
 UID:1303222019_1_dore
 DESCRIPTION:Sala 1 - Casino Royale (007: Casino Royale\, Martin Campbell\,
   2006). Int.: Daniel Craig\, Eva Green\, Judi Dench. Reino Unido/EE UU. VO
- SE. 144’\nSegunda proyección y nota día 31.\n\n\nFuente: http://www.me
- cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
- -dore/programacion/2013/PrograDore111-doc.doc
+ SE. 144’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111
+ -doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1218,23 +1217,23 @@ DTEND;VALUE=DATE-TIME:20130322T213800
 UID:1303220020_2_dore
 DESCRIPTION:Sala 2 - Svyato (V. Kossakovsky\, 2005). Documental. Rusia. V
  ídeo. VOSE*. 40’. Losev (V. Kossakovsky\, 1989). Documental. Rusia. V
- ídeo. VOSI/E*. 58’. Total programa 98’\n  Svyato: “Un bebé puede s
- er rodeado por el amor\; los padres pueden jugar con él y enseñarle cosa
- s\, pero nadie le puede ayudar con las preguntas más importantes. ¿Quié
- n soy yo? Con una pregunta así\, se encuentra con su propio ser. Puede le
- er muchos libros sobre el amor o Dios\, pero al final\, es el único que p
- uede contestar a la pregunta en cuanto a si existen o no.” Losev: “Ale
- xis Losev era uno de los representantes más importantes de la cultura del
-  siglo XX\, pero en la URSS\, a partir de 1930\, cuando fue enviado al Gul
- ag\, se habían dejado de publicar sus trabajos filosóficos. Cuando sali
- ó de los campos\, donde había perdido la visión\, sólo obtuvo permiso 
- para publicar libros sobre la antigüedad. Nadie había registrado ni una 
- sola imagen de él para el cine o la televisión\, y tampoco existían fot
- os. Mi intención era simplemente atrapar algunas imágenes que conservara
- n para la Historia aquellos rasgos que sus compatriotas no habían visto j
- amás.” (V. Kossakovsky)\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 13/PrograDore111-doc.doc
+ ídeo. VOSI/E*. 58’. Total programa 98’\nSvyato: “Un bebé puede ser
+  rodeado por el amor\; los padres pueden jugar con él y enseñarle cosas\
+ , pero nadie le puede ayudar con las preguntas más importantes. ¿Quién 
+ soy yo? Con una pregunta así\, se encuentra con su propio ser. Puede leer
+  muchos libros sobre el amor o Dios\, pero al final\, es el único que pue
+ de contestar a la pregunta en cuanto a si existen o no.” Losev: “Alexi
+ s Losev era uno de los representantes más importantes de la cultura del s
+ iglo XX\, pero en la URSS\, a partir de 1930\, cuando fue enviado al Gulag
+ \, se habían dejado de publicar sus trabajos filosóficos. Cuando salió 
+ de los campos\, donde había perdido la visión\, sólo obtuvo permiso par
+ a publicar libros sobre la antigüedad. Nadie había registrado ni una sol
+ a imagen de él para el cine o la televisión\, y tampoco existían fotos.
+  Mi intención era simplemente atrapar algunas imágenes que conservaran p
+ ara la Historia aquellos rasgos que sus compatriotas no habían visto jam
+ ás.” (V. Kossakovsky)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013
+ /PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1257,7 +1256,7 @@ DTEND;VALUE=DATE-TIME:20130322T232200
 UID:1303220022_1_dore
 DESCRIPTION:Sala 1 - Shinjuku midaregai: ikumade matte / Shinjuku Mixed-Up
  : Wait Till I Come (Chûsei Sone\, 1977). Int.: Miyako Yamaguchi\, Moeko E
- zawa. Japón. Vídeo. VOSE*. 82’ \nChusei Sone firma este roman porno at
+ zawa. Japón. Vídeo. VOSE*. 82’\nChusei Sone firma este roman porno at
  ípico\, casi reflexivo a veces\, sobre la relación de un aspirante a gui
  onista y una aspirante a actriz en el barrio de Shinjuku (suerte de Greenw
  ich Village a la japonesa) por el que pululan todo tipo de buscavidas y cr
@@ -1386,13 +1385,13 @@ DTEND;VALUE=DATE-TIME:20130326T194300
 UID:1303263017_1_dore
 DESCRIPTION:Sala 1 - Licence to Kill (007\, Licencia para matar\, John Gle
  n\, 1989). Int.: Timothy Dalton\, Carey Lowell\, Robert Davi. Reino Unido.
-  VOSE. 133’ \n“Se trata de una de las películas de la saga que reflej
- a de forma más fiel y más eficaz el espíritu de las novelas originales\
- , precisamente porque intenta dejar atrás los manierismos desarrollados e
- n sus adaptaciones cinematográficas y convertir a Bond en algo más que u
- n superhéroe con esmoquin.” (Tonio L. Alarcón)\n\n\nFuente: http://www
- .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
- ine-dore/programacion/2013/PrograDore111-doc.doc
+  VOSE. 133’\n“Se trata de una de las películas de la saga que refleja
+  de forma más fiel y más eficaz el espíritu de las novelas originales\,
+  precisamente porque intenta dejar atrás los manierismos desarrollados en
+  sus adaptaciones cinematográficas y convertir a Bond en algo más que un
+  superhéroe con esmoquin.” (Tonio L. Alarcón)\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1491,17 +1490,17 @@ DTSTART;VALUE=DATE-TIME:20130327T220000
 DTEND;VALUE=DATE-TIME:20130327T232200
 UID:1303270022_1_dore
 DESCRIPTION:Sala 1 - Imani (Caroline Kamya\, 2010). Int.: Stephen Ocen\, R
- ehema Nanfuka\, Philip Buyi Roy. Uganda/Suecia. Vídeo. VOSE. 82’ \n  Pr
- emio mejor dirección. FCAT 2010. La película transcurre durante un día 
- cualquiera en Kampala\, la capital de Uganda\, en la provincia de Gulu. Pa
- ra tres personas no será un día cualquiera. Mary\, que trabaja en la cas
- a de una mujer de la alta sociedad\, deberá encontrar el dinero necesario
-  para comprar a la policía y liberar a su hermana. Olweny es un ex niño 
- soldado de 12 años que deja el centro de rehabilitación para volver al p
- ueblo de sus padres\, destruido por la guerra. Armstrong\, un bailarín de
-  breakdance\, debe montar un espectáculo para esa misma noche.\n\n\nFuent
- e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
- /cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+ ehema Nanfuka\, Philip Buyi Roy. Uganda/Suecia. Vídeo. VOSE. 82’\nPremi
+ o mejor dirección. FCAT 2010. La película transcurre durante un día cua
+ lquiera en Kampala\, la capital de Uganda\, en la provincia de Gulu. Para 
+ tres personas no será un día cualquiera. Mary\, que trabaja en la casa d
+ e una mujer de la alta sociedad\, deberá encontrar el dinero necesario pa
+ ra comprar a la policía y liberar a su hermana. Olweny es un ex niño sol
+ dado de 12 años que deja el centro de rehabilitación para volver al pueb
+ lo de sus padres\, destruido por la guerra. Armstrong\, un bailarín de br
+ eakdance\, debe montar un espectáculo para esa misma noche.\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1627,9 +1626,9 @@ DESCRIPTION:Sala 1 - Casino Royale (007: Casino Royale\, Martin Campbell\,
   ejercicio unidireccional de la violencia. En otras palabras\, la criatura
   de Ian Fleming\, apelando a sus fuentes literarias\, se reajustaba a las 
  exigencias de una época que no sólo necesita resetear sus mitologías\, 
- sino también sobre-explicarlas.” (Jordi Costa)            PAGE 1\n\n\nF
- uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
- tura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+ sino también sobre-explicarlas.” (Jordi Costa) PAGE 1\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

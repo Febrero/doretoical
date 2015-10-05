@@ -513,10 +513,10 @@ DTSTART;VALUE=DATE-TIME:20050917T173000
 DTEND;VALUE=DATE-TIME:20050917T192100
 UID:0509173017_1_dore
 DESCRIPTION:Sala 1 - El penalti más largo del mundo (Roberto Santiago\, 2
- 004). Int.: Fernando Tejero\, Marta Larralde\, María Botto. España. 111'
- \nAforo limitado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
- /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograD
- ore21.pdf
+ 004). Int.: Fernando Tejero\, Marta\nLarralde\, María Botto. España. 111
+ '\nAforo limitado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
+ d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Progra
+ Dore21.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -707,10 +707,10 @@ DTSTART;VALUE=DATE-TIME:20050922T173000
 DTEND;VALUE=DATE-TIME:20050922T191700
 UID:0509223017_1_dore
 DESCRIPTION:Sala 1 - Perder es cuestión de método (Sergio Cabrera\, 2004
- ). Int.: Daniel Giménez Cacho\, Martina García\, César Mora. España / 
- Colombia. 107'\nAforo limitado\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2005/PrograDore21.pdf
+ ). Int.: Daniel Giménez Cacho\, Martina\nGarcía\, César Mora. España /
+  Colombia. 107'\nAforo limitado\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2005/PrograDore21.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -731,10 +731,10 @@ DTSTART;VALUE=DATE-TIME:20050922T200000
 DTEND;VALUE=DATE-TIME:20050922T211800
 UID:0509220020_2_dore
 DESCRIPTION:Sala 2 - Les Triplettes de Belleville\nAnimación. Francia. VO
- SE. 78'\nSegunda proyección día 25.  (Bienvenidos  a  Belleville\,  Sylv
- ain  Chomet\,  2003).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
- /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Pr
- ograDore21.pdf
+ SE. 78'\nSegunda proyección día 25. (Bienvenidos a Belleville\, Sylvain 
+ Chomet\, 2003).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDo
+ re21.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -846,9 +846,9 @@ DTSTART;VALUE=DATE-TIME:20050925T173000
 DTEND;VALUE=DATE-TIME:20050925T185700
 UID:0509253017_1_dore
 DESCRIPTION:Sala 1 - Tapas (Juan Cruz y José Corbacho\, 2005). Int.: Áng
- el de Andrés\, María Galiana\, Elvira Mínguez. España. 87'\nAforo limi
- tado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
- d/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore21.pdf
+ el de Andrés\, María Galiana\, Elvira\nMínguez. España. 87'\nAforo lim
+ itado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore21.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -900,9 +900,9 @@ DTSTART;VALUE=DATE-TIME:20050925T223000
 DTEND;VALUE=DATE-TIME:20050925T234800
 UID:0509253022_1_dore
 DESCRIPTION:Sala 1 - Les Triplettes de Belleville\nAnimación. Francia. VO
- SE. 78'\n (Bienvenidos  a  Belleville\,  Sylvain  Chomet\,  2003).\n\n\nFu
- ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
- ura/cine/mc/fe/cine-dore/programacion/2005/PrograDore21.pdf
+ SE. 78'\n(Bienvenidos a Belleville\, Sylvain Chomet\, 2003).\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2005/PrograDore21.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1011,9 +1011,9 @@ DTSTART;VALUE=DATE-TIME:20050929T173000
 DTEND;VALUE=DATE-TIME:20050929T185900
 UID:0509293017_1_dore
 DESCRIPTION:Sala 1 - Más allá de la alambrada: La memoria del horror (Pa
- u Vergara\, 2005). Documental. España. 89'\nAforo limitado\n\n\nFuente: h
- ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
- e/mc/fe/cine-dore/programacion/2005/PrograDore21.pdf
+ u Vergara\, 2005). Documental.\nEspaña. 89'\nAforo limitado\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2005/PrograDore21.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1101,9 +1101,9 @@ DTEND;VALUE=DATE-TIME:20051001T001200
 UID:0509300022_1_dore
 DESCRIPTION:Sala 1 - Pollock (Pollock\, la vida de un creador\, Ed Harris\
  , 2000). Int.: Ed Harris\, Marcia Gay Harden\, Amy Madigan. EE UU. VOSE. 1
- 32'\n </pre> </body> </html>\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2005/PrograDore21.pdf
+ 32'\n</pre> </body> </html>\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 005/PrograDore21.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

@@ -282,10 +282,10 @@ DTSTART;VALUE=DATE-TIME:20060607T173000
 DTEND;VALUE=DATE-TIME:20060607T185700
 UID:0606073017_1_dore
 DESCRIPTION:Sala 1 - How to Murder Your Wife (Como matar a la propia espos
- a\, Richard Quine\, 1965). Int.: Jack Lemmon\, Virna Lisi\, Terry-Thomas. 
- EE UU. VOSE*. 118'.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
- ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Prog
- raDore30.pdf
+ a\, Richard Quine\, 1965). Int.: Jack\nLemmon\, Virna Lisi\, Terry-Thomas.
+  EE UU. VOSE*. 118'.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Pro
+ graDore30.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -457,13 +457,13 @@ DTSTART;VALUE=DATE-TIME:20060610T173000
 DTEND;VALUE=DATE-TIME:20060610T191700
 UID:0606103017_1_dore
 DESCRIPTION:Sala 1 - Cover Girl (Las modelos\, Charles Vidor\, 1944). Int.
- : Rita Hayworth\, Gene Kelly\, Lee Bowman. EE UU. VOSE*. 107'\n“Este mus
- ical abigarrado puede parecer hoy\, según el gusto y el humor del momento
- \, terrible o esplendoroso\, (…) con esos maquillajes exagerados de los 
- que aún sale triunfante la belleza de Rita Hayworth” (B. Tavernier y J.
- -P. Coursodon).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
- cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDo
- re30.pdf
+ : Rita Hayworth\, Gene Kelly\, Lee\nBowman. EE UU. VOSE*. 107'\n“Este mu
+ sical abigarrado puede parecer hoy\, según el gusto y el humor del moment
+ o\, terrible o esplendoroso\, (…) con esos maquillajes exagerados de los
+  que aún sale triunfante la belleza de Rita Hayworth” (B. Tavernier y J
+ .-P. Coursodon).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograD
+ ore30.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -510,10 +510,10 @@ DTSTART;VALUE=DATE-TIME:20060611T173000
 DTEND;VALUE=DATE-TIME:20060611T190500
 UID:0606113017_1_dore
 DESCRIPTION:Sala 1 - Paris When It Sizzles (Encuentro en París\, Richard 
- Quine\, 1964). Int.: William Holden\, Audrey Hepburn\, Raymond Bussières.
-  EE UU. VOSF/F/E*. 95'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
- rograDore30.pdf
+ Quine\, 1964). Int.: William Holden\,\nAudrey Hepburn\, Raymond Bussières
+ . EE UU. VOSF/F/E*. 95'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
+ ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/
+ PrograDore30.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -681,13 +681,13 @@ DTSTART;VALUE=DATE-TIME:20060615T173000
 DTEND;VALUE=DATE-TIME:20060615T191000
 UID:0606153017_1_dore
 DESCRIPTION:Sala 1 - The Moonshine War (El infierno del whisky\, Richard Q
- uine\, 1970). Int.: Patrick McGoohan\, Richard Widmark\, Alan Alda. EE UU.
-  VOSE*. 100'\n“Una agradable adaptación de Elmore Leonard de su propia 
- novela sobre contrabandistas de whisky en las montañas de la América pro
- funda en vísperas del levantamiento de la Prohibición” (Tom Milne). Se
- gunda proyección día 25.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 06/PrograDore30.pdf
+ uine\, 1970). Int.: Patrick McGoohan\,\nRichard Widmark\, Alan Alda. EE UU
+ . VOSE*. 100'\n“Una agradable adaptación de Elmore Leonard de su propia
+  novela sobre contrabandistas de whisky en las montañas de la América pr
+ ofunda en vísperas del levantamiento de la Prohibición” (Tom Milne). S
+ egunda proyección día 25.\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 006/PrograDore30.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -810,13 +810,13 @@ DTSTART;VALUE=DATE-TIME:20060617T173000
 DTEND;VALUE=DATE-TIME:20060617T184400
 UID:0606173017_1_dore
 DESCRIPTION:Sala 1 - Comanche Station (Budd Boetticher\, 1960). Int.: Rand
- olph Scott\, Nancy Gates\, Claude Akins. EE UU. VOSE*. 74'\n“El último 
- western de la serie Boetticher/Scott. Scott interpreta a un hombre obsesio
- nado que lleva diez año tratando de rescatar a su mujer de los comanches\
- , pero que rescata en su lugar a otra mujer” (Time Out). Segunda proyecc
- ión día 21.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
- ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore
- 30.pdf
+ olph Scott\, Nancy Gates\, Claude Akins.\nEE UU. VOSE*. 74'\n“El último
+  western de la serie Boetticher/Scott. Scott interpreta a un hombre obsesi
+ onado que lleva diez año tratando de rescatar a su mujer de los comanches
+ \, pero que rescata en su lugar a otra mujer” (Time Out). Segunda proyec
+ ción día 21.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDor
+ e30.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -974,12 +974,12 @@ DTSTART;VALUE=DATE-TIME:20060621T173000
 DTEND;VALUE=DATE-TIME:20060621T185600
 UID:0606213017_1_dore
 DESCRIPTION:Sala 1 - Bojô (El amor de una madre\, Hiroshi Shimizu\, 1950)
- . Int.: Nijiko Kiyokawa\, Yataro Kurokawa\, Choko Iida. Japón. VOSI/E*. 8
- 6’\nUna madre con dificultades económicas se ve obligada a dejar a sus 
- hijos al cargo de parientes lejanos\, pero ninguno acepta cuidar de uno de
-  ellos\, que moja la cama cada noche. Segunda proyección día 24.\n\n\nFu
- ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
- ura/cine/mc/fe/cine-dore/programacion/2006/PrograDore30.pdf
+ . Int.: Nijiko Kiyokawa\, Yataro Kurokawa\,\nChoko Iida. Japón. VOSI/E*. 
+ 86’\nUna madre con dificultades económicas se ve obligada a dejar a sus
+  hijos al cargo de parientes lejanos\, pero ninguno acepta cuidar de uno d
+ e ellos\, que moja la cama cada noche. Segunda proyección día 24.\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2006/PrograDore30.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1041,14 +1041,14 @@ DTSTART;VALUE=DATE-TIME:20060622T173000
 DTEND;VALUE=DATE-TIME:20060622T190000
 UID:0606223017_1_dore
 DESCRIPTION:Sala 1 - The Big Heat (Los sobornados\, Fritz Lang\, 1953). In
- t.: Glenn Ford\, Gloria Grahame\, Lee Marvin. EE UU. VOSE. 90'\n“En Frit
- z Lang\, el policía no es más que un hombre corriente que actúa por ven
- ganza. Policía y gángsteres son intercambiables y emplean idénticos mé
- todos. En este universo\, la inocencia (y la mujer\, en particular) está 
- abocada a la muerte o la corrupción. El cine negro llega al pesimismo abs
- oluto” (Joël Magny).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
- ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/
- PrograDore30.pdf
+ t.: Glenn Ford\, Gloria Grahame\, Lee\nMarvin. EE UU. VOSE. 90'\n“En Fri
+ tz Lang\, el policía no es más que un hombre corriente que actúa por ve
+ nganza. Policía y gángsteres son intercambiables y emplean idénticos m
+ étodos. En este universo\, la inocencia (y la mujer\, en particular) est
+ á abocada a la muerte o la corrupción. El cine negro llega al pesimismo 
+ absoluto” (Joël Magny).\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 06/PrograDore30.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1295,10 +1295,10 @@ DTSTART;VALUE=DATE-TIME:20060627T173000
 DTEND;VALUE=DATE-TIME:20060627T193300
 UID:0606273017_1_dore
 DESCRIPTION:Sala 1 - Experiment in Terror (Chantaje contra una mujer\, Bla
- ke Edwards\, 1962). Int.: Glenn Ford\, Lee Remick\, Stefanie Powers. EE UU
- . VOSE*. 123'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
- ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore
- 30.pdf
+ ke Edwards\, 1962). Int.: Glenn Ford\,\nLee Remick\, Stefanie Powers. EE U
+ U. VOSE*. 123'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDor
+ e30.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1402,12 +1402,12 @@ DTSTART;VALUE=DATE-TIME:20060629T173000
 DTEND;VALUE=DATE-TIME:20060629T182900
 UID:0606293017_1_dore
 DESCRIPTION:Sala 1 - Un animal\, des animaux (Un animal\, varios animales\
- , Nicolas Philibert\, 1994). Documental. Francia. VOSE. 59'\nEl cineasta l
- ogra introducir su cámara en la galería zoológica del Museo Nacional de
-  Historia Natural de París durante su proceso de reforma y acondicionamie
- nto\, que duró cuatro años\, de 1991 a 1994...\n\n\nFuente: http://www.m
- ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
- e-dore/programacion/2006/PrograDore30.pdf
+ , Nicolas Philibert\, 1994). Documental.\nFrancia. VOSE. 59'\nEl cineasta 
+ logra introducir su cámara en la galería zoológica del Museo Nacional d
+ e Historia Natural de París durante su proceso de reforma y acondicionami
+ ento\, que duró cuatro años\, de 1991 a 1994...\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2006/PrograDore30.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT

@@ -283,13 +283,13 @@ DTSTART;VALUE=DATE-TIME:20060509T173000
 DTEND;VALUE=DATE-TIME:20060509T192900
 UID:0605093017_1_dore
 DESCRIPTION:Sala 1 - Saint-Cyr (Patricia Mazuy\, 1999). Int.: Isabelle Hup
- pert\, Morgane Moré\, Nina Meurisse. Francia / GB. VOSE. 119'\nFinales de
- l siglo XVII. Madame de Maintenon fundó el colegio de Saint-Cyr para conv
- ertir a las hijas de la nobleza arruinada en mujeres libres. Pero ahora te
- me el castigo eterno y elige el camino de la pureza frente a la libertad S
- egunda proyección día 14.\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 006/PrograDore29.pdf
+ pert\, Morgane Moré\, Nina Meurisse.\nFrancia / GB. VOSE. 119'\nFinales d
+ el siglo XVII. Madame de Maintenon fundó el colegio de Saint-Cyr para con
+ vertir a las hijas de la nobleza arruinada en mujeres libres. Pero ahora t
+ eme el castigo eterno y elige el camino de la pureza frente a la libertad 
+ Segunda proyección día 14.\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2006/PrograDore29.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -456,10 +456,10 @@ DTSTART;VALUE=DATE-TIME:20060512T173000
 DTEND;VALUE=DATE-TIME:20060512T190800
 UID:0605123017_1_dore
 DESCRIPTION:Sala 1 - Le affinità elettive (Las afinidades electivas\, Pao
- lo y Vittorio Taviani\, 1995). Int.: Isabelle Huppert\, Fabrizio Bentivogl
- io\, Jean-Hughes Anglade. Italia / Francia. VOSE. 98’\n\n\nFuente: http:
- //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
- /fe/cine-dore/programacion/2006/PrograDore29.pdf
+ lo y Vittorio Taviani\, 1995). Int.: Isabelle\nHuppert\, Fabrizio Bentivog
+ lio\, Jean-Hughes Anglade. Italia / Francia. VOSE. 98’\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2006/PrograDore29.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -503,15 +503,15 @@ DESCRIPTION:Sala 1 - La Vie moderne (Laurence Ferreira Barbosa\, 1999). In
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PROGRAMA ROBERT FRANK Conversation en Vermont
+SUMMARY:PROGRAMA ROBERT FRANK
 DTSTART;VALUE=DATE-TIME:20060513T173000
 DTEND;VALUE=DATE-TIME:20060513T193000
 UID:0605133017_1_dore
-DESCRIPTION:Sala 1 - PROGRAMA ROBERT FRANK Conversation en Vermont (1969).
-  26´. Life Dances On (1979). 30´. This Song for Jack (1983). 30´. EE UU
- . VOSE*. Total programa: 86´\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2006/PrograDore29.pdf
+DESCRIPTION:Sala 1 - PROGRAMA ROBERT FRANK\nConversation en Vermont (1969)
+ . 26´. Life Dances On (1979). 30´. This Song for Jack (1983). 30´. EE U
+ U. VOSE*. Total programa: 86´\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2006/PrograDore29.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -608,9 +608,9 @@ DTSTART;VALUE=DATE-TIME:20060516T173000
 DTEND;VALUE=DATE-TIME:20060516T190300
 UID:0605163017_1_dore
 DESCRIPTION:Sala 1 - La Vie promise (Olivier Dahan\, 2001). Int.: Isabelle
-  Huppert\, Maud Forget\, Pascal Greggory. Francia. VOSE. 93'\n\n\nFuente: 
- http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
- ne/mc/fe/cine-dore/programacion/2006/PrograDore29.pdf
+  Huppert\, Maud Forget\, Pascal Greggory.\nFrancia. VOSE. 93'\n\n\nFuente:
+  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
+ ine/mc/fe/cine-dore/programacion/2006/PrograDore29.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -889,9 +889,9 @@ DTSTART;VALUE=DATE-TIME:20060521T173000
 DTEND;VALUE=DATE-TIME:20060521T191800
 UID:0605213017_1_dore
 DESCRIPTION:Sala 1 - My Sister Eileen (Mi hermana Elena\, Richard Quine\, 
- 1956). Int.: Betty Garrett\, Janet Leigh\, Jack Lemmon. EE UU. VOSE*. 108'
- \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
- eas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore29.pdf
+ 1956). Int.: Betty Garrett\, Janet Leigh\,\nJack Lemmon. EE UU. VOSE*. 108
+ '\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
+ reas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore29.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -940,12 +940,12 @@ DTSTART;VALUE=DATE-TIME:20060523T173000
 DTEND;VALUE=DATE-TIME:20060523T191200
 UID:0605233017_1_dore
 DESCRIPTION:Sala 1 - The Solid Gold Cadillac (Un cadillac de oro macizo\, 
- Richard Quine\, 1956). Int.: Judy Holliday\, Paul Douglas\, Fred Clark. EE
-  UU. VOSE*. 102'\nUna modesta actriz hereda doce acciones de una gran empr
- esa y se presenta en la asamblea general de accionistas desde donde revolu
- ciona al consejo de administración. Segunda proyección día 27.\n\n\nFue
- nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
- ra/cine/mc/fe/cine-dore/programacion/2006/PrograDore29.pdf
+ Richard Quine\, 1956). Int.: Judy\nHolliday\, Paul Douglas\, Fred Clark. E
+ E UU. VOSE*. 102'\nUna modesta actriz hereda doce acciones de una gran emp
+ resa y se presenta en la asamblea general de accionistas desde donde revol
+ uciona al consejo de administración. Segunda proyección día 27.\n\n\nFu
+ ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
+ ura/cine/mc/fe/cine-dore/programacion/2006/PrograDore29.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1111,9 +1111,9 @@ DTSTART;VALUE=DATE-TIME:20060526T173000
 DTEND;VALUE=DATE-TIME:20060526T191600
 UID:0605263017_1_dore
 DESCRIPTION:Sala 1 - Khandahar (Las ruinas\, Mrinal Sen\, 1984). Int.: Nas
- eeruddin Shah\, Shabana Azmi\, Gita Sen India. VO Hindi SE*. 106'\n\n\nFue
- nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
- ra/cine/mc/fe/cine-dore/programacion/2006/PrograDore29.pdf
+ eeruddin Shah\, Shabana Azmi\, Gita Sen\nIndia. VO Hindi SE*. 106'\n\n\nFu
+ ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
+ ura/cine/mc/fe/cine-dore/programacion/2006/PrograDore29.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1161,9 +1161,9 @@ DTSTART;VALUE=DATE-TIME:20060527T173000
 DTEND;VALUE=DATE-TIME:20060527T185600
 UID:0605273017_1_dore
 DESCRIPTION:Sala 1 - España Heroica (Estampas de la guerra civil) (Joaqu
- ín Reig Gozalbes\, 1937). España / Alemania. 86’\n"Un ambicioso proyec
- to de Joaquín Reig que permaneció durante toda la guerra en los laborato
- rios berlineses entregado a la tarea de montar el material rodado en Espa
+ ín Reig Gozalbes\, 1937). España /\nAlemania. 86’\n"Un ambicioso proye
+ cto de Joaquín Reig que permaneció durante toda la guerra en los laborat
+ orios berlineses entregado a la tarea de montar el material rodado en Espa
  ña" (R. Sala y R. Álvarez-Berciano).\n\n\nFuente: http://www.mecd.gob.es
  /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
  gramacion/2006/PrograDore29.pdf
@@ -1210,10 +1210,10 @@ DTSTART;VALUE=DATE-TIME:20060528T173000
 DTEND;VALUE=DATE-TIME:20060528T193300
 UID:0605283017_1_dore
 DESCRIPTION:Sala 1 - The Notorius Landlady (La misteriosa dama de negro\, 
- Richard Quine\, 1962). Int.: Kim Novak\, Jack Lemmon\, Fred Astaire. EE UU
- . VOSE*. 123'\nCopia restaurada por Sony Pictures.\n\n\nFuente: http://www
- .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
- ine-dore/programacion/2006/PrograDore29.pdf
+ Richard Quine\, 1962). Int.: Kim\nNovak\, Jack Lemmon\, Fred Astaire. EE U
+ U. VOSE*. 123'\nCopia restaurada por Sony Pictures.\n\n\nFuente: http://ww
+ w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
+ cine-dore/programacion/2006/PrograDore29.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1254,17 +1254,16 @@ DESCRIPTION:Sala 1 - Ek din pratidin (El día avanza tranquilo\, Mrinal Se
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CONQUISTA DEL PAÍS VASCO\, SANTANDER Y ASTURIAS El frente de Vizc
- aya y el 18 de Julio
+SUMMARY:CONQUISTA DEL PAÍS VASCO\, SANTANDER Y ASTURIAS
 DTSTART;VALUE=DATE-TIME:20060530T173000
 DTEND;VALUE=DATE-TIME:20060530T190500
 UID:0605303017_1_dore
-DESCRIPTION:Sala 1 - CONQUISTA DEL PAÍS VASCO\, SANTANDER Y ASTURIAS El f
- rente de Vizcaya y el 18 de Julio (FET y de las JONS). 44’23”. Los con
- quistadores del Norte (Sección Cinematográfica FET y de las JONS). 45’
- 17”. El Presidente de Euskadi (Laya Films). VC. 5’. Total programa: 95
- ’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
- /areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore29.pdf
+DESCRIPTION:Sala 1 - CONQUISTA DEL PAÍS VASCO\, SANTANDER Y ASTURIAS\nEl 
+ frente de Vizcaya y el 18 de Julio (FET y de las JONS). 44’23”. Los co
+ nquistadores del Norte (Sección Cinematográfica FET y de las JONS). 45
+ ’17”. El Presidente de Euskadi (Laya Films). VC. 5’. Total programa:
+  95’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
+ ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore29.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT

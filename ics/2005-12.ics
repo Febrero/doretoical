@@ -842,10 +842,10 @@ DTSTART;VALUE=DATE-TIME:20051220T173000
 DTEND;VALUE=DATE-TIME:20051220T193500
 UID:0512203017_1_dore
 DESCRIPTION:Sala 1 - Salvatore Giuliano (Salvatore Giuliano\, Francesco Ro
- si\, 1961). Int.: Pietro Cammarata\, Frank Wolf\, Salvo Randone. Italia. V
- OSE*. 125'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
- ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore24.
- pdf
+ si\, 1961). Int.: Pietro Cammarata\, Frank\nWolf\, Salvo Randone. Italia. 
+ VOSE*. 125'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
+ ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore24
+ .pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -895,13 +895,13 @@ DTSTART;VALUE=DATE-TIME:20051221T173000
 DTEND;VALUE=DATE-TIME:20051221T200700
 UID:0512213017_1_dore
 DESCRIPTION:Sala 1 - Siete días de enero (Juan Antonio Bardem\, 1978). In
- t.: Charly Bravo\, José Manuel Cervino\, Manuel Angel Egea. España. 157'
- \n"Hice la película porque consideré -y considero- que era mi deber como
-  ciudadano\, como cineasta y como comunista. (...) Las víctimas de Atocha
-  eran luchadores por la libertad y la democracia. Pero también eran comun
- istas" (Juan Antonio Bardem).\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2005/PrograDore24.pdf
+ t.: Charly Bravo\, José Manuel Cervino\,\nManuel Angel Egea. España. 157
+ '\n"Hice la película porque consideré -y considero- que era mi deber com
+ o ciudadano\, como cineasta y como comunista. (...) Las víctimas de Atoch
+ a eran luchadores por la libertad y la democracia. Pero también eran comu
+ nistas" (Juan Antonio Bardem).\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2005/PrograDore24.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1239,9 +1239,9 @@ DTSTART;VALUE=DATE-TIME:20051230T173000
 DTEND;VALUE=DATE-TIME:20051230T185500
 UID:0512303017_1_dore
 DESCRIPTION:Sala 1 - I basilischi (Lina Wertmuller\, 1963). Int.: Toni Pet
- ruzzi\, Stefano Satta Flores\, Sergio Farrannino. Italia. VOSE*. 85'\n\n\n
- Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
- ltura/cine/mc/fe/cine-dore/programacion/2005/PrograDore24.pdf
+ ruzzi\, Stefano Satta Flores\, Sergio\nFarrannino. Italia. VOSE*. 85'\n\n\
+ nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
+ ultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore24.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT

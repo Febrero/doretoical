@@ -280,13 +280,13 @@ SUMMARY:90'
 DTSTART;VALUE=DATE-TIME:20070508T200000
 DTEND;VALUE=DATE-TIME:20070508T213000
 UID:0705080020_2_dore
-DESCRIPTION:Sala 2 - 90'\nCrónica Allende Militar.  Hitos del cine docume
- ntal La batalla de Chile I: La insurrección de la burguesía (Patricio Gu
- zmán\, 1975). Documental. política y sociológica en tres partes de los 
- meses que precedieron a la caída del gobierno de en Chile\, desde la huel
- ga en las minas de cobre hasta la toma del poder por parte de la Junta\n\n
- \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
- cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore41.pdf
+DESCRIPTION:Sala 2 - 90'\nCrónica Allende Militar. Hitos del cine documen
+ tal La batalla de Chile I: La insurrección de la burguesía (Patricio Guz
+ mán\, 1975). Documental. política y sociológica en tres partes de los m
+ eses que precedieron a la caída del gobierno de en Chile\, desde la huelg
+ a en las minas de cobre hasta la toma del poder por parte de la Junta\n\n\
+ nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
+ ultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore41.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -455,19 +455,19 @@ DESCRIPTION:Sala 2 - Las Hurdes / Terre sans pain (Luis Buñuel\, 1932). E
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA CIUDAD El día de la bestia
+SUMMARY:LA CIUDAD
 DTSTART;VALUE=DATE-TIME:20070511T173000
 DTEND;VALUE=DATE-TIME:20070511T191300
 UID:0705113017_1_dore
-DESCRIPTION:Sala 1 - LA CIUDAD El día de la bestia (Álex de la Iglesia\,
-  1995). Dirección artística: José Luis Arrizabalaga y Biaffra. Int.: Sa
- ntiago Segura\, Álex Angulo\, Maria Grazia Cuccinotta. España. 103'\nUn 
- cura de aspecto inofensivo\, el padre Ángel Berriartúa\, que lleva más 
- de 25 años estudiando el "Apocalipsis de San Juan"\, llega a una conclusi
- ón: el Anticristo nacerá en Madrid el 25 de diciembre de 1995\, antes de
- l amanecer.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
- ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore41
- .pdf
+DESCRIPTION:Sala 1 - LA CIUDAD\nEl día de la bestia (Álex de la Iglesia\
+ , 1995). Dirección artística: José Luis Arrizabalaga y Biaffra. Int.: S
+ antiago Segura\, Álex Angulo\, Maria Grazia Cuccinotta. España. 103'\nUn
+  cura de aspecto inofensivo\, el padre Ángel Berriartúa\, que lleva más
+  de 25 años estudiando el "Apocalipsis de San Juan"\, llega a una conclus
+ ión: el Anticristo nacerá en Madrid el 25 de diciembre de 1995\, antes d
+ el amanecer.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore4
+ 1.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -929,15 +929,15 @@ DESCRIPTION:Sala 1 - LO FANTÁSTICO La Belle et la Bête (La bella y la be
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VISIONES DE LA HISTORIA L'Anglaise et le Duc
+SUMMARY:VISIONES DE LA HISTORIA
 DTSTART;VALUE=DATE-TIME:20070522T173000
 DTEND;VALUE=DATE-TIME:20070522T193900
 UID:0705223017_1_dore
-DESCRIPTION:Sala 1 - VISIONES DE LA HISTORIA L'Anglaise et le Duc (La ingl
- esa y el duque\, Eric Rohmer\, 2001). Dirección artística: Antoine Fonta
- ine. Int.: Jean-Claude Dreyfuss\, Lucy Russell. Francia. VOSE. 129'\n\n\nF
- uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
- tura/cine/mc/fe/cine-dore/programacion/2007/PrograDore41.pdf
+DESCRIPTION:Sala 1 - VISIONES DE LA HISTORIA\nL'Anglaise et le Duc (La ing
+ lesa y el duque\, Eric Rohmer\, 2001). Dirección artística: Antoine Font
+ aine. Int.: Jean-Claude Dreyfuss\, Lucy Russell. Francia. VOSE. 129'\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2007/PrograDore41.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -991,19 +991,19 @@ DTSTART;VALUE=DATE-TIME:20070523T173000
 DTEND;VALUE=DATE-TIME:20070523T193500
 UID:0705233017_1_dore
 DESCRIPTION:Sala 1 - Red River (Río rojo\, Howard Hawks\, 1948). Int.: Jo
- hn Wayne\,. Montgomery Clift\, Joanne Dru. EE UU. VOSE. 125'\n"La libérri
- ma adaptación que hace Hawks de los relatos de Borden Chase (...) funcion
- a en varios niveles. Es un estudio de la imagen heroica de Wayne\, que aqu
- í se muestra innecesariamente autoritario y cabezón cuando se enfrenta a
-  su hijo adoptivo Clift\, mucho más liberal\, y se lleva las críticas de
-  Brennan por matar a los desertores. Es también otra variación del tema 
- del respeto y el profesionalismo\, propio de Hawks. Finalmente\, es una é
- pica intimista que festeja la decisión de establecer la civilización y c
- onsidera la negativa de Clift a usar la pistola como una mejora sustancial
-  de la justicia de gatillo fácil de Wayne" (Geoff Andrews). Segunda proye
- cción día 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
- cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDo
- re41.pdf
+ hn Wayne\,. Montgomery Clift\, Joanne Dru.\nEE UU. VOSE. 125'\n"La libérr
+ ima adaptación que hace Hawks de los relatos de Borden Chase (...) funcio
+ na en varios niveles. Es un estudio de la imagen heroica de Wayne\, que aq
+ uí se muestra innecesariamente autoritario y cabezón cuando se enfrenta 
+ a su hijo adoptivo Clift\, mucho más liberal\, y se lleva las críticas d
+ e Brennan por matar a los desertores. Es también otra variación del tema
+  del respeto y el profesionalismo\, propio de Hawks. Finalmente\, es una 
+ épica intimista que festeja la decisión de establecer la civilización y
+  considera la negativa de Clift a usar la pistola como una mejora sustanci
+ al de la justicia de gatillo fácil de Wayne" (Geoff Andrews). Segunda pro
+ yección día 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
+ d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/Progra
+ Dore41.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1284,18 +1284,18 @@ DESCRIPTION:Sala 1 - VISIONES DE LA HISTORIA\nSin City (Sin City - Ciudad
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA CIUDAD La línea del cielo
+SUMMARY:LA CIUDAD
 DTSTART;VALUE=DATE-TIME:20070529T173000
 DTEND;VALUE=DATE-TIME:20070529T185300
 UID:0705293017_1_dore
-DESCRIPTION:Sala 1 - LA CIUDAD La línea del cielo (Fernando Colomo\, 1983
- ). Int.: Antonio Resines\, Beatriz Pérez-Porro\, Roy Hoffman. España. 83
- '\nGustavo es un fotógrafo español que decide ir a Nueva York a para cam
- biar de ambiente y triunfar en la capital del arte. Se encuentra con todo 
- tipo de problemas: el idioma\, los amigos norteamericanos a los que no ent
- iende...\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
- -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore41.pd
- f
+DESCRIPTION:Sala 1 - LA CIUDAD\nLa línea del cielo (Fernando Colomo\, 198
+ 3). Int.: Antonio Resines\, Beatriz Pérez-Porro\, Roy Hoffman. España. 8
+ 3'\nGustavo es un fotógrafo español que decide ir a Nueva York a para ca
+ mbiar de ambiente y triunfar en la capital del arte. Se encuentra con todo
+  tipo de problemas: el idioma\, los amigos norteamericanos a los que no en
+ tiende...\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore41.p
+ df
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1335,21 +1335,21 @@ DESCRIPTION:Sala 1 - Alumbramiento (Víctor Erice\, 2002). Vídeo. 10'. Ca
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA ESCALERA La comunidad
+SUMMARY:LA ESCALERA
 DTSTART;VALUE=DATE-TIME:20070530T173000
 DTEND;VALUE=DATE-TIME:20070530T191800
 UID:0705303017_1_dore
-DESCRIPTION:Sala 1 - LA ESCALERA La comunidad (Álex de la Iglesia\, 2000)
- . Dirección artística: José Luis Arrizabalaga y Biaffra. Int.: Carmen M
- aura\, Emilio Gutiérrez Caba\, María Asquerino. España. 108'\n"En las p
- rimeras versiones del guión todo se desarrollaba en un piso. Al final\, t
- uvimos que sacar la acción a la escalera y subirnos al tejado\, pero el e
- spíritu ha seguido siendo el mismo siempre. A los dos nos gustan ese tipo
-  de historias en las que hay un crimen\, un misterio\, un tesoro escondido
-  y muchos personajes encerrados en una única localización: un caserón\,
-  un castillo\, un teatro..." (A. de la Iglesia).\n\n\nFuente: http://www.m
- ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
- e-dore/programacion/2007/PrograDore41.pdf
+DESCRIPTION:Sala 1 - LA ESCALERA\nLa comunidad (Álex de la Iglesia\, 2000
+ ). Dirección artística: José Luis Arrizabalaga y Biaffra. Int.: Carmen 
+ Maura\, Emilio Gutiérrez Caba\, María Asquerino. España. 108'\n"En las 
+ primeras versiones del guión todo se desarrollaba en un piso. Al final\, 
+ tuvimos que sacar la acción a la escalera y subirnos al tejado\, pero el 
+ espíritu ha seguido siendo el mismo siempre. A los dos nos gustan ese tip
+ o de historias en las que hay un crimen\, un misterio\, un tesoro escondid
+ o y muchos personajes encerrados en una única localización: un caserón\
+ , un castillo\, un teatro..." (A. de la Iglesia).\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2007/PrograDore41.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1450,9 +1450,9 @@ DESCRIPTION:Sala 1 - LA CASA\nRear Window (La ventana indiscreta\, Alfred
  nstruye un único decorado\, totalmente construido en estudio\, en una esp
  ecie de personaje colectivo ofrecido constantemente a la mirada del espect
  ador y que se convierte en una metáfora del universo" (Jean-Pierre Bertho
- mé).  </pre> </body> </html>\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2007/PrograDore41.pdf
+ mé). </pre> </body> </html>\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2007/PrograDore41.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

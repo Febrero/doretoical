@@ -246,9 +246,9 @@ DTSTART;VALUE=DATE-TIME:20050406T173000
 DTEND;VALUE=DATE-TIME:20050406T191800
 UID:0504063017_1_dore
 DESCRIPTION:Sala 1 - Le Cercle parfait (El círculo perfecto\, Ademir Keno
- vic\, 1997). Int.: Mustafá Nadaveric\, Aldemin Leleta. Francia. VOSE. 108
- '\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
- reas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore16.pdf
+ vic\, 1997). Int.: Mustafá Nadaveric\,\nAldemin Leleta. Francia. VOSE. 10
+ 8'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
+ areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore16.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -424,15 +424,15 @@ DTSTART;VALUE=DATE-TIME:20050409T173000
 DTEND;VALUE=DATE-TIME:20050409T185900
 UID:0504093017_1_dore
 DESCRIPTION:Sala 1 - Jeux interdits (Juegos prohibidos\, René Clement\, 1
- 949). Int.: Georges Poujuoly\, Brigitte Fossey\, Laurence Badie. Francia. 
- VOSE. 89'\n“Nos gustaría asomarnos a la infancia como un espejo que nos
-  devolviera una imagen purificada de toda culpa\, lavada de nuestras manch
- as de hombres\, rejuvenecida por la inocencia. Juegos prohibidos nos niega
-  ese descanso\; sin crueldad\, sin pesimismo\, pero con una voluntad de ve
- rdad que es el primer ejemplo en la pantalla sobre esta materia” (André
-  Bazin). Segunda proyección día 12.\n\n\nFuente: http://www.mecd.gob.es/
- cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
- ramacion/2005/PrograDore16.pdf
+ 949). Int.: Georges Poujuoly\, Brigitte\nFossey\, Laurence Badie. Francia.
+  VOSE. 89'\n“Nos gustaría asomarnos a la infancia como un espejo que no
+ s devolviera una imagen purificada de toda culpa\, lavada de nuestras manc
+ has de hombres\, rejuvenecida por la inocencia. Juegos prohibidos nos nieg
+ a ese descanso\; sin crueldad\, sin pesimismo\, pero con una voluntad de v
+ erdad que es el primer ejemplo en la pantalla sobre esta materia” (Andr
+ é Bazin). Segunda proyección día 12.\n\n\nFuente: http://www.mecd.gob.e
+ s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
+ ogramacion/2005/PrograDore16.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -477,13 +477,13 @@ DTSTART;VALUE=DATE-TIME:20050410T173000
 DTEND;VALUE=DATE-TIME:20050410T184800
 UID:0504103017_1_dore
 DESCRIPTION:Sala 1 - No Greater Glory (Hombres del mañana\, Franz Borzage
- \, 1933). Int.: George Breakston\, Jimmy Butler\, Frankie Darro. EE UU. VO
- SE*. 78'\nAdaptación del clásico infantil de Ferenc Molnar\, Los chicos 
- de la calle Pal\, que narra la rivalidad de los pandillas\, que\, ante la 
- aparición del nazismo\, se enfatiza el carácter pacifista y la denuncia 
- de los valores militaristas. Segunda proyección día 12.\n\n\nFuente: htt
- p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
- mc/fe/cine-dore/programacion/2005/PrograDore16.pdf
+ \, 1933). Int.: George Breakston\,\nJimmy Butler\, Frankie Darro. EE UU. V
+ OSE*. 78'\nAdaptación del clásico infantil de Ferenc Molnar\, Los chicos
+  de la calle Pal\, que narra la rivalidad de los pandillas\, que\, ante la
+  aparición del nazismo\, se enfatiza el carácter pacifista y la denuncia
+  de los valores militaristas. Segunda proyección día 12.\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
+ /mc/fe/cine-dore/programacion/2005/PrograDore16.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -586,12 +586,12 @@ DTSTART;VALUE=DATE-TIME:20050413T173000
 DTEND;VALUE=DATE-TIME:20050413T190500
 UID:0504133017_1_dore
 DESCRIPTION:Sala 1 - La lengua de las mariposas (José Luis Cuerda\, 1999)
- . Int.: Fernando Fernán Gómez\, Manuel Lozano\, Uxía Blanco. España. 9
- 5'\nEn un pueblo gallego\, durante la II República\, un niño aprende con
-  admiración de su maestro\, que será uno de los primeros represaliados a
- l estallar la insurrección militar.\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2005/PrograDore16.pdf
+ . Int.: Fernando Fernán Gómez\, Manuel\nLozano\, Uxía Blanco. España. 
+ 95'\nEn un pueblo gallego\, durante la II República\, un niño aprende co
+ n admiración de su maestro\, que será uno de los primeros represaliados 
+ al estallar la insurrección militar.\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2005/PrograDore16.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -759,12 +759,12 @@ DTSTART;VALUE=DATE-TIME:20050416T173000
 DTEND;VALUE=DATE-TIME:20050416T194500
 UID:0504163017_1_dore
 DESCRIPTION:Sala 1 - Don Quijote cabalga de nuevo (Roberto Gavaldón\, 197
- 2). Int.: Fernando Fernán Gómez\, Cantinflas\, María Fernanda D'Ocón. 
- España. 135'\n“No he querido adaptar la novela de Cervantes. Por respet
- o (…) Así que escribí al revés. Partí del aroma y reconstruir mi ros
- a\, partí de su espíritu y reconstruí mi historia” (Carlos Blanco).\n
- \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
- s-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore16.pdf
+ 2). Int.: Fernando Fernán Gómez\,\nCantinflas\, María Fernanda D'Ocón.
+  España. 135'\n“No he querido adaptar la novela de Cervantes. Por respe
+ to (…) Así que escribí al revés. Partí del aroma y reconstruir mi ro
+ sa\, partí de su espíritu y reconstruí mi historia” (Carlos Blanco).\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore16.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -818,9 +818,9 @@ DTSTART;VALUE=DATE-TIME:20050417T173000
 DTEND;VALUE=DATE-TIME:20050417T191900
 UID:0504173017_1_dore
 DESCRIPTION:Sala 1 - Europa '51 (Europa 1951\, Roberto Rossellini\, 1951).
-  Int.: Ingrid Bergman\, Alexander Knox\, Sandro Franchina. Italia. VItSE*.
-  109'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
- cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore16.pdf
+  Int.: Ingrid Bergman\, Alexander Knox\,\nSandro Franchina. Italia. VItSE*
+ . 109'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
+ ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore16.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -929,9 +929,9 @@ DTSTART;VALUE=DATE-TIME:20050420T173000
 DTEND;VALUE=DATE-TIME:20050420T190000
 UID:0504203017_1_dore
 DESCRIPTION:Sala 1 - Lord of the Flies (Peter Brook\, 1963). Int.: James A
- ubrey\, Hugh Edwards\, Tom Chapin. VOSE*. 90'\n\n\nFuente: http://www.mecd
- .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
- ore/programacion/2005/PrograDore16.pdf
+ ubrey\, Hugh Edwards\, Tom Chapin.\nVOSE*. 90'\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2005/PrograDore16.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1047,9 +1047,9 @@ DTSTART;VALUE=DATE-TIME:20050422T173000
 DTEND;VALUE=DATE-TIME:20050422T191000
 UID:0504223017_1_dore
 DESCRIPTION:Sala 1 - Santa Brigida (Roberto Rossellini\, 1951). Int.: Ingr
- id Bergman. 10'. Siamo donne [Nosotras\, las mujeres\, Alfredo Guarini\, G
- ianni Franciolini\, Roberto Rossellini (Ingrid Bergman. 20’)\, Luigi Zam
- pa\, Luchino Visconti\, 1953]. Película de episodios. Italia. VOSE*. 90
+ id Bergman. 10'. Siamo donne [Nosotras\,\nlas mujeres\, Alfredo Guarini\, 
+ Gianni Franciolini\, Roberto Rossellini (Ingrid Bergman. 20’)\, Luigi Za
+ mpa\, Luchino Visconti\, 1953]. Película de episodios. Italia. VOSE*. 90
  ’. Total programa: 100’\n\n\nFuente: http://www.mecd.gob.es/cultura-me
  cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
  005/PrograDore16.pdf
@@ -1349,12 +1349,12 @@ DTSTART;VALUE=DATE-TIME:20050429T173000
 DTEND;VALUE=DATE-TIME:20050429T190200
 UID:0504293017_1_dore
 DESCRIPTION:Sala 1 - La Guerre des boutons (La guerra de los botones\, Yve
- s Robert\, 1961). Int.: Jacques Dufilho\, Yvette Etievant\, Michel Galabru
- . Francia. VE. 92'\nAdaptación de la novela homónima de Louis Pergaud so
- bre la guerra entre los niños de dos pueblos vecinos\, una sucesión de b
- atallas cuyo trofeo son los botones del ejército perdedor.\n\n\nFuente: h
- ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
- e/mc/fe/cine-dore/programacion/2005/PrograDore16.pdf
+ s Robert\, 1961). Int.: Jacques Dufilho\,\nYvette Etievant\, Michel Galabr
+ u. Francia. VE. 92'\nAdaptación de la novela homónima de Louis Pergaud s
+ obre la guerra entre los niños de dos pueblos vecinos\, una sucesión de 
+ batallas cuyo trofeo son los botones del ejército perdedor.\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2005/PrograDore16.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1402,12 +1402,12 @@ DTSTART;VALUE=DATE-TIME:20050430T173000
 DTEND;VALUE=DATE-TIME:20050430T190800
 UID:0504303017_1_dore
 DESCRIPTION:Sala 1 - Don Quijote de la Mancha (Cruz Delgado\, 1978). Anima
- ción. Episodios: 7. El manteo de Sancho. 24'. 14. Las historias del cauti
- vo. 24'. 24. Las bodas de Camacho. 25'. 30. Clavileño. 25'. España. Tota
- l programa: 98'\nEpisodios de la serie de animación emitida por TVE a fin
- ales de los setenta.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
- mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Pro
- graDore16.pdf
+ ción. Episodios: 7. El manteo de\nSancho. 24'. 14. Las historias del caut
+ ivo. 24'. 24. Las bodas de Camacho. 25'. 30. Clavileño. 25'. España. Tot
+ al programa: 98'\nEpisodios de la serie de animación emitida por TVE a fi
+ nales de los setenta.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Pr
+ ograDore16.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1428,9 +1428,9 @@ DTSTART;VALUE=DATE-TIME:20050430T200000
 DTEND;VALUE=DATE-TIME:20050430T212900
 UID:0504300020_2_dore
 DESCRIPTION:Sala 2 - Lost in La Mancha (Keith Fulton y Louis Pepe\, 2002).
-  Documental. GB. VOSE.\n 89'\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2005/PrograDore16.pdf
+  Documental. GB. VOSE.\n89'\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 005/PrograDore16.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1439,8 +1439,8 @@ DTSTART;VALUE=DATE-TIME:20050430T223000
 DTEND;VALUE=DATE-TIME:20050501T003000
 UID:0504303022_1_dore
 DESCRIPTION:Sala 1 - Viva l'Italia (Roberto Rossellini\, 1960). Int.: Renz
- o Ricci\, Paolo Stoppa\, Franco Interlenghi. Italia / Francia. VOSE*. 120'
- \n </pre> </body> </html>\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ o Ricci\, Paolo Stoppa\, Franco Interlenghi.\nItalia / Francia. VOSE*. 120
+ '\n</pre> </body> </html>\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
  /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/200
  5/PrograDore16.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España

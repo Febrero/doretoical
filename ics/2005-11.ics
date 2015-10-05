@@ -296,10 +296,10 @@ DTSTART;VALUE=DATE-TIME:20051108T173000
 DTEND;VALUE=DATE-TIME:20051108T190700
 UID:0511083017_1_dore
 DESCRIPTION:Sala 1 - ¡Aupa\, Etxebeste! (Telmo Esnal y Asier Altuna\, 200
- 5). Int.: Ramón Agirre\, Elena Irureta\, Paco Sagarzazu. España. 97'\nAf
- oro limitado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
- tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore2
- 3.pdf
+ 5). Int.: Ramón Agirre\, Elena Irureta\, Paco\nSagarzazu. España. 97'\nA
+ foro limitado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
+ ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore
+ 23.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -409,10 +409,10 @@ DTSTART;VALUE=DATE-TIME:20051111T173000
 DTEND;VALUE=DATE-TIME:20051111T191600
 UID:0511113017_1_dore
 DESCRIPTION:Sala 1 - La noche del hermano (Santiago García de Leániz\, 2
- 005). Int.: Jan Cornet\, María Vázquez\, Pablo Rivero. España. 106'\nAf
- oro limitado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
- tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore2
- 3.pdf
+ 005). Int.: Jan Cornet\, María Vázquez\,\nPablo Rivero. España. 106'\nA
+ foro limitado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
+ ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore
+ 23.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -533,9 +533,9 @@ DTSTART;VALUE=DATE-TIME:20051113T173000
 DTEND;VALUE=DATE-TIME:20051113T192300
 UID:0511133017_1_dore
 DESCRIPTION:Sala 1 - El desenlace (Juan Pinzás\, 2005). Int.: José Sanch
- o\, Beatriz Rico\, Javier Gurruchaga. España. 113'\nAforo limitado\n\n\nF
- uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
- tura/cine/mc/fe/cine-dore/programacion/2005/PrograDore23.pdf
+ o\, Beatriz Rico\, Javier Gurruchaga. España.\n113'\nAforo limitado\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2005/PrograDore23.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -581,10 +581,10 @@ DTSTART;VALUE=DATE-TIME:20051115T173000
 DTEND;VALUE=DATE-TIME:20051115T190400
 UID:0511153017_1_dore
 DESCRIPTION:Sala 1 - Conversaciones con mamá (Santiago Carlos Oves\, 2004
- ). Int.: China Zorrilla\, Eduardo Blanco\, Ulises Dumont. Argentina / Espa
- ña. 94'\nAforo limitado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005
- /PrograDore23.pdf
+ ). Int.: China Zorrilla\, Eduardo Blanco\,\nUlises Dumont. Argentina / Esp
+ aña. 94'\nAforo limitado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/200
+ 5/PrograDore23.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1389,9 +1389,9 @@ DTEND;VALUE=DATE-TIME:20051201T001200
 UID:0511300022_1_dore
 DESCRIPTION:Sala 1 - Star Trek: The Motion Picture (Star Trek: la películ
  a\, Robert Wise\, 1979). Int.: William Shatner\, Leonard Nimoy\, DeForest 
- Kelley. EE UU. VOSE*. 132'\n </pre> </body> </html>\n\n\nFuente: http://ww
- w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
- cine-dore/programacion/2005/PrograDore23.pdf
+ Kelley. EE UU. VOSE*. 132'\n</pre> </body> </html>\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2005/PrograDore23.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

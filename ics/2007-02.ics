@@ -56,10 +56,10 @@ DTSTART;VALUE=DATE-TIME:20070202T173000
 DTEND;VALUE=DATE-TIME:20070202T192600
 UID:0702023017_1_dore
 DESCRIPTION:Sala 1 - Kansas City (Kansas City\, Robert Altman\, 1995). Int
- .: Jennifer Jason Leigh\, Miranda Richardson\, Harry Belafonte. EE UU. VOS
- E. 116'\nSegunda proyección día 4.\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2007/PrograDore38.pdf
+ .: Jennifer Jason Leigh\, Miranda\nRichardson\, Harry Belafonte. EE UU. VO
+ SE. 116'\nSegunda proyección día 4.\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2007/PrograDore38.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -157,10 +157,10 @@ DTSTART;VALUE=DATE-TIME:20070204T173000
 DTEND;VALUE=DATE-TIME:20070204T191200
 UID:0702043017_1_dore
 DESCRIPTION:Sala 1 - Le Garçu (Maurice Pialat\, 1996). Int.: Gérard Depa
- rdieu\, Géraldine Pailhas\, Antoine Pialat. Francia. VOSE*. 102'\nSegunda
-  proyección día 15.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
- /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/Pr
- ograDore38.pdf
+ rdieu\, Géraldine Pailhas\, Antoine Pialat.\nFrancia. VOSE*. 102'\nSegund
+ a proyección día 15.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/P
+ rograDore38.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -207,9 +207,9 @@ DTSTART;VALUE=DATE-TIME:20070206T173000
 DTEND;VALUE=DATE-TIME:20070206T194700
 UID:0702063017_1_dore
 DESCRIPTION:Sala 1 - Gosford Park (Gosford Park\, Robert Altman\, 2001). I
- nt.: Michael Gambon\, Clive Owen\, Helen Mirren. EE UU. VOSE. 137'\n\n\nFu
- ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
- ura/cine/mc/fe/cine-dore/programacion/2007/PrograDore38.pdf
+ nt.: Michael Gambon\, Clive Owen\,\nHelen Mirren. EE UU. VOSE. 137'\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2007/PrograDore38.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -302,10 +302,10 @@ DTSTART;VALUE=DATE-TIME:20070208T173000
 DTEND;VALUE=DATE-TIME:20070208T192700
 UID:0702083017_1_dore
 DESCRIPTION:Sala 1 - Monster's Ball (Monster's Ball\, Marc Forster\, 2001)
- . Int.: Billy Bob Thorton\, Halle Berry\, Peter Boyle. EE UU. VOSE. 117'\n
- Segunda proyección día 11.\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2007/PrograDore38.pdf
+ . Int.: Billy Bob Thorton\, Halle Berry\,\nPeter Boyle. EE UU. VOSE. 117'\
+ nSegunda proyección día 11.\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2007/PrograDore38.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -626,10 +626,10 @@ DTSTART;VALUE=DATE-TIME:20070216T173000
 DTEND;VALUE=DATE-TIME:20070216T191300
 UID:0702163017_1_dore
 DESCRIPTION:Sala 1 - Dasepo sonyo / Dasepo Naughty Girl (Lee Jyong\, 2006)
- . Int.: Kim Ok Bin\, Park Jin Woo\, Kyun Lee. Corea. VOSI/E*. 103'\nColoqu
- io con el director\, Lee Jyong. Segunda proyección día 22.\n\n\nFuente: 
- http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
- ne/mc/fe/cine-dore/programacion/2007/PrograDore38.pdf
+ . Int.: Kim Ok Bin\, Park Jin Woo\,\nKyun Lee. Corea. VOSI/E*. 103'\nColoq
+ uio con el director\, Lee Jyong. Segunda proyección día 22.\n\n\nFuente:
+  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
+ ine/mc/fe/cine-dore/programacion/2007/PrograDore38.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -765,9 +765,9 @@ DTSTART;VALUE=DATE-TIME:20070220T173000
 DTEND;VALUE=DATE-TIME:20070220T192900
 UID:0702203017_1_dore
 DESCRIPTION:Sala 1 - Wang-ui namja / King and the Clown (Lee Jun Ik\, 2005
- ). Int.: Karm Woo Sung\, Jung Jin Young\, Lee Joon Gi. Corea. VOSI/E*. 119
- '\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
- reas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore38.pdf
+ ). Int.: Karm Woo Sung\, Jung Jin\nYoung\, Lee Joon Gi. Corea. VOSI/E*. 11
+ 9'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
+ areas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore38.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -809,9 +809,9 @@ DTSTART;VALUE=DATE-TIME:20070221T173000
 DTEND;VALUE=DATE-TIME:20070221T193200
 UID:0702213017_1_dore
 DESCRIPTION:Sala 1 - Yongseobadji mothan ja / The Unforgiven (Yoon Jong-bi
- n\, 2005). Int.: Ha Jung-woo\, Seo Jang-won. Corea. VOSI/E*. 122'\n\n\nFue
- nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
- ra/cine/mc/fe/cine-dore/programacion/2007/PrograDore38.pdf
+ n\, 2005). Int.: Ha Jung-woo\, Seo\nJang-won. Corea. VOSI/E*. 122'\n\n\nFu
+ ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
+ ura/cine/mc/fe/cine-dore/programacion/2007/PrograDore38.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -857,10 +857,10 @@ DTSTART;VALUE=DATE-TIME:20070222T173000
 DTEND;VALUE=DATE-TIME:20070222T191000
 UID:0702223017_1_dore
 DESCRIPTION:Sala 1 - Crocodile (Kim Ki-duk\, 1996). Int.: Cho Jae-Hyun\, W
- oo Yun-Kyung\, Chun Mu-Song. Corea. VOSI/E*. 100'\nSegunda proyección dí
- a 2 de marzo.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
- ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore
- 38.pdf
+ oo Yun-Kyung\, Chun Mu-Song. Corea.\nVOSI/E*. 100'\nSegunda proyección d
+ ía 2 de marzo.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDo
+ re38.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -902,10 +902,10 @@ DTSTART;VALUE=DATE-TIME:20070223T173000
 DTEND;VALUE=DATE-TIME:20070223T191500
 UID:0702233017_1_dore
 DESCRIPTION:Sala 1 - Yasaeng dongmool pohokuyeok / Wild Animals (Kim Ki-du
- k\, 1997). Int.: Cho Jae-hyun\, Jang Dong-jik. Corea. VOSI/E*. 105'\nSegun
- da proyección día 3 de marzo.\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2007/PrograDore38.pdf
+ k\, 1997). Int.: Cho Jae-hyun\, Jang\nDong-jik. Corea. VOSI/E*. 105'\nSegu
+ nda proyección día 3 de marzo.\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2007/PrograDore38.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -950,9 +950,9 @@ DTSTART;VALUE=DATE-TIME:20070224T173000
 DTEND;VALUE=DATE-TIME:20070224T192400
 UID:0702243017_1_dore
 DESCRIPTION:Sala 1 - Gajokeui tansaeng / Family Ties (Kim Tae-yong\, 2006)
- . Int.: Moon So-ri\, Goh Doo-shim\, Uhm Tae-woong. Corea. VOSI/E*. 114'\n\
- n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
- -cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore38.pdf
+ . Int.: Moon So-ri\, Goh Doo-shim\,\nUhm Tae-woong. Corea. VOSI/E*. 114'\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore38.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1087,9 +1087,9 @@ DTSTART;VALUE=DATE-TIME:20070228T173000
 DTEND;VALUE=DATE-TIME:20070228T192300
 UID:0702283017_1_dore
 DESCRIPTION:Sala 1 - Police (Maurice Pialat\, 1985). Int.: Gérard Depardi
- eu\, Sophie Marceau\, Richard Anconina. Francia. VOSE*. 113'\n\n\nFuente: 
- http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
- ne/mc/fe/cine-dore/programacion/2007/PrograDore38.pdf
+ eu\, Sophie Marceau\, Richard Anconina.\nFrancia. VOSE*. 113'\n\n\nFuente:
+  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
+ ine/mc/fe/cine-dore/programacion/2007/PrograDore38.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1121,10 +1121,10 @@ DTSTART;VALUE=DATE-TIME:20070228T220000
 DTEND;VALUE=DATE-TIME:20070228T232600
 UID:0702280022_1_dore
 DESCRIPTION:Sala 1 - Seom / The Isle (Kim Ki-duk\, 2000). Int.: Suh Jung\,
-  Kim Yoosuk. Corea. VOSI/E*. 86'\nSegunda proyección día 2 de marzo.  </
- pre> </body> </html>\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
- mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/Pro
- graDore38.pdf
+  Kim Yoosuk. Corea. VOSI/E*. 86'\nSegunda proyección día 2 de marzo. </p
+ re> </body> </html>\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
+ ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/Prog
+ raDore38.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

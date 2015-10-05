@@ -32,10 +32,10 @@ DTSTART;VALUE=DATE-TIME:20070103T173000
 DTEND;VALUE=DATE-TIME:20070103T191900
 UID:0701033017_1_dore
 DESCRIPTION:Sala 1 - Gilda (Gilda\, Charles Vidor\, 1946). Int.: Glenn For
- d\, Rita Hayworth\, George MacReady. EE UU. VOSE. 109'\nSegunda proyecció
- n día 4.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
- a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore37.p
- df
+ d\, Rita Hayworth\, George MacReady. EE\nUU. VOSE. 109'\nSegunda proyecci
+ ón día 4.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
+ ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore37
+ .pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -125,9 +125,9 @@ DTSTART;VALUE=DATE-TIME:20070105T173000
 DTEND;VALUE=DATE-TIME:20070105T193200
 UID:0701053017_1_dore
 DESCRIPTION:Sala 1 - Senso (Senso\, Luchino Visconti\, 1954). Int.: Alida 
- Valli\, Farley Granger\, Massimo Girotti. Italia. VOSE. 122'\n\n\nFuente: 
- http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
- ne/mc/fe/cine-dore/programacion/2007/PrograDore37.pdf
+ Valli\, Farley Granger\, Massimo Girotti.\nItalia. VOSE. 122'\n\n\nFuente:
+  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
+ ine/mc/fe/cine-dore/programacion/2007/PrograDore37.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -170,10 +170,10 @@ DTSTART;VALUE=DATE-TIME:20070109T173000
 DTEND;VALUE=DATE-TIME:20070109T184400
 UID:0701093017_1_dore
 DESCRIPTION:Sala 1 - Struktura krysztalu (La estructura de cristal\, Krzys
- ztof Zanussi\, 1969). Int.: Barbara Wrzezinska\, Andrzej Zarnecki\, Jan My
- slowicz. Polonia. VOSI/E*. 74'\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2007/PrograDore37.pdf
+ ztof Zanussi\, 1969). Int.: Barbara\nWrzezinska\, Andrzej Zarnecki\, Jan M
+ yslowicz. Polonia. VOSI/E*. 74'\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2007/PrograDore37.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -263,10 +263,10 @@ DTSTART;VALUE=DATE-TIME:20070111T173000
 DTEND;VALUE=DATE-TIME:20070111T190100
 UID:0701113017_1_dore
 DESCRIPTION:Sala 1 - Viskningar och rop (Gritos y susurros\, Ingmar Bergma
- n\, 1972). Int.: Harriet Andersson\, Liv Ullmann\, Ingrid Thulin. Fotograf
- ía: Sven Nvykyst. Suecia. VOSE. 91'\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2007/PrograDore37.pdf
+ n\, 1972). Int.: Harriet Andersson\, Liv\nUllmann\, Ingrid Thulin. Fotogra
+ fía: Sven Nvykyst. Suecia. VOSE. 91'\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2007/PrograDore37.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -358,11 +358,11 @@ DTSTART;VALUE=DATE-TIME:20070113T173000
 DTEND;VALUE=DATE-TIME:20070113T202600
 UID:0701133017_1_dore
 DESCRIPTION:Sala 1 - Rekopis znaleziony w Saragossie (El manuscrito encont
- rado en Zaragoza\, Wojciech Has\, 1964-65). Int.: Zbigniew Cybulski\, Kazi
- mierz Opalinski\, Iga Cembrzynska. Polonia. VOSE. 176’\nSegunda proyecci
- ón día 19.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
- tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore3
- 7.pdf
+ rado en Zaragoza\, Wojciech Has\,\n1964-65). Int.: Zbigniew Cybulski\, Kaz
+ imierz Opalinski\, Iga Cembrzynska. Polonia. VOSE. 176’\nSegunda proyecc
+ ión día 19.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
+ ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore
+ 37.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -395,9 +395,9 @@ DTSTART;VALUE=DATE-TIME:20070114T173000
 DTEND;VALUE=DATE-TIME:20070114T191200
 UID:0701143017_1_dore
 DESCRIPTION:Sala 1 - Tengo 17 años (José María Forqué\, 1964). Int.: R
- ocio Durcal\, Roberto Font\, Pedro Osinaga. España. 102'\n\n\nFuente: htt
- p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
- mc/fe/cine-dore/programacion/2007/PrograDore37.pdf
+ ocio Durcal\, Roberto Font\, Pedro Osinaga.\nEspaña. 102'\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
+ /mc/fe/cine-dore/programacion/2007/PrograDore37.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -488,10 +488,10 @@ DTSTART;VALUE=DATE-TIME:20070117T173000
 DTEND;VALUE=DATE-TIME:20070117T202000
 UID:0701173017_1_dore
 DESCRIPTION:Sala 1 - Faraon (Faraón\, Jerzy Kawalerowicz\, 1966). Int.: J
- erzy Zelnik\, Barbara Brylska\, Krystyna Mikolajewska. Polonia. VOSE. 170'
- \nSegunda proyección día 20.\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2007/PrograDore37.pdf
+ erzy Zelnik\, Barbara Brylska\, Krystyna\nMikolajewska. Polonia. VOSE. 170
+ '\nSegunda proyección día 20.\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2007/PrograDore37.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -523,9 +523,9 @@ DTSTART;VALUE=DATE-TIME:20070118T173000
 DTEND;VALUE=DATE-TIME:20070118T190500
 UID:0701183017_1_dore
 DESCRIPTION:Sala 1 - La querida (Fernando Fernán Gómez\, 1976). Int.: Ro
- cío Jurado\, Fernando Fernán Gómez\, Ricardo Merino. España. 95'\n\n\n
- Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
- ltura/cine/mc/fe/cine-dore/programacion/2007/PrograDore37.pdf
+ cío Jurado\, Fernando Fernán Gómez\,\nRicardo Merino. España. 95'\n\n\
+ nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
+ ultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore37.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -619,10 +619,10 @@ DTSTART;VALUE=DATE-TIME:20070120T173000
 DTEND;VALUE=DATE-TIME:20070120T190300
 UID:0701203017_1_dore
 DESCRIPTION:Sala 1 - The Night of the Hunter (La noche del cazador\, Charl
- es Laughton\, 1955). Int.: Robert Mitchum\, Shelley Winters\, Lillian Gish
- . EE UU. VOSE. 93'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
- cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/Progr
- aDore37.pdf
+ es Laughton\, 1955). Int.: Robert\nMitchum\, Shelley Winters\, Lillian Gis
+ h. EE UU. VOSE. 93'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
+ ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/Prog
+ raDore37.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -664,7 +664,7 @@ DTSTART;VALUE=DATE-TIME:20070121T173000
 DTEND;VALUE=DATE-TIME:20070121T191900
 UID:0701213017_1_dore
 DESCRIPTION:Sala 1 - La Lola se va a los puertos de Manuel y Antonio Macha
- do (Josefina Molina\, 1993). Int.: Rocío Jurado\, Francisco Rabal \, Jos
+ do (Josefina Molina\, 1993). Int.:\nRocío Jurado\, Francisco Rabal \, Jos
  é Sancho. España. 109'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
  dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007
  /PrograDore37.pdf
@@ -711,10 +711,10 @@ DTSTART;VALUE=DATE-TIME:20070123T173000
 DTEND;VALUE=DATE-TIME:20070123T185400
 UID:0701233017_1_dore
 DESCRIPTION:Sala 1 - Les Grands Ducs (Cómicos en apuros\, Patrice Leconte
- \, 1995). Int.: Jean-Pierre Marielle\, Jean Rochefort\, Philippe Noiret. F
- rancia. VOSE. 84'\nSegunda proyección día 26.\n\n\nFuente: http://www.me
- cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
- -dore/programacion/2007/PrograDore37.pdf
+ \, 1995). Int.: Jean-Pierre Marielle\, Jean\nRochefort\, Philippe Noiret. 
+ Francia. VOSE. 84'\nSegunda proyección día 26.\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2007/PrograDore37.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -761,9 +761,9 @@ DTSTART;VALUE=DATE-TIME:20070124T173000
 DTEND;VALUE=DATE-TIME:20070124T192100
 UID:0701243017_1_dore
 DESCRIPTION:Sala 1 - Más bonita que ninguna (Luis César Amadori\, 1965).
-  Int.: Rocio Durcal\, Luigi Giuliani\, Gracita Morales. España. 111'\n\n\
- nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
- ultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore37.pdf
+  Int.: Rocio Durcal\, Luigi Giuliani\,\nGracita Morales. España. 111'\n\n
+ \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
+ cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore37.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -950,9 +950,9 @@ DTSTART;VALUE=DATE-TIME:20070128T173000
 DTEND;VALUE=DATE-TIME:20070128T185700
 UID:0701283017_1_dore
 DESCRIPTION:Sala 1 - Ahí viene Martín Corona (Miguel Zacarías\, 1951). 
- Int.: Pedro Infante\, Sara Montiel Eulalio González "Piporro". México. 8
- 7'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
- areas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore37.pdf
+ Int.: Pedro Infante\, Sara Montiel Eulalio\nGonzález "Piporro". México. 
+ 87'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDore37.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -998,10 +998,10 @@ DTSTART;VALUE=DATE-TIME:20070130T173000
 DTEND;VALUE=DATE-TIME:20070130T195800
 UID:0701303017_1_dore
 DESCRIPTION:Sala 1 - Offret (Sacrificio\, Andrei Tarkovski\, 1986). Int.: 
- Erland Josephson\, Susan Fleetwood\, Valerie Mairesse Suecia / Francia / G
- B. VOSE*. 148'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
- ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDor
- e37.pdf
+ Erland Josephson\, Susan Fleetwood\, Valerie\nMairesse Suecia / Francia / 
+ GB. VOSE*. 148'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/PrograDo
+ re37.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1044,10 +1044,10 @@ DTSTART;VALUE=DATE-TIME:20070131T173000
 DTEND;VALUE=DATE-TIME:20070131T191300
 UID:0701313017_1_dore
 DESCRIPTION:Sala 1 - ¡Ay\, Carmela! (Carlos Saura\, 1989). Int.: Carmen M
- aura\, Andrés Pajares\, Gabino Diego. Dirección artística: Rafael Palme
- ro. España. 103'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
- d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/Progra
- Dore37.pdf
+ aura\, Andrés Pajares\, Gabino Diego.\nDirección artística: Rafael Palm
+ ero. España. 103'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2007/Progr
+ aDore37.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT

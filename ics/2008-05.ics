@@ -77,11 +77,11 @@ DESCRIPTION:Sala 1 - ELEGÍAS ÍNTIMAS Rose Hobart (Joseph Cornell\, 1936)
   el selvático film de serie B East of Borneo (1931)\, que pone de relieve
   el trabajo de la casi olvidada actriz Rose Hobart. Iván Z.: Retrato de l
  a vida cotidiana del legendario cineasta vasco Iván Zulueta en el que se 
- reflexiona  sobre la dificultad de vivir\, la imposibilidad de hacer cine\
- , la imposibilidad de no hacerlo... Presentación del libro Elegías ínti
- mas\, con la asistencia de su autor\, Hilario J. Rodríguez.\n\n\nFuente: 
- http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
- ne/mc/fe/cine-dore/programacion/2008/PrograDore53.pdf
+ reflexiona sobre la dificultad de vivir\, la imposibilidad de hacer cine\,
+  la imposibilidad de no hacerlo... Presentación del libro Elegías íntim
+ as\, con la asistencia de su autor\, Hilario J. Rodríguez.\n\n\nFuente: h
+ ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
+ e/mc/fe/cine-dore/programacion/2008/PrograDore53.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -441,12 +441,12 @@ DTSTART;VALUE=DATE-TIME:20080511T173000
 DTEND;VALUE=DATE-TIME:20080511T193800
 UID:0805113017_1_dore
 DESCRIPTION:Sala 1 - Agustina de Aragón (Juan de Orduña\, 1950). Int.: A
- urora Bautista\, Fernando Rey\, Virgilio Teixeira. España. 128'\nAgustina
- \, al ser condecorada\, rememora su valerosa lucha contra los franceses qu
- e sitiaban su ciudad. “¡Aprended de una mujer! ¿No hay hombres? ¿No h
- ay hombres en Zaragoza?”\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore53.pdf
+ urora Bautista\, Fernando Rey\, Virgilio\nTeixeira. España. 128'\nAgustin
+ a\, al ser condecorada\, rememora su valerosa lucha contra los franceses q
+ ue sitiaban su ciudad. “¡Aprended de una mujer! ¿No hay hombres? ¿No 
+ hay hombres en Zaragoza?”\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 008/PrograDore53.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -509,15 +509,15 @@ DESCRIPTION:Sala 2 - SOLILOQUIO - 2ª PARTE\nHead with the cats (Messieurs
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ELEGÍAS ÍNTIMAS Le Grand Méliès
+SUMMARY:ELEGÍAS ÍNTIMAS
 DTSTART;VALUE=DATE-TIME:20080513T173000
 DTEND;VALUE=DATE-TIME:20080513T190700
 UID:0805133017_1_dore
-DESCRIPTION:Sala 1 - ELEGÍAS ÍNTIMAS Le Grand Méliès (Georges Franju\,
-  1952). Francia. VOSE*. 30'. Cuadecuc Vampir (Pere Portabella\, 1970). Esp
- aña. VOISE. 67'. Total programa: 97'\n\n\nFuente: http://www.mecd.gob.es/
- cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
- ramacion/2008/PrograDore53.pdf
+DESCRIPTION:Sala 1 - ELEGÍAS ÍNTIMAS\nLe Grand Méliès (Georges Franju\
+ , 1952). Francia. VOSE*. 30'. Cuadecuc Vampir (Pere Portabella\, 1970). Es
+ paña. VOISE. 67'. Total programa: 97'\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2008/PrograDore53.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -572,15 +572,15 @@ DESCRIPTION:Sala 2 - RELATO Please rewind me later (Roy Samaha\, 2007). Do
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ELEGÍAS ÍNTIMAS Alone: Life Wastes Andy Hardy
+SUMMARY:ELEGÍAS ÍNTIMAS
 DTSTART;VALUE=DATE-TIME:20080514T173000
 DTEND;VALUE=DATE-TIME:20080514T183600
 UID:0805143017_1_dore
-DESCRIPTION:Sala 1 - ELEGÍAS ÍNTIMAS Alone: Life Wastes Andy Hardy (Mart
- in Arnold\, 1998). 15'. Louis Lumière (Eric Rohmer\, 1968). 49'. VOSE*. T
- otal programa: 66'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
- cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/Progr
- aDore53.pdf
+DESCRIPTION:Sala 1 - ELEGÍAS ÍNTIMAS\nAlone: Life Wastes Andy Hardy (Mar
+ tin Arnold\, 1998). 15'. Louis Lumière (Eric Rohmer\, 1968). 49'. VOSE*. 
+ Total programa: 66'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
+ ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/Prog
+ raDore53.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -904,9 +904,9 @@ DTSTART;VALUE=DATE-TIME:20080522T173000
 DTEND;VALUE=DATE-TIME:20080522T191700
 UID:0805223017_1_dore
 DESCRIPTION:Sala 1 - Convoy (Convoy\, Sam Peckinpah\, 1977). Int.: Kris Kr
- istofferson\, Ali McGraw\, Burt Young. EE UU. VOSE. 107'\n\n\nFuente: http
- ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
- c/fe/cine-dore/programacion/2008/PrograDore53.pdf
+ istofferson\, Ali McGraw\, Burt Young. EE\nUU. VOSE. 107'\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2008/PrograDore53.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT

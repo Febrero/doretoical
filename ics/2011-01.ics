@@ -283,9 +283,9 @@ DTSTART;VALUE=DATE-TIME:20110108T200000
 DTEND;VALUE=DATE-TIME:20110108T214500
 UID:1101080020_2_dore
 DESCRIPTION:Sala 2 - Agnosia (Eugenio Mir a\, 201 0). Int.: Bárb ara Goen
- aga\, Eduardo Noriega\, Martina España. 105’\n Gedeck.\n\n\nFuente: htt
- p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
- mc/fe/cine-dore/programacion/2011/PrograDore85.pdf
+ aga\, Eduardo Noriega\, Martina España. 105’\nGedeck.\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2011/PrograDore85.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1424,10 +1424,10 @@ DESCRIPTION:Sala 1 - La cena (La cena\, Ettore Scola\, 1998). Int.: Fanny
   pers onajes corrientes que se encuentran cenando una misma noche en un re
  staurante\, la película exalta los placeres más mundanos (la comida –a
  l menos en occi dente–\, la charla\, la compañía) y es un gui ño a l 
- os pequeños momentos de bi enestar que gozamos de vez en cuando.  </pre> 
- </body> </html>\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
- cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2011/PrograDo
- re85.pdf
+ os pequeños momentos de bi enestar que gozamos de vez en cuando. </pre> <
+ /body> </html>\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2011/PrograDor
+ e85.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

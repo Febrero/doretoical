@@ -218,9 +218,9 @@ DTSTART;VALUE=DATE-TIME:20060108T173000
 DTEND;VALUE=DATE-TIME:20060108T190800
 UID:0601083017_1_dore
 DESCRIPTION:Sala 1 - Forbidden Planet (Planeta prohibido\, Fred M. Wilcox\
- , 1956). Int.: Walter Pidgeon\, Anne Francis\, Leslie Nielsen. EE UU. VOSE
- . 98'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
- cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore25.pdf
+ , 1956). Int.: Walter Pidgeon\, Anne\nFrancis\, Leslie Nielsen. EE UU. VOS
+ E. 98'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
+ ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore25.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -560,12 +560,12 @@ DTSTART;VALUE=DATE-TIME:20060115T173000
 DTEND;VALUE=DATE-TIME:20060115T190700
 UID:0601153017_1_dore
 DESCRIPTION:Sala 1 - Hay que matar a B. (José Luis Borau\, 1974). Coguion
- ista: Antonio Drove. Int.: Darren McGavin\, Stephane Audran. Patricia Neal
- . España / Suiza. 97’\n"El protagonista encarna el aspecto menos triunf
- ante y más patético del aventurero que se vale por sí mismo plasmado en
-  Tierras lejanas\, de Mann o La pradera sin ley\, de Vidor" (A. Drove).\n\
- n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
- -cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore25.pdf
+ ista: Antonio Drove. Int.: Darren\nMcGavin\, Stephane Audran. Patricia Nea
+ l. España / Suiza. 97’\n"El protagonista encarna el aspecto menos triun
+ fante y más patético del aventurero que se vale por sí mismo plasmado e
+ n Tierras lejanas\, de Mann o La pradera sin ley\, de Vidor" (A. Drove).\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore25.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -618,16 +618,16 @@ DTSTART;VALUE=DATE-TIME:20060117T173000
 DTEND;VALUE=DATE-TIME:20060117T191400
 UID:0601173017_1_dore
 DESCRIPTION:Sala 1 - Festival Necrovisió (Jordi Tomas\, Francesc Estrada\
- , 1985). 12’. La noche más larga (José Luis García Sánchez\, 1991). 
- Int.. Juan Diego\, Juan Echanove\, Carmen Conesa. España. 92’. Total pr
- ograma: 104’\n“La película no trata de ETA ni del FRAP. Sólo trata d
- e una época en la que se podía fusilar a la gente. (...) La película tr
- anscurre en tres épocas diferentes: el año 75\, en que éramos infinitam
- ente desgraciados\; un año después\, que parecía que todos íbamos a se
- r infinitamente felices y ahora\, que parece que estamos muertos” (J. L.
-  Gª Sánchez).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
- cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDo
- re25.pdf
+ , 1985). 12’. La noche más larga (José Luis\nGarcía Sánchez\, 1991).
+  Int.. Juan Diego\, Juan Echanove\, Carmen Conesa. España. 92’. Total p
+ rograma: 104’\n“La película no trata de ETA ni del FRAP. Sólo trata 
+ de una época en la que se podía fusilar a la gente. (...) La película t
+ ranscurre en tres épocas diferentes: el año 75\, en que éramos infinita
+ mente desgraciados\; un año después\, que parecía que todos íbamos a s
+ er infinitamente felices y ahora\, que parece que estamos muertos” (J. L
+ . Gª Sánchez).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograD
+ ore25.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -917,10 +917,10 @@ DTSTART;VALUE=DATE-TIME:20060122T173000
 DTEND;VALUE=DATE-TIME:20060122T190200
 UID:0601223017_1_dore
 DESCRIPTION:Sala 1 - Written on the Wind (Escrito sobre el viento\, Dougla
- s Sirk\, 1956). Int.: Rock Hudson\, Robert Stack\, Dorothy Malone. EE UU. 
- VOSE. 92’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
- ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore25
- .pdf
+ s Sirk\, 1956). Int.: Rock Hudson\, Robert\nStack\, Dorothy Malone. EE UU.
+  VOSE. 92’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore2
+ 5.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -963,13 +963,13 @@ DTSTART;VALUE=DATE-TIME:20060124T173000
 DTEND;VALUE=DATE-TIME:20060124T191900
 UID:0601243017_1_dore
 DESCRIPTION:Sala 1 - Mamasunción (Chano Piñeiro\, 1985). 21’. Después
-  de tantos años (Ricardo Franco\, 1994). Documental. España. 88’. Tota
- l programa: 109’\n“Veinte años después de que Chávarri y Querejeta 
- llevaran a cabo El desencanto\, volvermos a mirar a los tres hermanos. (..
- .) Después... es una película sobre el paso del tiempo. Sobre los estrag
- os que causa en todos” (Alberto Úbeda-Portugués).\n\n\nFuente: http://
- www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
- e/cine-dore/programacion/2006/PrograDore25.pdf
+  de tantos años (Ricardo Franco\, 1994).\nDocumental. España. 88’. Tot
+ al programa: 109’\n“Veinte años después de que Chávarri y Querejeta
+  llevaran a cabo El desencanto\, volvermos a mirar a los tres hermanos. (.
+ ..) Después... es una película sobre el paso del tiempo. Sobre los estra
+ gos que causa en todos” (Alberto Úbeda-Portugués).\n\n\nFuente: http:/
+ /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
+ fe/cine-dore/programacion/2006/PrograDore25.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1022,13 +1022,13 @@ DTSTART;VALUE=DATE-TIME:20060125T173000
 DTEND;VALUE=DATE-TIME:20060125T193200
 UID:0601253017_1_dore
 DESCRIPTION:Sala 1 - Cronaca familiare (Crónica familiar\, Valerio Zurlin
- i\, 1962). Int.: Marcello Mastroianni\, Jacques Perrin\, Salvo Randone. It
- alia. VOSE*. 122'\nCopia restaurada. "La mejor adaptación pratoliniana po
- r el admirable equilibrio entre la riqueza emotiva de la experiencia priva
- da y la descripción del contexto histórico-social" (Ludovico Longhi). Se
- gunda proyección día 29.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 06/PrograDore25.pdf
+ i\, 1962). Int.: Marcello Mastroianni\,\nJacques Perrin\, Salvo Randone. I
+ talia. VOSE*. 122'\nCopia restaurada. "La mejor adaptación pratoliniana p
+ or el admirable equilibrio entre la riqueza emotiva de la experiencia priv
+ ada y la descripción del contexto histórico-social" (Ludovico Longhi). S
+ egunda proyección día 29.\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 006/PrograDore25.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1256,7 +1256,7 @@ DTSTART;VALUE=DATE-TIME:20060129T173000
 DTEND;VALUE=DATE-TIME:20060129T193500
 UID:0601293017_1_dore
 DESCRIPTION:Sala 1 - Imitation of Life (Imitación a la vida\, Douglas Sir
- k\, 1958). Int.: Lana Turner\, John Gavin\, Sandra Dee. EE UU. VOSE. 125
+ k\, 1958). Int.: Lana Turner\, John Gavin\,\nSandra Dee. EE UU. VOSE. 125
  ’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
  /areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore25.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
@@ -1351,9 +1351,9 @@ DTEND;VALUE=DATE-TIME:20060131T234000
 UID:0601310022_1_dore
 DESCRIPTION:Sala 1 - Una vita violenta (Paolo Heutsch y Brunello Rondi\, 1
  962). Int.: Bruno Cattaneo\, Franco Citti\, Micaela Dazzi. Italia. VOSE*. 
- 100'\n </pre> </body> </html>\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2006/PrograDore25.pdf
+ 100'\n</pre> </body> </html>\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2006/PrograDore25.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

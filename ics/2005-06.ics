@@ -745,9 +745,9 @@ DTSTART;VALUE=DATE-TIME:20050616T193000
 DTEND;VALUE=DATE-TIME:20050616T213000
 UID:0506163019_1_dore
 DESCRIPTION:Sala 1 - Muhammad Ali the Greatest Documental. Francia. VOSE*.
-  120’\n (William  Klein\,  1969-74).\n\n\nFuente: http://www.mecd.gob.es
- /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
- gramacion/2005/PrograDore18.pdf
+  120’\n(William Klein\, 1969-74).\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2005/PrograDore18.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -812,9 +812,9 @@ DTEND;VALUE=DATE-TIME:20050617T223000
 UID:0506173021_2_dore
 DESCRIPTION:Sala 2 - Hollywood\, California. A Loser’s Opera 1977). Docu
  mental. Alemania. Vídeo. VOSE*. 60’\nUna visión desmitifcadora de la M
- eca del glamour. Segunda proyección día 28.  Int.:  (William  André  Kl
- ein\,\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
- cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore18.pdf
+ eca del glamour. Segunda proyección día 28. Int.: (William André Klein\
+ ,\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
+ reas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore18.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1231,10 +1231,10 @@ SUMMARY:Los muertos
 DTSTART;VALUE=DATE-TIME:20050626T193000
 DTEND;VALUE=DATE-TIME:20050626T204800
 UID:0506263019_2_dore
-DESCRIPTION:Sala 2 - Los muertos (Lisandro Vargas. Argentina. 78'\n Alonso
- \,  2004).  Int.:  Argentino\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2005/PrograDore18.pdf
+DESCRIPTION:Sala 2 - Los muertos (Lisandro Vargas. Argentina. 78'\nAlonso\
+ , 2004). Int.: Argentino\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005
+ /PrograDore18.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1282,9 +1282,9 @@ DTSTART;VALUE=DATE-TIME:20050628T200000
 DTEND;VALUE=DATE-TIME:20050628T210000
 UID:0506280020_2_dore
 DESCRIPTION:Sala 2 - Hollywood\, California. A Loser’s 1977). Documental
- . Alemania. Vídeo. VOSE*. 60’\n Opera  (William  Klein\,\n\n\nFuente: h
- ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
- e/mc/fe/cine-dore/programacion/2005/PrograDore18.pdf
+ . Alemania. Vídeo. VOSE*. 60’\nOpera (William Klein\,\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2005/PrograDore18.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT

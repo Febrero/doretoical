@@ -60,9 +60,9 @@ DTSTART;VALUE=DATE-TIME:20050202T173000
 DTEND;VALUE=DATE-TIME:20050202T184400
 UID:0502023017_1_dore
 DESCRIPTION:Sala 1 - La verbena de la Paloma (Benito Perojo\, 1935). Int.:
-  Miguel Ligero\, Raquel Rodrigo\, Roberto Rey. España. 74'\n\n\nFuente: h
- ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
- e/mc/fe/cine-dore/programacion/2005/PrograDore14.pdf
+  Miguel Ligero\, Raquel Rodrigo\, Roberto\nRey. España. 74'\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2005/PrograDore14.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -202,9 +202,10 @@ DTSTART;VALUE=DATE-TIME:20050205T173000
 DTEND;VALUE=DATE-TIME:20050205T190700
 UID:0502053017_1_dore
 DESCRIPTION:Sala 1 - Justino\, un asesino de la tercera edad (La Cuadrilla
- \, 1994). Int.: Saturnino García\, Carlos Lucas\, Alicia Sánchez. Españ
- a. 97'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
- ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore14.pdf
+ \, 1994). Int.: Saturnino García\, Carlos\nLucas\, Alicia Sánchez. Espa
+ ña. 97'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore14.pd
+ f
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -252,10 +253,10 @@ DTSTART;VALUE=DATE-TIME:20050206T173000
 DTEND;VALUE=DATE-TIME:20050206T193000
 UID:0502063017_1_dore
 DESCRIPTION:Sala 1 - Io la conoscevo bene (Yo la conocía bien\, Antonio P
- ietrangeli\, 1965). Int.: Stefania Sandrelli\, Nino Manfredi\, Ugo Tognazz
- i. Italia. VOSE. 120'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
- /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Pr
- ograDore14.pdf
+ ietrangeli\, 1965). Int.: Stefania Sandrelli\,\nNino Manfredi\, Ugo Tognaz
+ zi. Italia. VOSE. 120'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
+ rograDore14.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -465,9 +466,9 @@ DTSTART;VALUE=DATE-TIME:20050211T173000
 DTEND;VALUE=DATE-TIME:20050211T191400
 UID:0502113017_1_dore
 DESCRIPTION:Sala 1 - Touch of Evil (Sed de mal\, Orson Welles\, 1958). Int
- .: Charlton Heston\, Orson Welles\, Janet Leigh. EE UU. VOSE. 104'\n\n\nFu
- ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
- ura/cine/mc/fe/cine-dore/programacion/2005/PrograDore14.pdf
+ .: Charlton Heston\, Orson Welles\, Janet\nLeigh. EE UU. VOSE. 104'\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2005/PrograDore14.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -521,10 +522,10 @@ DTSTART;VALUE=DATE-TIME:20050212T173000
 DTEND;VALUE=DATE-TIME:20050212T193000
 UID:0502123017_1_dore
 DESCRIPTION:Sala 1 - Per grazia ricevuta (Las tentaciones de Benedetto\, N
- ino Manfredi\, 1970). Int.: Nino Manfredi\, Lionel Stander\, Mariangela Me
- lato. Italia. VOSE*. 120'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
- /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/200
- 5/PrograDore14.pdf
+ ino Manfredi\, 1970). Int.: Nino\nManfredi\, Lionel Stander\, Mariangela M
+ elato. Italia. VOSE*. 120'\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 05/PrograDore14.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -567,10 +568,10 @@ DTSTART;VALUE=DATE-TIME:20050213T173000
 DTEND;VALUE=DATE-TIME:20050213T190900
 UID:0502133017_1_dore
 DESCRIPTION:Sala 1 - King Kong (King Kong\, Merian C. Cooper y Ernest Shoe
- dsack\, 1933). Int.: Bruce Cabot\, Fay Wray\, Robert Armstrong. EE UU. Ver
- sión española. 99'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
- mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Pro
- graDore14.pdf
+ dsack\, 1933). Int.: Bruce Cabot\, Fay\nWray\, Robert Armstrong. EE UU. Ve
+ rsión española. 99'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Pr
+ ograDore14.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -618,9 +619,9 @@ DTSTART;VALUE=DATE-TIME:20050215T173000
 DTEND;VALUE=DATE-TIME:20050215T190800
 UID:0502153017_1_dore
 DESCRIPTION:Sala 1 - Familia (Fernando León de Aranoa\, 1996). Int.: Juan
-  Luis Galiardo\, Amparo Muñoz\, Raquel Rodrigo. España. 98'\n\n\nFuente:
-  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
- ine/mc/fe/cine-dore/programacion/2005/PrograDore14.pdf
+  Luis Galiardo\, Amparo Muñoz\, Raquel\nRodrigo. España. 98'\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2005/PrograDore14.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -726,13 +727,13 @@ DTSTART;VALUE=DATE-TIME:20050217T173000
 DTEND;VALUE=DATE-TIME:20050217T191500
 UID:0502173017_1_dore
 DESCRIPTION:Sala 1 - Gladiatorerna (Peter Watkins\, 1968). Int.: Arthur Pe
- ntelow\, Frederick Danner\, Hans Bendrik. Suecia. VOSI/E*. 105'\n"Una obra
-  profética en muchos sentidos\, ya que anuncia el mito de la posibilidad 
- de la guerra televisada en directo\, tal como los canales de televisión l
- a vendieron al mundo\, en 1991\, con motivo del primer conflicto del Golfo
- " (Ángel Quintana). Segunda proyección día 20.\n\n\nFuente: http://www.
- mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
- ne-dore/programacion/2005/PrograDore14.pdf
+ ntelow\, Frederick Danner\, Hans Bendrik.\nSuecia. VOSI/E*. 105'\n"Una obr
+ a profética en muchos sentidos\, ya que anuncia el mito de la posibilidad
+  de la guerra televisada en directo\, tal como los canales de televisión 
+ la vendieron al mundo\, en 1991\, con motivo del primer conflicto del Golf
+ o" (Ángel Quintana). Segunda proyección día 20.\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2005/PrograDore14.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -777,10 +778,10 @@ DTSTART;VALUE=DATE-TIME:20050218T173000
 DTEND;VALUE=DATE-TIME:20050218T184700
 UID:0502183017_1_dore
 DESCRIPTION:Sala 1 - El sexto sentido (Nemesio Sobrevila\, 1929). Int.: Fa
- ustino Bretaño\, Enrique Durán\, Ricardo Baroja. España. 77'\nAcompaña
- miento de piano: Javier Pérez de Azpeitia.\n\n\nFuente: http://www.mecd.g
- ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
- e/programacion/2005/PrograDore14.pdf
+ ustino Bretaño\, Enrique Durán\, Ricardo\nBaroja. España. 77'\nAcompañ
+ amiento de piano: Javier Pérez de Azpeitia.\n\n\nFuente: http://www.mecd.
+ gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
+ re/programacion/2005/PrograDore14.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -919,10 +920,10 @@ DTSTART;VALUE=DATE-TIME:20050222T173000
 DTEND;VALUE=DATE-TIME:20050222T191000
 UID:0502223017_1_dore
 DESCRIPTION:Sala 1 - While the City Sleeps (Cuando Nueva York duerme\, Fri
- tz Lang\, 1956). Int.: Dana Andrews\, Vincent Price\, John Barrymore Jr. E
- E UU. VOSE. 100'\nSegunda proyección día 23.\n\n\nFuente: http://www.mec
- d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
- dore/programacion/2005/PrograDore14.pdf
+ tz Lang\, 1956). Int.: Dana Andrews\,\nVincent Price\, John Barrymore Jr. 
+ EE UU. VOSE. 100'\nSegunda proyección día 23.\n\n\nFuente: http://www.me
+ cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
+ -dore/programacion/2005/PrograDore14.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1018,9 +1019,9 @@ DTSTART;VALUE=DATE-TIME:20050224T173000
 DTEND;VALUE=DATE-TIME:20050224T191900
 UID:0502243017_1_dore
 DESCRIPTION:Sala 1 - Psycho (Psicosis\, Alfred Hitchcock\, 1960). Int.: Ja
- net Leigh\, Anthony Perkins\, Vera Miles. EE UU. VOSE. 109'\n\n\nFuente: h
- ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
- e/mc/fe/cine-dore/programacion/2005/PrograDore14.pdf
+ net Leigh\, Anthony Perkins\, Vera Miles. EE\nUU. VOSE. 109'\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2005/PrograDore14.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1171,9 +1172,9 @@ DTSTART;VALUE=DATE-TIME:20050227T173000
 DTEND;VALUE=DATE-TIME:20050227T190000
 UID:0502273017_1_dore
 DESCRIPTION:Sala 1 - Accidente 703 (José María Forqué\, 1961). Int.: Nu
- ria Torray\, Carlos Estrada\, Susana Campos. España. 90'\n\n\nFuente: htt
- p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
- mc/fe/cine-dore/programacion/2005/PrograDore14.pdf
+ ria Torray\, Carlos Estrada\, Susana Campos.\nEspaña. 90'\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
+ /mc/fe/cine-dore/programacion/2005/PrograDore14.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1206,9 +1207,9 @@ DTEND;VALUE=DATE-TIME:20050227T234500
 UID:0502270022_1_dore
 DESCRIPTION:Sala 1 - Martha und ich (Marta y yo\, Jiri Weiss\, 1990). Int.
  : Marianne Sägebrecht\, Michel Piccoli\,\nVáclav Chalupa. Alemania. VOSE
- . 105'\n </pre> </body> </html>\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2005/PrograDore14.pdf
+ . 105'\n</pre> </body> </html>\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2005/PrograDore14.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

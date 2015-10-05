@@ -65,11 +65,11 @@ DTSTART;VALUE=DATE-TIME:20050505T173000
 DTEND;VALUE=DATE-TIME:20050505T191400
 UID:0505053017_1_dore
 DESCRIPTION:Sala 1 - Mê Thao (Viet Linh\, 2002). Int.: Dung Nhi\, Don Duo
- ng\, Minh Trang. Vietnam / Francia. VOSF/E*. 104'\nEl dueño de Mê Thao c
- ulpa a la civilización moderna de la muerte de su novia en un accidente y
-  trata de volver a las costumbres antiguas. Segunda proyección hoy a las 
- 22.00.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
- ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore17.pdf
+ ng\, Minh Trang. Vietnam / Francia.\nVOSF/E*. 104'\nEl dueño de Mê Thao 
+ culpa a la civilización moderna de la muerte de su novia en un accidente 
+ y trata de volver a las costumbres antiguas. Segunda proyección hoy a las
+  22.00.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore17.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -102,12 +102,12 @@ DTSTART;VALUE=DATE-TIME:20050506T173000
 DTEND;VALUE=DATE-TIME:20050506T190700
 UID:0505063017_1_dore
 DESCRIPTION:Sala 1 - Anima nera (Anima nera\, Roberto Rossellini\, 1962). 
- Int.: Vittorio Gassman\, Nadja Tiller\, Eleonora Rossi Drago. Italia. VOSE
- *. 97'\nPelícula de encargo basada en la comedia homónima de Giuseppe Pa
- troni Griffi\, que Rossellini aceptó por razones “puramente alimenticia
- s”. Segunda proyección día 7.\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2005/PrograDore17.pdf
+ Int.: Vittorio Gassman\, Nadja Tiller\,\nEleonora Rossi Drago. Italia. VOS
+ E*. 97'\nPelícula de encargo basada en la comedia homónima de Giuseppe P
+ atroni Griffi\, que Rossellini aceptó por razones “puramente alimentici
+ as”. Segunda proyección día 7.\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2005/PrograDore17.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -211,10 +211,10 @@ DTSTART;VALUE=DATE-TIME:20050508T173000
 DTEND;VALUE=DATE-TIME:20050508T191000
 UID:0505083017_1_dore
 DESCRIPTION:Sala 1 - Wee Willie Winkie (La mascota del regimiento\, John F
- ord\, 1937). Int.: Shirley Temple\, Victor McLaglen\, C. Aubrey Smith. EE 
- UU. VOSE. 100'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
- ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDor
- e17.pdf
+ ord\, 1937). Int.: Shirley Temple\, Victor\nMcLaglen\, C. Aubrey Smith. EE
+  UU. VOSE. 100'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDo
+ re17.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +264,12 @@ DTSTART;VALUE=DATE-TIME:20050510T173000
 DTEND;VALUE=DATE-TIME:20050510T190000
 UID:0505103017_1_dore
 DESCRIPTION:Sala 1 - Dans les champs de bataille (Danielle Arbid\, 2004). 
- Int.: Marianne Feghali\, Rawia Elchab\, Laudi Arbid-Nasr. Francia / Bélgi
- ca. VOSF/E* 90'\nBeirut\, 1983. Rodeada por una guerra convertida en algo 
- cotidiano\, Lina entra en el mundo de los adultos. Segunda proyección dí
- a hoy a las 22.30.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
- cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Progr
- aDore17.pdf
+ Int.: Marianne Feghali\, Rawia Elchab\,\nLaudi Arbid-Nasr. Francia / Bélg
+ ica. VOSF/E* 90'\nBeirut\, 1983. Rodeada por una guerra convertida en algo
+  cotidiano\, Lina entra en el mundo de los adultos. Segunda proyección d
+ ía hoy a las 22.30.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Pro
+ graDore17.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -379,11 +379,11 @@ DTSTART;VALUE=DATE-TIME:20050512T173000
 DTEND;VALUE=DATE-TIME:20050512T190000
 UID:0505123017_1_dore
 DESCRIPTION:Sala 1 - La muerte silba un blues (Jesús Franco\, 1962). Int.
- : Conrado San Martín\, Danick Patisson\, Agustín González. España. 90'
- \nUn contrabandista que engañó a sus compañeros y se casó con la mujer
-  de uno de ellos\, es víctima de una terrible venganza.\n\n\nFuente: http
- ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
- c/fe/cine-dore/programacion/2005/PrograDore17.pdf
+ : Conrado San Martín\, Danick Patisson\,\nAgustín González. España. 90
+ '\nUn contrabandista que engañó a sus compañeros y se casó con la muje
+ r de uno de ellos\, es víctima de una terrible venganza.\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2005/PrograDore17.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -464,11 +464,11 @@ DTSTART;VALUE=DATE-TIME:20050513T201000
 DTEND;VALUE=DATE-TIME:20050513T235500
 UID:0505131020_2_dore
 DESCRIPTION:Sala 2 - La lotta dell’uomo per la sua sopravvivenza (La luc
- ha del hombre por la supervivencia\, Renzo Rossellini\, 1967-69). Episodio
- s 9 al 12. Int.: Massimo Sarchielli\, Bepy Mannaiuolo. Italia. VOSE*. Víd
- eo. Se hará una pausa de 15' a la mitad del programa. Total programa: 225
- '\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
- reas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore17.pdf
+ ha del hombre por la supervivencia\,\nRenzo Rossellini\, 1967-69). Episodi
+ os 9 al 12. Int.: Massimo Sarchielli\, Bepy Mannaiuolo. Italia. VOSE*. Ví
+ deo. Se hará una pausa de 15' a la mitad del programa. Total programa: 22
+ 5'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
+ areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore17.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -595,7 +595,7 @@ DTSTART;VALUE=DATE-TIME:20050517T173000
 DTEND;VALUE=DATE-TIME:20050517T191000
 UID:0505173017_1_dore
 DESCRIPTION:Sala 1 - Nacional III (Luis G. Berlanga\, 1982). Int.: Luis Es
- cobar\, José Luis López Vázquez\, Agustín González. España. 100'\n
+ cobar\, José Luis López Vázquez\, Agustín\nGonzález. España. 100'\n
  “Yo hice un cura tramontano y preconciliar que impregna de humor el desa
  rrollo de la historia. Pero si estudias su comportamiento fríamente queda
   algo verdaderamente terrible\, porque lo condena sin compasión” (Agust
@@ -1173,15 +1173,15 @@ DTSTART;VALUE=DATE-TIME:20050528T173000
 DTEND;VALUE=DATE-TIME:20050528T203900
 UID:0505283017_1_dore
 DESCRIPTION:Sala 1 - Fanny och Alexander (Fanny y Alexander\, Ingmar Bergm
- an\, 1982). Int.: Pernilla Allwin\, Bertil Guve\, Börje Ahlstedt. Suecia.
-  VOSI/E*. 189'\n"A través de Alexander\, Bergman describe la necesidad de
-  relatar\, desde los sueños y los cuentos de hadas hasta el teatro e (imp
- lícitamente) el cine. Como en La noche del cazador\, se permite a un dram
- a psicológico realista expandirse hacia la fantasía. El resultado es una
-  de las películas de Bergman más sugerentes" (Dave Kehr). Segunda proyec
- ción día 31.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
- ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDor
- e17.pdf
+ an\, 1982). Int.: Pernilla Allwin\,\nBertil Guve\, Börje Ahlstedt. Suecia
+ . VOSI/E*. 189'\n"A través de Alexander\, Bergman describe la necesidad d
+ e relatar\, desde los sueños y los cuentos de hadas hasta el teatro e (im
+ plícitamente) el cine. Como en La noche del cazador\, se permite a un dra
+ ma psicológico realista expandirse hacia la fantasía. El resultado es un
+ a de las películas de Bergman más sugerentes" (Dave Kehr). Segunda proye
+ cción día 31.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDo
+ re17.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1228,9 +1228,9 @@ DTSTART;VALUE=DATE-TIME:20050529T173000
 DTEND;VALUE=DATE-TIME:20050529T185200
 UID:0505293017_1_dore
 DESCRIPTION:Sala 1 - Hugo och Josefin (Hugo y Josefina\, Kjell Grede\, 196
- 8). Int.: Marie Öhman\, Fredrik Becklén\, Beppe Wolgers. Suecia. VOSE*. 
- 82'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
- /areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore17.pdf
+ 8). Int.: Marie Öhman\, Fredrik Becklén\,\nBeppe Wolgers. Suecia. VOSE*.
+  82'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
+ d/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore17.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1275,14 +1275,14 @@ DTSTART;VALUE=DATE-TIME:20050531T173000
 DTEND;VALUE=DATE-TIME:20050531T191900
 UID:0505313017_1_dore
 DESCRIPTION:Sala 1 - Belle Époque (Fernando Trueba\, 1992). Int.: Fernand
- o Fernán Gómez\, Jorge Sanz\, Agustín González. España. 109'\n“Cuan
- do Trueba me llamó para ofrecerme el papel le pregunté por qué se suici
- daba el cura y me contestó que no lo sabía. Luego me enteré que estaba 
- basado en un relato de Azcona donde seguramente se explica la razón por l
- a que este cura se quita la vida\, pero en el cine se lo habían saltado\,
-  simplemente no se añadía nada” (Agustín González).\n\n\nFuente: htt
- p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
- mc/fe/cine-dore/programacion/2005/PrograDore17.pdf
+ o Fernán Gómez\, Jorge Sanz\, Agustín\nGonzález. España. 109'\n“Cua
+ ndo Trueba me llamó para ofrecerme el papel le pregunté por qué se suic
+ idaba el cura y me contestó que no lo sabía. Luego me enteré que estaba
+  basado en un relato de Azcona donde seguramente se explica la razón por 
+ la que este cura se quita la vida\, pero en el cine se lo habían saltado\
+ , simplemente no se añadía nada” (Agustín González).\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
+ /mc/fe/cine-dore/programacion/2005/PrograDore17.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1313,9 +1313,9 @@ SUMMARY:Programa por confirmar
 DTSTART;VALUE=DATE-TIME:20050531T213000
 DTEND;VALUE=DATE-TIME:20050531T223300
 UID:0505313021_2_dore
-DESCRIPTION:Sala 2 - Programa por confirmar\n </pre> </body> </html>\n\n\n
- Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
- ltura/cine/mc/fe/cine-dore/programacion/2005/PrograDore17.pdf
+DESCRIPTION:Sala 2 - Programa por confirmar\n</pre> </body> </html>\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2005/PrograDore17.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

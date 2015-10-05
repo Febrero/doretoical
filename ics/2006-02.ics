@@ -246,10 +246,10 @@ DTSTART;VALUE=DATE-TIME:20060205T173000
 DTEND;VALUE=DATE-TIME:20060205T190200
 UID:0602053017_1_dore
 DESCRIPTION:Sala 1 - Great Day in the Morning (Una pistola al amanecer\, J
- acques Tourneur\, 1956). Int.: Virginia Mayo\, Robert Stack\, Ruth Roman. 
- EE UU. VOSE*. 92'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
- d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Progra
- Dore26.pdf
+ acques Tourneur\, 1956). Int.: Virginia\nMayo\, Robert Stack\, Ruth Roman.
+  EE UU. VOSE*. 92'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Progr
+ aDore26.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -295,10 +295,10 @@ DTSTART;VALUE=DATE-TIME:20060207T173000
 DTEND;VALUE=DATE-TIME:20060207T190800
 UID:0602073017_1_dore
 DESCRIPTION:Sala 1 - Copy Shop (Virgil Widrich\, 2001). 12'. Heimkehr der 
- Jäger (Michael Kreihsl\, 2000). Int.: Ulrich Tukur\, Julia Filimonow\, Jo
- hannes Silberschneider. 86'. Austria. VOSE*. Total programa: 98'\n\n\nFuen
- te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
- a/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+ Jäger (Michael Kreihsl\, 2000). Int.:\nUlrich Tukur\, Julia Filimonow\, J
+ ohannes Silberschneider. 86'. Austria. VOSE*. Total programa: 98'\n\n\nFue
+ nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
+ ra/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -571,10 +571,10 @@ DTSTART;VALUE=DATE-TIME:20060212T173000
 DTEND;VALUE=DATE-TIME:20060212T190300
 UID:0602123017_1_dore
 DESCRIPTION:Sala 1 - Die Angst essen Seele auf (Todos nos llamamos Alí\, 
- Rainer Werner Fassbinder\, 1973). Int.: Brigitte Mira\, El Hedi ben Salem\
- , Barbara Valentin.Alemania. VOSE. 93'\n\n\nFuente: http://www.mecd.gob.es
- /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
- gramacion/2006/PrograDore26.pdf
+ Rainer Werner Fassbinder\, 1973). Int.:\nBrigitte Mira\, El Hedi ben Salem
+ \, Barbara Valentin.Alemania. VOSE. 93'\n\n\nFuente: http://www.mecd.gob.e
+ s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
+ ogramacion/2006/PrograDore26.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -681,11 +681,11 @@ DTSTART;VALUE=DATE-TIME:20060215T173000
 DTEND;VALUE=DATE-TIME:20060215T185500
 UID:0602153017_1_dore
 DESCRIPTION:Sala 1 - The Men (Hombres\, Fred Zinnemann\, 1950). Int.: Marl
- on Brando\, Teresa Wright\, Everett Sloane. EE UU. VOSE. 85'\nUn grupo de 
- soldados\, internados en un hospital\, se enfrenta a las secuelas físicas
-  y psicológicas de sus heridas y trata de reajustarse a la vida civil.\n\
- n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
- -cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+ on Brando\, Teresa Wright\, Everett\nSloane. EE UU. VOSE. 85'\nUn grupo de
+  soldados\, internados en un hospital\, se enfrenta a las secuelas física
+ s y psicológicas de sus heridas y trata de reajustarse a la vida civil.\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -860,9 +860,9 @@ DTSTART;VALUE=DATE-TIME:20060218T173000
 DTEND;VALUE=DATE-TIME:20060218T191900
 UID:0602183017_1_dore
 DESCRIPTION:Sala 1 - All the King's Men (El político\, Robert Rossen\, 19
- 49). Int.: Broderick Crawford\, John Ireland\, Joanne Dru. EE UU. VOSE. 10
- 9'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
- areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+ 49). Int.: Broderick Crawford\, John Ireland\,\nJoanne Dru. EE UU. VOSE. 1
+ 09'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -910,10 +910,10 @@ DTSTART;VALUE=DATE-TIME:20060219T173000
 DTEND;VALUE=DATE-TIME:20060219T185900
 UID:0602193017_1_dore
 DESCRIPTION:Sala 1 - Rosa Coeli (Josef Dabernig\, 2003). VOSE*. 24'. Mein 
- Stern (Valeska Grisebach\, 2001). Int.: Nicole Gläser\, Christopher Schö
- ps\, Tina Sanoker. VOSE. 65'. Austria. Total programa: 89'\n\n\nFuente: ht
- tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
- /mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+ Stern (Valeska Grisebach\, 2001). Int.:\nNicole Gläser\, Christopher Sch
+ öps\, Tina Sanoker. VOSE. 65'. Austria. Total programa: 89'\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1119,12 +1119,12 @@ DTSTART;VALUE=DATE-TIME:20060224T173000
 DTEND;VALUE=DATE-TIME:20060224T193300
 UID:0602243017_1_dore
 DESCRIPTION:Sala 1 - They Came to Cordura (Robert Rossen\, 1959). Int.: Ga
- ry Cooper\, Rita Hayworth\, Van Heflin. EE UU. VOSE*. 123'\nEl mayor Thorn
- \, que arrastra una reputación de cobarde\, recibe el encargo de seleccio
- nar a cinco soldados para ser condecorados y atravesar con ellos el desier
- to. Por el camino se les une una mujer.\n\n\nFuente: http://www.mecd.gob.e
- s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
- ogramacion/2006/PrograDore26.pdf
+ ry Cooper\, Rita Hayworth\, Van Heflin.\nEE UU. VOSE*. 123'\nEl mayor Thor
+ n\, que arrastra una reputación de cobarde\, recibe el encargo de selecci
+ onar a cinco soldados para ser condecorados y atravesar con ellos el desie
+ rto. Por el camino se les une una mujer.\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2006/PrograDore26.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1173,9 +1173,9 @@ DTSTART;VALUE=DATE-TIME:20060225T173000
 DTEND;VALUE=DATE-TIME:20060225T192000
 UID:0602253017_1_dore
 DESCRIPTION:Sala 1 - Island in the Sun (La isla del sol\, Robert Rossen\, 
- 1957). Int.: James Mason\, Joan Fontaine\, Dorothy Dandridge. EE UU. VOSE*
- . 110'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
- ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+ 1957). Int.: James Mason\, Joan Fontaine\,\nDorothy Dandridge. EE UU. VOSE
+ *. 110'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1280,11 +1280,11 @@ DTSTART;VALUE=DATE-TIME:20060228T173000
 DTEND;VALUE=DATE-TIME:20060228T190500
 UID:0602283017_1_dore
 DESCRIPTION:Sala 1 - Die Siebtelbauern (Los herederos\, Stefan Ruzowitzky\
- , 1998). Int.: Simon Schwartz\, Sophie Tois\, Lars Rudolph. Austria. VOSE.
-  95'\nNorte de Austria. Años treinta. Siete campesinos heredan una granja
-  tras el asesinato de su dueño. Es el principio de una dramática lucha.\
- n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
- as-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
+ , 1998). Int.: Simon Schwartz\, Sophie\nTois\, Lars Rudolph. Austria. VOSE
+ . 95'\nNorte de Austria. Años treinta. Siete campesinos heredan una granj
+ a tras el asesinato de su dueño. Es el principio de una dramática lucha.
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore26.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1320,9 +1320,9 @@ DTSTART;VALUE=DATE-TIME:20060228T220000
 DTEND;VALUE=DATE-TIME:20060228T235700
 UID:0602280022_1_dore
 DESCRIPTION:Sala 1 - 20 años no es nada (Joaquim Jordà\, 2004). Document
- al. España. 117'\n </pre> </body> </html>\n\n\nFuente: http://www.mecd.go
- b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
- /programacion/2006/PrograDore26.pdf
+ al. España. 117'\n</pre> </body> </html>\n\n\nFuente: http://www.mecd.gob
+ .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
+ programacion/2006/PrograDore26.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

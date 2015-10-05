@@ -579,9 +579,9 @@ DTSTART;VALUE=DATE-TIME:20061115T173000
 DTEND;VALUE=DATE-TIME:20061115T185600
 UID:0611153017_1_dore
 DESCRIPTION:Sala 1 - Los ojos del engaño (Francisco Javier Capell\, 2004)
- . Int.: Mirta Miller\, Josep Maria Blanco\, Xavier Serrat. 86'\nAforo limi
- tado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
- d/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
+ . Int.: Mirta Miller\, Josep Maria Blanco\,\nXavier Serrat. 86'\nAforo lim
+ itado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1119,10 +1119,10 @@ DTSTART;VALUE=DATE-TIME:20061126T173000
 DTEND;VALUE=DATE-TIME:20061126T193600
 UID:0611263017_1_dore
 DESCRIPTION:Sala 1 - El mundo alrededor (Alejandro Calvo Sotelo\, 2006). I
- nt.: Antonio Molero\, Óscar Sánchez Zafra\, Críspulo Cabezas. 126'\nAfo
- ro limitado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
- ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35
- .pdf
+ nt.: Antonio Molero\, Óscar Sánchez\nZafra\, Críspulo Cabezas. 126'\nAf
+ oro limitado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore3
+ 5.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1218,9 +1218,9 @@ DTSTART;VALUE=DATE-TIME:20061129T173000
 DTEND;VALUE=DATE-TIME:20061129T190100
 UID:0611293017_1_dore
 DESCRIPTION:Sala 1 - Un minuto de silencio (Roberto Maiocco\, 2006). Int.:
-  Eduardo Blanco\, Alejandra Darín\, Antonio Dechent. 91'\nAforo limitado\
- n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
- as-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
+  Eduardo Blanco\, Alejandra Darín\,\nAntonio Dechent. 91'\nAforo limitado
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1274,10 +1274,10 @@ DTSTART;VALUE=DATE-TIME:20061130T173000
 DTEND;VALUE=DATE-TIME:20061130T192400
 UID:0611303017_1_dore
 DESCRIPTION:Sala 1 - Agents secrets / Agentes secretos (Frederic Shoendoer
- ffer\, 2006). Int.: Vincent Cassel\, Monica Bellucci\, André Dussollier. 
- 114'\nAforo limitado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
- mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Pro
- graDore35.pdf
+ ffer\, 2006). Int.: Vincent Cassel\, Monica\nBellucci\, André Dussollier.
+  114'\nAforo limitado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Pr
+ ograDore35.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1318,9 +1318,9 @@ DESCRIPTION:Sala 1 - Eyes Wide Shut (Eyes Wide Shut\, Stanley Kubrick\, 19
  99). Int.: Tom Cruise\, Nicole Kidman\, Sydney Pollack. EE UU. VOSE. 159'\
  nLa obra póstuma de Stanley Kubrick\, basada en un relato de Arthur Schni
  tzler\, contribuyó\, entre otras cosas\, a popularizar un fragmento de la
- s Suites de Jazz de Shostakovich.  </pre> </body> </html>\n\n\nFuente: htt
- p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
- mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
+ s Suites de Jazz de Shostakovich. </pre> </body> </html>\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2006/PrograDore35.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

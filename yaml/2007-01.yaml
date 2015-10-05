@@ -8,7 +8,6 @@ sala: "2"
 título: "Futuro imperfecto"
 nota: |
   Futuro imperfecto (Nino Quevedo, 1984). Int.: Nina Ferrer , Angel Alcázar, Lola Cardona. España. 96'
-
 ---
 inicio: "2007-01-02 21:00"
 duración: "153"
@@ -17,16 +16,15 @@ título: "The Four Horsemen of the Apocalypse"
 nota: |
   The Four Horsemen of the Apocalypse (Los cuatro jinetes del Apocalipsis, Vincente
   Minnelli, 1960). Int.: Glenn Ford, Ingrid Thulin, Charles Boyer. EE UU. VOSE*. 153'
-
 ---
 inicio: "2007-01-03 17:30"
 duración: "109"
 sala: "1"
 título: "Gilda"
 nota: |
-  Gilda (Gilda, Charles Vidor, 1946). Int.: Glenn Ford, Rita Hayworth, George MacReady. EE UU. VOSE. 109'
+  Gilda (Gilda, Charles Vidor, 1946). Int.: Glenn Ford, Rita Hayworth, George MacReady. EE
+  UU. VOSE. 109'
   Segunda proyección día 4.
-
 ---
 inicio: "2007-01-03 19:40"
 duración: "89"
@@ -35,7 +33,6 @@ título: "Human Desire"
 nota: |
   Human Desire (Deseos humanos, Fritz Lang, 1954). Int.: Glenn Ford, Gloria Grahame, Paul Douglas. EE UU. VOSE. 89'
   Segunda proyección día 5.
-
 ---
 inicio: "2007-01-03 20:00"
 duración: "120"
@@ -43,7 +40,6 @@ sala: "2"
 título: "El poderoso influjo de la luna"
 nota: |
   El poderoso influjo de la luna (Antonio del Real, 1980). Int.: Alfredo Landa, Adolfo Marsillach, Irene Gutiérrez Caba. Productor ejecutivo: Manuel Manchón. España. 120'
-
 ---
 inicio: "2007-01-03 22:00"
 duración: "120"
@@ -53,7 +49,6 @@ nota: |
   Senso (Senso, Luchino Visconti, 1954). Int.: Alida Valli, Farley Granger, Massimo Girotti.
   Italia. VOSE. 120'
   Segunda proyección día 5.
-
 ---
 inicio: "2007-01-04 17:30"
 duración: "116"
@@ -61,7 +56,6 @@ sala: "1"
 título: "The Three Musketeers"
 nota: |
   The Three Musketeers (Los tres mosqueteros, George Sidney, 1948). Int.: Gene Kelly, June Allyson, Lana Turner. EE UU. VOSE. 116'
-
 ---
 inicio: "2007-01-04 19:45"
 duración: "100"
@@ -71,7 +65,6 @@ nota: |
   Magasiskola (Los halcones, Itsván Gaál, 1969). Int.: Ivan Andonov, György Bânffy, Judit
   Meszläry Hungría. VOSI/E*. 100'
   Segunda proyección día 10.
-
 ---
 inicio: "2007-01-04 20:00"
 duración: "117"
@@ -79,7 +72,6 @@ sala: "2"
 título: "Valentín"
 nota: |
   Valentín (Juan Luis Iborra, 2001). Int.: Roberto Álamo, Lluis Homar, Lola Cardona. España. 117'
-
 ---
 inicio: "2007-01-04 22:00"
 duración: "109"
@@ -88,15 +80,14 @@ título: "Gilda"
 nota: |
   Gilda (Gilda, Charles Vidor, 1946). Int.: Glenn Ford, Rita Hayworth, George MacReady. EE
   UU. VOSE. 109'
-
 ---
 inicio: "2007-01-05 17:30"
 duración: "122"
 sala: "1"
 título: "Senso"
 nota: |
-  Senso (Senso, Luchino Visconti, 1954). Int.: Alida Valli, Farley Granger, Massimo Girotti. Italia. VOSE. 122'
-
+  Senso (Senso, Luchino Visconti, 1954). Int.: Alida Valli, Farley Granger, Massimo Girotti.
+  Italia. VOSE. 122'
 ---
 inicio: "2007-01-05 19:30"
 duración: "96"
@@ -105,7 +96,6 @@ título: "Historias de la radio"
 nota: |
   Historias de la radio (José Luis Sáenz de Heredia, 1955). Int.: Francisco Rabal, José Isbert,
   Ángel de Andrés. España. 96'
-
 ---
 inicio: "2007-01-05 20:00"
 duración: "74"
@@ -115,7 +105,6 @@ nota: |
   Struktura krysztalu (La estructura de cristal, Krzysztof Zanussi, 1969). Int.: Barbara
   Wrzezinska, Andrzej Zarnecki, Jan Myslowicz. Polonia. VOSI/E*. 74'
   Segunda proyección día 9.
-
 ---
 inicio: "2007-01-05 22:00"
 duración: "89"
@@ -123,15 +112,14 @@ sala: "1"
 título: "Human Desire"
 nota: |
   Human Desire (Deseos humanos, Fritz Lang, 1954). Int.: Glenn Ford, Gloria Grahame, Paul Douglas. EE UU. VOSE. 89'
-
 ---
 inicio: "2007-01-09 17:30"
 duración: "74"
 sala: "1"
 título: "Struktura krysztalu"
 nota: |
-  Struktura krysztalu (La estructura de cristal, Krzysztof Zanussi, 1969). Int.: Barbara Wrzezinska, Andrzej Zarnecki, Jan Myslowicz. Polonia. VOSI/E*. 74'
-
+  Struktura krysztalu (La estructura de cristal, Krzysztof Zanussi, 1969). Int.: Barbara
+  Wrzezinska, Andrzej Zarnecki, Jan Myslowicz. Polonia. VOSI/E*. 74'
 ---
 inicio: "2007-01-09 19:30"
 duración: "130"
@@ -141,7 +129,6 @@ nota: |
   Narayama Bushiko (La balada del Narayama, Shohei Imamura, 1982). Int.: Ken Ogata ,
   Sumiko Sakamoto , Tonpei Hidari. Japón. VOSE. 130'
   Segunda proyección día 20.
-
 ---
 inicio: "2007-01-09 20:00"
 duración: "109"
@@ -149,7 +136,6 @@ sala: "2"
 título: "Las Leandras"
 nota: |
   Las Leandras (Eugenio Martín, 1969). Int.: Rocío Durcal, Alfredo Landa , Isabel Garcés. España. 109'
-
 ---
 inicio: "2007-01-09 22:00"
 duración: "91"
@@ -159,7 +145,6 @@ nota: |
   Viskningar och rop (Gritos y susurros, Ingmar Bergman, 1972). Int.: Harriet Andersson, Liv
   Ullmann, Ingrid Thulin. Fotografía: Sven Nvykyst. Suecia. VOSE. 91'
   Segunda proyección día 11.
-
 ---
 inicio: "2007-01-10 17:30"
 duración: "100"
@@ -167,7 +152,6 @@ sala: "1"
 título: "Magasiskola"
 nota: |
   Magasiskola (Los halcones, Itsván Gaál, 1969). Int.: Ivan Andonov, György Bânffy, Judit Meszläry Hungría. VOSI/E*. 100'
-
 ---
 inicio: "2007-01-10 19:30"
 duración: "104"
@@ -176,7 +160,6 @@ título: "Le Fantôme de la liberté"
 nota: |
   Le Fantôme de la liberté (El fantasma de la libertad, Luis Buñuel, 1974). Int.: Jean-Claude
   Brialy, Monica Vitti, Claude Piéplu. Francia. VOSE*. 104'
-
 ---
 inicio: "2007-01-10 20:00"
 duración: "101"
@@ -185,7 +168,6 @@ título: "491"
 nota: |
   491 (491, Vilgot Sjöman, 1964). Int.: Lars Lind, Leif Nymark, Stig Tornblom. Suecia. VOSE.
   101'
-
 ---
 inicio: "2007-01-10 22:00"
 duración: "89"
@@ -194,15 +176,14 @@ título: "Les Yeux sans visage"
 nota: |
   Les Yeux sans visage (Los ojos sin rostro, Georges Franju, 1959). Int.: Pierre Brasseur, Alida
   Valli, Edith Scob. Francia / Italia. VOSE. 89'
-
 ---
 inicio: "2007-01-11 17:30"
 duración: "91"
 sala: "1"
 título: "Viskningar och rop"
 nota: |
-  Viskningar och rop (Gritos y susurros, Ingmar Bergman, 1972). Int.: Harriet Andersson, Liv Ullmann, Ingrid Thulin. Fotografía: Sven Nvykyst. Suecia. VOSE. 91'
-
+  Viskningar och rop (Gritos y susurros, Ingmar Bergman, 1972). Int.: Harriet Andersson, Liv
+  Ullmann, Ingrid Thulin. Fotografía: Sven Nvykyst. Suecia. VOSE. 91'
 ---
 inicio: "2007-01-11 19:30"
 duración: "112"
@@ -211,7 +192,6 @@ título: "Mararía"
 nota: |
   Mararía (Antonio Betancor, 1998). Int.: Goya Toledo, Carmelo Gómez, Iain Glenn. España.
   112'
-
 ---
 inicio: "2007-01-11 20:00"
 duración: "121"
@@ -221,7 +201,6 @@ nota: |
   Jag är nyfiken gul (Yo soy curiosa (amarillo), Vilgot Sjöman, 1967). Int.: Lena Nyman, Peter
   Lindgren, Vilgot Sjöman. Suecia. Vídeo. VOSE. 121'
   Segunda proyección día 13.
-
 ---
 inicio: "2007-01-11 22:00"
 duración: "120"
@@ -230,7 +209,6 @@ título: "Akai hashi noshitano nurui mizu"
 nota: |
   Akai hashi noshitano nurui mizu (Agua tibia bajo un puente rojo, Shohei Imamura, 2001). Int.: Koji Yakusho, Misa Shimizu, Mitsuko Baisho. Japón. VOSE. 120'
   Segunda proyección día 12.
-
 ---
 inicio: "2007-01-12 17:30"
 duración: "120"
@@ -238,7 +216,6 @@ sala: "1"
 título: "Akai hashi noshitano nurui mizu"
 nota: |
   Akai hashi noshitano nurui mizu (Agua tibia bajo un puente rojo, Shohei Imamura, 2001). Int.: Koji Yakusho, Misa Shimizu, Mitsuko Baisho. Japón. VOSE. 120'
-
 ---
 inicio: "2007-01-12 19:50"
 duración: "94"
@@ -247,7 +224,6 @@ título: "Nóz w wodzie"
 nota: |
   Nóz w wodzie (El cuchillo en el agua, Roman Polanski, 1962). Int.: Leon Niemczyk, Jolanta
   Umecka, Zygmunt Malanowicz. Polonia. VOSE*. 94'
-
 ---
 inicio: "2007-01-12 20:00"
 duración: "107"
@@ -257,7 +233,6 @@ nota: |
   Jag är nyfiken bla (Yo soy curiosa (azul), Vilgot Sjöman, 1968). Int.: Börje Ahlstedt, Lena
   Nyman, Peter Lindgren. Suecia. Vídeo. VOSE. 107'
   Segunda proyección día 14.
-
 ---
 inicio: "2007-01-12 22:00"
 duración: "118"
@@ -265,16 +240,15 @@ sala: "1"
 título: "La battaglia di Algeri"
 nota: |
   La battaglia di Algeri (La batalla de Argel, Gillo Pontecorvo, 1966). Int.: Jean Martin, Yacef Saadi, Brahim Haggiag. Italia / Argelia. VOSE. 118'
-
 ---
 inicio: "2007-01-13 17:30"
 duración: "176"
 sala: "1"
 título: "Rekopis znaleziony w Saragossie"
 nota: |
-  Rekopis znaleziony w Saragossie (El manuscrito encontrado en Zaragoza, Wojciech Has, 1964-65). Int.: Zbigniew Cybulski, Kazimierz Opalinski, Iga Cembrzynska. Polonia. VOSE. 176’
+  Rekopis znaleziony w Saragossie (El manuscrito encontrado en Zaragoza, Wojciech Has,
+  1964-65). Int.: Zbigniew Cybulski, Kazimierz Opalinski, Iga Cembrzynska. Polonia. VOSE. 176’
   Segunda proyección día 19.
-
 ---
 inicio: "2007-01-13 20:00"
 duración: "121"
@@ -282,7 +256,6 @@ sala: "2"
 título: "Jag är nyfiken gul"
 nota: |
   Jag är nyfiken gul (Yo soy curiosa (amarillo), Vilgot Sjöman, 1967). Int.: Lena Nyman, Peter Lindgren, Vilgot Sjöman. Suecia. Vídeo. VOSE. 121'
-
 ---
 inicio: "2007-01-13 21:00"
 duración: "150"
@@ -291,15 +264,14 @@ título: "Memoirs of a Geisha"
 nota: |
   Memoirs of a Geisha (Memorias de una geisha, Rob Marshall,2005). Int.: Ken Watanabe,
   Michelle Yeoh, Zhang Ziyi. Dirección artística: Gretchen Rau. EE UU. VOSE. 150'
-
 ---
 inicio: "2007-01-14 17:30"
 duración: "102"
 sala: "1"
 título: "Tengo 17 años"
 nota: |
-  Tengo 17 años (José María Forqué, 1964). Int.: Rocio Durcal, Roberto Font, Pedro Osinaga. España. 102'
-
+  Tengo 17 años (José María Forqué, 1964). Int.: Rocio Durcal, Roberto Font, Pedro Osinaga.
+  España. 102'
 ---
 inicio: "2007-01-14 19:30"
 duración: "105"
@@ -309,7 +281,6 @@ nota: |
   Krajobraz po bitwie (Paisaje después de una batalla, Andrzej Wajda, 1970). Int.: Daniel
   Olbrychski, Stanislawa Celinska, Tadeusz Janczar. Polonia. VOSE. 105'
   Segunda proyección día 16.
-
 ---
 inicio: "2007-01-14 20:00"
 duración: "107"
@@ -317,7 +288,6 @@ sala: "2"
 título: "Jag är nyfiken bla"
 nota: |
   Jag är nyfiken bla (Yo soy curiosa (azul), Vilgot Sjöman, 1968). Int.: Börje Ahlstedt, Lena Nyman, Peter Lindgren. Suecia. Vídeo. VOSE. 107'
-
 ---
 inicio: "2007-01-14 22:00"
 duración: "100"
@@ -327,7 +297,6 @@ nota: |
   The Front Page (Primera plana, Billy Wilder, 1974). Int.: Jack Lemmon, Walter Matthau,
   Susan Sarandon. Dirección artística: Henry Bumsted. EE UU. VOSE. 100'
   Segunda proyección día 16.
-
 ---
 inicio: "2007-01-16 17:30"
 duración: "100"
@@ -335,7 +304,6 @@ sala: "1"
 título: "The Front Page"
 nota: |
   The Front Page (Primera plana, Billy Wilder, 1974). Int.: Jack Lemmon, Walter Matthau, Susan Sarandon. Dirección artística: Henry Bumsted. EE UU. VOSE. 100'
-
 ---
 inicio: "2007-01-16 19:30"
 duración: "131"
@@ -344,7 +312,6 @@ título: "El aura"
 nota: |
   El aura (Fabián Bielinski, 2005). Int.: Ricardo Darín, Dolores Fonzi, Alejandro Awada. España /
   Argentina. 131'
-
 ---
 inicio: "2007-01-16 20:00"
 duración: "80"
@@ -353,7 +320,6 @@ título: "El señorito y las seductoras"
 nota: |
   El señorito y las seductoras (Tito Fernández, 1970). Int.: Arturo Fernández, Marisa Paredes,
   Manuel Gómez Bur. España. 80'
-
 ---
 inicio: "2007-01-16 22:00"
 duración: "105"
@@ -362,16 +328,15 @@ título: "Krajobraz po bitwie"
 nota: |
   Krajobraz po bitwie (Paisaje después de una batalla, Andrzej Wajda, 1970). Int.: Daniel
   Olbrychski, Stanislawa Celinska, Tadeusz Janczar. Polonia. VOSE. 105'
-
 ---
 inicio: "2007-01-17 17:30"
 duración: "170"
 sala: "1"
 título: "Faraon"
 nota: |
-  Faraon (Faraón, Jerzy Kawalerowicz, 1966). Int.: Jerzy Zelnik, Barbara Brylska, Krystyna Mikolajewska. Polonia. VOSE. 170'
+  Faraon (Faraón, Jerzy Kawalerowicz, 1966). Int.: Jerzy Zelnik, Barbara Brylska, Krystyna
+  Mikolajewska. Polonia. VOSE. 170'
   Segunda proyección día 20.
-
 ---
 inicio: "2007-01-17 20:00"
 duración: "112"
@@ -379,7 +344,6 @@ sala: "2"
 título: "Navajeros"
 nota: |
   Navajeros (Eloy de la Iglesia, 1980). Int.: José Luis Manzano, José Sacristán, Isela Vega. España. 112'
-
 ---
 inicio: "2007-01-17 21:00"
 duración: "122"
@@ -388,15 +352,14 @@ título: "A Place in the Sun"
 nota: |
   A Place in the Sun (Un lugar en el sol, George Stevens, 1951). Int.: Elizabeth Taylor,
   Montgomery Clift, Shelley Winters. EE UU. VOSE. 122'
-
 ---
 inicio: "2007-01-18 17:30"
 duración: "95"
 sala: "1"
 título: "La querida"
 nota: |
-  La querida (Fernando Fernán Gómez, 1976). Int.: Rocío Jurado, Fernando Fernán Gómez, Ricardo Merino. España. 95'
-
+  La querida (Fernando Fernán Gómez, 1976). Int.: Rocío Jurado, Fernando Fernán Gómez,
+  Ricardo Merino. España. 95'
 ---
 inicio: "2007-01-18 19:30"
 duración: "100"
@@ -406,7 +369,6 @@ nota: |
   Kozjat rog (Cuerno de cabra, Metodi Andonov, 1972). Int.: Katia Paskaleva, Anton Gorchev,
   Kolev Todor. Bulgaria. VOSE. 100'
   Presentación del libro Vientos del Este con la asistencia de Carlos Losilla y José Enrique Monterde (editores) y José Antonio Hurtado (director del IVAC) Segunda proyección día 21.
-
 ---
 inicio: "2007-01-18 20:00"
 duración: "96"
@@ -414,7 +376,6 @@ sala: "2"
 título: "Une aussi longue absence"
 nota: |
   Une aussi longue absence (Una larga ausencia, Henri Colpi, 1960). Int.: Alida Valli, Georges Wilson, Charles Blavette. Francia / Italia. VOSE. 96'
-
 ---
 inicio: "2007-01-18 22:30"
 duración: "93"
@@ -424,7 +385,6 @@ nota: |
   The Night of the Hunter (La noche del cazador, Charles Laughton, 1955). Int.: Robert
   Mitchum, Shelley Winters, Lillian Gish. EE UU. VOSE. 93'
   Segunda proyección día 20.
-
 ---
 inicio: "2007-01-19 17:30"
 duración: "110"
@@ -432,7 +392,6 @@ sala: "1"
 título: "El pico"
 nota: |
   El pico (Eloy de la Iglesia, 1983). Int.: José Luis Manzano, José Manuel Cervino, Luis Iriondo. España. 110'
-
 ---
 inicio: "2007-01-19 19:40"
 duración: "176"
@@ -441,7 +400,6 @@ título: "Rekopis znaleziony w Saragossie"
 nota: |
   Rekopis znaleziony w Saragossie (El manuscrito encontrado en Zaragoza, Wojciech Has,
   1964-65). Int.: Zbigniew Cybulski, Kazimierz Opalinski, Iga Cembrzynska. Polonia. VOSE. 176’
-
 ---
 inicio: "2007-01-19 20:00"
 duración: "100"
@@ -450,7 +408,6 @@ título: "En effeuillant la marguerite"
 nota: |
   En effeuillant la marguerite (Deshojando la margarita, Marc Allégret, 1956). Int.: Brigitte
   Bardot, Daniel Gélin, Darry Cowl Francia. VOSE. 100'
-
 ---
 inicio: "2007-01-19 22:45"
 duración: "54"
@@ -459,15 +416,14 @@ título: "Niño vudú"
 nota: |
   Niño vudú (Tony Bestard, 2004). 22'. Amar (Esteban Crespo, 2005). 12'. Fisura (Isabel Coll,
   2005). 11'. El cumpleaños (Virginia Llera, 2005). 9'. España. Total programa: 54'
-
 ---
 inicio: "2007-01-20 17:30"
 duración: "93"
 sala: "1"
 título: "The Night of the Hunter"
 nota: |
-  The Night of the Hunter (La noche del cazador, Charles Laughton, 1955). Int.: Robert Mitchum, Shelley Winters, Lillian Gish. EE UU. VOSE. 93'
-
+  The Night of the Hunter (La noche del cazador, Charles Laughton, 1955). Int.: Robert
+  Mitchum, Shelley Winters, Lillian Gish. EE UU. VOSE. 93'
 ---
 inicio: "2007-01-20 19:20"
 duración: "170"
@@ -476,7 +432,6 @@ título: "Faraon"
 nota: |
   Faraon (Faraón, Jerzy Kawalerowicz, 1966). Int.: Jerzy Zelnik, Barbara Brylska, Krystyna
   Mikolajewska. Polonia. VOSE. 170’
-
 ---
 inicio: "2007-01-20 20:00"
 duración: "88"
@@ -485,7 +440,6 @@ título: "Casa Flora"
 nota: |
   Casa Flora (Tito Fernández, 1973). Int.: Lola Flores, Máximo Valverde, Amparo Soler Leal.
   España. 88'
-
 ---
 inicio: "2007-01-20 22:40"
 duración: "100"
@@ -494,15 +448,14 @@ título: "Kozjat rog"
 nota: |
   Kozjat rog (Cuerno de cabra, Metodi Andonov, 1972). Int.: Katia Paskaleva, Anton Gorchev,
   Kolev Todor. Bulgaria. VOSE. 100'
-
 ---
 inicio: "2007-01-21 17:30"
 duración: "109"
 sala: "1"
 título: "La Lola se va a los puertos de Manuel y Antonio Machado"
 nota: |
-  La Lola se va a los puertos de Manuel y Antonio Machado (Josefina Molina, 1993). Int.: Rocío Jurado, Francisco Rabal , José Sancho. España. 109'
-
+  La Lola se va a los puertos de Manuel y Antonio Machado (Josefina Molina, 1993). Int.:
+  Rocío Jurado, Francisco Rabal , José Sancho. España. 109'
 ---
 inicio: "2007-01-21 19:40"
 duración: "153"
@@ -511,7 +464,6 @@ título: "Lolita"
 nota: |
   Lolita (Lolita, Stanley Kubrick, 1962). Int.: James Mason, Sue Lyons, Shelley Winters. EE UU.
   VOSE. 153'
-
 ---
 inicio: "2007-01-21 20:00"
 duración: "99"
@@ -520,7 +472,6 @@ título: "La Virgen de los sicarios"
 nota: |
   La Virgen de los sicarios (Barbet Schroeder, 2000). Int.: Anderson Bellesteros, German
   Jaramillo, Juan David Restrepo. Productor: Jaime Osorio. Francia / Colombia. 99'
-
 ---
 inicio: "2007-01-21 22:30"
 duración: "130"
@@ -529,16 +480,15 @@ título: "Narayama Bushiko"
 nota: |
   Narayama Bushiko (La balada del Narayama, Shohei Imamura, 1982). Int.: Ken Ogata ,
   Sumiko Sakamoto, Tonpei Hidari. Japón. VOSE. 130'
-
 ---
 inicio: "2007-01-23 17:30"
 duración: "84"
 sala: "1"
 título: "Les Grands Ducs"
 nota: |
-  Les Grands Ducs (Cómicos en apuros, Patrice Leconte, 1995). Int.: Jean-Pierre Marielle, Jean Rochefort, Philippe Noiret. Francia. VOSE. 84'
+  Les Grands Ducs (Cómicos en apuros, Patrice Leconte, 1995). Int.: Jean-Pierre Marielle, Jean
+  Rochefort, Philippe Noiret. Francia. VOSE. 84'
   Segunda proyección día 26.
-
 ---
 inicio: "2007-01-23 19:30"
 duración: "114"
@@ -547,7 +497,6 @@ título: "Nuts"
 nota: |
   Nuts (Loca, Martin Ritt, 1987). Int.: Barbra Streisand, Richard Dreyfuss, Maureen Stapleton. EE UU. VOSE*. 114'
   Segunda proyección día 26.
-
 ---
 inicio: "2007-01-23 20:00"
 duración: "85"
@@ -555,7 +504,6 @@ sala: "2"
 título: "Mantis"
 nota: |
   Mantis (L. M. López-Tapia, 1971). 16'. Tábata (L. M. López-Tapia, 1973). 18'. Soria y Antonio Machado (L. M. López-Tapia, 1976). 10'. Málaga y Picasso (Miguel A. Alcobendas, 1975). 10'. Con flores a María (Manuela García de la Vega, 1975). 10'. El barranco de Viznar (José Antonio Zorrilla, 1976). 17'. España. Total programa: 85'
-
 ---
 inicio: "2007-01-23 22:00"
 duración: "102"
@@ -564,15 +512,14 @@ título: "The Harder They Come"
 nota: |
   The Harder They Come (Caiga quien caiga, Perry Henzell, 1972). Int.: Jimmy Cliff, Carl
   Bradshaw, Ras Daniel Hartman. EE UU / Jamaica. VOSE. 102'
-
 ---
 inicio: "2007-01-24 17:30"
 duración: "111"
 sala: "1"
 título: "Más bonita que ninguna"
 nota: |
-  Más bonita que ninguna (Luis César Amadori, 1965). Int.: Rocio Durcal, Luigi Giuliani, Gracita Morales. España. 111'
-
+  Más bonita que ninguna (Luis César Amadori, 1965). Int.: Rocio Durcal, Luigi Giuliani,
+  Gracita Morales. España. 111'
 ---
 inicio: "2007-01-24 19:43"
 duración: "95"
@@ -581,7 +528,6 @@ título: "Memorias de un peliculero"
 nota: |
   Memorias de un peliculero (Luis Mamerto López Tapia y Javier Caballero, 2005). Documental.
   España. Vídeo. 95'
-
 ---
 inicio: "2007-01-24 20:00"
 duración: "125"
@@ -590,7 +536,6 @@ título: "Lacenaire"
 nota: |
   Lacenaire (Lacenaire, Francis Girod, 1990). Int.: Daniel Auteil, Jean Poiret, Jacques Weber.
   Francia. VOSE. 125'
-
 ---
 inicio: "2007-01-24 22:00"
 duración: "116"
@@ -600,7 +545,6 @@ nota: |
   La Visite au Louvre (Jean-Marie Straub y Danièle Huillet, 2003). 48'. Quei loro incontri
   (Jean-Marie Straub y Danièle Huillet, 2006). Int.: Angela Nugara, Grazia Orsi, Vittorio Vigneri. 68'. VOSE*. Total programa: 116'
   Segunda proyección día 28.
-
 ---
 inicio: "2007-01-25 17:30"
 duración: "130"
@@ -608,7 +552,6 @@ sala: "1"
 título: "La Vie et rien d'autre"
 nota: |
   La Vie et rien d'autre (La vida y nada más, Bertrand Tavernier, 1989). Int.: Philippe Noiret, Sabine Azéma, Pascale Vignal. Francia. VOSE. 130'
-
 ---
 inicio: "2007-01-25 19:40"
 duración: "102"
@@ -617,7 +560,6 @@ título: "Adela"
 nota: |
   Adela (Eduardo Mignogna, 1999). Int.: Eulalia Ramón, Gregoire Colin, Mario Gas. Dirección
   artística: Rafael Palmero. Argentina / España. 102'
-
 ---
 inicio: "2007-01-25 20:00"
 duración: "106"
@@ -627,7 +569,6 @@ nota: |
   Reconstituirea (Reconstrucción, Lucien Pintilie, 1969). Int.: George Constantin, Emil Botta,
   George Mihaita. Rumanía. VOSI/E*. 106'
   Segunda proyección día 27.
-
 ---
 inicio: "2007-01-25 22:15"
 duración: "104"
@@ -636,7 +577,6 @@ título: "Où gît votre sourire enfoui ?"
 nota: |
   Où gît votre sourire enfoui ? (Pedro Costa, 2001). Documental. Francia / Portugal. VOSE*. 104'
   Segunda proyección día 27.
-
 ---
 inicio: "2007-01-26 17:30"
 duración: "114"
@@ -644,7 +584,6 @@ sala: "1"
 título: "Nuts"
 nota: |
   Nuts (Loca, Martin Ritt, 1987). Int.: Barbra Streisand, Richard Dreyfuss, Maureen Stapleton. EE UU. VOSE*. 114'
-
 ---
 inicio: "2007-01-26 19:45"
 duración: "102"
@@ -654,7 +593,6 @@ nota: |
   Le Mépris (El desprecio, Jean-Luc Godard, 1963). Int.: Brigitte Bardot, Michel Piccoli, Jack
   Palance. Francia / Italia. VOSP/E*. 102'
   Segunda proyección día 28.
-
 ---
 inicio: "2007-01-26 20:00"
 duración: "84"
@@ -662,7 +600,6 @@ sala: "2"
 título: "Les Grands Ducs"
 nota: |
   Les Grands Ducs (Cómicos en apuros, Patrice Leconte, 1995). Int.: Jean-Pierre Marielle, Jean Rochefort, Philippe Noiret. Francia. VOSE. 84'
-
 ---
 inicio: "2007-01-26 22:00"
 duración: "92"
@@ -672,7 +609,6 @@ nota: |
   Ostre sledovane vlaky (Trenes rigurosamente vigilados, Jiri Menzel, 1966). Int.: Vaclav
   Neckar, Jitka Bendova, Vladimir Valenta. Checoslovaquia. VOSE. 92'
   Segunda proyección día 28.
-
 ---
 inicio: "2007-01-27 17:30"
 duración: "91"
@@ -680,7 +616,6 @@ sala: "1"
 título: "Las aventuras de Enrique y Ana"
 nota: |
   Las aventuras de Enrique y Ana (Tito Fernández, 1981). Int.: Enrique del Pozo, Ana Anguita, Amparo Soler Leal. España. 91'
-
 ---
 inicio: "2007-01-27 19:30"
 duración: "104"
@@ -689,7 +624,6 @@ título: "Où gît votre sourire enfoui ?"
 nota: |
   Où gît votre sourire enfoui ? (Pedro Costa, 2001). Documental. Francia / Portugal. VOSE*.
   104'
-
 ---
 inicio: "2007-01-27 20:00"
 duración: "99"
@@ -699,7 +633,6 @@ nota: |
   El viento (Eduardo Mignona, 2005). Int.: Federico Luppi, Antonella Costa, Pablo Cedrón.
   Argentina / España. 99'
   Frank Osorio viaja por primera vez a Buenos Aires a visitar a su nieta Alina, hija natural de su hija Ema, que acaba de morir. Este hombre tosco y receloso tiene dos grandes secretos: el primero está relacionado con la identidad del padre de Alina; el segundo, con un crimen.
-
 ---
 inicio: "2007-01-27 22:00"
 duración: "106"
@@ -707,15 +640,14 @@ sala: "1"
 título: "Reconstituirea"
 nota: |
   Reconstituirea (Reconstrucción, Lucien Pintilie, 1969). Int.: George Constantin, Emil Botta, George Mihaita. Rumanía. VOSI/E*. 106'
-
 ---
 inicio: "2007-01-28 17:30"
 duración: "87"
 sala: "1"
 título: "Ahí viene Martín Corona"
 nota: |
-  Ahí viene Martín Corona (Miguel Zacarías, 1951). Int.: Pedro Infante, Sara Montiel Eulalio González "Piporro". México. 87'
-
+  Ahí viene Martín Corona (Miguel Zacarías, 1951). Int.: Pedro Infante, Sara Montiel Eulalio
+  González "Piporro". México. 87'
 ---
 inicio: "2007-01-28 18:30"
 duración: "116"
@@ -724,7 +656,6 @@ título: "La Visite au Louvre"
 nota: |
   La Visite au Louvre (Jean-Marie Straub y Danièle Huillet, 2003). 48'. Quei loro incontri
   (Jean-Marie Straub y Danièle Huillet, 2006). Int.: Angela Nugara, Grazia Orsi, Vittorio Vigneri. 68'. VOSE*. Total programa: 116'
-
 ---
 inicio: "2007-01-28 19:30"
 duración: "92"
@@ -733,7 +664,6 @@ título: "Ostre sledovane vlaky"
 nota: |
   Ostre sledovane vlaky (Trenes rigurosamente vigilados, Jiri Menzel, 1966). Int.: Vaclav
   Neckar, Jitka Bendova, Vladimir Valenta. Checoslovaquia. VOSE. 92'
-
 ---
 inicio: "2007-01-28 22:00"
 duración: "102"
@@ -742,15 +672,14 @@ título: "Le Mépris"
 nota: |
   Le Mépris (El desprecio, Jean-Luc Godard, 1963). Int.: Brigitte Bardot, Michel Piccoli, Jack
   Palance. Francia / Italia. VOSP/E*. 102'
-
 ---
 inicio: "2007-01-30 17:30"
 duración: "148"
 sala: "1"
 título: "Offret"
 nota: |
-  Offret (Sacrificio, Andrei Tarkovski, 1986). Int.: Erland Josephson, Susan Fleetwood, Valerie Mairesse Suecia / Francia / GB. VOSE*. 148'
-
+  Offret (Sacrificio, Andrei Tarkovski, 1986). Int.: Erland Josephson, Susan Fleetwood, Valerie
+  Mairesse Suecia / Francia / GB. VOSE*. 148'
 ---
 inicio: "2007-01-30 20:00"
 duración: "109"
@@ -759,7 +688,6 @@ título: "The Big Knife"
 nota: |
   The Big Knife (Robert Aldrich, 1955). Int.: Jack Palance, Ida Lupino, Shelley Winters.EE UU.
   VOSE. 109'
-
 ---
 inicio: "2007-01-30 20:20"
 duración: "98"
@@ -768,7 +696,6 @@ título: "Mones com la Becky / Monos como Becky"
 nota: |
   Mones com la Becky / Monos como Becky (Joaquín Jorda y Nuria Villazán, 1999). Int.: Joao
   María Pinto, Marián Varela. España. 98'
-
 ---
 inicio: "2007-01-30 22:20"
 duración: "60"
@@ -777,15 +704,14 @@ título: "Pasazerka"
 nota: |
   Pasazerka (La pasajera, Andrej Munk, 1961-63). Int.: Aleksandra Slaska, Anna Ciepielewska,
   Jan Kreczmar. Polonia. VOSE. 60'
-
 ---
 inicio: "2007-01-31 17:30"
 duración: "103"
 sala: "1"
 título: "¡Ay, Carmela!"
 nota: |
-  ¡Ay, Carmela! (Carlos Saura, 1989). Int.: Carmen Maura, Andrés Pajares, Gabino Diego. Dirección artística: Rafael Palmero. España. 103'
-
+  ¡Ay, Carmela! (Carlos Saura, 1989). Int.: Carmen Maura, Andrés Pajares, Gabino Diego.
+  Dirección artística: Rafael Palmero. España. 103'
 ---
 inicio: "2007-01-31 19:30"
 duración: "100"
@@ -794,7 +720,6 @@ título: "Whisky"
 nota: |
   Whisky (Juan Pablo Rebella y Pablo Stoll, 2005). Int.: Andrés Pazos, Mirella Pascual Jorge
   Bolani. Uruguay. 100'
-
 ---
 inicio: "2007-01-31 20:00"
 duración: "188"
@@ -802,7 +727,6 @@ sala: "2"
 título: "De nens / De niños"
 nota: |
   De nens / De niños (Joaquín Jordá, 2003). Documental. VOCatSE. España. 188'
-
 ---
 inicio: "2007-01-31 22:00"
 duración: "99"
@@ -811,4 +735,3 @@ título: "The Quatermass Experiment"
 nota: |
   The Quatermass Experiment (El experimento del doctor Quatermass, Val Guest, 1955). Int.:
   Brian Donlevy , Jack Warner , Margia Dean. EE UU. VOSE. 99'
-
