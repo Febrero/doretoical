@@ -24,6 +24,7 @@ pdf = re.compile(".*(Programa|PrograDore|programDore).*\\.(pdf|doc)$", re.IGNORE
 
 FULL='dore.ics'
 CALDIR='ics/'
+YMLDIR='yaml/'
 LOCATION='Calle de Santa Isabel, 3, 28012 Madrid, España'
 
 def exists(url):
@@ -63,7 +64,7 @@ def _collect(url):
 				ct=ct+1
 				if n.endswith('.pdf'):
 					_pdfs.append(u)
-				elif n.endswith('.doc'):
+				elif n.endswith('.doc') or n.endswith('.docx'):
 					_docs.append(u)
 	if ct == 0:
 		sys.stderr.write("DATA NOT FOUND in "+ url+"\n")
@@ -92,58 +93,64 @@ def collect(ar):
 		u = p % (ar)
 		_collect(u)
 	
-def _getYaml(url,alternative=False):
+def _getYaml(url,_chance=1):
 	if not exists(url):
-		return (None, None)
+		return (None, None, None)
 	bash=''
 	cmd=''
 	s_yaml=''
 	try:
-		if alternative:
-			cmd='catdoc/iconv/strings'
-			bash="curl -L -s \"" + url + "\" | catdoc | iconv -c -f utf-8 -t ascii | strings | awk -f dore.awk"
-			f = os.popen(bash)
-		elif url.endswith('.pdf'):
+		if url.endswith('.pdf'):
 			cmd='pdftotext'
-			bash="curl -L -s \"" + url + "\" | pdftotext -htmlmeta - - | awk -f dore.awk"
-			f = os.popen(bash)
+			bash="curl -L -s \"" + url + "\" | pdftotext -htmlmeta - - | awk -f dore.awk -v url=\"" + url + "\""
+		elif url.endswith('.docx'):
+			cmd='abiword'
+			bash="curl -L -s \"" + url + "\" | abiword --to=txt --to-name=fd://1 fd://0 | sed -e 's/\s\+/ /g' -e 's/^ | $//g' | awk -f dore.awk -v url=\"" + url + "\""
 		elif url.endswith('.doc'):
-			cmd='catdoc'
-			bash="curl -L -s \"" + url + "\" | catdoc  | awk -f dore.awk"
-			f = os.popen(bash)
+			if _chance==1:
+				cmd='catdoc'
+				#bash="curl -L -s \"" + url + "\" | catdoc | iconv -c -f utf-8 -t ascii | strings | awk -f dore.awk"
+				bash="curl -L -s \"" + url + "\" | catdoc | sed -e 's/\s\+/ /g' -e 's/^ | $//g' | awk -f dore.awk -v url=\"" + url + "\""
+			elif _chance==2:
+				cmd='abiword'
+				bash="curl -L -s \"" + url + "\" | abiword --to=txt --to-name=fd://1 fd://0 | sed -e 's/\s\+/ /g' -e 's/^ | $//g' | awk -f dore.awk -v url=\"" + url + "\""
+			elif _chance==3:
+				cmd='antiword'
+				bash="curl -L -s \"" + url + "\" | antiword - | sed -e 's/^\s*\||\|\s*$//g' -e 's/\s\+/ /g' -e 's/^ | $//g' | awk -f dore.awk -v url=\"" + url + "\""
+		f = os.popen(bash)
 		s_yaml=f.read()
 		f.close()
 	except Exception,e:
-		if cmd=='catdoc':
-			return _getYaml(url,True)
+		if url.endswith('.doc') and _chance<3:
+			return _getYaml(url,_chance+1)
 		sys.stderr.write("Error with curl/"+cmd+" "+ url+"\n")
 		sys.stderr.write("\t"+bash+"\n")
 		sys.stderr.write("\t"+str(e)+"\n")
-		return (None, None)
+		return (None, None, None)
 	try:
 		docs = yaml.load_all(s_yaml)
 		pr=next(docs)
 		if not pr:
 			sys.stderr.write("Error with yaml - None "+ url+"\n")
-			return (None, None)
+			return (None, None, None)
 		if ('error' in pr):
 			sys.stderr.write(pr['error']+" "+ url+"\n")
-			return (None, None)
+			return (None, None, None)
 		if not ('programa' in pr) or not pr['programa']:
 			sys.stderr.write("Error with yaml format 'programa' "+ url+"\n")
 			sys.stderr.write("\t"+bash+"\n")
-			return (None, None)
-		return (docs,pr['programa'])
+			return (None, None, None)
+		return (docs,pr['programa'],s_yaml)
 	except Exception,e:
-		if cmd=='catdoc':
-			return _getYaml(url,True)
+		if url.endswith('.doc') and _chance<3:
+			return _getYaml(url,_chance+1)
 		sys.stderr.write("Error with yaml "+ url+"\n")
 		sys.stderr.write("\t"+bash+"\n")
 		sys.stderr.write("\t"+str(e)+"\n")
-		return (None, None)
+		return (None, None, None)
 
 def _fillCal(url):
-	docs, programa = _getYaml(url)
+	docs, programa, s_yaml = _getYaml(url)
 	if not docs or not programa or programa in _prog:
 		return None
 	try:
@@ -169,6 +176,9 @@ def _fillCal(url):
 		else:
 			f = open(CALDIR + programa + '.ics', 'wb')
 			f.write(cal.to_ical())
+			f.close()
+			f = open(YMLDIR + programa + '.yaml', 'wb')
+			f.write(s_yaml)
 			f.close()
 			_prog.append(programa)
 	except Exception,e:
@@ -209,5 +219,5 @@ if __name__ == "__main__":
 			run(int(sys.argv[1]))
 		else:
 			_fillCal(sys.argv[1])
-	join()
+	#join()
 
