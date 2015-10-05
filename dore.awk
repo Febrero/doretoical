@@ -7,6 +7,8 @@ BEGIN {
 	count=0;
 	salto=" ";
 	separador="\n"
+	pro=0;
+	_mes=0;
 }
 function getMes(s) {
 	gsub(/^\s+|\s+$/, "", s);
@@ -66,10 +68,34 @@ function item() {
 				print "nota: |"
 				print "  " nota;
 			}
-			print ""
 		}
 	}
 	reset();
+}
+
+function programa() {
+	print "---"
+	print "programa: \"" anyo "-" cero(mes) "\"";
+	print "fuente: \"" url "\"";
+	next;
+}
+
+/^\s*$/ {
+	next;
+}
+pro==0 && /^PROGRAMACIÓN$/ {
+	pro=1;
+	next;
+}
+pro==1 && mes==0 && anyo==0 && $NF~/^(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)$/ {
+	_mes=getMes($NF);
+	pro=2;
+}
+pro==2 && mes==0 && anyo==0 && $0~/[0-9][0-9][0-9][0-9]/ {
+	mes=_mes;
+	anyo=$0;
+	pro=3;
+	programa();
 }
 
 /^<title>(Copia de )?[Cc]ara ?2/ || /^<title>ESTRELLA DE ORO/{
@@ -85,10 +111,7 @@ function item() {
 mes==0 && anyo==0 && $0~/^\s*(ENERO|FEBRERO|MARZO|ABRIL|MAYO|JUNIO|JULIO|AGOSTO|SEPTIEMBRE|OCTUBRE|NOVIEMBRE|DICIEMBRE) [0-9][0-9][0-9][0-9]$/ {
 	mes=getMes($1);
 	anyo=$2;
-	print "---"
-	print "programa: \"" anyo "-" cero(mes) "\"";
-	print "fuente: \"" url "\"";
-	next
+	programa();
 }
 
 mes==0 && $1~/^(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)$/ {
@@ -97,9 +120,7 @@ mes==0 && $1~/^(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|oct
 
 anyo==0 && mes>0 && $1~/^[0-9][0-9][0-9][0-9]$/ {
 	anyo=$1;
-	print "---"
-	print "programa: \"" anyo "-" cero(mes) "\"";
-	print "fuente: \"" url "\"";
+	programa();
 }
 
 /^(Segunda proyección el día|Ver nota día|Segunda proyección y nota día) [0-9]+\.?$/ || /^Segunda proyección en /{

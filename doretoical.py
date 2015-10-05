@@ -20,7 +20,7 @@ _prog = list()
 _pdfs = list()
 _docs = list()
 txt = re.compile("(Abri|Programa|programaci|enero|febrero|marzo|abril|mayo|Mayoe|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)", re.IGNORECASE)
-pdf = re.compile(".*(Programa|PrograDore|programDore).*\\.(pdf|doc)$", re.IGNORECASE)
+pdf = re.compile(".*(Programa|PrograDore|programDore).*\\.(pdf|docx?)$", re.IGNORECASE)
 
 FULL='dore.ics'
 CALDIR='ics/'
