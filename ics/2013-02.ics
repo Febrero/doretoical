@@ -8,15 +8,15 @@ SUMMARY:Dr. No
 DTSTART;VALUE=DATE-TIME:20130201T173000
 DTEND;VALUE=DATE-TIME:20130201T192000
 UID:1302013017_1_dore
-DESCRIPTION:Sala 1 - Dr. No  (Agente 007 contra el doctor No\, Terence You
- ng\, 1962). Int.: Sean Connery\, Ursula Andress. Reino Unido. Digital. VOS
- E. 110’\n En el debut de Connery como 007\, un agente del MI6 desaparece
-  en manos del infame doctor No y Bond es enviado al Caribe\, armado con la
-  nueva arma Walther PPK. La reunión de Bond con la enigmática Honey Ryde
- r\, cuando ella surge del mar en bikini\, crearía el marco idóneo para l
- as películas siguientes.  Segunda proyección día 12.\n\n\nFuente: http:
- //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
- /fe/cine-dore/programacion/2013/PrograDore110-doc.doc
+DESCRIPTION:Sala 1 - Dr. No (Agente 007 contra el doctor No\, Terence Youn
+ g\, 1962). Int.: Sean Connery\, Ursula Andress. Reino Unido. Digital. VOSE
+ . 110’\n En el debut de Connery como 007\, un agente del MI6 desaparece 
+ en manos del infame doctor No y Bond es enviado al Caribe\, armado con la 
+ nueva arma Walther PPK. La reunión de Bond con la enigmática Honey Ryder
+ \, cuando ella surge del mar en bikini\, crearía el marco idóneo para la
+ s películas siguientes.  Segunda proyección día 12.\n\n\nFuente: http:/
+ /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
+ fe/cine-dore/programacion/2013/PrograDore110-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -198,10 +198,9 @@ DTSTART;VALUE=DATE-TIME:20130205T194000
 DTEND;VALUE=DATE-TIME:20130205T212600
 UID:1302054019_1_dore
 DESCRIPTION:Sala 1 - Kader / Destiny (Zeki Demirkubuz\, 2006). Int.: Ufuk 
- Bayraktar\, Vildan Atasever. Turquía. VOSE. 106’\n Segunda proyección 
- y nota día 16.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
- cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDo
- re110-doc.doc
+ Bayraktar\, Vildan Atasever. Turquía. VOSE. 106’\n\n\nFuente: http://ww
+ w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
+ cine-dore/programacion/2013/PrograDore110-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -501,11 +500,11 @@ SUMMARY:Agustina de Aragón
 DTSTART;VALUE=DATE-TIME:20130210T193000
 DTEND;VALUE=DATE-TIME:20130210T213900
 UID:1302103019_2_dore
-DESCRIPTION:Sala 2 - Agustina de Aragón  (Juan de Orduña\, 1950). Int.: 
- Aurora Bautista\, Fernando Rey\, Virgilio Teixeira. España. 129’\n “E
- n la órbita de la interpretación hay que resaltar con entero elogio la l
- abor de Aurora Bautista\, atinadísima en el empleo de los diversos medios
-  de expresión: miradas\, gestos\, ademanes y en la voz\, que adquiere seg
+DESCRIPTION:Sala 2 - Agustina de Aragón (Juan de Orduña\, 1950). Int.: A
+ urora Bautista\, Fernando Rey\, Virgilio Teixeira. España. 129’\n “En
+  la órbita de la interpretación hay que resaltar con entero elogio la la
+ bor de Aurora Bautista\, atinadísima en el empleo de los diversos medios 
+ de expresión: miradas\, gestos\, ademanes y en la voz\, que adquiere seg
  ún situaciones\, tonalidades de naturalidad\, de susurro o de grito” (L
  uis Gómez Mesa)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
  /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograD
@@ -592,11 +591,11 @@ SUMMARY:Dr. No
 DTSTART;VALUE=DATE-TIME:20130212T213000
 DTEND;VALUE=DATE-TIME:20130212T232000
 UID:1302123021_1_dore
-DESCRIPTION:Sala 1 - Dr. No  (Agente 007 contra el doctor No\, Terence You
- ng\, 1962). Int.: Sean Connery\, Ursula Andress. Reino Unido. Digital. VOS
- E. 110’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
- a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore110-
- doc.doc
+DESCRIPTION:Sala 1 - Dr. No (Agente 007 contra el doctor No\, Terence Youn
+ g\, 1962). Int.: Sean Connery\, Ursula Andress. Reino Unido. Digital. VOSE
+ . 110’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore110-d
+ oc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT

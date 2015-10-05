@@ -4,1567 +4,1632 @@ PRODID:-//Cine Doré//github.com santos82 doredb//ES
 X-WR-CALNAME:Cine Dore
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:Vivan las Antpodas!
+SUMMARY:You Only Live Twice
+DTSTART;VALUE=DATE-TIME:20130301T173000
+DTEND;VALUE=DATE-TIME:20130301T192700
+UID:1303013017_1_dore
+DESCRIPTION:Sala 1 - You Only Live Twice (Sólo se vive dos veces\, Lewis 
+ Gilbert\, 1967). Int.: Sean Connery\, Akiko Wakabayashi\, Donald Pleasence
+ . Reino Unido. Digital. VOSE. 117’\nUna nave espacial americana es captu
+ rada por una gran cosmonave rusa\, y la operación se ve en los monitores 
+ de la NASA. En una reunión cumbre de emergencia\, las cosas se acaloran e
+ ntre las superpotencias\, y Estados Unidos amenaza con la guerra a la Uni
+ ón Soviética si el próximo lanzamiento espacial\, a realizarse en pocos
+  días\, corre la misma suerte. Pero Gran Bretaña desconfía de las apari
+ encias y manda a James Bond en misión secreta a Japón\, donde tuvo lugar
+  el descenso de la nave rusa.\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suzaki Paradaizu: Aka Shingô / Suzaki Paradise: Red Light Distric
+ t
+DTSTART;VALUE=DATE-TIME:20130301T194500
+DTEND;VALUE=DATE-TIME:20130301T210600
+UID:1303014519_1_dore
+DESCRIPTION:Sala 1 - Suzaki Paradaizu: Aka Shingô / Suzaki Paradise: Red 
+ Light District (Yuzo Kawashima\, 1956). Int.: Aratama Michiyo\, Todoroki Y
+ ukiko\, Kawazu Seizaburo. Japón. VOSI/E*.\, 81’\nAbocada a la marginali
+ dad\, una pareja que lucha por sobrevivir en el Japón de posguerra encont
+ rará refugio en un bar a las puertas del distrito rojo de Tokyo en este m
+ elodrama fascinante y sutil. Los personajes de esta película\, la favorit
+ a de su director\, sin duda influenciaron la obra posterior de su ayudante
+  de dirección\, Shohei Imamura.\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¡Vivan las Antípodas!
 DTSTART;VALUE=DATE-TIME:20130301T200000
 DTEND;VALUE=DATE-TIME:20130301T214500
 UID:1303010020_2_dore
-DESCRIPTION:Sala 2 - Vivan las Antpodas! (V. Kossakovsky\, 2011). Document
- al. Blu-ray. VOSE. 105'\nSegunda proyeccin y nota da 19.\n\n\nFuente: http
- ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
- c/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labyrinth
-DTSTART;VALUE=DATE-TIME:20130301T214500
-DTEND;VALUE=DATE-TIME:20130301T233000
-UID:1303014521_1_dore
-DESCRIPTION:Sala 1 - Labyrinth (Dentro del laberinto\, Jim Henson\, 1986).
-  Int.: David Bowie\, Jennifer Connelly\, Toby Froud. EE UU. VE. 100 Segund
- a proyeccin y nota da 30. Entrada libre para menores de 14 aos.\n\n\nFuent
- e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
- /cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Koruto wa ore no pasupooto / A Colt is my Passport
-DTSTART;VALUE=DATE-TIME:20130301T193000
-DTEND;VALUE=DATE-TIME:20130301T211500
-UID:1303013019_1_dore
-DESCRIPTION:Sala 1 - Koruto wa ore no pasupooto / A Colt is my Passport (T
- akashi Nomura\, 1967). Int.: Joe Shishido\, Chitose Kobayashi. Japn. VOSI/
- E*. El inefable Joe Shihido da vida a un asesino a sueldo atrapado entre d
- os bandas rivales en esta ultraestilizada combinacin de noir a la francesa
- \, spaghetti western y cine negro clsico de Hollywood. Magnficamente fotog
- rafiada\, con una banda sonora que quita el hipo\, es uno de los emblemas 
- del cine de accin de la Nikkatsu.\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tish!
-DTSTART;VALUE=DATE-TIME:20130301T200000
-DTEND;VALUE=DATE-TIME:20130301T214500
-UID:1303010020_2_dore
-DESCRIPTION:Sala 2 - Tish! (V. Kossakovsky\, 2002). Documental. Rusia. Vde
- o. Sin dilogos. 80 Segunda proyeccin y nota da 21.\n\n\nFuente: http://www
- .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
- ine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:B+ jing taam / The Detective 2
-DTSTART;VALUE=DATE-TIME:20130301T214000
-DTEND;VALUE=DATE-TIME:20130301T232500
-UID:1303014021_1_dore
-DESCRIPTION:Sala 1 - B+ jing taam / The Detective 2 (Oxide Pang\, 2011). I
- nt.: Aaron Kwok\, Patrick Tam\, Liu Kai-chi. Hong Kong / China. VOSI/E*. 1
- 01 A Chan Tam\, que dirige una agencia policaca privada empobrecida en el 
- barrio chino\, le pide el inspector de polica Fung Cha que le ayude a inve
- stigar el caso de Kwok-tung\, que apual a su esposa cuando ella descubri s
- u infidelidad. Despus\, la prostituta Cheng Mei-fan y el prestamista Chuen
-  son encontrados muertos\, con sus genitales mutilados. Chan Tam cree que 
- los delitos han sido cometidos por la misma persona\, pero no puede encont
- rar ninguna prueba\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
- cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Progr
- aDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kasuki Toride no San Akunin
-DTSTART;VALUE=DATE-TIME:20130303T173000
-DTEND;VALUE=DATE-TIME:20130303T191500
-UID:1303033017_1_dore
-DESCRIPTION:Sala 1 - Kasuki Toride no San Akunin (La fortaleza escondida\,
-  Akira Kurosawa\, 1958). Int.: Toshiro Mifune\, Misa Uehara\, Minoru Chiak
- i. Japn. VOSE. 126 Un cuento de hadas visto como un musical. Temticamente 
- es de nuevo una crtica a las premisas del teatro Kabuki\, pero esta vez to
- do acaba bien\, con los semidioses de vuelta a su lugar y los granjeros re
- idos recibiendo como recompensa una pieza de oro. (Donald Ritchie)\n\n\nFu
- ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
- ura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:/ The Cure
-DTSTART;VALUE=DATE-TIME:20130303T193000
-DTEND;VALUE=DATE-TIME:20130303T211500
-UID:1303033019_2_dore
-DESCRIPTION:Sala 2 - / The Cure (Bill Yip\, 2011). Int.: Eric Chiu\, Siriw
- an Khankham. Hong Kong / China. VOSI/E*. 93 Una road-movie que acompaa a d
- os estafadores que viajan por el pas ofreciendo remedios y curas\, engaand
- o a los campesinos. Cuando en Bangkok se revela su truco\, uno es asesinad
- o y el otro emprende una huda que se convertir en una bsqueda espiritual q
- ue le lleva de regreso a su ciudad natal\, donde el reencuentro con la paz
-  y la naturaleza le cambian totalmente.\n\n\nFuente: http://www.mecd.gob.e
- s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
- ogramacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Procs de Jeanne dArc
-DTSTART;VALUE=DATE-TIME:20130303T195500
-DTEND;VALUE=DATE-TIME:20130303T214000
-UID:1303035519_1_dore
-DESCRIPTION:Sala 1 - Procs de Jeanne dArc (El proceso de Juana de Arco\, R
- obert Bresson\, 1961). Int.: Florence Delay\, Jean-Claude Fourneau\, Richa
- rd Pratt. Francia. VOSE*. 65 Bresson quera filmar la suerte de una mujer c
- ondenada al fuego y a una lenta agona\, pero tambin hacer sentir el enigma
-  no aclarado de esta maravillosa joven del que jams tendremos la clave. El
-  cineasta eligi sobre todo dilogos que antepusiesen la dimensin espiritual
-  y la fuerza interior de la virgen\, su familiaridad desconcertante con la
- s realidades celestes\, que le permiten describir los caminos misteriosos 
- que llevan a la gracia divina en un mundo manchado por el pecado\, el tema
-  bressoniano por excelencia. (Herv Dumont) Segunda proyeccin da 7.\n\n\nFu
- ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
- ura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:For Your Eyes Only
-DTSTART;VALUE=DATE-TIME:20130303T212000
-DTEND;VALUE=DATE-TIME:20130303T230500
-UID:1303032021_1_dore
-DESCRIPTION:Sala 1 - For Your Eyes Only (Slo para sus ojos\, John Glen\, 1
- 981). Int.: Roger Moore\, Carole Bouquet\, Topol. Reino Unido. VOSE. 127 E
- l pesquero ingls St. George es hundido en aguas territoriales albanesas. E
- l barco estaba equipado con ATAC\, un dispositivo ultra-secreto utilizado 
- para transmitir rdenes a los submarinos Polaris\, que si cayera en manos i
- nadecuadas\, podra utilizarse para reprogramar los submarinos y atacar sus
-  propios pases y aliados. El hundimiento provoca una carrera entre inglese
- s y soviticos para recuperar el pesquero de las profundidades del ocano...
- \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
- eas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Passion de Jeanne dArc
-DTSTART;VALUE=DATE-TIME:20130305T173000
-DTEND;VALUE=DATE-TIME:20130305T191500
-UID:1303053017_1_dore
-DESCRIPTION:Sala 1 - La Passion de Jeanne dArc (La pasin de Juana de Arco\
- , Carl Th. Dreyer\, 1927). Int.: Rene Falconetti\, Silvain\, Maurice Schut
- lz. Francia. MRFSE. 96 a 20 i/s. Bresson quera filmar la suerte de una muj
- er condenada al fuego y a una lenta agona\, pero tambin hacer sentir el en
- igma no aclarado de esta maravillosa joven del que jams tendremos la clave
- . El cineasta eligi sobre todo dilogos que antepusiesen la dimensin espiri
- tual y la fuerza interior de la virgen\, su familiaridad desconcertante co
- n las realidades celestes\, que le permiten describir los caminos misterio
- sos que llevan a la gracia divina en un mundo manchado por el pecado\, el 
- tema bressoniano por excelencia. (Herv Dumont) Segunda proyeccin da 10.\n\
- n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
- -cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yohohan fusuma no./ The World of Geisha
-DTSTART;VALUE=DATE-TIME:20130305T193000
-DTEND;VALUE=DATE-TIME:20130305T211500
-UID:1303053019_1_dore
-DESCRIPTION:Sala 1 - Yohohan fusuma no./ The World of Geisha (Tatsumi Kuma
- shiro\, 1973).Int.: Junko Miyashita\, Naomi Oka Japn. VOSI/E*. 72 Uno de l
- os mejores filmes japoneses de la dcada de los 70\, donde Kumashiro examin
- a la relacin sexo-dinero-poder. En una casa de geishas en 1918\, una de la
- s jvenes pasa la noche con un nuevo cliente que se va a casar. Contra las 
- reglas\, se enamora del hombre. Un ldico anlisis de las polticas del perod
- o en uno de los grandes ttulos del gnero Roman Porno\, mezcla de erotismo\
- , exploitation y refinamiento visual. Segunda proyeccin da 24.\n\n\nFuente
- : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
- cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On Her Majestys Secret Service
-DTSTART;VALUE=DATE-TIME:20130305T200000
-DTEND;VALUE=DATE-TIME:20130305T214500
-UID:1303050020_1_dore
-DESCRIPTION:Sala 1 - On Her Majestys Secret Service (007 Al servicio secre
- to de su majestad britnica\, Meter R. Hunt\, 1969). Int.: George Lazenby\,
-  Diana Rigg\, Telly Savalas. Reino Unido. Digital. VOSE. 142 Siguiendo la 
- novela de Ian Fleming con ms fidelidad que las pelculas de Bond anteriores
- \, 007 al servicio secreto de su majestad britnica represent un cambio sig
- nificativo en el cine de Bond. En primer lugar\, Connery\, despus de una d
- isputa con los productores\, fue sustituido por el modelo/actor australian
- o George Lazenby. En segundo lugar\, Bond se casa y permanece fiel a Tracy
- \, la hija de un rey del crimen. La pelcula\, adems\, termina con un tono 
- inusitadamente melanclico. Mircoles 6\n\n\nFuente: http://www.mecd.gob.es/
- cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
- ramacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El disputado voto del seor Cayo
-DTSTART;VALUE=DATE-TIME:20130305T173000
-DTEND;VALUE=DATE-TIME:20130305T191500
-UID:1303053017_1_dore
-DESCRIPTION:Sala 1 - El disputado voto del seor Cayo (Antonio. Gimnez-Rico
- \, 1986). Int.: Francisco Rabal\, Juan Luis Galiardo\, Lydia Bosch. Espaa.
-  100 Lo que narra El disputado voto del seor Cayo es el particular enfrent
- amiento que se produce entre la progresista mentalidad poltica de los tres
-  amigos y la vieja filosofa campesina del seor Cayo. La fascinacin que su 
- personalidad produce en Vctor Velasco le lleva al convencimiento de que es
-  ms importante que la suya. (Augusto M. Torres)\n\n\nFuente: http://www.me
- cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
- -dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Una mujer en peligro
-DTSTART;VALUE=DATE-TIME:20130305T193000
-DTEND;VALUE=DATE-TIME:20130305T211500
-UID:1303053019_1_dore
-DESCRIPTION:Sala 1 - Una mujer en peligro (Jos Santugini\, 1936). Int.: En
- rique del Campo\, Antoita Colom\, Alberto Romea. Espaa. 68 Una mujer en pe
- ligro es una pelcula atpica y nica. nica porque el luego guionista Jos San
- tugini\, cmplice habitual de Ladislao Vajda\, no volvi a dirigir despus de
-  la Guerra Civil. Atpica en tanto que haca suyo\, para subvertirlo desde e
- l prisma del humor de vanguardia\, el clima de las pelculas de caserones t
- enebrosos de la Universal. El resultado es de un vanguardismo castizo muy 
- ramoniano\, que Santugini prorrogara como guionista en Viaje sin destino (
- Rafael Gil\, 1942) y La torre de los siete jorobados (Edgar Neville\, 1944
- ). Presentacin del libro De Buen Humor\, de Jos Santugini\, a cargo de Jor
- di Costa y Santiago Aguilar (antlogo). Entrada libre hasta completar el af
- oro.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
- d/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.d
- oc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hong Men Yan / White Vengeance
-DTSTART;VALUE=DATE-TIME:20130305T200000
-DTEND;VALUE=DATE-TIME:20130305T214500
-UID:1303050020_2_dore
-DESCRIPTION:Sala 2 - Hong Men Yan / White Vengeance (Daniel Lee\, 2011). I
- nt.: Leon Lai\, Anthony Wong. Hong Kong / China. VOSI/E*. 135 White Vengea
- nce cuenta la historia de dos hermanos que compiten por la supremaca duran
- te la cada de la Dinasta Qin\, que gobern China Imperial de 221 a 206 a.C.
-  Cuando los rebeldes se levantaron\, la nacin cay en el caos. Liu Bang y X
- iang Yu se hicieron lderes del ejrcito rebelde y se juraron hermandad en l
- a batalla\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
- a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-
- doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kyonetsu no kisetsu / The Warped Ones
-DTSTART;VALUE=DATE-TIME:20130305T213000
-DTEND;VALUE=DATE-TIME:20130305T231500
-UID:1303053021_1_dore
-DESCRIPTION:Sala 1 - Kyonetsu no kisetsu / The Warped Ones (Koreyoshi Kura
- hara\, 1960). Int.: Tamio Kawaji\, Eiji G\, Noriko Matsumoto. Japn. VOSEI/
- E*. 75 Kurahara derrocha energa e ingenio visual tras los pasos de un jove
- n delincuente adicto al jazz en su anrquica carrera hacia el desastre\, tr
- asunto de la claustrofobia espiritual de una generacin atrapada en el mila
- gro econmico japons\, con la que el director daba carpetazo al cine juveni
- l y preparaba\, con una explosin\, la llegada de la Nueva Ola.\n\n\nFuente
- : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
- cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diamonds Are Forever
-DTSTART;VALUE=DATE-TIME:20130307T173000
-DTEND;VALUE=DATE-TIME:20130307T191500
-UID:1303073017_1_dore
-DESCRIPTION:Sala 1 - Diamonds Are Forever (Diamantes para la eternidad\, G
- uy Hamilton\, 1971). Int.: Sean Connery\, Jill St. John\, Charles Gray. Re
- ino Unido. VOSE. 119 Alguien est acaparando enormes cantidades de diamante
- s del mercado negro internacional. James Bond es asignado para encontrar q
- uines son los ladrones y por qu los diamantes no han vuelto a la venta. Ha
- cindose pasar por contrabandista Bond viaja a Holanda para encontrarse con
-  una pieza clave del circuito\, la bella Tiffany Case. La pista le lleva h
- asta Las Vegas\, donde Bond descubre que su archienemigo Blofeld se encuen
- tra detrs del plan.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
- ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Prog
- raDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Akai satsui / Intentions of Murder
-DTSTART;VALUE=DATE-TIME:20130307T193000
-DTEND;VALUE=DATE-TIME:20130307T211500
-UID:1303073019_2_dore
-DESCRIPTION:Sala 2 - Akai satsui / Intentions of Murder (Shohei Imamura\, 
- 1964). Int.: Masumi Harukawa\, Ko Nishimura. Japn. VOSE/E*. 150 Tras ser a
- saltada por un ladrn\, Sadako se debate entre el miedo y el deseo en este 
- intenso retrato psicolgico desbordante de sensualidad. El despliegue de vo
- z en off\, flashbacks y primeros planos de pasin y lucha cuerpo a cuerpo r
- edondean un de los ttulos de Shohei Imamura ms crticos con el modelo de ma
- sculinidad japons. Segunda proyeccin da 10.\n\n\nFuente: http://www.mecd.g
- ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
- e/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Helsinki\, ikuisesti
-DTSTART;VALUE=DATE-TIME:20130307T195000
-DTEND;VALUE=DATE-TIME:20130307T213500
-UID:1303075019_1_dore
-DESCRIPTION:Sala 1 - Helsinki\, ikuisesti (Helsinki Forever\, Peter von Ba
- gh\, 2008). Documental. Finlandia. VOSE*. 74 Al ver Helsinki\, forever ter
- min entendiendo que von Bagh practica una extraa variedad de la autobiogra
- fa. No es que hable en primera persona\, ni que d ningn detalle de su vida
- . Pero la pelcula es la reflexin de alguien que despus de haber visto tant
- as imgenes se da cuenta de que el siglo XX avanz a un paso brutal\, que po
- r un lado dej una enorme concentracin de cadveres y\, por el otro\, arras 
- el mundo por la va del progreso y lo volvi irreconocible. La implcita auto
- biografa de von Bagh es el relato de una iluminacin personal inevitable su
- rgida del contacto con el material flmico\, la del hombre que se dio cuent
- a de que el contraste que revelan las imgenes no se puede pasar por alto. 
- (Quintn) Presentacin y coloquio posterior a cargo de Peter von Bagh y Migu
- el Maras.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
- a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-
- doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Procs de Jeanne dArc
-DTSTART;VALUE=DATE-TIME:20130307T220000
-DTEND;VALUE=DATE-TIME:20130307T234500
-UID:1303070022_1_dore
-DESCRIPTION:Sala 1 - Procs de Jeanne dArc (El proceso de Juana de Arco\, R
- obert Bresson\, 1961). Int.: Florence Delay\, Jean-Claude Fourneau\, Richa
- rd Pratt. Francia. VOSE. 65 Ver nota da 3.\n\n\nFuente: http://www.mecd.go
- b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
- /programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Way
-DTSTART;VALUE=DATE-TIME:20130308T173000
-DTEND;VALUE=DATE-TIME:20130308T191500
-UID:1303083017_1_dore
-DESCRIPTION:Sala 1 - My Way (Ann Hui\, 2012). Int.: Francis Ng\, Jade Leun
- g. Hong Kong / China. VOSI/E*. 21. Tao jie/ A Simple Life (Ann Hui\, 2011)
- . Int.: Andy Lau\, Deannie Yip. Hong Kong / China. Digital. VOSI/E*. 118. 
- Total programa: 139 My way: Episodio del film colectivo Beautiful 2012\, s
- obre un hombre que espera nerviosamente su operacin de cambio de sexo. A S
- imple..: Desde que era adolescente\, Chung Chun-Tao ha trabajado como cria
- da para la familia de Leung. Ella ha contemplado cada aspecto de la vida d
- e la familia. Algunos miembros de la familia de Leung han fallecido y otro
- s han emigrado. Ahora\, despus de 60 aos de servicio\, ella cuida de Roger
- \, que trabaja en la industria cinematogrfica y es el nico miembro de la f
- amilia en Hong Kong. Un da Roger viene a casa del trabajo para encontrar q
- ue Ah Tao ha sufrido un golpe. La lleva al hospital\, donde ella anuncia q
- ue quiere dejar su trabajo y mudarse a una residencia de ancianos.\n\n\nFu
- ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
- ura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lastuja Taiteilijasuvun vuosisata
-DTSTART;VALUE=DATE-TIME:20130308T193000
-DTEND;VALUE=DATE-TIME:20130308T211500
-UID:1303083019_2_dore
-DESCRIPTION:Sala 2 - Lastuja  Taiteilijasuvun vuosisata (Splinters - A Cen
- tury of an Artistic Family\, Peter von Bagh\, 2011). Documental. Finlandia
- . VOSE*. Splinters resulta una pelcula que se ocupa del arte y la naturale
- za y deja fuera de campo el trasfondo poltico y social aunque este se cuel
- a cada tanto por la ventana. Como uno no sabe nada de la familia Aho y sab
- e muy poco de Finlandia en general\, queda frecuentemente perplejo frente 
- a Splinters gracias al curioso mtodo narrativo de von Bagh\, a su personal
- simo estilo para montar el material de archivo\, la voz en off\, las citas
-  literarias y las fuentes pictricas que se suceden evitando deliberadament
- e la sucesin cronolgica. Por el contrario\, von Bagh enlaza los temas con 
- una gran fluidez en las imgenes\, pero mediante alocados saltos temporales
- . La historia va hacia adelante y hacia atrs como si el orden de los plano
- s estuviera dictado por una asociacin de ideas que nunca se hace explcita.
-  Con la presencia de Peter von Bagh y de Miguel Maras.\n\n\nFuente: http:/
- /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
- fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nora-neko rokku: sekkusu hanta / Stray at Rock: Sex Hunter
-DTSTART;VALUE=DATE-TIME:20130308T201000
-DTEND;VALUE=DATE-TIME:20130308T215500
-UID:1303081020_1_dore
-DESCRIPTION:Sala 1 - Nora-neko rokku: sekkusu hanta / Stray at Rock: Sex H
- unter (Yasuharu Hasebe\, 1970). Int.: Meiko Kaji\, Rikiya Yasuoka. Japn. V
- OSI/E*. 86 La seductora Mako lidera la banda de Las Gatas Salvajes\, enfre
- ntada a muerte con el clan masculino rival capitaneado por su novio\, Baro
- n. El racismo y la influencia norteamericana contrapuntean este festn visu
- al de esttica pop que marc un punto de inflexin en la produccin de la Nikk
- atsu entre los aos 60 y 70.\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+DESCRIPTION:Sala 2 - ¡Vivan las Antípodas! (V. Kossakovsky\, 2011). Docu
+ mental. Blu-ray. VOSE. 105'\n\n\nFuente: http://www.mecd.gob.es/cultura-me
  cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
  013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Saint Joan
-DTSTART;VALUE=DATE-TIME:20130308T215000
-DTEND;VALUE=DATE-TIME:20130308T233500
-UID:1303085021_1_dore
-DESCRIPTION:Sala 1 - Saint Joan (Santa Juana\, Otto Preminger\, 1957). Int
- .: Jean Seberg\, Richard Widmark\, Richard Todd. Reino Unido/ EE UU. VOSE*
- . 110 Porque Preminger est siempre interesado en las maquinaciones del pod
- er\, la fuerza de la pureza de Juana de Arco se convierte en la cuestin ce
- ntral\, la espina dorsal. Cuando Preminger consagra un primer plano a Joan
-  en devoto soliloquio mientras encuadra al futuro rey jugando a la rayuela
-  tras ella\, destila la dinmica poltica de esta historia feminista en una 
- sola imagen. (Jonathan Rosenbaum) Segunda proyeccin da 12. Sbado 9\n\n\nFu
- ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
- ura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:James and the Giant Peach
-DTSTART;VALUE=DATE-TIME:20130308T173000
-DTEND;VALUE=DATE-TIME:20130308T191500
-UID:1303083017_1_dore
-DESCRIPTION:Sala 1 - James and the Giant Peach (James y el melocotn gigant
- e\, Henry Selick\, 1996). Animacin. EE UU. VE. 79 James Henry Trotter es u
- n nio de siete aos de edad que queda hurfano y se ve obligado a vivir con 
- sus dos crueles y repulsivas tas: Spiker y Sponge. La visita de un extrao 
- personaje\, una araa a la que salva la vida\, le proporciona un medio de e
- scapar\; un melocotn comienza a crecer desmesuradamente en su jardn. Dentr
- o de aquel extrao fruto conocer a otros curiosos personajes y vivir grande
- s aventuras. Entrada libre para menores de 14 aos.\n\n\nFuente: http://www
- .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
- ine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bakumastu taiyden / Sun in the Last Days of the Shogunate
-DTSTART;VALUE=DATE-TIME:20130308T191000
-DTEND;VALUE=DATE-TIME:20130308T205500
-UID:1303081019_1_dore
-DESCRIPTION:Sala 1 - Bakumastu taiyden / Sun in the Last Days of the Shogu
- nate (Yuzo Kawashima\, 1957). Int.: Frankie Sakai\, Sachiko Hidari\, Yko M
- inamida. Japn. VOSI/E*.110 Un rakugoka (un cuentacuentos tradicional japon
- s) tendr que permanecer en un burdel hasta saldar sus deudas. Repleta de p
- ersonajes a cual ms excntrico samuris\, geishas\, comerciantes y agitadore
- s polticos-\, esta extraordinaria comedia de enredo (la favorita de Akira 
- Kurosawa) ha sido considerada una de las cinco mejores pelculas del cine j
- apons. Segunda proyeccin da 14.\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sodankyl ikuisesti. Elokuvan vuosisata I & II
-DTSTART;VALUE=DATE-TIME:20130308T193000
-DTEND;VALUE=DATE-TIME:20130308T211500
-UID:1303083019_2_dore
-DESCRIPTION:Sala 2 - Sodankyl ikuisesti. Elokuvan vuosisata I & II (Sodank
- yl Forever: The Century of Cinema\, Peter von Bagh\, 2010). Documental. Fi
- nlandia.VOSE*. Parte I: 88. Parte II: 58. Total Programa: 146 Ver Partes I
- II y IV y nota da 10. Con la presencia de Peter von Bagh y de Miguel Maras
- .\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
- reas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Daai mo seut si / The Great Magician
-DTSTART;VALUE=DATE-TIME:20130308T213000
-DTEND;VALUE=DATE-TIME:20130308T231500
-UID:1303083021_1_dore
-DESCRIPTION:Sala 1 - Daai mo seut si / The Great Magician (Derek Yee\, 201
- 2). Int.: Tony Leung\, Zhou Xun. Hong Kong / China. VOSI/E*. 128 En los ao
- s posteriores a la Revolucin que derroc a la Dinasta Qing\, China se divid
- i en feudos sostenidos por jefes militares ocupados en luchar el uno contr
- a el otro. Un teniente\, Liu Kun Shan\, us la magia para asustar a presidi
- arios huidos del ejrcito de un jefe militar. Su jefe militar\, Matn de Lei
- \, haba encarcelado a una muchacha\, Liu Yin\, para casarse con ella... Pe
- ro un grupo de revolucionarios locales quiso secuestrar a Lei e instaurar 
- la repblica. Ellos formaron un equipo con un mago\, Chang Hsien\, para atr
- aer Lei a un espectculo mgico y secuestrarle durante el espectculo\n\n\nFu
- ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
- ura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pepa Doncel
-DTSTART;VALUE=DATE-TIME:20130310T173000
-DTEND;VALUE=DATE-TIME:20130310T191500
-UID:1303103017_1_dore
-DESCRIPTION:Sala 1 - Pepa Doncel (Luis Luca\, 1969). Int.: Aurora Bautista
- \, Juan Luis Galiardo\, Maribel Matn. Espaa. 92 Uno de los ltimos filmes d
- e la prolfica filmografa de Luis Luca\, basada en la obra de Jacinto Benav
- ente escrita por el propio Luca y por Antonio Gala y centrada en la vida d
- e una respetable viuda\, que lleg a lo ms alto desde los ms humildes y esc
- abrosos orgenes\, con una vida llena de complicadas relaciones con los hom
- bres\, a cuya hija intenta seducir uno de sus antiguos amantes.\n\n\nFuent
- e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
- /cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sodankyl ikuisesti. Elokuvan vuosisata III & IV
-DTSTART;VALUE=DATE-TIME:20130310T193000
-DTEND;VALUE=DATE-TIME:20130310T211500
-UID:1303103019_2_dore
-DESCRIPTION:Sala 2 - Sodankyl ikuisesti. Elokuvan vuosisata III & IV (Soda
- nkyl Forever: The Century of Cinema\, Peter von Bagh\, 2010). Documental. 
- Finlandia.VOSE*. Parte III: 58. Parte IV: 58. Total Programa: 116 Desde 19
- 69\, muchos de los ms brillantes cineastas han acudido al Midnight Sun Fil
- m Festival en Sodankyl para hablar de su forma de ver y hacer cine. De cie
- ntos de horas de discusiones pblicas grabadas con Samuel Fuller\, Marlen H
- uciev\, Jacques Demy\, Michael Powell\, Jancs Mikls\, Dino Risi\, Jerzy Sk
- olimowski\, Andrej Smirnov\, Ivan Passer\, Joseph H. Lewis\,\, Mario Monic
- elli\, Francis Ford Coppola\, Claude Sautet y otros\, von Bagh ha esculpid
- o un poderoso\, emotivo\, a menudo melanclico y siempre divertido ensayo s
- obre el cine como la esencia del siglo XX. Un trabajo esplndido - mitad el
- ega\, mitad grito - que ve la programacin de pelculas como el arte de cons
- truir una comunidad y los festivales como una utopa para emprender el viaj
- e.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
- areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Akai satsui / Intentions of Murder
-DTSTART;VALUE=DATE-TIME:20130310T192000
-DTEND;VALUE=DATE-TIME:20130310T210500
-UID:1303102019_1_dore
-DESCRIPTION:Sala 1 - Akai satsui / Intentions of Murder (Shohei Imamura\, 
- 1964). Int.: Masumi Harukawa\, Ko Nishimura. Japn. VOSE/E*. 150 Ver nota d
- a 7.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
- d/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.d
- oc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Passion de Jeanne dArc
-DTSTART;VALUE=DATE-TIME:20130310T221000
-DTEND;VALUE=DATE-TIME:20130310T235500
-UID:1303101022_2_dore
-DESCRIPTION:Sala 2 - La Passion de Jeanne dArc (La pasin de Juana de Arco\
- , Carl Th. Dreyer\, 1927). Int.: Rene Falconetti\, Silvain\, Maurice Schut
- lz. Francia. MRFSE. 96 a 20 i/s. Ver nota da 5.\n\n\nFuente: http://www.me
- cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
- -dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saint Joan
-DTSTART;VALUE=DATE-TIME:20130312T173000
-DTEND;VALUE=DATE-TIME:20130312T191500
-UID:1303123017_1_dore
-DESCRIPTION:Sala 1 - Saint Joan (Santa Juana\, Otto Preminger\, 1957). Int
- .: Jean Seberg\, Richard Widmark\, Richard Todd. Reino Unido/ EE UU. VOSE*
- . 110 Ver nota da 8.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
- mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Pro
- graDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yek habbeh ghand
-DTSTART;VALUE=DATE-TIME:20130312T194000
-DTEND;VALUE=DATE-TIME:20130312T212500
-UID:1303124019_1_dore
-DESCRIPTION:Sala 1 - Yek habbeh ghand (El azcar cbico\, Reza Mir-Karimi\, 
- 2011). Int.: Reza Kianian\, Negar Javaherian\, Saeed Poorsamimi. Irn. Digi
- tal. VOSE. 110 Pasandideh\, la hija menor de una familia tradicional\, viv
- e con numerosos parientes\, en una vieja casa tradicional de una vieja ciu
- dad. Se supone que se va a casar pronto con un magnfico hijo de unos viejo
- s amigos de la familia\, estudiante en un pas occidental. Todo est prepara
- do para la boda y sus hermanas van llegando a la casa. Cada miembro de la 
- familia tiene sus propios secretos y\, sin embargo\, intentan estar unidos
-  en la celebracin. Presentacin del autor y de Javier Tolentino y coloquio 
- posterior.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
- ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111
- -doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carta a Sasha
-DTSTART;VALUE=DATE-TIME:20130312T200000
-DTEND;VALUE=DATE-TIME:20130312T214500
-UID:1303120020_2_dore
-DESCRIPTION:Sala 2 - Carta a Sasha (Javier Reverte y Andoni Jan\, 2012). 1
- 5. Asesinato en la villa (Carlota Coronado\, 2011). 2. Reflejos (Juan Lpez
-  Salvatierra\, 2011). 6. Cllate (Miguel ngel Viruete\, 2013) 35. El violin
- ista de Auschwitz\, (Carlos Hernando\, 2012). 13. Ngutu\, (Felipe del Olmo
-  y Daniel Valledor\, 2012). 5. Amina\, la fuerza del Gurug (Susana Hidalgo
-  Arenas\, 2012). 5. Lucirnaga (Carlota Coronado\, 2011). 5. Alfombra Roja 
- (Iosu Lpez y Manuel Fernndez\, 2012). 12. Meskin (Med Ziani\, 2012). 3. Es
- paa. Video. Total programa: 65 Presentacin a cargo de Margarita Benedicto.
- \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
- eas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Floating City
-DTSTART;VALUE=DATE-TIME:20130312T214000
-DTEND;VALUE=DATE-TIME:20130312T232500
-UID:1303124021_2_dore
-DESCRIPTION:Sala 2 - Floating City (Yim Ho\, 2012). Int.: Aaron Kwok\, Cha
- rlie Yeung. Hong Kong / China. VOSI/E*. 104 A principios de la dcada de 19
- 90\, Bo Wah Chuen atrae una gran atencin como ejecutivo en la Compaa Imper
- ial de las Indias Orientales de Hong Kong\, eclipsando incluso a sus super
- iores britnicos. Sin embargo\, veinte aos atrs\, cuando se present a la pr
- ueba de acceso al trabajo tuvo que suplicar "yo s leer y escribir". Su asc
- enso a la fama tiene que ver con el inminente regreso de Hong Kong a la so
- berana china\, pero para asombro de muchos\, Bo no parece chino. Esto le l
- levar a descubrir sus verdaderas races. Mircoles 13\n\n\nFuente: http://ww
- w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
- cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moonraker
-DTSTART;VALUE=DATE-TIME:20130312T173000
-DTEND;VALUE=DATE-TIME:20130312T191500
-UID:1303123017_1_dore
-DESCRIPTION:Sala 1 - Moonraker (Moonraker\, Lewis Gilbert\, 1979). Int.: R
- oger Moore\, Lois Chiles\, Michael Lonsdale. Reino Unido/Francia. Digital.
-  VOSE. Cuando la nave espacial Moonraker desaparece misteriosamente\, Jame
- s Bond va a California para interrogar a Hugo Drax\, el billonario constru
- ctor de la mquina. Bond seduce a una de las empleadas de Drax y descubre q
- ue ste ha secuestrado la nave como parte de un plan secreto. Tras varios i
- ntentos contra la vida de Bond\, finalmente Corinne\, la empleada\, es ase
- sinada. De all\, Bond viaja hasta Venecia\, donde descubre que el laborato
- rio de Drax est desarrollando un misterioso gas letal por razones desconoc
- idas\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
- d/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.d
- oc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:/ East Meets West
-DTSTART;VALUE=DATE-TIME:20130312T183000
-DTEND;VALUE=DATE-TIME:20130312T201500
-UID:1303123018_2_dore
-DESCRIPTION:Sala 2 - / East Meets West (Jeff Lau\, 2011). Int.: Eason Chan
- \, Karen Mok. Hong Kong / China. VOSI/E*. 100 Ver nota da 1.\n\n\nFuente: 
- http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
- ne/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Belovy
-DTSTART;VALUE=DATE-TIME:20130312T200000
-DTEND;VALUE=DATE-TIME:20130312T214500
-UID:1303120020_1_dore
-DESCRIPTION:Sala 1 - Belovy (V. Kossakovsky\, 1993). Documental. Rusia. Vd
- eo. VOSI/E*.60 Desde el punto de vista esttico\, quera rodar una pelcula a
- lejada de cualquier gnero especfico. Esto explica que en Belovy el drama s
- e desliza fcilmente hacia la comedia\, que luego se transforma en tragedia
- \, hacia la tragicomedia\, en definitiva. La dramaturgia en este tipo de c
- ine documental nace de esa transformacin de los estados de nimo y sentimie
- ntos del espectador\, que se ve abocado a modificar numerosas veces su rel
- acin con los personajes\, experimenta una gran variedad de sentimientos di
- ferentes. Sin embargo\, en el instante siguiente\, de nuevo queda atrapado
-  por la profundidad y la paradoja que tiene lugar ante sus ojos\, hasta ll
- egar a querer a los protagonistas. Por eso tiendo a creer que si no se qui
- ere a los personajes\, no vale la pena rodar una pelcula. Inauguracin y co
- loquio posterior con el autor. Entrada libre hasta completar aforo. Segund
- a proyeccin da 30.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
- cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Progr
- aDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kheili dour\, kheili nazdik
-DTSTART;VALUE=DATE-TIME:20130312T203000
-DTEND;VALUE=DATE-TIME:20130312T221500
-UID:1303123020_2_dore
-DESCRIPTION:Sala 2 - Kheili dour\, kheili nazdik (Tan lejos\, tan cerca\, 
- Reza Mir-Karimi\, 2005). Int.: Afsin Hashemi\, Elham Hamidi\, Masoud Rayeg
- an. Irn. Blu-ray. VOSE.130 El Dr. Alam\, un neurlogo prestigioso\, vive un
- a vida de lujo\, rodeado por dispositivos de comunicacin personales de alt
- a tecnologa. Esta existencia ufana se tambalea cuando se entera de que su 
- hijo adolescente tiene un tumor cerebral. La pelcula sigue el viaje del do
- ctor para ver a su hijo que se ha marchado durante las vacaciones de Ao Nu
- evo.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
- d/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.d
- oc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El vuelo de la paloma
-DTSTART;VALUE=DATE-TIME:20130314T173000
-DTEND;VALUE=DATE-TIME:20130314T191500
-UID:1303143017_2_dore
-DESCRIPTION:Sala 2 - El vuelo de la paloma (Jos Luis Garca Snchez\, 1989).
-  Int.: Ana Beln\, Juan Luis Galiardo\, Jos Sacristn. Espaa. 90 En clave de
-  sainete madrileo\, Jos Luis Garca Snchez y Rafael Azcona organizan un ori
- ginal y divertidsimo fresco sobre la vida espaola actual\, en el que las c
- osas ms dispares y disparatadas encajan recprocamente en un rompecabezas p
- erfectamente ordenado\, resuelto por el director con maestra y un buen hum
- or que multiplica su valor a causa de su escasez en el cine actual. (ngel 
- Fernndez-Santos)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
- /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograD
- ore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:/ Love Lifting
-DTSTART;VALUE=DATE-TIME:20130314T193000
-DTEND;VALUE=DATE-TIME:20130314T211500
-UID:1303143019_2_dore
-DESCRIPTION:Sala 2 - / Love Lifting (Herman Yau\, 2012). Int.: Chapman To\
- , Elaine Kong. Hong Kong / China. VOSI/E*. 92 Li deja el campo debido a la
-  diabetes\, y se traslada a Hong Kong para empezar de cero. Vivir en una c
- iudad tan extraa le resulta difcil\, ya que ella carece de habilidades pro
- fesionales pero tiene que trabajar para afrontar sus numerosos gastos mdic
- os. Cuando conoce a Yun\, un hombre fracasado en el amor y los negocios\, 
- todo comienza a ir a la deriva.\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Color perro que huye
-DTSTART;VALUE=DATE-TIME:20130314T210000
-DTEND;VALUE=DATE-TIME:20130314T224500
-UID:1303140021_2_dore
-DESCRIPTION:Sala 2 - Color perro que huye (A. Duque\, 2011). Documental. E
- spaa. Vdeo. 70 Pienso que el oficio del cineasta es como el de un vampiro\
- , por lo tanto\, si veo/grabo una imagen y la retengo en mi memoria\, ento
- nces pasa a ser ma por derecho universal. Forma parte de mi imaginario. Y 
- la funcin que tiene el arte es precisamente esa\, dejarse robar. Cuando ve
- s una obra que te gusta\, la guardas en tu cabeza y as la posees como un t
- esoro valioso. Ha perdido su autora\, metafricamente hablando. Y es en est
- e robo donde radica su xito. Cuando hoy me veo enfrentado a un disco duro 
- externo que guarda cantidad de imgenes digitalizadas\, tanto mas como de o
- tros\, me siento con el derecho de utilizarlas\, porque estoy ligado a ell
- as emocionalmente. (Andrs Duque) Coloquio con el director. Entrada libre h
- asta completar aforo. Segunda proyeccin da 31.\n\n\nFuente: http://www.mec
- d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
- dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bakumastu taiyden / Sun in the Last Days of the Shogunate
-DTSTART;VALUE=DATE-TIME:20130314T213000
-DTEND;VALUE=DATE-TIME:20130314T231500
-UID:1303143021_1_dore
-DESCRIPTION:Sala 1 - Bakumastu taiyden / Sun in the Last Days of the Shogu
- nate (Yuzo Kawashima\, 1957). Int.: Frankie Sakai\, Sachiko Hidari\, Yko M
- inamida. Japn. VOSI/E*.110 Ver nota da 9.\n\n\nFuente: http://www.mecd.gob
- .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
- programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Don Juan mi querido fantasma
-DTSTART;VALUE=DATE-TIME:20130315T173000
-DTEND;VALUE=DATE-TIME:20130315T191500
-UID:1303153017_1_dore
-DESCRIPTION:Sala 1 - Don Juan mi querido fantasma (Antonio Mercero\, 1990)
- . Int.: Juan Luis Galiardo\, Mara Barranco\, Vernica Forqu. Espaa.103 Pens
- amos que esa forma pardica de presentar a Don Juan Tenorio le iba muy bien
-  al carcter de Galiardo y a lo que estaba haciendo ltimamente. Adems\, hab
- a algo muy bonito para un actor que es el juego del doble. Tena que hacer 
- por un lado\, un Don Juan que vena de ultratumba\, maravilloso\, simptico\
- , genial y con grandes poderes sexuales\, y\, al mismo tiempo\, todo lo co
- ntrario: el Don Juan terrenal\, que era una mala persona\, farsante\, calv
- o\, impotente\, etc... Ese juego es muy agradecido para un actor. (Antonio
-  Mercero)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
- a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-
- doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Imani
-DTSTART;VALUE=DATE-TIME:20130315T193000
-DTEND;VALUE=DATE-TIME:20130315T211500
-UID:1303153019_1_dore
-DESCRIPTION:Sala 1 - Imani (Caroline Kamya\, 2010). Int.: Stephen Ocen\, R
- ehema Nanfuka\, Philip Buyi Roy. Uganda/Suecia. Vdeo. VOSE. 82 Inauguracin
-  y presentacin a cargo de Agnes Nasozi Kamya\, guionista y de Marion Berge
- r\, Directora de Programacin de FCAT. Segunda proyeccin da y nota 27.\n\n\
- nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
- ultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tutsi to hetai/Mud and Soldiers
-DTSTART;VALUE=DATE-TIME:20130315T200000
-DTEND;VALUE=DATE-TIME:20130315T214500
-UID:1303150020_2_dore
-DESCRIPTION:Sala 2 - Tutsi to hetai/Mud and Soldiers (Tasaka Tomatada\, 19
- 39). Int.: Isamu Kosugi. Japn. VOSI/E*. 119 Lcido y sin concesiones\, Tasa
- ka hilvana un realista retrato en clave casi documental de la vida cotidia
- na de los soldados japoneses durante la guerra chino-japonesa. Su preocupa
- cin por el detalle le deparara un extrao final: cuando el ejrcito estadoun
- idense encontr una copia de la pelcula\, la utiliz como material didctico 
- para adiestrar a sus soldados. Segunda proyeccin da 16.\n\n\nFuente: http:
- //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
- /fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maruhi: shikij mesu ichiba / The Oldest Profession
-DTSTART;VALUE=DATE-TIME:20130315T215000
-DTEND;VALUE=DATE-TIME:20130315T233500
-UID:1303155021_1_dore
-DESCRIPTION:Sala 1 - Maruhi: shikij mesu ichiba / The Oldest Profession (N
- oburo Tanaka\, 1974). Int.: Meika Seri\, Junko Miyashita Japn. VOSE*. 88 T
- anaka se sumerge en la vida cotidiana de una prostituta de diecinueve aos 
- en la Osaka de los 70. Rodado en blanco y negro y cmara en mano\, de narra
- cin fragmentada y estilo impresionista y dotado de un sentido del humor ne
- gro y militante\, es uno de los Roman Porno ms singulares\, perturbadores 
- y visualmente impecables del gnero. Sbado 16\n\n\nFuente: http://www.mecd.
- gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
- re/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Modern Times
-DTSTART;VALUE=DATE-TIME:20130315T173000
-DTEND;VALUE=DATE-TIME:20130315T191500
-UID:1303153017_1_dore
-DESCRIPTION:Sala 1 - Modern Times (Tiempos modernos\, Charles Chaplin\, 19
- 36). Int.: Charles Chaplin\, Paulette Godard\, Henry Bergman. EE UU. MRISE
- . 83 Sin que suceda nada parecido a una toma de conciencia\, distradamente
- \, el ms dbil es capaz de mostrarse hbil\, astuto\, poltico incluso\, haci
- endo del juego infantil una guerrilla de cada instante\, de cada gesto. Co
- mo si en el proceso de mecanizacin social y tcnica estuviese siempre laten
- te la posibilidad de su destruccin. (King Ludd) Segunda proyeccin da 21. E
- ntrada libre para menores de 14 aos.\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tutsi to hetai/Mud and Soldiers
-DTSTART;VALUE=DATE-TIME:20130315T193000
-DTEND;VALUE=DATE-TIME:20130315T211500
-UID:1303153019_1_dore
-DESCRIPTION:Sala 1 - Tutsi to hetai/Mud and Soldiers (Tasaka Tomatada\, 19
- 39). Int.: Isamu Kosugi. Japn. VOSI/E*. 119 Ver nota da 15.\n\n\nFuente: h
- ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
- e/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Chant des maries
-DTSTART;VALUE=DATE-TIME:20130315T200000
-DTEND;VALUE=DATE-TIME:20130315T214500
-UID:1303150020_2_dore
-DESCRIPTION:Sala 2 - Le Chant des maries (Karin Albou\, 2008). Int.: Lizzi
- e Brocher\, Olympe Borval\, Simon Abkarian. Francia/Tnez. Vdeo. VOSE. Prem
- io mejor direccin FCAT 2009. Tnez\, 1942. Nour y Myriam son amigas desde s
- iempre. Viven en el mismo edificio situado en un barrio modesto\, donde ju
- dos y musulmanes conviven en perfecta armona. Cada una envidia la vida de 
- la otra. Nour siente no poder ir al colegio como su amiga\, pero Myriam su
- ea con el amor. En noviembre de 1942\, el ejrcito alemn entra en Tnez. Con
- secuentes con la poltica de Vichy\, los nazis obligan a los judos a pagar 
- impuestos exorbitantes. Prohben trabajar a Tita\, la madre de Myriam. Acri
- billada por las deudas\, decide casar a su hija con un mdico rico. Los sue
- os de Myriam se desvanecen. Segunda proyeccin en abril.\n\n\nFuente: http:
- //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
- /fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Octopussy
-DTSTART;VALUE=DATE-TIME:20130315T214500
-DTEND;VALUE=DATE-TIME:20130315T233000
-UID:1303154521_1_dore
-DESCRIPTION:Sala 1 - Octopussy (Octopussy\, John Glen\, 1983). Int.: Roger
-  Moore\, Maud Adams\, Louis Jourdan. Reino Unido/EE UU. Digital. VOSE. 130
- . El General sovitico Orlov se asocia con Kamal Khan\, un contrabandista d
- e joyas. Orlov acepta robar joyas valiosas del Kremlin y vendrselas a Khan
- . Todo el escenario es parte de un elaborado plan en el que Orlov detonar 
- una bomba nuclear en una base militar americana situada en Alemania del Es
- te. ste predice que los Estados Unidos sern culpados y obligados a retirar
-  sus fuerzas Octopussy es una de las mejores pelculas de la era Roger Moor
- e con un guin muy complejo lleno de personajes exticos.\n\n\nFuente: http:
- //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
- /fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Familia
-DTSTART;VALUE=DATE-TIME:20130317T173000
-DTEND;VALUE=DATE-TIME:20130317T191500
-UID:1303173017_1_dore
-DESCRIPTION:Sala 1 - Familia (Fernando Len de Aranoa\, 1997). Int.: Juan L
- uis Galiardo\, Amparo Muoz\, Elena Anaya. Espaa. 98 Uno de los debuts ms e
- stimulantes del joven cine espaol. Es una visin de la cotidianidad como tr
- ompe loeil que muerde\, con la perseverancia de un pjaro carpintero\, los 
- fundamentos de las convenciones culturales en definitiva\, de las trampas 
- que establece el hombre civilizado para esquivar las zarpas de aquella fie
- ra que denominamos soledad. (Jordi Costa).\n\n\nFuente: http://www.mecd.go
- b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
- /programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barakat!
-DTSTART;VALUE=DATE-TIME:20130317T193000
-DTEND;VALUE=DATE-TIME:20130317T211500
-UID:1303173019_1_dore
-DESCRIPTION:Sala 1 - Barakat! (Djamila Sahraoui\, 2005). Int.: Rachida Bra
- kni\, Fettouma Bouamari\, Zahir Bouzrar. Vdeo. VOSE. Argelia/Francia. 95 P
- remio mejor direccin FCAT 2007. En Argelia\, en los aos 90\, Amel es mdico
-  en un hospital. Se esfuerza todo lo que puede en ejercer su profesin y en
-  vivir su vida de mujer joven\, a pesar de la guerra civil que causa estra
- gos entre los islamistas y el ejrcito. Una noche\, cuando vuelve a casa tr
- as una larga guardia\, Amel se da cuenta de que su marido\, periodista\, h
- a desaparecido. Frente a la indiferencia y la inercia de las autoridades\,
-  decide ir en su bsqueda. Le acompaa Khadija\, enfermera que\, durante su 
- juventud\, combati por la independencia. En su aventura incierta y peligro
- sa\, las dos mujeres se descubrirn la una a la otra\, al mismo tiempo que 
- se enfrentarn a los hombres de su pas Segunda proyeccin da 26.\n\n\nFuente
- : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
- cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ensayo final para Utopa
-DTSTART;VALUE=DATE-TIME:20130317T200000
-DTEND;VALUE=DATE-TIME:20130317T214500
-UID:1303170020_2_dore
-DESCRIPTION:Sala 2 - Ensayo final para Utopa  (A. Duque\, 2012). Documenta
- l. Espaa. Digital. VOSE. 75 En cada pelcula me enfrento a un viaje inciert
- o\, donde ocurren cosas que no tena planteadas\, y que cambia en funcin de
-  cmo me afecten los problemas que la vida me va poniendo. Por eso siempre 
- mantengo abiertas todas las posibilidades. Y estoy contento\, porque he ll
- egado a donde quera: a una escritura cinematogrfica que llevo a cabo a dia
- rio\, y que va mutando\, que se ve afectada por lo que me sucede. (Andrs D
- uque) Segunda proyeccin da 27.\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Licence to Kill
-DTSTART;VALUE=DATE-TIME:20130317T213000
-DTEND;VALUE=DATE-TIME:20130317T231500
-UID:1303173021_1_dore
-DESCRIPTION:Sala 1 - Licence to Kill (007\, Licencia para matar\, John Gle
- n\, 1989). Int.: Timothy Dalton\, Carey Lowell\, Robert Davi. Reino Unido.
-  VOSE. 133 Se trata de una de las pelculas de la saga que refleja de forma
-  ms fiel y ms eficaz el espritu de las novelas originales\, precisamente p
- orque intenta dejar atrs los manierismos desarrollados en sus adaptaciones
-  cinematogrficas y convertir a Bond en algo ms que un superhroe con esmoqu
- in. (Tonio L. Alarcn) Segunda proyeccin da 26.\n\n\nFuente: http://www.mec
- d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
- dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suspiros de Espaa
-DTSTART;VALUE=DATE-TIME:20130319T173000
-DTEND;VALUE=DATE-TIME:20130319T191500
-UID:1303193017_1_dore
-DESCRIPTION:Sala 1 - Suspiros de Espaa (y Portugal) (J. L. Garca Snchez\, 
- 1995). Int.: Juan Luis Galiardo\, Juan Echanove\, Rosa Maria Sard. Espaa. 
- Es la historia de unos seres incompletos\, como lo somos nosotros y que ne
- cesitan del otro\; es la historia de los eternos personajes secundarios qu
- e ha producido la literatura espaola y que me provocan una enorme emocin\;
-  es la historia de nuestra cultura callejera que expone el jamn y el bacal
- ao a orear." (Jos Luis Garca Snchez)\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vivan las Antpodas!
-DTSTART;VALUE=DATE-TIME:20130319T193000
-DTEND;VALUE=DATE-TIME:20130319T211500
-UID:1303193019_1_dore
-DESCRIPTION:Sala 1 - Vivan las Antpodas! (V. Kossakovsky\, 2011). Document
- al. Digital. VOSE. 105 En Vivan las Antpodas!\, la ltima pelcula de Viktor
-  Kossakovsky\, el dispositivo es tan potente que su resultado se parece ms
-  a una ecuacin que a un film documental. Vivan las Antpodas! es un compend
- io de cuatro oposiciones binarias que resuenan a estructuralismo simblico\
- , pero que se sitan lejos de cualquier inmersin seria en el significado\, 
- porque relegan a la determinacin geogrfica toda asociacin posible entre lo
- s pares: Botswana y Estados Unidos\, Chile y Rusia\, Argentina y China\, E
- spaa y Nueva Zelanda\, estn relacionadas slo por su condicin de antpodas d
- el otro?\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
- -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-d
- oc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goldeneye
-DTSTART;VALUE=DATE-TIME:20130319T200000
-DTEND;VALUE=DATE-TIME:20130319T214500
-UID:1303190020_2_dore
-DESCRIPTION:Sala 2 - Goldeneye (Goldeneye\, Martin Campbell\, 1995). Int.:
-  Pierce Brosnan\, Sean Bean\, Izabella Scorupco. Reino Unido/EE UU. VOSE. 
- 130 Segunda proyeccin y nota da 24.\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kuratta kajitsu / Crazed Fruit
-DTSTART;VALUE=DATE-TIME:20130319T214000
-DTEND;VALUE=DATE-TIME:20130319T232500
-UID:1303194021_1_dore
-DESCRIPTION:Sala 1 - Kuratta kajitsu / Crazed Fruit (K Nakahira\, 1956). I
- nt.: Masahiko Tsugawa\, Yjir Ishihara. Japn. VOSI/E*. 86 Dos hermanos comp
- iten por la misma mujer durante un verano junto al mar en uno de los ttulo
- s seminales de la llamada Tribu del Sol. Elogiada en su momento por el mis
- msimo Franois Truffaut\, un polmico retrato del ansia de trasgresin y la i
- ndolencia sexual de la juventud acomodada al inicio del milagro econmico j
- apons. Segunda proyeccin da 22. Mircoles 20\n\n\nFuente: http://www.mecd.g
- ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
- e/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:As en el cielo como en la tierra
-DTSTART;VALUE=DATE-TIME:20130319T173000
-DTEND;VALUE=DATE-TIME:20130319T191500
-UID:1303193017_1_dore
-DESCRIPTION:Sala 1 - As en el cielo como en la tierra (Jos Luis Cuerda\, 1
- 995). Int.: Francisco Rabal\, Fernando Fernn Gmez\, Juan Luis Galiardo. Es
- paa. 99 La idea de esta pelcula surgi de una frase que yo adjudicaba a Alb
- ert Camus\, un hombre a partir de los cuarenta aos es totalmente responsab
- le de su rostro. Creo que si un hombre a los cuarenta aos es responsable d
- e su cara\, todas las sociedades son responsables de de sus dioses. La exi
- stencia de otra vida es una hiprbole del instinto de conservacin. Es decir
- \, uno no se conforma con esta vida y prefiere que haya una que dure etern
- amente. La vida perdurable que yo prefiero para un pas como Espaa sera la 
- que transcurriera en un pueblo berlanguiano. (Jos Luis Cuerda)\n\n\nFuente
- : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
- cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Man with the Golden Gun
-DTSTART;VALUE=DATE-TIME:20130319T193000
-DTEND;VALUE=DATE-TIME:20130319T211500
-UID:1303193019_1_dore
-DESCRIPTION:Sala 1 - The Man with the Golden Gun (El hombre de la pistola 
- de oro\, Guy Hamilton\, 1974). Int.: Roger Moore\, Britt Ekland\, Chistoph
- er Lee. Reino Unido. Digital. VOSE. 125 Un extrao paquete ha llegado a la 
- oficina londinense de M\, jefe del servicio secreto de Su Majestad. En su 
- interior hay una bala de oro con la inscripcin 007 y una nota amenazando a
- l agente secreto James Bond. Aparentemente\, el mensaje proviene de Franci
- sco Scaramanga\, asesino profesional que cobra un milln de dlares por cada
-  misin cumplida y que siempre utiliza una pistola de oro. Bond decide adel
- antarse al asesino y viaja a Beirut\, escenario de su ltimo asesinato.\n\n
- \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
- cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Genji monogatari
-DTSTART;VALUE=DATE-TIME:20130319T194000
-DTEND;VALUE=DATE-TIME:20130319T212500
-UID:1303194019_2_dore
-DESCRIPTION:Sala 2 - Genji monogatari (The Tale of Genji\, Kzabur Yoshimur
- a\, 1951).Int.: Kazuo Hasegawa\, Michiyo Kogure\, Machiko Ky. Japn. VOSI/E
- *. 121 Aunque no tan conocida como otros clsicos contemporneos del trabajo
-  de Yoshimura\, como Ugetsu Monogatari de Mizoguchi o Rashomon de Kurosawa
- \, Genji monogatari es considerada por la crtica como la mejor adaptacin c
- inematogrfica de la milenaria novela homnima\, y una de las obras maestras
-  de la historia del cine japons. Adems del trabajo de Yoshimura\, la pelcu
- la cont con un guion adaptado por el recientemente fallecido Kaneto Shind\
- , a partir de la versin que Junichiro Tanizaki hizo de la novela de Murasa
- ki Shikibu\, y con una banda sonora original compuesta por el mtico Akira 
- Ifukube. Una pelcula grandiosa con la que empezar a conocer la historia de
- l prncipe Hikari Genji. Presentacin y coloquio con Lorenzo J. Torres\, com
- isario del ciclo. Segunda proyeccin da 24.\n\n\nFuente: http://www.mecd.go
- b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
- /programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dowaha
-DTSTART;VALUE=DATE-TIME:20130319T215500
-DTEND;VALUE=DATE-TIME:20130319T234000
-UID:1303195521_1_dore
-DESCRIPTION:Sala 1 - Dowaha (Raja Amari\, 2009). Int.: Hafsia Herzi Sondos
- \, Belhassen Wassila\, Dari Rim. Tnez/ Francia/Suiza. Vdeo. VOSE. 91 Segun
- da proyeccin y nota da 31.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+SUMMARY:東成西就 / East Meets West
+DTSTART;VALUE=DATE-TIME:20130301T214500
+DTEND;VALUE=DATE-TIME:20130301T232500
+UID:1303014521_1_dore
+DESCRIPTION:Sala 1 - 東成西就 / East Meets West (Jeff Lau\, 2011). Int
+ .: Eason Chan\, Karen Mok. Hong Kong / China. VOSI/E*. 100’\nKaren Mok i
+ nterpreta a un punk cínico cuyo padre es Kenny Bee\, el ex-guitarrista de
+ l supergrupo de los años setenta de Hong Kong\, The Wynners. Bee está ar
+ ruinado\, reducido a interpretar a un zombi en una casa embrujada. Su segu
+ nda esposa\, Crystal\, consigue que un empresario financie un concierto de
+  reencuentro de The Wynners. Karen y Kenny se dirigen a China para encontr
+ ar al resto del grupo\, y allí descubren que son la reencarnación de los
+  Siete Dragones Divinos\, que se reúnen cada pocos siglos para combatir e
+ l octavo dragón\, el malvado Yaksha. Y ahora\, Yaksha está de vuelta. Se
+ gunda proyección día 13.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
  d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
  13/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tomorrow Never Dies
-DTSTART;VALUE=DATE-TIME:20130321T173000
-DTEND;VALUE=DATE-TIME:20130321T191500
-UID:1303213017_1_dore
-DESCRIPTION:Sala 1 - Tomorrow Never Dies (El maana nunca muere\, Roger Spo
- ttiswoode\, 1997). Int.: Pierce Brosnan\, Jonathan Pryce\, Michelle Yeoh. 
- Reino Unido/EE UU. VOSE. 119 Un peligroso terrorista consigue robar un tem
- porizador atmico y un potentsimo torpedo nuclear sovitico. Todas las pista
- s llevan hasta el poderoso y desaprensivo Eliot Carver\, un importante mag
- nate de las comunicaciones que est a punto de provocar una noticia que con
- vulsionar al mundo: una fragata britnica ha sido misteriosamente destruida
-  en aguas chinas y la perturbada mente de Carver pretende utilizar este at
- aque para provocar la Tercera Guerra Mundial. Segunda proyeccin da 23.\n\n
- \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
- cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+SUMMARY:Koruto wa ore no pasupooto / A Colt is my Passport
+DTSTART;VALUE=DATE-TIME:20130302T193000
+DTEND;VALUE=DATE-TIME:20130302T205500
+UID:1303023019_1_dore
+DESCRIPTION:Sala 1 - Koruto wa ore no pasupooto / A Colt is my Passport (T
+ akashi Nomura\, 1967). Int.: Joe Shishido\, Chitose Kobayashi. Japón. VOS
+ I/E*. 85’\nEl inefable Joe Shihido da vida a un asesino a sueldo atrapad
+ o entre dos bandas rivales en esta ultraestilizada combinación de noir a 
+ la francesa\, spaghetti western y cine negro clásico de Hollywood. Magní
+ ficamente fotografiada\, con una banda sonora que quita el hipo\, es uno d
+ e los emblemas del cine de acción de la Nikkatsu.\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Koroshi no rakuin / Branded to Kill
-DTSTART;VALUE=DATE-TIME:20130321T195000
-DTEND;VALUE=DATE-TIME:20130321T213500
-UID:1303215019_1_dore
-DESCRIPTION:Sala 1 - Koroshi no rakuin / Branded to Kill (Seijun Suzuki\, 
- 1967). Int.: Jo Shishido\, Mariko Ogawa. Japn. Digital. VOSE*. 91 Segunda 
- proyeccin y nota da 30.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
- ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/
- PrograDore111-doc.doc
+SUMMARY:Tishé!
+DTSTART;VALUE=DATE-TIME:20130302T200000
+DTEND;VALUE=DATE-TIME:20130302T212000
+UID:1303020020_2_dore
+DESCRIPTION:Sala 2 - Tishé! (V. Kossakovsky\, 2002). Documental. Rusia. V
+ ídeo. Sin diálogos. 80’\n Segunda proyección y nota día 21.\n\n\nFue
+ nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
+ ra/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tish!
-DTSTART;VALUE=DATE-TIME:20130321T200000
-DTEND;VALUE=DATE-TIME:20130321T214500
-UID:1303210020_2_dore
-DESCRIPTION:Sala 2 - Tish! (V. Kossakovsky\, 2002). Documental. Rusia. Vde
- o. Sin dilogos. 80 Tische! naci por azar. Me encontraba en fase de prepara
- cin de otro proyecto en Alemania y estuve un ao entero esperando los fondo
- s necesarios para hacerlo. Cada dos meses volva a mi casa en San Petersbur
- go para descansar tres o cuatro das. Comenc a filmar a travs de la ventana
-  de mi habitacin sin la intencin de hacer una pelcula. Rodaba porque s. Po
- rque me produca placer. Repet estas vueltas a casa unas seis veces en todo
-  el ao. Y cada vez que lo haca tena la oportunidad de filmar algo bello o 
- extrao. Un ao ms tarde\, segua sin recibir el dinero necesario para realiz
- ar la pelcula en Alemania\, pero tena ya diez horas de material rodado a t
- ravs de mi ventana. Y al final he acabado haciendo una pelcula desde mi pr
- opia ventana. (Victor Kossakovsky)\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2013/PrograDore111-doc.doc
+SUMMARY:B+ jing taam / The Detective 2
+DTSTART;VALUE=DATE-TIME:20130302T214000
+DTEND;VALUE=DATE-TIME:20130302T232100
+UID:1303024021_1_dore
+DESCRIPTION:Sala 1 - B+ jing taam / The Detective 2 (Oxide Pang\, 2011). I
+ nt.: Aaron Kwok\, Patrick Tam\, Liu Kai-chi. Hong Kong / China. VOSI/E*. 1
+ 01’\nA Chan Tam\, que dirige una agencia policíaca privada empobrecida 
+ en el barrio chino\, le pide el inspector de policía Fung Cha que le ayud
+ e a investigar el caso de Kwok-tung\, que apuñaló a su esposa cuando ell
+ a descubrió su infidelidad. Después\, la prostituta Cheng Mei-fan y el p
+ restamista Chuen son encontrados muertos\, con sus genitales mutilados. Ch
+ an Tam cree que los delitos han sido cometidos por la misma persona\, pero
+  no puede encontrar ninguna prueba…\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Modern Times
-DTSTART;VALUE=DATE-TIME:20130321T214000
-DTEND;VALUE=DATE-TIME:20130321T232500
-UID:1303214021_1_dore
-DESCRIPTION:Sala 1 - Modern Times (Tiempos modernos\, Charles Chaplin\, 19
- 36). Int.: Charles Chaplin\, Paulette Godard\, Henry Bergman. EE UU. MRISE
- . 83 Ver nota da 16.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
- mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Pro
- graDore111-doc.doc
+SUMMARY:Kasuki Toride no San Akunin
+DTSTART;VALUE=DATE-TIME:20130303T173000
+DTEND;VALUE=DATE-TIME:20130303T193600
+UID:1303033017_1_dore
+DESCRIPTION:Sala 1 - Kasuki Toride no San Akunin (La fortaleza escondida\,
+  Akira Kurosawa\, 1958). Int.: Toshiro Mifune\, Misa Uehara\, Minoru Chiak
+ i. Japón. VOSE. 126’\n“Un cuento de hadas visto como un musical. Tem
+ áticamente es de nuevo una crítica a las premisas del teatro Kabuki\, pe
+ ro esta vez todo acaba bien\, con los semidioses de vuelta a su lugar y lo
+ s granjeros reñidos recibiendo como recompensa una pieza de oro.” (Dona
+ ld Ritchie)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
+ ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore11
+ 1-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Casino Royale
-DTSTART;VALUE=DATE-TIME:20130322T192000
-DTEND;VALUE=DATE-TIME:20130322T210500
-UID:1303222019_1_dore
-DESCRIPTION:Sala 1 - Casino Royale (007: Casino Royale\, Martin Campbell\,
-  2006). Int.: Daniel Craig\, Eva Green\, Judi Dench. Reino Unido/EE UU. VO
- SE. 144 Segunda proyeccin y nota da 31.\n\n\nFuente: http://www.mecd.gob.e
- s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
- ogramacion/2013/PrograDore111-doc.doc
+SUMMARY:金不換 / The Cure
+DTSTART;VALUE=DATE-TIME:20130303T193000
+DTEND;VALUE=DATE-TIME:20130303T210300
+UID:1303033019_2_dore
+DESCRIPTION:Sala 2 - 金不換 / The Cure (Bill Yip\, 2011). Int.: Eric Ch
+ iu\, Siriwan Khankham. Hong Kong / China. VOSI/E*. 93’ \nUna road-movie 
+ que acompaña a dos estafadores que viajan por el país ofreciendo remedio
+ s y curas\, engañando a los campesinos. Cuando en Bangkok se revela su tr
+ uco\, uno es asesinado y el otro emprende una huída que se convertirá en
+  una búsqueda espiritual que le lleva de regreso a su ciudad natal\, dond
+ e el reencuentro con la paz y la naturaleza le cambian totalmente.\n\n\nFu
+ ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
+ ura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Svyato
-DTSTART;VALUE=DATE-TIME:20130322T200000
-DTEND;VALUE=DATE-TIME:20130322T214500
-UID:1303220020_2_dore
-DESCRIPTION:Sala 2 - Svyato (V. Kossakovsky\, 2005). Documental. Rusia. Vd
- eo. VOSE*.40. Losev (V. Kossakovsky\, 1989). Documental. Rusia. Vdeo. VOSI
- /E*. 58. Total programa 98 Svyato: Un beb puede ser rodeado por el amor\; 
- los padres pueden jugar con l y ensearle cosas\, pero nadie le puede ayuda
- r con las preguntas ms importantes. Quin soy yo? Con una pregunta as\, se 
- encuentra con su propio ser. Puede leer muchos libros sobre el amor o Dios
- \, pero al final\, es el nico que puede contestar a la pregunta en cuanto 
- a si existen o no. Losev: Alexis Losev era uno de los representantes ms im
- portantes de la cultura del siglo XX\, pero en la URSS\, a partir de 1930\
- , cuando fue enviado al Gulag\, se haban dejado de publicar sus trabajos f
- ilosficos. Cuando sali de los campos\, donde haba perdido la visin\, slo o
- btuvo permiso para publicar libros sobre la antigedad. Nadie haba registra
- do ni una sola imagen de l para el cine o la televisin\, y tampoco existan
-  fotos. Mi intencin era simplemente atrapar algunas imgenes que conservara
- n para la Historia aquellos rasgos que sus compatriotas no haban visto jam
- s. (V. Kossakovsky)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
+SUMMARY:Procès de Jeanne d’Arc
+DTSTART;VALUE=DATE-TIME:20130303T195500
+DTEND;VALUE=DATE-TIME:20130303T210000
+UID:1303035519_1_dore
+DESCRIPTION:Sala 1 - Procès de Jeanne d’Arc (El proceso de Juana de Arc
+ o\, Robert Bresson\, 1961). Int.: Florence Delay\, Jean-Claude Fourneau\, 
+ Richard Pratt. Francia. VOSE*. 65’\n“Bresson quería filmar la suerte 
+ de una mujer condenada al fuego y a una lenta agonía\, pero también hace
+ r sentir ‘el enigma no aclarado de esta maravillosa joven del que jamás
+  tendremos la clave’. El cineasta eligió sobre todo diálogos que antep
+ usiesen la dimensión espiritual y la fuerza interior de la virgen\, su fa
+ miliaridad desconcertante con las realidades celestes\, que le permiten de
+ scribir los caminos misteriosos que llevan a la gracia divina en un mundo 
+ manchado por el pecado\, el tema bressoniano por excelencia.” (Hervé Du
+ mont) Segunda proyección día 7.\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:For Your Eyes Only
+DTSTART;VALUE=DATE-TIME:20130303T212000
+DTEND;VALUE=DATE-TIME:20130303T232700
+UID:1303032021_1_dore
+DESCRIPTION:Sala 1 - For Your Eyes Only (Sólo para sus ojos\, John Glen\,
+  1981). Int.: Roger Moore\, Carole Bouquet\, Topol. Reino Unido. VOSE. 127
+ ’ \nEl pesquero inglés St. George es hundido en aguas territoriales alb
+ anesas. El barco estaba equipado con ATAC\, un dispositivo ultra-secreto u
+ tilizado para transmitir órdenes a los submarinos Polaris\, que si cayera
+  en manos inadecuadas\, podría utilizarse para reprogramar los submarinos
+  y atacar sus propios países y aliados. El hundimiento provoca una carrer
+ a entre ingleses y soviéticos para recuperar el pesquero de las profundid
+ ades del océano...\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
  ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Prog
  raDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:En la mano de King Kong!
-DTSTART;VALUE=DATE-TIME:20130322T215500
-DTEND;VALUE=DATE-TIME:20130322T234000
-UID:1303225521_2_dore
-DESCRIPTION:Sala 2 - En la mano de King Kong! (Jos Luis Lozano\, 2011). Es
- paa. Vdeo. 30. Olvido. Una historia que se desvanece... (Ramn Verdugo\, 20
- 12). Espaa. Vdeo. 30. Total programa: 60\n\n\nFuente: http://www.mecd.gob.
+SUMMARY:La Passion de Jeanne d’Arc
+DTSTART;VALUE=DATE-TIME:20130305T173000
+DTEND;VALUE=DATE-TIME:20130305T193700
+UID:1303053017_1_dore
+DESCRIPTION:Sala 1 - La Passion de Jeanne d’Arc (La pasión de Juana de 
+ Arco\, Carl Th. Dreyer\, 1927). Int.: Renée Falconetti\, Silvain\, Mauric
+ e Schutlz. Francia. MRFSE. 96’ a 20 i/s. “Bresson quería filmar la su
+ erte de una mujer condenada al fuego y a una lenta agonía\, pero también
+  hacer sentir ‘el enigma no aclarado de esta maravillosa joven del que j
+ amás tendremos la clave’. El cineasta eligió sobre todo diálogos que 
+ antepusiesen la dimensión espiritual y la fuerza interior de la virgen\, 
+ su familiaridad desconcertante con las realidades celestes\, que le permit
+ en describir los caminos misteriosos que llevan a la gracia divina en un m
+ undo manchado por el pecado\, el tema bressoniano por excelencia”. (Herv
+ é Dumont) Segunda proyección día 10.\n\n\nFuente: http://www.mecd.gob.e
+ s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
+ ogramacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yohohan fusuma no./ The World of Geisha
+DTSTART;VALUE=DATE-TIME:20130305T193000
+DTEND;VALUE=DATE-TIME:20130305T204200
+UID:1303053019_1_dore
+DESCRIPTION:Sala 1 - Yohohan fusuma no./ The World of Geisha (Tatsumi Kuma
+ shiro\, 1973).Int.: Junko Miyashita\, Naomi Oka Japón. VOSI/E*. 72’\nUn
+ o de los mejores filmes japoneses de la década de los 70\, donde Kumashir
+ o examina la relación sexo-dinero-poder. En una casa de geishas en 1918\,
+  una de las jóvenes pasa la noche con un nuevo cliente que se va a casar.
+  Contra las reglas\, se enamora del hombre. Un lúdico análisis de las po
+ líticas del período en uno de los grandes títulos del género Roman Por
+ no\, mezcla de erotismo\, exploitation y refinamiento visual. Segunda proy
+ ección día 24.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograD
+ ore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svyato
+DTSTART;VALUE=DATE-TIME:20130305T200000
+DTEND;VALUE=DATE-TIME:20130305T213800
+UID:1303050020_2_dore
+DESCRIPTION:Sala 2 - Svyato (V. Kossakovsky\, 2005). Documentales. Rusia. 
+ Video. VOSE*. 40’. Losev (V. Kossakovsky\, 1989). Documentales. Rusia. 
+ Video. VOSI/E*. 58’. Total programa 98’\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El disputado voto del señor Cayo
+DTSTART;VALUE=DATE-TIME:20130306T173000
+DTEND;VALUE=DATE-TIME:20130306T191000
+UID:1303063017_1_dore
+DESCRIPTION:Sala 1 - El disputado voto del señor Cayo (Antonio. Giménez-
+ Rico\, 1986). Int.: Francisco Rabal\, Juan Luis Galiardo\, Lydia Bosch. Es
+ paña. 100’ \n“Lo que narra El disputado voto del señor Cayo es el pa
+ rticular enfrentamiento que se produce entre la progresista mentalidad pol
+ ítica de los tres amigos y la vieja filosofía campesina del señor Cayo.
+  La fascinación que su personalidad produce en Víctor Velasco le lleva a
+ l convencimiento de que es más importante que la suya”. (Augusto M. Tor
+ res)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
+ d/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.d
+ oc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Una mujer en peligro
+DTSTART;VALUE=DATE-TIME:20130306T193000
+DTEND;VALUE=DATE-TIME:20130306T203800
+UID:1303063019_1_dore
+DESCRIPTION:Sala 1 - Una mujer en peligro (José Santugini\, 1936). Int.: 
+ Enrique del Campo\, Antoñita Colomé\, Alberto Romea. España. 68’\nUna
+  mujer en peligro es una película atípica y única. Única porque el lue
+ go guionista José Santugini\, cómplice habitual de Ladislao Vajda\, no v
+ olvió a dirigir después de la Guerra Civil. Atípica en tanto que hacía
+  suyo\, para subvertirlo desde el prisma del humor de vanguardia\, el clim
+ a de las películas de caserones tenebrosos de la Universal. El resultado 
+ es de un vanguardismo castizo muy ramoniano\, que Santugini prorrogaría c
+ omo guionista en Viaje sin destino (Rafael Gil\, 1942) y La torre de los s
+ iete jorobados (Edgar Neville\, 1944). Presentación del libro De Buen Hum
+ or\, de José Santugini\, a cargo de Jordi Costa y Santiago Aguilar (antó
+ logo). Entrada libre hasta completar el aforo.\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hong Men Yan / White Vengeance
+DTSTART;VALUE=DATE-TIME:20130306T200000
+DTEND;VALUE=DATE-TIME:20130306T221500
+UID:1303060020_2_dore
+DESCRIPTION:Sala 2 - Hong Men Yan / White Vengeance (Daniel Lee\, 2011). I
+ nt.: Leon Lai\, Anthony Wong. Hong Kong / China. VOSI/E*. 135’\nWhite Ve
+ ngeance cuenta la historia de dos hermanos que compiten por la supremacía
+  durante la caída de la Dinastía Qin\, que gobernó China Imperial de 22
+ 1 a 206 a.C. Cuando los rebeldes se levantaron\, la nación cayó en el ca
+ os. Liu Bang y Xiang Yu se hicieron líderes del ejército rebelde y se ju
+ raron hermandad en la batalla…\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kyonetsu no kisetsu / The Warped Ones
+DTSTART;VALUE=DATE-TIME:20130306T213000
+DTEND;VALUE=DATE-TIME:20130306T224500
+UID:1303063021_1_dore
+DESCRIPTION:Sala 1 - Kyonetsu no kisetsu / The Warped Ones (Koreyoshi Kura
+ hara\, 1960). Int.: Tamio Kawaji\, Eiji Gô\, Noriko Matsumoto. Japón. VO
+ SEI/E*. 75’ \nKurahara derrocha energía e ingenio visual tras los pasos
+  de un joven delincuente adicto al jazz en su anárquica carrera hacia el 
+ desastre\, trasunto de la claustrofobia espiritual de una generación atra
+ pada en el milagro económico japonés\, con la que el director daba carpe
+ tazo al cine juvenil y preparaba\, con una explosión\, la llegada de la N
+ ueva Ola.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-
+ doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diamonds Are Forever
+DTSTART;VALUE=DATE-TIME:20130307T173000
+DTEND;VALUE=DATE-TIME:20130307T192900
+UID:1303073017_1_dore
+DESCRIPTION:Sala 1 - Diamonds Are Forever (Diamantes para la eternidad\, G
+ uy Hamilton\, 1971). Int.: Sean Connery\, Jill St. John\, Charles Gray. Re
+ ino Unido. VOSE. 119’ \nAlguien está acaparando enormes cantidades de d
+ iamantes del mercado negro internacional. James Bond es asignado para enco
+ ntrar quiénes son los ladrones y por qué los diamantes no han vuelto a l
+ a venta. Haciéndose pasar por contrabandista Bond viaja a Holanda para en
+ contrarse con una pieza clave del circuito\, la bella Tiffany Case. La pis
+ ta le lleva hasta Las Vegas\, donde Bond descubre que su archienemigo Blof
+ eld se encuentra detrás del plan.\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akai satsui / Intentions of Murder
+DTSTART;VALUE=DATE-TIME:20130307T193000
+DTEND;VALUE=DATE-TIME:20130307T220000
+UID:1303073019_2_dore
+DESCRIPTION:Sala 2 - Akai satsui / Intentions of Murder (Shohei Imamura\, 
+ 1964). Int.: Masumi Harukawa\, Ko Nishimura. Japón. VOSE/E*. 150’\nTras
+  ser asaltada por un ladrón\, Sadako se debate entre el miedo y el deseo 
+ en este intenso retrato psicológico desbordante de sensualidad. El despli
+ egue de voz en off\, flashbacks y primeros planos de pasión y lucha cuerp
+ o a cuerpo redondean un de los títulos de Shohei Imamura más críticos c
+ on el modelo de masculinidad japonés. Segunda proyección día 10.\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Helsinki\, ikuisesti
+DTSTART;VALUE=DATE-TIME:20130307T195000
+DTEND;VALUE=DATE-TIME:20130307T210400
+UID:1303075019_1_dore
+DESCRIPTION:Sala 1 - Helsinki\, ikuisesti (Helsinki Forever\, Peter von Ba
+ gh\, 2008). Documental. Finlandia. VOSE*. 74’ \n“Al ver Helsinki\, for
+ ever terminé entendiendo que von Bagh practica una extraña variedad de l
+ a autobiografía. No es que hable en primera persona\, ni que dé ningún 
+ detalle de su vida. Pero la película es la reflexión de alguien que desp
+ ués de haber visto tantas imágenes se da cuenta de que el siglo XX avanz
+ ó a un paso brutal\, que por un lado dejó una enorme concentración de c
+ adáveres y\, por el otro\, arrasó el mundo por la vía del progreso y lo
+  volvió irreconocible. La implícita autobiografía de von Bagh es el rel
+ ato de una iluminación personal inevitable surgida del contacto con el ma
+ terial fílmico\, la del hombre que se dio cuenta de que el contraste que 
+ revelan las imágenes no se puede pasar por alto.” (Quintín) Presentaci
+ ón y coloquio posterior a cargo de Peter von Bagh y Miguel Marías.\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Procès de Jeanne d’Arc
+DTSTART;VALUE=DATE-TIME:20130307T220000
+DTEND;VALUE=DATE-TIME:20130307T230500
+UID:1303070022_1_dore
+DESCRIPTION:Sala 1 - Procès de Jeanne d’Arc (El proceso de Juana de Arc
+ o\, Robert Bresson\, 1961). Int.: Florence Delay\, Jean-Claude Fourneau\, 
+ Richard Pratt. Francia. VOSE. 65’\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Way
+DTSTART;VALUE=DATE-TIME:20130308T173000
+DTEND;VALUE=DATE-TIME:20130308T194900
+UID:1303083017_1_dore
+DESCRIPTION:Sala 1 - My Way (Ann Hui\, 2012). Int.: Francis Ng\, Jade Leun
+ g. Hong Kong / China. VOSI/E*. 21’. Tao jie/ A Simple Life (Ann Hui\, 20
+ 11). Int.: Andy Lau\, Deannie Yip. Hong Kong / China. Digital. VOSI/E*. 11
+ 8’. Total programa: 139’\nMy way: Episodio del film colectivo Beautifu
+ l 2012\, sobre un hombre que espera nerviosamente su operación de cambio 
+ de sexo. A Simple..: Desde que era adolescente\, Chung Chun-Tao ha trabaja
+ do como criada para la familia de Leung. Ella ha contemplado cada aspecto 
+ de la vida de la familia. Algunos miembros de la familia de Leung han fall
+ ecido y otros han emigrado. Ahora\, después de 60 años de servicio\, ell
+ a cuida de Roger\, que trabaja en la industria cinematográfica y es el ú
+ nico miembro de la familia en Hong Kong. Un día Roger viene a casa del tr
+ abajo para encontrar que Ah Tao ha sufrido un golpe. La lleva al hospital\
+ , donde ella anuncia que quiere dejar su trabajo y mudarse a una residenci
+ a de ancianos.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDor
+ e111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lastuja – Taiteilijasuvun vuosisata
+DTSTART;VALUE=DATE-TIME:20130308T193000
+DTEND;VALUE=DATE-TIME:20130308T204400
+UID:1303083019_2_dore
+DESCRIPTION:Sala 2 - Lastuja – Taiteilijasuvun vuosisata (Splinters - A 
+ Century of an Artistic Family\, Peter von Bagh\, 2011). Documental. Finlan
+ dia. VOSE*. 74’\n Splinters resulta una película que se ocupa del arte 
+ y la naturaleza y deja fuera de campo el trasfondo político y social aunq
+ ue este se cuela cada tanto por la ventana. Como uno no sabe nada de la fa
+ milia Aho y sabe muy poco de Finlandia en general\, queda frecuentemente p
+ erplejo frente a Splinters gracias al curioso método narrativo de von Bag
+ h\, a su personalísimo estilo para montar el material de archivo\, la voz
+  en off\, las citas literarias y las fuentes pictóricas que se suceden ev
+ itando deliberadamente la sucesión cronológica. Por el contrario\, von B
+ agh enlaza los temas con una gran fluidez en las imágenes\, pero mediante
+  alocados saltos temporales. La historia va hacia adelante y hacia atrás 
+ como si el orden de los planos estuviera dictado por una asociación de id
+ eas que nunca se hace explícita. Con la presencia de Peter von Bagh y de 
+ Miguel Marías.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDo
+ re111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nora-neko rokku: sekkusu hanta / Stray at Rock: Sex Hunter
+DTSTART;VALUE=DATE-TIME:20130308T201000
+DTEND;VALUE=DATE-TIME:20130308T213600
+UID:1303081020_1_dore
+DESCRIPTION:Sala 1 - Nora-neko rokku: sekkusu hanta / Stray at Rock: Sex H
+ unter (Yasuharu Hasebe\, 1970). Int.: Meiko Kaji\, Rikiya Yasuoka. Japón.
+  VOSI/E*. 86’\nLa seductora Mako lidera la banda de Las Gatas Salvajes\,
+  enfrentada a muerte con el clan masculino rival capitaneado por su novio\
+ , Baron. El racismo y la influencia norteamericana contrapuntean este fest
+ ín visual de estética pop que marcó un punto de inflexión en la produc
+ ción de la Nikkatsu entre los años 60 y 70.\n\n\nFuente: http://www.mecd
+ .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
+ ore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saint Joan
+DTSTART;VALUE=DATE-TIME:20130308T215000
+DTEND;VALUE=DATE-TIME:20130308T234000
+UID:1303085021_1_dore
+DESCRIPTION:Sala 1 - Saint Joan (Santa Juana\, Otto Preminger\, 1957). Int
+ .: Jean Seberg\, Richard Widmark\, Richard Todd. Reino Unido/ EE UU. VOSE*
+ . 110’\n“Porque Preminger está siempre interesado en las maquinacione
+ s del poder\, la fuerza de la pureza de Juana de Arco se convierte en la c
+ uestión central\, la espina dorsal. Cuando Preminger consagra un primer p
+ lano a Joan en devoto soliloquio mientras encuadra al futuro rey jugando a
+  la rayuela tras ella\, destila la dinámica política de esta historia fe
+ minista en una sola imagen”. (Jonathan Rosenbaum) Segunda proyección d
+ ía 12.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-do
+ c.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:James and the Giant Peach
+DTSTART;VALUE=DATE-TIME:20130309T173000
+DTEND;VALUE=DATE-TIME:20130309T184900
+UID:1303093017_1_dore
+DESCRIPTION:Sala 1 - James and the Giant Peach (James y el melocotón giga
+ nte\, Henry Selick\, 1996). Animación. EE UU. VE. 79’\nJames Henry Trot
+ ter es un niño de siete años de edad que queda huérfano y se ve obligad
+ o a vivir con sus dos crueles y repulsivas tías: Spiker y Sponge. La visi
+ ta de un extraño personaje\, una araña a la que salva la vida\, le propo
+ rciona un medio de escapar\; un melocotón comienza a crecer desmesuradame
+ nte en su jardín. Dentro de aquel extraño fruto conocerá a otros curios
+ os personajes y vivirá grandes aventuras. Entrada libre para menores de 1
+ 4 años.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-d
+ oc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bakumastu taiyôden / Sun in the Last Days of the Shogunate
+DTSTART;VALUE=DATE-TIME:20130309T191000
+DTEND;VALUE=DATE-TIME:20130309T202900
+UID:1303091019_1_dore
+DESCRIPTION:Sala 1 - Bakumastu taiyôden / Sun in the Last Days of the Sho
+ gunate (Yuzo Kawashima\, 1957). Int.: Frankie Sakai\, Sachiko Hidari\, Yô
+ ko Minamida. Japón. VOSI/E*.110’ Un rakugoka (un cuentacuentos tradicio
+ nal japonés) tendrá que permanecer en un burdel hasta saldar sus deudas.
+  Repleta de personajes a cual más excéntrico –samuráis\, geishas\, co
+ merciantes y agitadores políticos-\, esta extraordinaria comedia de enred
+ o (la favorita de Akira Kurosawa) ha sido considerada una de las cinco mej
+ ores películas del cine japonés. Segunda proyección día 14.\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sodankylä ikuisesti. Elokuvan vuosisata I & II
+DTSTART;VALUE=DATE-TIME:20130309T193000
+DTEND;VALUE=DATE-TIME:20130309T215600
+UID:1303093019_2_dore
+DESCRIPTION:Sala 2 - Sodankylä ikuisesti. Elokuvan vuosisata I & II (Soda
+ nkylä Forever: The Century of Cinema\, Peter von Bagh\, 2010). Documental
+ . Finlandia.VOSE*. Parte I: 88’. Parte II: 58’. Total Programa: 146’
+  \nVer Partes III y IV y nota día 10. Con la presencia de Peter von Bagh 
+ y de Miguel Marías.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Pro
+ graDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daai mo seut si / The Great Magician
+DTSTART;VALUE=DATE-TIME:20130309T213000
+DTEND;VALUE=DATE-TIME:20130309T233800
+UID:1303093021_1_dore
+DESCRIPTION:Sala 1 - Daai mo seut si / The Great Magician (Derek Yee\, 201
+ 2). Int.: Tony Leung\, Zhou Xun. Hong Kong / China. VOSI/E*. 128’\nEn lo
+ s años posteriores a la Revolución que derrocó a la Dinastía Qing\, Ch
+ ina se dividió en feudos sostenidos por jefes militares ocupados en lucha
+ r el uno contra el otro. Un teniente\, Liu Kun Shan\, usó la magia para a
+ sustar a presidiarios huidos del ejército de un jefe militar. Su jefe mil
+ itar\, Matón de Lei\, había encarcelado a una muchacha\, Liu Yin\, para 
+ casarse con ella... Pero un grupo de revolucionarios locales quiso secuest
+ rar a Lei e instaurar la república. Ellos formaron un equipo con un mago\
+ , Chang Hsien\, para atraer Lei a un espectáculo mágico y secuestrarle d
+ urante el espectáculo…\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/201
+ 3/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pepa Doncel
+DTSTART;VALUE=DATE-TIME:20130310T173000
+DTEND;VALUE=DATE-TIME:20130310T190200
+UID:1303103017_1_dore
+DESCRIPTION:Sala 1 - Pepa Doncel (Luis Lucía\, 1969). Int.: Aurora Bautis
+ ta\, Juan Luis Galiardo\, Maribel Matín. España. 92’\nUno de los últi
+ mos filmes de la prolífica filmografía de Luis Lucía\, basada en la obr
+ a de Jacinto Benavente escrita por el propio Lucía y por Antonio Gala y c
+ entrada en la vida de una respetable viuda\, que llegó a lo más alto des
+ de los más humildes y escabrosos orígenes\, con una vida llena de compli
+ cadas relaciones con los hombres\, a cuya hija intenta seducir uno de sus 
+ antiguos amantes.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
+ d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Progra
+ Dore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sodankylä ikuisesti. Elokuvan vuosisata III & IV
+DTSTART;VALUE=DATE-TIME:20130310T193000
+DTEND;VALUE=DATE-TIME:20130310T212600
+UID:1303103019_2_dore
+DESCRIPTION:Sala 2 - Sodankylä ikuisesti. Elokuvan vuosisata III & IV (So
+ dankylä Forever: The Century of Cinema\, Peter von Bagh\, 2010). Document
+ al. Finlandia.VOSE*. Parte III: 58’. Parte IV: 58’. Total Programa: 11
+ 6’ \nDesde 1969\, muchos de los más brillantes cineastas han acudido al
+  Midnight Sun Film Festival en Sodankylä para hablar de su forma de ver y
+  hacer cine. De cientos de horas de discusiones públicas grabadas con Sam
+ uel Fuller\, Marlen Huciev\, Jacques Demy\, Michael Powell\, Jancsó Mikl
+ ós\, Dino Risi\, Jerzy Skolimowski\, Andrej Smirnov\, Ivan Passer\, Josep
+ h H. Lewis\,\, Mario Monicelli\, Francis Ford Coppola\, Claude Sautet y ot
+ ros\, von Bagh ha esculpido un poderoso\, emotivo\, a menudo melancólico 
+ y siempre divertido ensayo sobre el cine como la esencia del siglo XX. Un 
+ trabajo espléndido - mitad elegía\, mitad grito - que ve la programació
+ n de películas como el arte de construir una comunidad y los festivales c
+ omo una utopía para emprender el viaje.\n\n\nFuente: http://www.mecd.gob.
  es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
  rogramacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akai satsui / Intentions of Murder
+DTSTART;VALUE=DATE-TIME:20130310T192000
+DTEND;VALUE=DATE-TIME:20130310T215000
+UID:1303102019_1_dore
+DESCRIPTION:Sala 1 - Akai satsui / Intentions of Murder (Shohei Imamura\, 
+ 1964). Int.: Masumi Harukawa\, Ko Nishimura. Japón. VOSE/E*. 150’\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Passion de Jeanne d’Arc
+DTSTART;VALUE=DATE-TIME:20130310T221000
+DTEND;VALUE=DATE-TIME:20130311T004000
+UID:1303101022_2_dore
+DESCRIPTION:Sala 2 - La Passion de Jeanne d’Arc (La pasión de Juana de 
+ Arco\, Carl Th. Dreyer\, 1927). Int.: Renée Falconetti\, Silvain\, Mauric
+ e Schutlz. Francia. MRFSE. 96’ a 20 i/s.\n\n\nFuente: http://www.mecd.go
+ b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
+ /programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saint Joan
+DTSTART;VALUE=DATE-TIME:20130312T173000
+DTEND;VALUE=DATE-TIME:20130312T192000
+UID:1303123017_1_dore
+DESCRIPTION:Sala 1 - Saint Joan (Santa Juana\, Otto Preminger\, 1957). Int
+ .: Jean Seberg\, Richard Widmark\, Richard Todd. Reino Unido/ EE UU. VOSE*
+ . 110’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-d
+ oc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yek habbeh ghand
+DTSTART;VALUE=DATE-TIME:20130312T194000
+DTEND;VALUE=DATE-TIME:20130312T213000
+UID:1303124019_1_dore
+DESCRIPTION:Sala 1 - Yek habbeh ghand (El azúcar cúbico\, Reza Mir-Karim
+ i\, 2011). Int.: Reza Kianian\, Negar Javaherian\, Saeed Poorsamimi. Irán
+ . Digital. VOSE. 110’\nPasandideh\, la hija menor de una familia tradici
+ onal\, vive con numerosos parientes\, en una vieja casa tradicional de una
+  vieja ciudad. Se supone que se va a casar pronto con un magnífico hijo d
+ e unos viejos amigos de la familia\, estudiante en un país occidental. To
+ do está preparado para la boda y sus hermanas van llegando a la casa. Cad
+ a miembro de la familia tiene sus propios secretos y\, sin embargo\, inten
+ tan estar unidos en la celebración. Presentación del autor y de Javier T
+ olentino y coloquio posterior.\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carta a Sasha
+DTSTART;VALUE=DATE-TIME:20130312T200000
+DTEND;VALUE=DATE-TIME:20130312T210500
+UID:1303120020_2_dore
+DESCRIPTION:Sala 2 - Carta a Sasha (Javier Reverte y Andoni Jaén\, 2012).
+  15’. Asesinato en la villa (Carlota Coronado\, 2011). 2’. Reflejos (J
+ uan López Salvatierra\,  2011). 6’. Cállate (Miguel Ángel Viruete\, 
+ 2013) 35’’. El violinista de Auschwitz\, (Carlos Hernando\, 2012). 13
+ ’. Ngutu\, (Felipe del Olmo y Daniel Valledor\, 2012). 5’. Amina\, la 
+ fuerza del Gurugú (Susana Hidalgo Arenas\, 2012). 5’. Luciérnaga (Carl
+ ota Coronado\, 2011). 5’. Alfombra Roja (Iosu López y Manuel Fernández
+ \, 2012). 12’. Meskin (Med Ziani\, 2012). 3’. España. Video. Total pr
+ ograma: 65’\n  Presentación a cargo de Margarita Benedicto.\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Floating City
+DTSTART;VALUE=DATE-TIME:20130312T214000
+DTEND;VALUE=DATE-TIME:20130312T232400
+UID:1303124021_2_dore
+DESCRIPTION:Sala 2 - Floating City (Yim Ho\, 2012). Int.: Aaron Kwok\, Cha
+ rlie Yeung. Hong Kong / China. VOSI/E*. 104’\nA principios de la década
+  de 1990\, Bo Wah Chuen atrae una gran atención como ejecutivo en la Comp
+ añía Imperial de las Indias Orientales de Hong Kong\, eclipsando incluso
+  a sus superiores británicos. Sin embargo\, veinte años atrás\, cuando 
+ se presentó a la prueba de acceso al trabajo tuvo que suplicar "yo sé le
+ er y escribir". Su ascenso a la fama tiene que ver con el inminente regres
+ o de Hong Kong a la soberanía china\, pero para asombro de muchos\, Bo no
+  parece chino. Esto le llevará a descubrir sus verdaderas raíces.\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moonraker
+DTSTART;VALUE=DATE-TIME:20130313T173000
+DTEND;VALUE=DATE-TIME:20130313T193600
+UID:1303133017_1_dore
+DESCRIPTION:Sala 1 - Moonraker (Moonraker\, Lewis Gilbert\, 1979). Int.: R
+ oger Moore\, Lois Chiles\, Michael Lonsdale. Reino Unido/Francia. Digital.
+  VOSE. 126’\nCuando la nave espacial Moonraker desaparece misteriosament
+ e\, James Bond va a California para interrogar a Hugo Drax\, el billonario
+  constructor de la máquina. Bond seduce a una de las empleadas de Drax y 
+ descubre que éste ha secuestrado la nave como parte de un plan secreto. T
+ ras varios intentos contra la vida de Bond\, finalmente Corinne\, la emple
+ ada\, es asesinada. De allí\, Bond viaja hasta Venecia\, donde descubre q
+ ue el laboratorio de Drax está desarrollando un misterioso gas letal por 
+ razones desconocidas…\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
+ ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/
+ PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:東成西就 / East Meets West
+DTSTART;VALUE=DATE-TIME:20130313T183000
+DTEND;VALUE=DATE-TIME:20130313T201000
+UID:1303133018_2_dore
+DESCRIPTION:Sala 2 - 東成西就 / East Meets West (Jeff Lau\, 2011). Int
+ .: Eason Chan\, Karen Mok. Hong Kong / China. VOSI/E*. 100’ \nVer nota d
+ ía 1.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
+ ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc
+ .doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Belovy
+DTSTART;VALUE=DATE-TIME:20130313T200000
+DTEND;VALUE=DATE-TIME:20130313T214000
+UID:1303130020_1_dore
+DESCRIPTION:Sala 1 - Belovy (V. Kossakovsky\, 1993). Documental. Rusia. V
+ ídeo. VOSI/E*. 60’    “Desde el punto de vista estético\, quería r
+ odar una película alejada de cualquier género específico. Esto explica 
+ que en Belovy el drama se desliza fácilmente hacia la comedia\, que luego
+  se transforma en tragedia\, hacia la tragicomedia\, en definitiva. La dra
+ maturgia en este tipo de cine documental nace de esa transformación de lo
+ s estados de ánimo y sentimientos del espectador\, que se ve abocado a mo
+ dificar numerosas veces su relación con los personajes\, experimenta una 
+ gran variedad de sentimientos diferentes. Sin embargo\, en el instante sig
+ uiente\, de nuevo queda atrapado por la profundidad y la paradoja que tien
+ e lugar ante sus ojos\, hasta llegar a querer a los protagonistas. Por eso
+  tiendo a creer que si no se quiere a los personajes\, no vale la pena rod
+ ar una película.   Inauguración y coloquio posterior con el autor.   Ent
+ rada libre hasta completar aforo.   Segunda proyección día 30.\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kheili dour\, kheili nazdik
+DTSTART;VALUE=DATE-TIME:20130313T203000
+DTEND;VALUE=DATE-TIME:20130313T221000
+UID:1303133020_2_dore
+DESCRIPTION:Sala 2 - Kheili dour\, kheili nazdik (Tan lejos\, tan cerca\, 
+ Reza Mir-Karimi\, 2005). Int.: Afsin Hashemi\, Elham Hamidi\, Masoud Rayeg
+ an. Irán. Blu-ray. VOSE.130’   El Dr. Alam\, un neurólogo prestigioso\
+ , vive una vida de lujo\, rodeado por dispositivos de comunicación person
+ ales de alta tecnología. Esta existencia ufana se tambalea cuando se ente
+ ra de que su hijo adolescente tiene un tumor cerebral. La película sigue 
+ el viaje del doctor para ver a su hijo que se ha marchado durante las vaca
+ ciones de Año Nuevo.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Pr
+ ograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El vuelo de la paloma
+DTSTART;VALUE=DATE-TIME:20130314T173000
+DTEND;VALUE=DATE-TIME:20130314T190000
+UID:1303143017_2_dore
+DESCRIPTION:Sala 2 - El vuelo de la paloma (José Luis García Sánchez\, 
+ 1989). Int.: Ana Belén\, Juan Luis Galiardo\, José Sacristán. España. 
+ 90’\n“En clave de sainete madrileño\, José Luis García Sánchez y R
+ afael Azcona organizan un original y divertidísimo fresco sobre la vida e
+ spañola actual\, en el que las cosas más dispares y disparatadas encajan
+  recíprocamente en un rompecabezas perfectamente ordenado\, resuelto por 
+ el director con maestría y un buen humor que multiplica su valor a causa 
+ de su escasez en el cine actual.” (Ángel Fernández-Santos)\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:高舉愛 / Love Lifting
+DTSTART;VALUE=DATE-TIME:20130314T193000
+DTEND;VALUE=DATE-TIME:20130314T210200
+UID:1303143019_2_dore
+DESCRIPTION:Sala 2 - 高舉愛 / Love Lifting (Herman Yau\, 2012). Int.: C
+ hapman To\, Elaine Kong. Hong Kong / China. VOSI/E*. 92’\nLi deja el cam
+ po debido a la diabetes\, y se traslada a Hong Kong para empezar de cero. 
+ Vivir en una ciudad tan extraña le resulta difícil\, ya que ella carece 
+ de habilidades profesionales pero tiene que trabajar para afrontar sus num
+ erosos gastos médicos. Cuando conoce a Yun\, un hombre fracasado en el am
+ or y los negocios\, todo comienza a ir a la deriva.\n\n\nFuente: http://ww
+ w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
+ cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Color perro que huye
+DTSTART;VALUE=DATE-TIME:20130314T210000
+DTEND;VALUE=DATE-TIME:20130314T221000
+UID:1303140021_2_dore
+DESCRIPTION:Sala 2 - Color perro que huye (A. Duque\, 2011). Documental. E
+ spaña. Vídeo. 70’\n  “Pienso que el oficio del cineasta es como el d
+ e un vampiro\, por lo tanto\, si veo/grabo una imagen y la retengo en mi m
+ emoria\, entonces pasa a ser mía por derecho universal. Forma parte de mi
+  imaginario. Y la función que tiene el arte es precisamente esa\, dejarse
+  robar. Cuando ves una obra que te gusta\, la guardas en tu cabeza y así 
+ la posees como un tesoro valioso. Ha perdido su autoría\, metafóricament
+ e hablando. Y es en este “robo” donde radica su éxito. Cuando hoy me 
+ veo enfrentado a un disco duro externo que guarda cantidad de imágenes di
+ gitalizadas\, tanto mías como de otros\, me siento con el derecho de util
+ izarlas\, porque estoy ligado a ellas emocionalmente”. (Andrés Duque)  
+  Coloquio con el director.   Entrada libre hasta completar aforo.   Segund
+ a proyección día 31.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/P
+ rograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bakumastu taiyôden / Sun in the Last Days of the Shogunate
+DTSTART;VALUE=DATE-TIME:20130314T213000
+DTEND;VALUE=DATE-TIME:20130314T224000
+UID:1303143021_1_dore
+DESCRIPTION:Sala 1 - Bakumastu taiyôden / Sun in the Last Days of the Sho
+ gunate (Yuzo Kawashima\, 1957). Int.: Frankie Sakai\, Sachiko Hidari\, Yô
+ ko Minamida. Japón. VOSI/E*.110’\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don Juan mi querido fantasma
+DTSTART;VALUE=DATE-TIME:20130315T173000
+DTEND;VALUE=DATE-TIME:20130315T184000
+UID:1303153017_1_dore
+DESCRIPTION:Sala 1 - Don Juan mi querido fantasma (Antonio Mercero\, 1990)
+ . Int.: Juan Luis Galiardo\, María Barranco\, Verónica Forqué. España.
+ 103’ “Pensamos que esa forma paródica de presentar a Don Juan Tenorio
+  le iba muy bien al carácter de Galiardo y a lo que estaba haciendo últi
+ mamente. Además\, había algo muy bonito para un actor que es el juego de
+ l doble. Tenía que hacer por un lado\, un Don Juan que venía de ultratum
+ ba\, maravilloso\, simpático\, genial y con grandes poderes sexuales\, y\
+ , al mismo tiempo\, todo lo contrario: el Don Juan terrenal\, que era una 
+ mala persona\, farsante\, calvo\, impotente\, etc... Ese juego es muy agra
+ decido para un actor.” (Antonio Mercero)\n\n\nFuente: http://www.mecd.go
+ b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
+ /programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imani
+DTSTART;VALUE=DATE-TIME:20130315T193000
+DTEND;VALUE=DATE-TIME:20130315T205200
+UID:1303153019_1_dore
+DESCRIPTION:Sala 1 - Imani (Caroline Kamya\, 2010). Int.: Stephen Ocen\, R
+ ehema Nanfuka\, Philip Buyi Roy. Uganda/Suecia. Vídeo. VOSE. 82’ \n  In
+ auguración y presentación a cargo de Agnes Nasozi Kamya\, guionista y de
+  Marion Berger\, Directora de Programación de FCAT.   Segunda proyección
+  día y nota 27.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograD
+ ore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tutsi to hetai/Mud and Soldiers
+DTSTART;VALUE=DATE-TIME:20130315T200000
+DTEND;VALUE=DATE-TIME:20130315T215900
+UID:1303150020_2_dore
+DESCRIPTION:Sala 2 - Tutsi to hetai/Mud and Soldiers (Tasaka Tomatada\, 19
+ 39). Int.: Isamu Kosugi. Japón. VOSI/E*. 119’\nLúcido y sin concesione
+ s\, Tasaka hilvana un realista retrato en clave casi documental de la vida
+  cotidiana de los soldados japoneses durante la guerra chino-japonesa. Su 
+ preocupación por el detalle le depararía un extraño final: cuando el ej
+ ército estadounidense encontró una copia de la película\, la utilizó c
+ omo material didáctico para adiestrar a sus soldados. Segunda proyección
+  día 16.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-
+ doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maruhi: shikijô mesu ichiba / The Oldest Profession
+DTSTART;VALUE=DATE-TIME:20130315T215000
+DTEND;VALUE=DATE-TIME:20130315T231800
+UID:1303155021_1_dore
+DESCRIPTION:Sala 1 - Maruhi: shikijô mesu ichiba / The Oldest Profession 
+ (Noburo Tanaka\, 1974). Int.: Meika Seri\, Junko Miyashita Japón. VOSE*. 
+ 88’\n  Tanaka se sumerge en la vida cotidiana de una prostituta de dieci
+ nueve años en la Osaka de los 70. Rodado en blanco y negro y cámara en m
+ ano\, de narración fragmentada y estilo impresionista y dotado de un sent
+ ido del humor negro y militante\, es uno de los Roman Porno más singulare
+ s\, perturbadores y visualmente impecables del género.\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modern Times
+DTSTART;VALUE=DATE-TIME:20130316T173000
+DTEND;VALUE=DATE-TIME:20130316T185300
+UID:1303163017_1_dore
+DESCRIPTION:Sala 1 - Modern Times (Tiempos modernos\, Charles Chaplin\, 19
+ 36). Int.: Charles Chaplin\, Paulette Godard\, Henry Bergman. EE UU. MRISE
+ . 83’ \n“Sin que suceda nada parecido a una ‘toma de conciencia’\,
+  distraídamente\, el más débil es capaz de mostrarse hábil\, astuto\, 
+ político incluso\, haciendo del juego infantil una guerrilla de cada inst
+ ante\, de cada gesto. Como si en el proceso de mecanización social y téc
+ nica estuviese siempre latente la posibilidad de su destrucción”. (King
+  Ludd) Segunda proyección día 21. Entrada libre para menores de 14 años
+ .\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
+ reas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tutsi to hetai/Mud and Soldiers
+DTSTART;VALUE=DATE-TIME:20130316T193000
+DTEND;VALUE=DATE-TIME:20130316T212900
+UID:1303163019_1_dore
+DESCRIPTION:Sala 1 - Tutsi to hetai/Mud and Soldiers (Tasaka Tomatada\, 19
+ 39). Int.: Isamu Kosugi. Japón. VOSI/E*. 119’\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Chant des mariées
+DTSTART;VALUE=DATE-TIME:20130316T200000
+DTEND;VALUE=DATE-TIME:20130316T214000
+UID:1303160020_2_dore
+DESCRIPTION:Sala 2 - Le Chant des mariées (Karin Albou\, 2008). Int.: Liz
+ zie Brocheré\, Olympe Borval\, Simon Abkarian. Francia/Túnez. Vídeo. VO
+ SE. 100’\n  Premio mejor dirección FCAT 2009. Túnez\, 1942. Nour y Myr
+ iam son amigas desde siempre. Viven en el mismo edificio situado en un bar
+ rio modesto\, donde judíos y musulmanes conviven en perfecta armonía. Ca
+ da una envidia la vida de la otra. Nour siente no poder ir al colegio como
+  su amiga\, pero Myriam sueña con el amor. En noviembre de 1942\, el ejé
+ rcito alemán entra en Túnez. Consecuentes con la política de Vichy\, lo
+ s nazis obligan a los judíos a pagar impuestos exorbitantes. Prohíben tr
+ abajar a Tita\, la madre de Myriam. Acribillada por las deudas\, decide ca
+ sar a su hija con un médico rico. Los sueños de Myriam se desvanecen.\n\
+ n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
+ -cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Octopussy
+DTSTART;VALUE=DATE-TIME:20130316T214500
+DTEND;VALUE=DATE-TIME:20130316T232500
+UID:1303164521_1_dore
+DESCRIPTION:Sala 1 - Octopussy (Octopussy\, John Glen\, 1983). Int.: Roger
+  Moore\, Maud Adams\, Louis Jourdan. Reino Unido/EE UU. Digital. VOSE. 130
+ ’.  El General soviético Orlov se asocia con Kamal Khan\, un contraband
+ ista de joyas. Orlov acepta robar joyas valiosas del Kremlin y vendérsela
+ s a Khan. Todo el escenario es parte de un elaborado plan en el que Orlov 
+ detonará una bomba nuclear en una base militar americana situada en Alema
+ nia del Este. Éste predice que los Estados Unidos serán culpados y oblig
+ ados a retirar sus fuerzas… Octopussy es una de las mejores películas d
+ e la era Roger Moore con un guión muy complejo lleno de personajes exóti
+ cos.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
+ d/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.d
+ oc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Familia
+DTSTART;VALUE=DATE-TIME:20130317T173000
+DTEND;VALUE=DATE-TIME:20130317T190800
+UID:1303173017_1_dore
+DESCRIPTION:Sala 1 - Familia (Fernando León de Aranoa\, 1997). Int.: Juan
+  Luis Galiardo\, Amparo Muñoz\, Elena Anaya. España. 98’\n“Uno de lo
+ s debuts más estimulantes del joven cine español. Es una visión de la c
+ otidianidad como trompe l’oeil que muerde\, con la perseverancia de un p
+ ájaro carpintero\, los fundamentos de las convenciones culturales —en d
+ efinitiva\, de las trampas— que establece el hombre civilizado para esqu
+ ivar las zarpas de aquella fiera que denominamos soledad.” (Jordi Costa)
+ .\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
+ reas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barakat!
+DTSTART;VALUE=DATE-TIME:20130317T193000
+DTEND;VALUE=DATE-TIME:20130317T210500
+UID:1303173019_1_dore
+DESCRIPTION:Sala 1 - Barakat! (Djamila Sahraoui\, 2005). Int.: Rachida Bra
+ kni\, Fettouma Bouamari\, Zahir Bouzrar. Vídeo. VOSE. Argelia/Francia. 95
+ ’\n  Premio mejor dirección FCAT 2007. En Argelia\, en los años 90\, A
+ mel es médico en un hospital. Se esfuerza todo lo que puede en ejercer su
+  profesión y en vivir su vida de mujer joven\, a pesar de la guerra civil
+  que causa estragos entre los islamistas y el ejército. Una noche\, cuand
+ o vuelve a casa tras una larga guardia\, Amel se da cuenta de que su marid
+ o\, periodista\, ha desaparecido. Frente a la indiferencia y la inercia de
+  las autoridades\, decide ir en su búsqueda. Le acompaña Khadija\, enfer
+ mera que\, durante su juventud\, combatió por la independencia. En su ave
+ ntura incierta y peligrosa\, las dos mujeres se descubrirán la una a la o
+ tra\, al mismo tiempo que se enfrentarán a los hombres de su país…   S
+ egunda proyección día 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ensayo final para Utopía
+DTSTART;VALUE=DATE-TIME:20130317T200000
+DTEND;VALUE=DATE-TIME:20130317T211500
+UID:1303170020_2_dore
+DESCRIPTION:Sala 2 - Ensayo final para Utopía (A. Duque\, 2012). Document
+ al. España. Digital. VOSE. 75’ \n“En cada película me enfrento a un 
+ viaje incierto\, donde ocurren cosas que no tenía planteadas\, y que camb
+ ia en función de cómo me afecten los problemas que la vida me va poniend
+ o. Por eso siempre mantengo abiertas todas las posibilidades. Y estoy cont
+ ento\, porque he llegado a donde quería: a una escritura cinematográfica
+  que llevo a cabo a diario\, y que va mutando\, que se ve afectada por lo 
+ que me sucede.” (Andrés Duque) Segunda proyección día 27.\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Licence to Kill
+DTSTART;VALUE=DATE-TIME:20130317T213000
+DTEND;VALUE=DATE-TIME:20130317T234300
+UID:1303173021_1_dore
+DESCRIPTION:Sala 1 - Licence to Kill (007\, Licencia para matar\, John Gle
+ n\, 1989). Int.: Timothy Dalton\, Carey Lowell\, Robert Davi. Reino Unido.
+  VOSE. 133’ \n“Se trata de una de las películas de la saga que reflej
+ a de forma más fiel y más eficaz el espíritu de las novelas originales\
+ , precisamente porque intenta dejar atrás los manierismos desarrollados e
+ n sus adaptaciones cinematográficas y convertir a Bond en algo más que u
+ n superhéroe con esmoquin.” (Tonio L. Alarcón) Segunda proyección dí
+ a 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.
+ doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suspiros de España
+DTSTART;VALUE=DATE-TIME:20130319T173000
+DTEND;VALUE=DATE-TIME:20130319T190400
+UID:1303193017_1_dore
+DESCRIPTION:Sala 1 - Suspiros de España (y Portugal) (J. L. García Sánc
+ hez\, 1995). Int.: Juan Luis Galiardo\, Juan Echanove\, Rosa Maria Sardà.
+  España. 94’\n“Es la historia de unos seres incompletos\, como lo som
+ os nosotros y que necesitan del otro\; es la historia de los eternos perso
+ najes secundarios que ha producido la literatura española y que me provoc
+ an una enorme emoción\; es la historia de nuestra cultura callejera que e
+ xpone el jamón y el bacalao a orear." (José Luis García Sánchez)\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¡Vivan las Antípodas!
+DTSTART;VALUE=DATE-TIME:20130319T193000
+DTEND;VALUE=DATE-TIME:20130319T211500
+UID:1303193019_1_dore
+DESCRIPTION:Sala 1 - ¡Vivan las Antípodas! (V. Kossakovsky\, 2011). Docu
+ mental. Digital. VOSE. 105’\nEn ¡Vivan las Antípodas!\, la última pel
+ ícula de Viktor Kossakovsky\, el dispositivo es tan potente que su result
+ ado se parece más a una ecuación que a un film documental. ¡Vivan las A
+ ntípodas! es un compendio de cuatro oposiciones binarias que resuenan a e
+ structuralismo simbólico\, pero que se sitúan lejos de cualquier inmersi
+ ón seria en el significado\, porque relegan a la determinación geográfi
+ ca toda asociación posible entre los pares: Botswana y Estados Unidos\, C
+ hile y Rusia\, Argentina y China\, España y Nueva Zelanda\, ¿están rela
+ cionadas sólo por su condición de antípodas del otro?\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goldeneye
+DTSTART;VALUE=DATE-TIME:20130319T200000
+DTEND;VALUE=DATE-TIME:20130319T221000
+UID:1303190020_2_dore
+DESCRIPTION:Sala 2 - Goldeneye (Goldeneye\, Martin Campbell\, 1995). Int.:
+  Pierce Brosnan\, Sean Bean\, Izabella Scorupco. Reino Unido/EE UU. VOSE. 
+ 130’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
+ ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc
+ .doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kuratta kajitsu / Crazed Fruit
+DTSTART;VALUE=DATE-TIME:20130319T214000
+DTEND;VALUE=DATE-TIME:20130319T230600
+UID:1303194021_1_dore
+DESCRIPTION:Sala 1 - Kuratta kajitsu / Crazed Fruit (Kô Nakahira\, 1956).
+  Int.: Masahiko Tsugawa\, Yûjirô Ishihara. Japón. VOSI/E*. 86’\nDos h
+ ermanos compiten por la misma mujer durante un verano junto al mar en uno 
+ de los títulos seminales de la llamada Tribu del Sol. Elogiada en su mome
+ nto por el mismísimo François Truffaut\, un polémico retrato del ansia 
+ de trasgresión y la indolencia sexual de la juventud acomodada al inicio 
+ del milagro económico japonés. Segunda proyección día 22.\n\n\nFuente:
+  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
+ ine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Así en el cielo como en la tierra
+DTSTART;VALUE=DATE-TIME:20130320T173000
+DTEND;VALUE=DATE-TIME:20130320T190900
+UID:1303203017_1_dore
+DESCRIPTION:Sala 1 - Así en el cielo como en la tierra (José Luis Cuerda
+ \, 1995). Int.: Francisco Rabal\, Fernando Fernán Gómez\, Juan Luis Gali
+ ardo. España. 99’\n“La idea de esta película surgió de una frase qu
+ e yo adjudicaba a Albert Camus\, ‘un hombre a partir de los cuarenta añ
+ os es totalmente responsable de su rostro’. Creo que si un hombre a los 
+ cuarenta años es responsable de su cara\, todas las sociedades son respon
+ sables de de sus dioses. La existencia de otra vida es una hipérbole del 
+ instinto de conservación. Es decir\, uno no se conforma con esta vida y p
+ refiere que haya una que dure eternamente. La vida perdurable que yo prefi
+ ero para un país como España sería la que transcurriera en un pueblo be
+ rlanguiano.” (José Luis Cuerda)\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Man with the Golden Gun
+DTSTART;VALUE=DATE-TIME:20130320T193000
+DTEND;VALUE=DATE-TIME:20130320T213500
+UID:1303203019_1_dore
+DESCRIPTION:Sala 1 - The Man with the Golden Gun (El hombre de la pistola 
+ de oro\, Guy Hamilton\, 1974). Int.: Roger Moore\, Britt Ekland\, Chistoph
+ er Lee. Reino Unido. Digital. VOSE. 125’ \nUn extraño paquete ha llegad
+ o a la oficina londinense de M\, jefe del servicio secreto de Su Majestad.
+  En su interior hay una bala de oro con la inscripción 007 y una nota ame
+ nazando al agente secreto James Bond. Aparentemente\, el mensaje proviene 
+ de Francisco Scaramanga\, asesino profesional que cobra un millón de dól
+ ares por cada misión cumplida y que siempre utiliza una pistola de oro. B
+ ond decide adelantarse al asesino y viaja a Beirut\, escenario de su últi
+ mo asesinato.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
+ ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore
+ 111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Genji monogatari
+DTSTART;VALUE=DATE-TIME:20130320T194000
+DTEND;VALUE=DATE-TIME:20130320T214100
+UID:1303204019_2_dore
+DESCRIPTION:Sala 2 - Genji monogatari (The Tale of Genji\, Kôzaburô Yosh
+ imura\, 1951).Int.: Kazuo Hasegawa\, Michiyo Kogure\, Machiko Kyô. Japón
+ . VOSI/E*. 121’\nAunque no tan conocida como otros clásicos contemporá
+ neos del trabajo de Yoshimura\, como Ugetsu Monogatari de Mizoguchi o Rash
+ omon de Kurosawa\, Genji monogatari es considerada por la crítica como la
+  mejor adaptación cinematográfica de la milenaria novela homónima\, y u
+ na de las obras maestras de la historia del cine japonés. Además del tra
+ bajo de Yoshimura\, la película contó con un guion adaptado por el recie
+ ntemente fallecido Kaneto Shindô\, a partir de la versión que Junichiro 
+ Tanizaki hizo de la novela de Murasaki Shikibu\, y con una banda sonora or
+ iginal compuesta por el mítico Akira Ifukube. Una película grandiosa con
+  la que empezar a conocer la historia del príncipe Hikari Genji. Presenta
+ ción y coloquio con Lorenzo J. Torres\, comisario del ciclo. Segunda proy
+ ección día 24.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograD
+ ore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dowaha
+DTSTART;VALUE=DATE-TIME:20130320T215500
+DTEND;VALUE=DATE-TIME:20130320T232600
+UID:1303205521_1_dore
+DESCRIPTION:Sala 1 - Dowaha (Raja Amari\, 2009). Int.: Hafsia Herzi Sondos
+ \, Belhassen Wassila\, Dari Rim. Túnez/ Francia/Suiza. Vídeo. VOSE. 91
+ ’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.do
+ c
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tomorrow Never Dies
+DTSTART;VALUE=DATE-TIME:20130321T173000
+DTEND;VALUE=DATE-TIME:20130321T192900
+UID:1303213017_1_dore
+DESCRIPTION:Sala 1 - Tomorrow Never Dies (El mañana nunca muere\, Roger S
+ pottiswoode\, 1997). Int.: Pierce Brosnan\, Jonathan Pryce\, Michelle Yeoh
+ . Reino Unido/EE UU. VOSE. 119’\nUn peligroso terrorista consigue robar 
+ un temporizador atómico y un potentísimo torpedo nuclear soviético. Tod
+ as las pistas llevan hasta el poderoso y desaprensivo Eliot Carver\, un im
+ portante magnate de las comunicaciones que está a punto de provocar una n
+ oticia que convulsionará al mundo: una fragata británica ha sido misteri
+ osamente destruida en aguas chinas y la perturbada mente de Carver pretend
+ e utilizar este ataque para provocar la Tercera Guerra Mundial. Segunda pr
+ oyección día 23.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Progr
+ aDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koroshi no rakuin / Branded to Kill
+DTSTART;VALUE=DATE-TIME:20130321T195000
+DTEND;VALUE=DATE-TIME:20130321T212100
+UID:1303215019_1_dore
+DESCRIPTION:Sala 1 - Koroshi no rakuin / Branded to Kill (Seijun Suzuki\, 
+ 1967). Int.: Jo Shishido\, Mariko Ogawa. Japón. Digital. VOSE*. 91’\n\n
+ \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
+ cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tishé!
+DTSTART;VALUE=DATE-TIME:20130321T200000
+DTEND;VALUE=DATE-TIME:20130321T212000
+UID:1303210020_2_dore
+DESCRIPTION:Sala 2 - Tishé! (V. Kossakovsky\, 2002). Documental. Rusia. V
+ ídeo. Sin diálogos. 80’\n  “Tische! nació por azar. Me encontraba e
+ n fase de preparación de otro proyecto en Alemania y estuve un año enter
+ o esperando los fondos necesarios para hacerlo. Cada dos meses volvía a m
+ i casa en San Petersburgo para descansar tres o cuatro días. Comencé a f
+ ilmar a través de la ventana de mi habitación sin la intención de hacer
+  una película. Rodaba porque sí. Porque me producía placer. Repetí est
+ as vueltas a casa unas seis veces en todo el año. Y cada vez que lo hací
+ a tenía la oportunidad de filmar algo bello o extraño. Un año más tard
+ e\, seguía sin recibir el dinero necesario para realizar la película en 
+ Alemania\, pero tenía ya diez horas de material rodado a través de mi ve
+ ntana. Y al final he acabado haciendo una película desde mi propia ventan
+ a.” (Victor Kossakovsky)\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 13/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modern Times
+DTSTART;VALUE=DATE-TIME:20130321T214000
+DTEND;VALUE=DATE-TIME:20130321T230300
+UID:1303214021_1_dore
+DESCRIPTION:Sala 1 - Modern Times (Tiempos modernos\, Charles Chaplin\, 19
+ 36). Int.: Charles Chaplin\, Paulette Godard\, Henry Bergman. EE UU. MRISE
+ . 83’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-do
+ c.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Casino Royale
+DTSTART;VALUE=DATE-TIME:20130322T192000
+DTEND;VALUE=DATE-TIME:20130322T214400
+UID:1303222019_1_dore
+DESCRIPTION:Sala 1 - Casino Royale (007: Casino Royale\, Martin Campbell\,
+  2006). Int.: Daniel Craig\, Eva Green\, Judi Dench. Reino Unido/EE UU. VO
+ SE. 144’\nSegunda proyección y nota día 31.\n\n\nFuente: http://www.me
+ cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
+ -dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svyato
+DTSTART;VALUE=DATE-TIME:20130322T200000
+DTEND;VALUE=DATE-TIME:20130322T213800
+UID:1303220020_2_dore
+DESCRIPTION:Sala 2 - Svyato (V. Kossakovsky\, 2005). Documental. Rusia. V
+ ídeo. VOSE*. 40’. Losev (V. Kossakovsky\, 1989). Documental. Rusia. V
+ ídeo. VOSI/E*. 58’. Total programa 98’\n  Svyato: “Un bebé puede s
+ er rodeado por el amor\; los padres pueden jugar con él y enseñarle cosa
+ s\, pero nadie le puede ayudar con las preguntas más importantes. ¿Quié
+ n soy yo? Con una pregunta así\, se encuentra con su propio ser. Puede le
+ er muchos libros sobre el amor o Dios\, pero al final\, es el único que p
+ uede contestar a la pregunta en cuanto a si existen o no.” Losev: “Ale
+ xis Losev era uno de los representantes más importantes de la cultura del
+  siglo XX\, pero en la URSS\, a partir de 1930\, cuando fue enviado al Gul
+ ag\, se habían dejado de publicar sus trabajos filosóficos. Cuando sali
+ ó de los campos\, donde había perdido la visión\, sólo obtuvo permiso 
+ para publicar libros sobre la antigüedad. Nadie había registrado ni una 
+ sola imagen de él para el cine o la televisión\, y tampoco existían fot
+ os. Mi intención era simplemente atrapar algunas imágenes que conservara
+ n para la Historia aquellos rasgos que sus compatriotas no habían visto j
+ amás.” (V. Kossakovsky)\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 13/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¡En la mano de King Kong!
+DTSTART;VALUE=DATE-TIME:20130322T215500
+DTEND;VALUE=DATE-TIME:20130322T225500
+UID:1303225521_2_dore
+DESCRIPTION:Sala 2 - ¡En la mano de King Kong! (José Luis Lozano\, 2011)
+ . España. Vídeo. 30’. Olvido. Una historia que se desvanece... (Ramón
+  Verdugo\, 2012). España. Vídeo. 30’. Total programa: 60’\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shinjuku midaregai: ikumade matte / Shinjuku Mixed-Up: Wait Till I
   Come
 DTSTART;VALUE=DATE-TIME:20130322T220000
-DTEND;VALUE=DATE-TIME:20130322T234500
+DTEND;VALUE=DATE-TIME:20130322T232200
 UID:1303220022_1_dore
 DESCRIPTION:Sala 1 - Shinjuku midaregai: ikumade matte / Shinjuku Mixed-Up
- : Wait Till I Come (Chsei Sone\, 1977). Int.: Miyako Yamaguchi\, Moeko Eza
- wa. Japn. Vdeo. VOSE*. 82 Chusei Sone firma este roman porno atpico\, casi
-  reflexivo a veces\, sobre la relacin de un aspirante a guionista y una as
- pirante a actriz en el barrio de Shinjuku (suerte de Greenwich Village a l
- a japonesa) por el que pululan todo tipo de buscavidas y criaturas con vel
- eidades artsticas en busca de sexo y nuevas experiencias. Sbado 23\n\n\nFu
- ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
- ura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+ : Wait Till I Come (Chûsei Sone\, 1977). Int.: Miyako Yamaguchi\, Moeko E
+ zawa. Japón. Vídeo. VOSE*. 82’ \nChusei Sone firma este roman porno at
+ ípico\, casi reflexivo a veces\, sobre la relación de un aspirante a gui
+ onista y una aspirante a actriz en el barrio de Shinjuku (suerte de Greenw
+ ich Village a la japonesa) por el que pululan todo tipo de buscavidas y cr
+ iaturas con veleidades artísticas en busca de sexo y nuevas experiencias.
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Princess Bride
-DTSTART;VALUE=DATE-TIME:20130322T173000
-DTEND;VALUE=DATE-TIME:20130322T191500
-UID:1303223017_1_dore
+DTSTART;VALUE=DATE-TIME:20130323T173000
+DTEND;VALUE=DATE-TIME:20130323T190300
+UID:1303233017_1_dore
 DESCRIPTION:Sala 1 - The Princess Bride (La princesa prometida\, Rob Reine
- r\, 1987). Int.: Carly Elwes\, Chris Sarandon\, Peter Falk. EE UU. VE. 93 
- Despus de buscar fortuna durante cinco aos\, Westley retorna a su tierra p
- ara casarse con su amada\, la bella Buttercup\, a la que haba jurado amor 
- eterno. Sin embargo\, para recuperarla habr de enfrentarse a Vizzini y sus
-  esbirros. Una vez derrotados stos\, tendr que superar el peor de los obst
- culos: el prncipe Humperdinck pretende desposar a la desdichada Buttercup\
- , pese a que ella no lo ama\, ya que sigue enamorada de Westley. Entrada l
- ibre para menores de 14 aos.\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2013/PrograDore111-doc.doc
+ r\, 1987). Int.: Carly Elwes\, Chris Sarandon\, Peter Falk. EE UU. VE. 93
+ ’\nDespués de buscar fortuna durante cinco años\, Westley retorna a su
+  tierra para casarse con su amada\, la bella Buttercup\, a la que había j
+ urado amor eterno. Sin embargo\, para recuperarla habrá de enfrentarse a 
+ Vizzini y sus esbirros. Una vez derrotados éstos\, tendrá que superar el
+  peor de los obstáculos: el príncipe Humperdinck pretende desposar a la 
+ desdichada Buttercup\, pese a que ella no lo ama\, ya que sigue enamorada 
+ de Westley. Entrada libre para menores de 14 años.\n\n\nFuente: http://ww
+ w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
+ cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quantum of Solace
-DTSTART;VALUE=DATE-TIME:20130322T193000
-DTEND;VALUE=DATE-TIME:20130322T211500
-UID:1303223019_1_dore
+DTSTART;VALUE=DATE-TIME:20130323T193000
+DTEND;VALUE=DATE-TIME:20130323T211600
+UID:1303233019_1_dore
 DESCRIPTION:Sala 1 - Quantum of Solace (007: Quantum of Solace\, Marc Fors
  ter\, 2008). Int.: Daniel Craig\, Jeffrey Wright\, Mathieu Amalric. Reino 
- Unido/EE UU. VOSE. 106 Quantum of Solace es la coda acelerada a Casino Roy
- ale y pone en evidencia algo que ya apuntaba su predecesora: el antes imba
- tible Bond no slo tiene fracturas en el alma\, sino tambin en el envoltori
- o. Sus aventuras\, que antes creaban tendencia\, avanzan ahora bajo los nu
- barrones del complejo de inferioridad de la saga Bourne. (Jordi Costa) Seg
- unda proyeccin da 27.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
- /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Pr
- ograDore111-doc.doc
+ Unido/EE UU. VOSE. 106’\n“Quantum of Solace es la coda acelerada a Cas
+ ino Royale y pone en evidencia algo que ya apuntaba su predecesora: el ant
+ es imbatible Bond no sólo tiene fracturas en el alma\, sino también en e
+ l envoltorio. Sus aventuras\, que antes creaban tendencia\, avanzan ahora 
+ bajo los nubarrones del complejo de inferioridad de la saga Bourne.” (Jo
+ rdi Costa) Segunda proyección día 27.\n\n\nFuente: http://www.mecd.gob.e
+ s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
+ ogramacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mi querida Elena
-DTSTART;VALUE=DATE-TIME:20130322T200000
-DTEND;VALUE=DATE-TIME:20130322T214500
-UID:1303220020_2_dore
-DESCRIPTION:Sala 2 - Mi querida Elena (Jess Garca Dueas\, 1965). 25. Turno
-  de noche (Luis Enrique Torn\, 1962). 15. Encuentro (Kathryn G. Waldo\, 19
- 64). 17. Da de justicia (Santiago San Miguel. 1964).27. Espaa. Vdeo. Total
-  programa: 84 Recopilacin de prcticas de la E.O.C. protagonizadas por Juan
-  Luis Galiardo. Mi querida..: Julio es un joven publicitario cuya novia de
- be hacer un viajeantes de casarse. Rodando un spot conoce a Claudia\, una 
- modelo italiana. El comportamientodesinhibido de sta contrasta con las car
- tasllenas de romanticismo que le enva su novia. Turno de noche: Un taxista
-  da un paseonocturno a una mujer\, que no aguanta ms a su acompaante. Se a
- cuesta con ella\, y finalmente la lleva a su casa. Encuentro: Madrid 1938.
-  Para esconder a un quintacolumnista herido\, una joven burguesa se hacepa
- sarpor su parejaocultndolo en una pensin. Da de..: Durante la ocupacin fra
- ncesa un guerrillero espaol es ajusticiado. Su novia intenta rescatar el c
- uerpo que ha quedado expuesto para escarmiento pblico.\n\n\nFuente: http:/
- /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
- fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+DTSTART;VALUE=DATE-TIME:20130323T200000
+DTEND;VALUE=DATE-TIME:20130323T212400
+UID:1303230020_2_dore
+DESCRIPTION:Sala 2 - Mi querida Elena (Jesús García Dueñas\, 1965). 25
+ ’. Turno de noche (Luis Enrique Torán\, 1962). 15’. Encuentro (Kathry
+ n G. Waldo\, 1964). 17’. Día de justicia (Santiago San Miguel. 1964). 
+ 27’. España. Vídeo. Total programa: 84’\nRecopilación de prácticas
+  de la E.O.C. protagonizadas por Juan Luis Galiardo. Mi querida..: Julio e
+ s un joven publicitario cuya novia debe hacer un viaje antes de casarse. 
+ Rodando un spot conoce a Claudia\, una modelo italiana. El comportamiento
+  desinhibido de ésta contrasta con las cartas llenas de romanticismo qu
+ e le envía su novia. Turno de noche: Un taxista da un paseo nocturno a u
+ na mujer\, que no aguanta más a su acompañante. Se acuesta con ella\, y 
+ finalmente la lleva a su casa. Encuentro: Madrid 1938. Para esconder a un 
+ quintacolumnista herido\, una joven burguesa se hace pasar por su pareja
+  ocultándolo en una pensión. Día de..: Durante la ocupación francesa 
+ un guerrillero español es ajusticiado. Su novia intenta rescatar el cuerp
+ o que ha quedado expuesto para escarmiento público.\n\n\nFuente: http://w
+ ww.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe
+ /cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tomorrow Never Dies
-DTSTART;VALUE=DATE-TIME:20130322T214500
-DTEND;VALUE=DATE-TIME:20130322T233000
-UID:1303224521_1_dore
-DESCRIPTION:Sala 1 - Tomorrow Never Dies (El maana nunca muere\, Roger Spo
- ttiswoode\, 1997). Int.: Pierce Brosnan\, Jonathan Pryce\, Michelle Yeoh. 
- Reino Unido/EE UU. VOSE. 119 Ver nota da 21.\n\n\nFuente: http://www.mecd.
- gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
- re/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El caballero Don Quijote
-DTSTART;VALUE=DATE-TIME:20130324T190000
-DTEND;VALUE=DATE-TIME:20130324T204500
-UID:1303240019_2_dore
-DESCRIPTION:Sala 2 - El caballero Don Quijote (Manuel Gutirrez Aragn\, 200
- 2). Int.: Juan Luis Galiardo\, Carlos Iglesias\, Santiago Ramos. Espaa. 12
- 3 Fiel a un referente literario\, que solo la inacabada versin de Orson We
- lles intuy como un juego de espejos\, en una clave ms cercana al ensayo qu
- e a la narracin\, El caballero Don Quijote cuenta con otros alicientes. Ju
- an Luis Galiardo interpreta el papel de su vida gracias a una perfecta ide
- ntificacin con el personaje digna del Actors Studio\, y Carlos Iglesias co
- mpone un Sancho Panza muy lejano del tpico. (Esteve Riambau)\n\n\nFuente: 
- http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
- ne/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Genji monogatari
-DTSTART;VALUE=DATE-TIME:20130324T200000
-DTEND;VALUE=DATE-TIME:20130324T214500
-UID:1303240020_1_dore
-DESCRIPTION:Sala 1 - Genji monogatari (The Tale of Genji\, Kzabur Yoshimur
- a\, 1951). Int.: Kazuo Hasegawa\, Michiyo Kogure\, Machiko Ky. Japn. VOSI/
- E*. Ver nota da 20.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
- ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Prog
- raDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yohohan fusuma no./ The World of Geisha
-DTSTART;VALUE=DATE-TIME:20130324T222000
-DTEND;VALUE=DATE-TIME:20130325T000500
-UID:1303242022_1_dore
-DESCRIPTION:Sala 1 - Yohohan fusuma no./ The World of Geisha (Tatsumi Kuma
- shiro\, 1973). Int.: Junko Miyashita\, Naomi Oka. Japn. VOSI/E*. 72 Ver no
- ta da 5.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
- -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-d
- oc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Licence to Kill
-DTSTART;VALUE=DATE-TIME:20130326T173000
-DTEND;VALUE=DATE-TIME:20130326T191500
-UID:1303263017_1_dore
-DESCRIPTION:Sala 1 - Licence to Kill (007\, Licencia para matar\, John Gle
- n\, 1989). Int.: Timothy Dalton\, Carey Lowell\, Robert Davi. Reino Unido.
-  VOSE. 133 Se trata de una de las pelculas de la saga que refleja de forma
-  ms fiel y ms eficaz el espritu de las novelas originales\, precisamente p
- orque intenta dejar atrs los manierismos desarrollados en sus adaptaciones
-  cinematogrficas y convertir a Bond en algo ms que un superhroe con esmoqu
- in. (Tonio L. Alarcn) Ver nota da 17.\n\n\nFuente: http://www.mecd.gob.es/
- cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
- ramacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miguel & William
-DTSTART;VALUE=DATE-TIME:20130326T193000
-DTEND;VALUE=DATE-TIME:20130326T211500
-UID:1303263019_2_dore
-DESCRIPTION:Sala 2 - Miguel & William (Ins Paris\, 2007). Int:. Juan Luis 
- Galiardo\, Will Klemp\, Elena Anaya. Espaa. 101 Ahora son figuras\, mitos\
- , gigantes\, a los que se estudia en las universidades pero y mientras est
- aban vivos? No eran hombres o mujeres como nosotros\, empeados en crear al
- go\, inseguros sobre lo que estaban haciendo\, en la mayora de los casos n
- o reconocidos y muchas veces despreciados? Esta reflexin es la que me deci
- di. En vez de escribir sobre Shakespeare y Cervantes yo iba a hacerlo sobr
- e Miguel y William\, dos seres humanos con sus debilidades\, temores\, man
- as\, inseguridades y eso s\, con el empeo de escribir y hacerlo lo mejor p
- osible. (Ins Paris)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
- ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Prog
- raDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barakat!
-DTSTART;VALUE=DATE-TIME:20130326T200000
-DTEND;VALUE=DATE-TIME:20130326T214500
-UID:1303260020_1_dore
-DESCRIPTION:Sala 1 - Barakat! (Djamila Sahraoui\, 2005). Int.: Rachida Bra
- kni\, Fettouma Bouamari\, Zahir Bouzrar. Vdeo. VOSE. Argelia/Francia. 95 V
- er nota da 17.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
- ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDor
- e111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buta to gunkan / Pigs and Battleship
-DTSTART;VALUE=DATE-TIME:20130326T215000
-DTEND;VALUE=DATE-TIME:20130326T233500
-UID:1303265021_1_dore
-DESCRIPTION:Sala 1 - Buta to gunkan / Pigs and Battleship (Shohei Imamura\
- , 1961). Int.: Hiroyuki Nagato\, Mitzi Mori\, Masao Mishima. Japn. VOSI/E*
- . El primer taquillazo de Shohei Imamura\, uno de los grandes nombres de l
- a Nueva Ola japonesa\, lleg de la mano de esta provocadora comedia de cort
- e neorrealista sobre las miserias del Japn de posguerra. En un puerto de p
- lacer para la flota norteamericana\, los burdeles se multiplican y las ban
- das locales se enfrentan por el control de la cra de cerdos. Segunda proye
- ccin da 30. Mircoles 27\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
- ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/
- PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Quantum of Solace
-DTSTART;VALUE=DATE-TIME:20130326T173000
-DTEND;VALUE=DATE-TIME:20130326T191500
-UID:1303263017_1_dore
-DESCRIPTION:Sala 1 - Quantum of Solace (007: Quantum of Solace\, Marc Fors
- ter\, 2008). Int.: Daniel Craig\, Jeffrey Wright Mathieu Amalric. Reino Un
- ido/EE UU. VOSE. 106 Ver nota da 23.\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Okuribito
-DTSTART;VALUE=DATE-TIME:20130326T193000
-DTEND;VALUE=DATE-TIME:20130326T211500
-UID:1303263019_1_dore
-DESCRIPTION:Sala 1 - Okuribito (Despedidas\, Yjir Takita\, 2008). Int.: Ma
- sahiro Motoki\, Ryko Hirosue\, Tsutomu Yamazaki. Japn. Digital. VOSI/E*. L
- a exitosa pelcula de Takita nos cuenta una agridulce historia en la que la
-  muerte y la vida se relacionan de diversas maneras\, mostrando incluso cm
- o la muerte puede significar un nuevo comienzo\, un principio de vida. Dai
- go Kobayashi\, interpretado por un gran Masahiro Motoki\, es un msico que 
- tras ver su carrera profesional interrumpida\, y para eludir la bancarrota
- \, regresa a su ciudad natal\, donde consigue un trabajo que le har cambia
- r definitivamente\, especialista en rituales mortuorios tradicionales o nk
- an. Segunda proyeccin en abril.\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ensayo final para Utopa
-DTSTART;VALUE=DATE-TIME:20130326T200000
-DTEND;VALUE=DATE-TIME:20130326T214500
-UID:1303260020_2_dore
-DESCRIPTION:Sala 2 - Ensayo final para Utopa  (A. Duque\, 2012). Documenta
- l. Espaa. Digital. VOSE. 75 Ver nota da 17.\n\n\nFuente: http://www.mecd.g
- ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
- e/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Imani
-DTSTART;VALUE=DATE-TIME:20130326T220000
-DTEND;VALUE=DATE-TIME:20130326T234500
-UID:1303260022_1_dore
-DESCRIPTION:Sala 1 - Imani (Caroline Kamya\, 2010). Int.: Stephen Ocen\, R
- ehema Nanfuka\, Philip Buyi Roy. Uganda/Suecia. Vdeo. VOSE. 82 Premio mejo
- r direccin. FCAT 2010. La pelcula transcurre durante un da cualquiera en K
- ampala\, la capital de Uganda\, en la provincia de Gulu. Para tres persona
- s no ser un da cualquiera. Mary\, que trabaja en la casa de una mujer de l
- a alta sociedad\, deber encontrar el dinero necesario para comprar a la po
- lica y liberar a su hermana. Olweny es un ex nio soldado de 12 aos que dej
- a el centro de rehabilitacin para volver al pueblo de sus padres\, destrui
- do por la guerra. Armstrong\, un bailarn de breakdance\, debe montar un es
- pectculo para esa misma noche. Ver nota da 15.\n\n\nFuente: http://www.mec
- d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
- dore/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labyrinth
-DTSTART;VALUE=DATE-TIME:20130329T173000
-DTEND;VALUE=DATE-TIME:20130329T191500
-UID:1303293017_1_dore
-DESCRIPTION:Sala 1 - Labyrinth (Dentro del laberinto\, Jim Henson\, 1986).
-  Int.: David Bowie\, Jennifer Connelly\, Toby Froud. EE UU. VE. 100 Sarah 
- debe atravesar un laberinto para rescatar a su hermano pequeo\, que ha sid
- o secuestrado por los duendes y est en manos del poderoso rey Jareth. Sara
- h descubre\, casi inmediatamente\, que ha llegado a un lugar donde las cos
- as no son siempre lo que parecen. Los seres a quienes se encuentra le brin
- dan ayuda\, pero algunos la traicionan. Sus compaeros en la peligrosa misi
- n son Hoggle\, un gnomo grun que\, a cambio de un brazalete de plstico\, s
- e compromete a llevarla lo ms lejos posible y Ludo\, un bondadoso y peludo
-  monstruo a quien los duendes atormentan. Colaboracin de Jim Henson\, Fran
- k Oz\, George Lucas y el ex Monty Pithon\, Terry Jones. Ver nota da 2. Ent
- rada libre para menores de 14 aos.\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buta to gunkan / Pigs and Battleship
-DTSTART;VALUE=DATE-TIME:20130329T193000
-DTEND;VALUE=DATE-TIME:20130329T211500
-UID:1303293019_1_dore
-DESCRIPTION:Sala 1 - Buta to gunkan / Pigs and Battleship (Shohei Imamura\
- , 1961). Int.: Hiroyuki Nagato\, Mitzi Mori\, Masao Mishima. Japn. VOSI/E*
- . Ver nota da 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
- d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Progra
- Dore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Belovy
-DTSTART;VALUE=DATE-TIME:20130329T200000
-DTEND;VALUE=DATE-TIME:20130329T214500
-UID:1303290020_2_dore
-DESCRIPTION:Sala 2 - Belovy (V. Kossakovsky\, 1993). Documental. Rusia. Vd
- eo. VOSI/E*.60 Ver nota da 13.\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Koroshi no rakuin / Branded to Kill
-DTSTART;VALUE=DATE-TIME:20130329T214000
-DTEND;VALUE=DATE-TIME:20130329T232500
-UID:1303294021_1_dore
-DESCRIPTION:Sala 1 - Koroshi no rakuin / Branded to Kill (Seijun Suzuki\, 
- 1967). Int.: Jo Shishido\, Mariko Ogawa. Japn. Digital. VOSE*. 91 Yazukas 
- sobrados de actitud\, mujeres fatales y extraas conspiraciones articulan u
- no de los ttulos ms delirantes y bizarros de Seijun Suzuki\, con el que hi
- zo saltar por los aires -ahora diramos\, deconstruy- las convenciones del 
- gnero policiaco\, en clave casi experimental. Una de las cumbres del cine 
- negro de la Nikkatsu y de todos los tiempos.\n\n\nFuente: http://www.mecd.
- gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
- re/programacion/2013/PrograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La chispa de la vida
-DTSTART;VALUE=DATE-TIME:20130331T173000
-DTEND;VALUE=DATE-TIME:20130331T191500
-UID:1303313017_1_dore
-DESCRIPTION:Sala 1 - La chispa de la vida (lex de la Iglesia\, 2011). Int.
- : Jos Mota\, Salma Hayek\, Juan Luis Galiardo. Espaa. 98 JJJu CJ OJQJ^Jph 
- ' hs hDL hDL .3.4.9.:.\;.<.ss _K' hDL ' hDL 0 hDL ' hs CJ OJQJ^J UUnV VV!V
- =VTVmVnVtVVV ffff ggaiiiik l CJ aJ !"#%:?@A{u^uA&5 hF 8 hF 5 hF h\,|OJQJ^J
-  h ' hF $ hF nXG3' hF 0 hF $ hF :CJ OJQJ^J hF TCJ OJQJ^J hF hyCJ aJ hF aJ 
- ( hF 8 hF 5 hF 8 hF ' hF n]T@' h h{CJ OJQJ^J$ h ' hF -fg0 ' hF ' hF ' hs $
-  hF ' hF 5 hF ' hF ' hs ' hF trolar\, como si tuviramos un hierro en la ca
- beza. Todo parece que va bien\, el personaje est consciente y sin embargo 
- est al borde de la muerte. Creo que ilustra muy bien la situacin actual (l
- ex de la Iglesia)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
- d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Progra
- Dore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dowaha
-DTSTART;VALUE=DATE-TIME:20130331T193000
-DTEND;VALUE=DATE-TIME:20130331T211500
-UID:1303313019_1_dore
-DESCRIPTION:Sala 1 - Dowaha (Raja Amari\, 2009). Int.: Hafsia Herzi Sondos
- \, Belhassen Wassila\, Dari Rim. Tnez/ Francia/Suiza. Vdeo. VOSE. 91 Premi
- o al mejor largometraje Festival de Cinema Africano\, dAsia e dAmerica Lat
- ina\, Miln 2010. Aicha\, Radia y su madre viven escondidas en el ala reser
- vada a los criados en una casa deshabitada. El precario equilibrio de su v
- ida cotidiana empeora cuando una joven pareja se muda a la parte superior 
- de la casa. Empieza entonces una extraa cohabitacin entre la pareja y las 
- tres mujeres\, que prefieren no revelar su presencia a los inesperados vec
- inos. No pueden dejar su escondite porque conserva secretos enterrados dur
- ante aos. Pero Aicha\, la ms joven de las dos hermanas\, se siente atrada 
- por los recin llegados\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/P
- rograDore111-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Color perro que huye
-DTSTART;VALUE=DATE-TIME:20130331T200000
-DTEND;VALUE=DATE-TIME:20130331T214500
-UID:1303310020_2_dore
-DESCRIPTION:Sala 2 - Color perro que huye (A. Duque\, 2011). Documental. E
- spaa. Digital. 70 Ver nota da 14.\n\n\nFuente: http://www.mecd.gob.es/cult
+DTSTART;VALUE=DATE-TIME:20130323T214500
+DTEND;VALUE=DATE-TIME:20130323T234400
+UID:1303234521_1_dore
+DESCRIPTION:Sala 1 - Tomorrow Never Dies (El mañana nunca muere\, Roger S
+ pottiswoode\, 1997). Int.: Pierce Brosnan\, Jonathan Pryce\, Michelle Yeoh
+ . Reino Unido/EE UU. VOSE. 119’\n\n\nFuente: http://www.mecd.gob.es/cult
  ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
  cion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El caballero Don Quijote
+DTSTART;VALUE=DATE-TIME:20130324T190000
+DTEND;VALUE=DATE-TIME:20130324T210300
+UID:1303240019_2_dore
+DESCRIPTION:Sala 2 - El caballero Don Quijote (Manuel Gutiérrez Aragón\,
+  2002). Int.: Juan Luis Galiardo\, Carlos Iglesias\, Santiago Ramos. Espa
+ ña. 123’\n“Fiel a un referente literario\, que solo la inacabada vers
+ ión de Orson Welles intuyó como un juego de espejos\, en una clave más 
+ cercana al ensayo que a la narración\, El caballero Don Quijote cuenta co
+ n otros alicientes. Juan Luis Galiardo interpreta el papel de su vida grac
+ ias a una perfecta identificación con el personaje digna del Actor’s St
+ udio\, y Carlos Iglesias compone un Sancho Panza muy lejano del tópico.
+ ” (Esteve Riambau)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Pro
+ graDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Genji monogatari
+DTSTART;VALUE=DATE-TIME:20130324T200000
+DTEND;VALUE=DATE-TIME:20130324T220100
+UID:1303240020_1_dore
+DESCRIPTION:Sala 1 - Genji monogatari (The Tale of Genji\, Kôzaburô Yosh
+ imura\, 1951). Int.: Kazuo Hasegawa\, Michiyo Kogure\, Machiko Kyô. Japó
+ n. VOSI/E*. 121’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Progr
+ aDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yohohan fusuma no…./ The World of Geisha
+DTSTART;VALUE=DATE-TIME:20130324T222000
+DTEND;VALUE=DATE-TIME:20130324T233200
+UID:1303242022_1_dore
+DESCRIPTION:Sala 1 - Yohohan fusuma no…./ The World of Geisha (Tatsumi K
+ umashiro\, 1973). Int.: Junko Miyashita\, Naomi Oka. Japón. VOSI/E*. 72
+ ’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.do
+ c
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Licence to Kill
+DTSTART;VALUE=DATE-TIME:20130326T173000
+DTEND;VALUE=DATE-TIME:20130326T194300
+UID:1303263017_1_dore
+DESCRIPTION:Sala 1 - Licence to Kill (007\, Licencia para matar\, John Gle
+ n\, 1989). Int.: Timothy Dalton\, Carey Lowell\, Robert Davi. Reino Unido.
+  VOSE. 133’ \n“Se trata de una de las películas de la saga que reflej
+ a de forma más fiel y más eficaz el espíritu de las novelas originales\
+ , precisamente porque intenta dejar atrás los manierismos desarrollados e
+ n sus adaptaciones cinematográficas y convertir a Bond en algo más que u
+ n superhéroe con esmoquin.” (Tonio L. Alarcón)\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miguel & William
+DTSTART;VALUE=DATE-TIME:20130326T193000
+DTEND;VALUE=DATE-TIME:20130326T211100
+UID:1303263019_2_dore
+DESCRIPTION:Sala 2 - Miguel & William (Inés Paris\, 2007). Int:. Juan Lui
+ s Galiardo\, Will Klemp\, Elena Anaya. España. 101’\n“Ahora son figur
+ as\, mitos\, gigantes\, a los que se estudia en las universidades pero ¿y
+  mientras estaban vivos? ¿No eran hombres o mujeres como nosotros\, empe
+ ñados en crear algo\, inseguros sobre lo que estaban haciendo\, en la may
+ oría de los casos no reconocidos y muchas veces despreciados? Esta reflex
+ ión es la que me decidió. En vez de escribir sobre Shakespeare y Cervant
+ es yo iba a hacerlo sobre Miguel y William\, dos seres humanos con sus deb
+ ilidades\, temores\, manías\, inseguridades y eso sí\, con el empeño de
+  escribir y hacerlo lo mejor posible.” (Inés Paris)\n\n\nFuente: http:/
+ /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
+ fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barakat!
+DTSTART;VALUE=DATE-TIME:20130326T200000
+DTEND;VALUE=DATE-TIME:20130326T213500
+UID:1303260020_1_dore
+DESCRIPTION:Sala 1 - Barakat! (Djamila Sahraoui\, 2005). Int.: Rachida Bra
+ kni\, Fettouma Bouamari\, Zahir Bouzrar. Vídeo. VOSE. Argelia/Francia. 95
+ ’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.do
+ c
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buta to gunkan / Pigs and Battleship
+DTSTART;VALUE=DATE-TIME:20130326T215000
+DTEND;VALUE=DATE-TIME:20130326T233800
+UID:1303265021_1_dore
+DESCRIPTION:Sala 1 - Buta to gunkan / Pigs and Battleship (Shohei Imamura\
+ , 1961). Int.: Hiroyuki Nagato\, Mitzi Mori\, Masao Mishima. Japón. VOSI/
+ E*. 108’\nEl primer taquillazo de Shohei Imamura\, uno de los grandes no
+ mbres de la Nueva Ola japonesa\, llegó de la mano de esta provocadora com
+ edia de corte neorrealista sobre las miserias del Japón de posguerra. En 
+ un puerto de placer para la flota norteamericana\, los burdeles se multipl
+ ican y las bandas locales se enfrentan por el control de la cría de cerdo
+ s. Segunda proyección día 30.\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quantum of Solace
+DTSTART;VALUE=DATE-TIME:20130327T173000
+DTEND;VALUE=DATE-TIME:20130327T191600
+UID:1303273017_1_dore
+DESCRIPTION:Sala 1 - Quantum of Solace (007: Quantum of Solace\, Marc Fors
+ ter\, 2008). Int.: Daniel Craig\, Jeffrey Wright Mathieu Amalric. Reino Un
+ ido/EE UU. VOSE. 106’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
+ ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/
+ PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Okuribito
+DTSTART;VALUE=DATE-TIME:20130327T193000
+DTEND;VALUE=DATE-TIME:20130327T214000
+UID:1303273019_1_dore
+DESCRIPTION:Sala 1 - Okuribito (Despedidas\, Yôjirô Takita\, 2008). Int.
+ : Masahiro Motoki\, Ryōko Hirosue\, Tsutomu Yamazaki. Japón. Digital. VO
+ SI/E*. 130’\nLa exitosa película de Takita nos cuenta una agridulce his
+ toria en la que la muerte y la vida se relacionan de diversas maneras\, mo
+ strando incluso cómo la muerte puede significar un nuevo comienzo\, un pr
+ incipio de vida. Daigo Kobayashi\, interpretado por un gran Masahiro Motok
+ i\, es un músico que tras ver su carrera profesional interrumpida\, y par
+ a eludir la bancarrota\, regresa a su ciudad natal\, donde consigue un tra
+ bajo que le hará cambiar definitivamente\, especialista en rituales mortu
+ orios tradicionales o nôkan.\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ensayo final para Utopía
+DTSTART;VALUE=DATE-TIME:20130327T200000
+DTEND;VALUE=DATE-TIME:20130327T211500
+UID:1303270020_2_dore
+DESCRIPTION:Sala 2 - Ensayo final para Utopía (A. Duque\, 2012). Document
+ al. España. Digital. VOSE. 75’\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imani
+DTSTART;VALUE=DATE-TIME:20130327T220000
+DTEND;VALUE=DATE-TIME:20130327T232200
+UID:1303270022_1_dore
+DESCRIPTION:Sala 1 - Imani (Caroline Kamya\, 2010). Int.: Stephen Ocen\, R
+ ehema Nanfuka\, Philip Buyi Roy. Uganda/Suecia. Vídeo. VOSE. 82’ \n  Pr
+ emio mejor dirección. FCAT 2010. La película transcurre durante un día 
+ cualquiera en Kampala\, la capital de Uganda\, en la provincia de Gulu. Pa
+ ra tres personas no será un día cualquiera. Mary\, que trabaja en la cas
+ a de una mujer de la alta sociedad\, deberá encontrar el dinero necesario
+  para comprar a la policía y liberar a su hermana. Olweny es un ex niño 
+ soldado de 12 años que deja el centro de rehabilitación para volver al p
+ ueblo de sus padres\, destruido por la guerra. Armstrong\, un bailarín de
+  breakdance\, debe montar un espectáculo para esa misma noche.\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Labyrinth
+DTSTART;VALUE=DATE-TIME:20130330T173000
+DTEND;VALUE=DATE-TIME:20130330T191000
+UID:1303303017_1_dore
+DESCRIPTION:Sala 1 - Labyrinth (Dentro del laberinto\, Jim Henson\, 1986).
+  Int.: David Bowie\, Jennifer Connelly\, Toby Froud. EE UU. VE. 100’\nSa
+ rah debe atravesar un laberinto para rescatar a su hermano pequeño\, que 
+ ha sido secuestrado por los duendes y está en manos del poderoso rey Jare
+ th. Sarah descubre\, casi inmediatamente\, que ha llegado a un lugar donde
+  las cosas no son siempre lo que parecen. Los seres a quienes se encuentra
+  le brindan ayuda\, pero algunos la traicionan. Sus compañeros en la peli
+ grosa misión son Hoggle\, un gnomo gruñón que\, a cambio de un brazalet
+ e de plástico\, se compromete a llevarla lo más lejos posible y Ludo\, u
+ n bondadoso y peludo monstruo a quien los duendes atormentan. Colaboració
+ n de Jim Henson\, Frank Oz\, George Lucas y el ex Monty Pithon\, Terry Jon
+ es.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.do
+ c
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buta to gunkan / Pigs and Battleship
+DTSTART;VALUE=DATE-TIME:20130330T193000
+DTEND;VALUE=DATE-TIME:20130330T211800
+UID:1303303019_1_dore
+DESCRIPTION:Sala 1 - Buta to gunkan / Pigs and Battleship (Shohei Imamura\
+ , 1961). Int.: Hiroyuki Nagato\, Mitzi Mori\, Masao Mishima. Japón. VOSI/
+ E*. 108’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111
+ -doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Belovy
+DTSTART;VALUE=DATE-TIME:20130330T200000
+DTEND;VALUE=DATE-TIME:20130330T214800
+UID:1303300020_2_dore
+DESCRIPTION:Sala 2 - Belovy (V. Kossakovsky\, 1993). Documental. Rusia. V
+ ídeo. VOSI/E*. 60’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/P
+ rograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koroshi no rakuin / Branded to Kill
+DTSTART;VALUE=DATE-TIME:20130330T214000
+DTEND;VALUE=DATE-TIME:20130330T231100
+UID:1303304021_1_dore
+DESCRIPTION:Sala 1 - Koroshi no rakuin / Branded to Kill (Seijun Suzuki\, 
+ 1967). Int.: Jo Shishido\, Mariko Ogawa. Japón. Digital. VOSE*. 91’\nYa
+ zukas sobrados de actitud\, mujeres fatales y extrañas conspiraciones art
+ iculan uno de los títulos más delirantes y bizarros de Seijun Suzuki\, c
+ on el que hizo saltar por los aires -ahora diríamos\, deconstruyó- las c
+ onvenciones del género policiaco\, en clave casi experimental. Una de las
+  cumbres del cine negro de la Nikkatsu y de todos los tiempos.\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La chispa de la vida
+DTSTART;VALUE=DATE-TIME:20130331T173000
+DTEND;VALUE=DATE-TIME:20130331T190800
+UID:1303313017_1_dore
+DESCRIPTION:Sala 1 - La chispa de la vida (Álex de la Iglesia\, 2011). In
+ t.: José Mota\, Salma Hayek\, Juan Luis Galiardo. España. 98’\n“El p
+ ersonaje principal simboliza\, sin intentar ser pretencioso\, cómo me enc
+ uentro yo y cómo creo que se encuentra la mayor parte de la gente en la a
+ ctualidad: inmovilizada y aterrorizada por una situación que no puede con
+ trolar\, como si tuviéramos un hierro en la cabeza. Todo parece que va bi
+ en\, el personaje está consciente y sin embargo está al borde de la muer
+ te. Creo que ilustra muy bien la situación actual” (Álex de la Iglesia
+ )\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
+ reas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dowaha
+DTSTART;VALUE=DATE-TIME:20130331T193000
+DTEND;VALUE=DATE-TIME:20130331T210100
+UID:1303313019_1_dore
+DESCRIPTION:Sala 1 - Dowaha (Raja Amari\, 2009). Int.: Hafsia Herzi Sondos
+ \, Belhassen Wassila\, Dari Rim. Túnez/ Francia/Suiza. Vídeo. VOSE. 91
+ ’\nPremio al mejor largometraje Festival de Cinema Africano\, d’Asia e
+  d’America Latina\, Milán 2010. Aicha\, Radia y su madre viven escondid
+ as en el ala reservada a los criados en una casa deshabitada. El precario 
+ equilibrio de su vida cotidiana empeora cuando una joven pareja se muda a 
+ la parte superior de la casa. Empieza entonces una extraña cohabitación 
+ entre la pareja y las tres mujeres\, que prefieren no revelar su presencia
+  a los inesperados vecinos. No pueden dejar su escondite porque conserva s
+ ecretos enterrados durante años. Pero Aicha\, la más joven de las dos he
+ rmanas\, se siente atraída por los recién llegados…\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2013/PrograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Color perro que huye
+DTSTART;VALUE=DATE-TIME:20130331T200000
+DTEND;VALUE=DATE-TIME:20130331T211000
+UID:1303310020_2_dore
+DESCRIPTION:Sala 2 - Color perro que huye (A. Duque\, 2011). Documental. E
+ spaña. Digital. 70’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/P
+ rograDore111-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Casino Royale
 DTSTART;VALUE=DATE-TIME:20130331T212000
-DTEND;VALUE=DATE-TIME:20130331T230500
+DTEND;VALUE=DATE-TIME:20130331T234400
 UID:1303312021_1_dore
 DESCRIPTION:Sala 1 - Casino Royale (007: Casino Royale\, Martin Campbell\,
   2006). Int.: Daniel Craig\, Eva Green\, Judi Dench. Reino Unido/EE UU. VO
- SE. 144 James Bond\, uno de los iconos ms perdurables de la cultura popula
- r del siglo XX\, vivi su refundacin cinematogrfica con ese Casino Royale o
- rientado a subrayar algo que su canon de celuloide haba dejado fuera de pl
- ano: su condicin de mito trgico. El impecable 007 revelaba sus fracturas\,
-  capaces de aportar un sustrato a su misoginia y a su ejercicio unidirecci
- onal de la violencia. En otras palabras\, la criatura de Ian Fleming\, ape
- lando a sus fuentes literarias\, se reajustaba a las exigencias de una poc
- a que no slo necesita resetear sus mitologas\, sino tambin sobre-explicarl
- as. (Jordi Costa) PAGE PAGE 1\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2013/PrograDore111-doc.doc
+ SE. 144’\n“James Bond\, uno de los iconos más perdurables de la cultu
+ ra popular del siglo XX\, vivió su refundación cinematográfica con ese 
+ Casino Royale orientado a subrayar algo que su canon de celuloide había d
+ ejado fuera de plano: su condición de mito trágico. El impecable 007 rev
+ elaba sus fracturas\, capaces de aportar un sustrato a su misoginia y a su
+  ejercicio unidireccional de la violencia. En otras palabras\, la criatura
+  de Ian Fleming\, apelando a sus fuentes literarias\, se reajustaba a las 
+ exigencias de una época que no sólo necesita resetear sus mitologías\, 
+ sino también sobre-explicarlas.” (Jordi Costa)            PAGE 1\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2013/PrograDore111-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR
