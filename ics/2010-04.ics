@@ -4,1505 +4,983 @@ PRODID:-//Cine Doré//github.com santos82 doredb//ES
 X-WR-CALNAME:Cine Dore
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:Nagagutsu o haita neko
+SUMMARY:S
 DTSTART;VALUE=DATE-TIME:20100403T173000
 DTEND;VALUE=DATE-TIME:20100403T184500
 UID:1004033017_1_dore
-DESCRIPTION:Sala 1 - Nagagutsu o haita neko (El gato con botas\, Kimio Yab
- uki\, 1969). Animación. Japón. VE. 75'\nToma co mo f uente de in spiraci
- ón el popu larísimo r elato d e C harles Per rault\, en el q ue un gato 
- mosquetero defensor de la justicia es condenado y perseguido por los suyos
-  por ayudar a un ratón. Entrada libre para menores de 14 años.\n\n\nFuen
- te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
- a/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Men: A Passion Playground
-DTSTART;VALUE=DATE-TIME:20100403T193000
-DTEND;VALUE=DATE-TIME:20100403T210300
-UID:1004033019_1_dore
-DESCRIPTION:Sala 1 - Men: A Passion Playground (Atom Egoyan\, 1985). 7’.
-  VOSE*. Family Viewing (Retrato de familia\, Atom Egoyan\, 1987). Int.: Ai
- dan Tierney\, David Hemblen\, Gabrielle Rose. 86’. VOSE. Canadá. Total 
- programa: 93’\nFamily Viewing: “La premisa con la que jugaba en esta p
- elícula era la de establecer una correlación entre la id ea d e g enerac
- iones en l a familia y g eneraciones de imágenes. En la j erga del v íde
- o se habla d e primera\, segunda y tercera generación\; es por tanto una 
- metáfora obvia sobre el modo en que funciona la familia en la película
- ” (Atom Egoyan). Segunda proyección día 6.\n\n\nFuente: http://www.mec
- d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
- dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Secretos
-DTSTART;VALUE=DATE-TIME:20100403T200000
-DTEND;VALUE=DATE-TIME:20100403T213000
-UID:1004030020_2_dore
-DESCRIPTION:Sala 2 - Secretos (Valeria Sarm iento\, 200 8). In t.: Claudia
-  Di Gi rolamo\, Sergio He rnández\, Francisco Reyes. Francia / Chile. VOE
- . 90'\n¿De q ué t ipo de secret os es tamos habl ando? Habrá un poco de
-  t odo: asesi nato\, r obo\, t raición\, p ero también secret os que no 
- t ienen ninguna i mportancia. E n este j uego de dominó l o se rio c onvi
- ve c on el humor y el sin-sentido. La película nos da una radiografía de
- l Chile actual.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
- cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDo
- re76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nora I nu
-DTSTART;VALUE=DATE-TIME:20100403T220000
-DTEND;VALUE=DATE-TIME:20100404T000200
-UID:1004030022_1_dore
-DESCRIPTION:Sala 1 - Nora I nu (El perro rabioso\, A kira Kurosawa\, 1949)
- . I nt.: Toshiro M ifune\, Ta kashi Sh imura\, Ko Kimura. Japón. VOSE. 12
- 2'\n“Se trata menos de u n film policíaco de su spense que de una descr
- ipción de To kio\, en el desarraigo y la miseria que si guieron a l a d e
- rrota en l a S egunda Guerra M undial\, c on sus pa rados\, sus bandidos\,
-  sus prostitutas\, sus ocupantes de las ruinas...” (Georges Sadoul). Seg
- unda proyección día 7.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
- /PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Tro ll in Centra l Pa rk
-DTSTART;VALUE=DATE-TIME:20100404T173000
-DTEND;VALUE=DATE-TIME:20100404T184500
-UID:1004043017_1_dore
-DESCRIPTION:Sala 1 - A Tro ll in Centra l Pa rk (El j ardín mág ico d e 
- St anley\, Do n Blu th y Gary Goldman\, 199 5). Animación. EE UU. VE. 75'
- \nStanley es un due nde m uy especial\, y a que p osee una característica
-  adora ble: un pulgar verde que convierte en fl or todo lo que toca. Pero 
- l a perversa reina Gnorga\, gobernante del reino de l os duendes\, descubr
- e el secreto de Stanley y decide desterrarlo a un lugar donde nada verde c
- rece: la ciudad de Nueva York. Entrada libre para menores de 14 años.\n\n
- \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
- cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summer of ‘42
-DTSTART;VALUE=DATE-TIME:20100404T193000
-DTEND;VALUE=DATE-TIME:20100404T211300
-UID:1004043019_1_dore
-DESCRIPTION:Sala 1 - Summer of ‘42 (Verano del 42\, Rob ert M ulligan\, 
- 1971 ). In t.: Jennifer O'Neill\, Gary Grimes\, Jerry Houser. EE UU. VOSE.
-  103'\n“Apuntando (con mucho de la h abitual simpatía silenciosa de Mul
- ligan) a la ad olescencia y al momento del des pertar sexual co n el peso 
- aña dido de l a n ostalgia t ipo Tal como éramos\, esta p elícula es un
-  enjambre de contradicciones. Un sorprendente éxito comercial que\, con s
- u historia del joven y la viuda de guerra infeliz\, pierde definitivamente
-  el e mbriagador clima sexual de la adolescencia al co ncentrarse en las c
- ircunstancias del acto sexual en sí” (Geoff Andrew).\n\n\nFuente: http:
- //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
- /fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:En passant
-DTSTART;VALUE=DATE-TIME:20100404T200000
-DTEND;VALUE=DATE-TIME:20100404T212000
-UID:1004040020_2_dore
-DESCRIPTION:Sala 2 - En passant (Atom Egoyan\, 1977). Episodio de Montréa
- l vu par… Six variations sur un thème. Canadá. 20’. Sarabande: Yo-Yo
-  Ma Inspired by Bach (Atom Egoyan\, 1997). Canadá / Reino Unido. Int.: Yo
- -Yo Ma\, George Sperdakos\, Arsinée Khanjian. 60’. Vídeo. VOSE*. Total
-  programa: 80'\nMontréal vu par…: Contribución de Egoyan a este film 
- ómnibus producido con motivo del 350 aniversario de la ciudad de Montreal
- . Sarabande: Presenta al cellista Yo-Yo Ma interpretando las seis suites p
- ara cello de Bach.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
- cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Progr
- aDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rashomon
-DTSTART;VALUE=DATE-TIME:20100404T220000
-DTEND;VALUE=DATE-TIME:20100404T232800
-UID:1004040022_1_dore
-DESCRIPTION:Sala 1 - Rashomon (El bosque ensangrentado\, Akira Kurosawa\, 
- 1950). Int.: Toshiro Mifune\, Masayuki Mori\, Machiko Kyo. Japón. VOSE. 8
- 8'\n“Un film hi stórico p onía en cuestión el or den m oral de los sa
- m uráis en el m omento mismo en qu e l a historia llev aba a Jap ón a un
-  a au tocrítica n acional\, a la contestación de un sistem a p olítico 
- y cu ltural fundado sobre los valores militares y el espíritu de casta. E
- n efecto\, el esplendor del combate a muerte del primer rel ato va desa pa
- reciendo a m edida que se van su cediendo l as narraciones hasta l legar a
-  l a pura parodia\; con e llo\, la figura del sa murai muerto y del ba ndi
- do pierde n s u cualida d épi ca” (Barthéle my Amengual). Segunda proy
- ección día 6.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
- cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDo
- re76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rashomon
-DTSTART;VALUE=DATE-TIME:20100406T173000
-DTEND;VALUE=DATE-TIME:20100406T185800
-UID:1004063017_1_dore
-DESCRIPTION:Sala 1 - Rashomon (El bosque ensangrentado\, Akira Kurosawa\, 
- 1950). Int.: Toshiro Mifune\, Masayuki Mori\, Machiko Kyo. Japón. VOSE. 8
- 8'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
- areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rekopis znaleziony w Saragossie
-DTSTART;VALUE=DATE-TIME:20100406T193000
-DTEND;VALUE=DATE-TIME:20100406T220400
-UID:1004063019_1_dore
-DESCRIPTION:Sala 1 - Rekopis znaleziony w Saragossie (El manuscrito encont
- rado en Zaragoza\, Wojciech J. Has\,\n1964). Int.: Zbigniew Cybulski\, Kaz
- imierz Opalinski\, Iga Cembrzynska. Polonia. VOSE. 154'\n“Muy pocas pel
- ículas han llevado a la pantalla el conflicto que está en la base del g
- énero gótico y que las películas de t error si empre han des baratado p
- ara privilegiar el rom anticismo negro m ás desaf orado: El manuscrito...
- \, en cambio\, se construye sobre esa constante tensión entre el espírit
- u ilustrado y la pu lsión romántica que fue cimiento de una literatura f
- antástica nacida en el Siglo de las Luces” (Roberto Cueto). Joanna Kara
- sek \, directora d el Institu to Po laco de C ultura\, h ará en trega de 
- dos carteles orig inales d e la película. A continuación\, se presentar
- á el libro El manuscrito encontrado en Zaragoza. La novela de Jan Potocki
-  adaptada al Cine por Wojciech Jerzy Has\, en presencia del historiador de
-  cine José Luis Sánchez Noriega y del autor\, Diego Moldes. Este acto po
- drán durar hasta 45’.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
- /PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Habanera
-DTSTART;VALUE=DATE-TIME:20100406T200000
-DTEND;VALUE=DATE-TIME:20100406T214500
-UID:1004060020_2_dore
-DESCRIPTION:Sala 2 - Habanera ( Valeria Sarmiento\, 19 85). Fra ncia. VOSE
- *. 54’. La Planète des e nfants / El planeta de los niños (Valeria Sar
- miento\, 1982) Francia / Alemania. VOE. 51’. Documental. Vídeo. Total p
- rograma: 105'\nLa Planète...: Indagación acerca de los principios educat
- ivos de la Revolución Cubana.\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Men: A Passion Playground
-DTSTART;VALUE=DATE-TIME:20100406T220000
-DTEND;VALUE=DATE-TIME:20100406T233300
-UID:1004060022_2_dore
-DESCRIPTION:Sala 2 - Men: A Passion Playground (Atom Egoyan\, 1985). 7’.
-  VOSE*. Family Viewing (Retrato de familia\, Atom Egoyan\, 1987). Int.: Ai
- dan Tierney\, David Hemblen\, Gabrielle Rose. 86’. VOSE. Canadá. Total 
- programa: 93’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
- cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDo
- re76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nora I nu
-DTSTART;VALUE=DATE-TIME:20100407T173000
-DTEND;VALUE=DATE-TIME:20100407T193200
-UID:1004073017_1_dore
-DESCRIPTION:Sala 1 - Nora I nu (El perro rabioso\, A kira Kurosawa\, 1949)
- . I nt.: Toshiro M ifune\, Ta kashi Sh imura\,\nKo Kimura. Japón. VOSE. 1
- 22'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
- /areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Other
-DTSTART;VALUE=DATE-TIME:20100407T195000
-DTEND;VALUE=DATE-TIME:20100407T213000
-UID:1004075019_1_dore
-DESCRIPTION:Sala 1 - The Other (El o tro\, R obert Mu lligan\, 1972). In t
- .: Uta Hag en\, Kris Udv adnoky\, Martin\nUdvadnoky. EE UU. VOSE. 100'\n
- “Aunque el susp ense se ag ote porque pronto nos damos cuenta de quién 
- es el asesin o\, Mulligan produce una atmósfera realmente inquietante\, n
- egá ndose a idea lizar a los personajes y hacie ndo hincapié en l os ele
- mentos claustrofóbicos del día a día de una comunidad cerrada” (Geoff
-  Andrew). Segunda proyección día 10.\n\n\nFuente: http://www.mecd.gob.es
- /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
- gramacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calendar
-DTSTART;VALUE=DATE-TIME:20100407T200000
-DTEND;VALUE=DATE-TIME:20100407T211300
-UID:1004070020_2_dore
-DESCRIPTION:Sala 2 - Calendar (Atom Egoy an\, 1993). I nt.: A rsinée Khan
- jian\, Ashot Adamian\, At om Eg oyan. Armenia / Canadá / Alemania. VOSE*.
-  73'\n“La m etáfora de la se paración (de la pa reja)\, ta l y c omo v
- iene expre sada por el emplazamiento de la cámara\, el sonido\, el lengua
-  je\, y la separa ción física de los pe rsonajes\, pretende s ubrayar la
-  precari a naturaleza de la identida d nacional. El protagonista\, fo tóg
- rafo\, crea imágenes que se usarán para reforzar la identificación naci
- onal armenia a la vez que asiste\, a través de la lente de su cámara\, a
-  la desintegración de s u p ropia r elación co nyugal y de l a ex perien
- cia compartida de vol ver a su tierra ancestral” (At om Egoyan). Segunda
-  proyección día 11.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
- /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Pr
- ograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Speaking Par ts
-DTSTART;VALUE=DATE-TIME:20100407T220000
-DTEND;VALUE=DATE-TIME:20100407T233300
-UID:1004070022_1_dore
-DESCRIPTION:Sala 1 - Speaking Par ts (Speaking Part s\, Atom Egoyan\, 1989
- ). I nt.: M ichael M cManus\, Arsinée Khanjian\, Gabrielle Rose. Canadá 
- / Italia / Reino Unido. VOSE*. 93'\n“Speaking Parts explora un terreno q
- ue se mueve entre habitaciones y pantallas\; el terreno de la memoria y el
-  deseo. En det erminado momento del t ránsito de u na ha bitación a una 
- pa ntalla\, una persona se transforma en una im agen. Me fascina ese momen
- to crucial y me fascinan las con tradicciones implícitas en el hecho de c
- rear imágenes de la gente” (Atom Egoyan). Segunda proyección día 10.\
- n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
- as-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Todos los hombres so is igua les
-DTSTART;VALUE=DATE-TIME:20100408T173000
-DTEND;VALUE=DATE-TIME:20100408T191500
-UID:1004083017_1_dore
-DESCRIPTION:Sala 1 - Todos los hombres so is igua les (Manuel G ómez Pere
- i ra\, 1 994). I nt.: Imanol Ari as\, Antonio Resines\, Juanjo Puigcorbé.
-  105'\nPor pura casualidad\, un piloto\, un periodista deportivo y un arqu
- itecto\, en torno a los 40 años\, se conocen en un avión\, y entablan am
- istad debido al hecho de compartir su condición de divorciados.\n\n\nFuen
- te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
- a/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Nickel Ride
-DTSTART;VALUE=DATE-TIME:20100408T193500
-DTEND;VALUE=DATE-TIME:20100408T211500
-UID:1004083519_1_dore
-DESCRIPTION:Sala 1 - The Nickel Ride (El hombre clave\, Robert Mulligan\, 
- 1974). Int.: Jason Miller\, Linda Haynes\, Victor French. EE UU. VOSE. 100
- '\nMulligan sigue a un jefecillo del hampa cuando empieza a perder el cont
- rol sobre su territorio\, una zona degradada de Los Ángeles. Segunda proy
- ección día 11.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
- /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograD
- ore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Howard in Particula r
-DTSTART;VALUE=DATE-TIME:20100408T200000
-DTEND;VALUE=DATE-TIME:20100408T212200
-UID:1004080020_2_dore
-DESCRIPTION:Sala 2 - Howard in Particula r (Atom Egoyan\, 1979). Canadá. 
- 14’. VOSE*. America\, America (Atom Egoyan\, 19 97). Canadá. 10’ . Kr
- app's Last T ape (Atom Egoyan\, 2 000). Ada ptación para TV del monólogo
-  de Samuel Beckett. Irlanda. 58’. VOSE*. Total programa: 82’\nKrapp’
- s…: “Eg oyan llev a su lectu ra de la obra beckettiana al ex tremo d e
-  d esarrollar un a poética del archivo personal\, algo que en la pieza or
- iginal se halla ba sólo e n estado e mbrionario. Pero es que\, como dice 
- el cineasta\, en 1958 la noción de l a importancia histórica de un instr
- umento de registro casero era pura ciencia ficción” (A. W.). Segunda pr
- oyección día 24.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
- cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Progr
- aDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Adjuster
-DTSTART;VALUE=DATE-TIME:20100408T220000
-DTEND;VALUE=DATE-TIME:20100408T234200
-UID:1004080022_1_dore
-DESCRIPTION:Sala 1 - The Adjuster (El liquidador\, Atom Egoyan\, 1991). In
- t.: Elias Koteas\, Arsinée Khanjian\, Mauri Chaykin. Canadá. VOSE. 102'\
- n“Mi película trata de l a gente y su t rabajo: qué sentido tiene para
-  la gente su em pleo\, por qué trabajan\, cómo se enfre ntan a ciertas p
- resiones psicológicas\, y cómo llegamos a perm itir que diversas formas 
- de conducta ritualizada sustituyan al autoanálisis y la introspección\, 
- al entendimiento de por qué sentimos de determinada manera” (Atom Egoya
- n). Segunda proyección día 11.\n\n\nFuente: http://www.mecd.gob.es/cultu
- ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
- ion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polvo eres
-DTSTART;VALUE=DATE-TIME:20100409T173000
-DTEND;VALUE=DATE-TIME:20100409T190800
-UID:1004093017_1_dore
-DESCRIPTION:Sala 1 - Polvo eres (Vicente Escrivá\, 1974). Int.: Isabel Ga
- rcés\, Nadiuska\, Manuel Summers. 98'\nVehículo para el lucimiento de Na
- diuska\, efímero mito del erotismo celtibérico\, y también para Summers
-  en su doble condición de actor y guionista. Del conjunto sólo se salvan
-  tres o cuatro chistes discretamente afortunados\, de inequívoca proceden
- cia summeriana.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
- cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDo
- re76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Same Time\, Next Year
-DTSTART;VALUE=DATE-TIME:20100409T193000
-DTEND;VALUE=DATE-TIME:20100409T212900
-UID:1004093019_1_dore
-DESCRIPTION:Sala 1 - Same Time\, Next Year (El próximo año\, a la misma 
- hora\, Robert Mulligan\, 1978). Int.: Ellen Burstyn\, Alan Alda\, Ivan Bon
- ar. EE UU. VOSE*. 119'\nGeorge\, un contable de 27 años\, está casado y 
- tiene tres hijos. Doris\, 24 años\, también está casada y tiene tres hi
- jos. En 1951 se conocen por azar y hacen el amor en una cabaña. Durante l
- os veinte años siguientes\, se vuelven a encontrar siempre el mismo día\
- , a la misma hora y en el mismo lugar. Segunda proyección día 13.\n\n\nF
- uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
- tura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fina l T wist
-DTSTART;VALUE=DATE-TIME:20100409T200000
-DTEND;VALUE=DATE-TIME:20100409T210000
-UID:1004090020_2_dore
-DESCRIPTION:Sala 2 - The Fina l T wist (Atom Egoy an\, 1987). Int .: Marti
- n Lan dau\, Robert W isden\, A nn-Marie MacDonald. 30’. There Was a Litt
- le Girl... (Atom Egoyan\, 1988). Int.: Michael Tucker\, Kate Ve rnon. 30
- ’. Episodios de l a serie de TV Alfred Hitchcock Presents. EE UU. Vídeo
- . VOSE*. To tal programa: 60'\n“The Final Twist narra la h istoria de tr
- es esp ecialistas en efectos especiales que deci den vengarse de su despó
- tico jefe urdiendo un complicado truco óptico: le encierran en un despach
- o\, le hacen creer que se ha producido un incendio e n el edi ficio\, y p 
- royectan s obre el hel ado s uelo del patio l a im agen de u nos bomberos 
- que extienden una lona sobre la que deberá saltar para salvar su vida” 
- (A. W.). Entrada libre hasta completar aforo.\n\n\nFuente: http://www.mecd
- .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
- ore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open House
-DTSTART;VALUE=DATE-TIME:20100409T220000
-DTEND;VALUE=DATE-TIME:20100409T233700
-UID:1004090022_1_dore
-DESCRIPTION:Sala 1 - Open House (Atom Egoyan\, 1982). Int.: Ross Fraser\, 
- Michael Marshall\, Sharon Cavanagh. 25’. Next of Kin (Atom Eg oyan\, 19 
- 84). Int.: Patrick Tiern ey\, Berg e Fazlian\, Sirv art Fazlian . 72’. C
- an adá. VOSE*. Total programa: 97’\nNext of Kin: “Presenta una famili
- a armenia pero el punto de vista del film es el del joven WASP (blanco\, a
- nglosajón\, protestante) que se infiltra en dicha familia: a Egoyan no le
-  interesa dar detalles de identidad nacional\, sólo proponer una intrigan
- te dramatización a la inversa de s u presunta situación personal” (A. 
- W.). Segunda proyección día 13.\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Night in Casablanca
-DTSTART;VALUE=DATE-TIME:20100410T173000
-DTEND;VALUE=DATE-TIME:20100410T185400
-UID:1004103017_1_dore
-DESCRIPTION:Sala 1 - A Night in Casablanca (Una noche en Casablanca\, Arch
- ie Mayo\, 1946). Int.: Groucho Marx\, Harpo Marx\, Chico Marx. EE UU. VE. 
- 84'\nRonald K ornblow ( Groucho M arx)\, es co ntratado pa ra di rigir un 
- hotel de C asablanca cuy os ge rentes anteriores fueron asesinados. Hay un
- a conspiración para encontrar un tesoro oculto por los nazis. Entrada lib
- re para menores de 14 años.\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Pursuit of Happiness
-DTSTART;VALUE=DATE-TIME:20100410T193000
-DTEND;VALUE=DATE-TIME:20100410T210400
-UID:1004103019_1_dore
-DESCRIPTION:Sala 1 - The Pursuit of Happiness (Buscando la felicida d\, R 
- obert Mu lligan\, 1971). Int.: Michael Sarrazin\, Barbara Hershey\, Arthur
-  Hill. EE UU. VOSE*. 94'\n“Con n aturalidad y d iscreción\, Mu lligan r
- elaciona con stantemente a l os p ersonajes con su en torno: mientras q ue
-  el p rotagonista\, William\, es i ncapaz de articu lar su sen sación de 
- desplazamiento salv o en términos muy vagos (¡Hay u na cri sis nerviosa 
- al lá afue ra y y o no quiero ser parte de ella!)\, recibe\, no obstante\
- , una definición visual precisa –algo que podría pasarse fácilmente p
- or alto porque la película\, a primera vista\, parece como hecha para tel
- evisión” (Tom Ryan).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
- ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/
- PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Speaking Par ts
-DTSTART;VALUE=DATE-TIME:20100410T200000
-DTEND;VALUE=DATE-TIME:20100410T213300
-UID:1004100020_2_dore
-DESCRIPTION:Sala 2 - Speaking Par ts (Speaking Part s\, Atom Egoyan\, 1989
- ). I nt.: M ichael M cManus\, Arsinée Khanjian\, Gabrielle Rose. Canadá 
- / Italia / Reino Unido. VOSE*. 93'\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Other
-DTSTART;VALUE=DATE-TIME:20100410T220000
-DTEND;VALUE=DATE-TIME:20100410T234000
-UID:1004100022_1_dore
-DESCRIPTION:Sala 1 - The Other (El o tro\, R obert Mu lligan\, 1972). In t
- .: Uta Hag en\, Kris Udv adnoky\, Martin\nUdvadnoky. EE UU. VOSE. 100'\n\n
- \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
- cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kumonosu-jo
-DTSTART;VALUE=DATE-TIME:20100401T173000
-DTEND;VALUE=DATE-TIME:20100401T192000
-UID:1004013017_1_dore
-DESCRIPTION:Sala 1 - Kumonosu-jo (Trono de sangre\, Akira Kurosawa\, 1957)
- . Int.: Toshiro Mifune\, Isuzu Yamada\,\nMinoru Chiaki. Japón. VOSE. 110'
- \n“El gran problema era adaptar Macbeth al gusto japonés. Los sortilegi
- os son diferentes en Occidente y en Japón. ( ...) La si ngularidad\, la p
- ot encia\, el rigor\, la densidad del drama m e recordaban al Nô. En esta
-  forma de t eatro\, l os act ores se despl azan l o m enos posi ble\, cont
-  ienen s us ene rgías\; d e est a manera\, el menor gesto suscita una emo
- ción de una gran intensidad. En la película\, las expresiones de los act
- ores se corresponden a las de las estilizadas máscaras del Nô” (Akira 
- Kurosawa). Segunda proyección día 28.\n\n\nFuente: http://www.mecd.gob.e
- s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
- ogramacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Adjuster
-DTSTART;VALUE=DATE-TIME:20100401T194000
-DTEND;VALUE=DATE-TIME:20100401T212200
-UID:1004014019_1_dore
-DESCRIPTION:Sala 1 - The Adjuster (El liquidador\, Atom Egoyan\, 1991). In
- t.: Elias Koteas\, Arsinée Khanjian\, Mauri Chaykin. Canadá. VOSE. 102'\
- n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
- as-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calendar
-DTSTART;VALUE=DATE-TIME:20100401T213500
-DTEND;VALUE=DATE-TIME:20100401T224800
-UID:1004013521_2_dore
-DESCRIPTION:Sala 2 - Calendar (Atom Egoy an\, 1993). I nt.: A rsinée Khan
- jian\, Ashot Adamian\, At om Eg oyan.\nArmenia / Canadá / Alemania. VOSE*
- . 73'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
- cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Nickel Ride
-DTSTART;VALUE=DATE-TIME:20100401T220000
-DTEND;VALUE=DATE-TIME:20100401T234000
-UID:1004010022_1_dore
-DESCRIPTION:Sala 1 - The Nickel Ride (El hombre clave\, Robert Mulligan\, 
- 1974). Int.: Jason Miller\, Linda Haynes\,\nVictor French. EE UU. VOSE. 10
- 0'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
- areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parella de tres / Pareja de tres
-DTSTART;VALUE=DATE-TIME:20100413T173000
-DTEND;VALUE=DATE-TIME:20100413T190100
-UID:1004133017_1_dore
-DESCRIPTION:Sala 1 - Parella de tres / Pareja de tres (Antoni Ver daguer\,
-  1995). Int.: R osa M aría Sar dá\, Carmen\nMaura\, Emilio Gutiérrez Ca
- ba. 91'\nA pesa r de tener caracteres muy diferentes \, Ana y Ma rta com p
- arten mucha s cosa s\, en tre ellas a San ti\, marido de una y amante de l
- a otra\, que es víctima de un engaño sentimental por parte de ambas.\n\n
- \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
- cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tengoku to jigoku
-DTSTART;VALUE=DATE-TIME:20100413T192000
-DTEND;VALUE=DATE-TIME:20100413T214300
-UID:1004132019_1_dore
-DESCRIPTION:Sala 1 - Tengoku to jigoku (El infierno del odio\, Akira Kuros
- awa\, 1963). Int.: Toshiro Mifune\, Tatsuya Nakadai\, Kyoko Kagawa. Japón
- . VOSF/E*. 143'\n“Lejos de ser de orden social\, el empeño más profund
- o de El infierno del odio es de orden metafísico. (...) El mecanismo de l
- a e ncuesta policial no e ra m ás que un m olde\, la evocación de los ba
- rrios pobres el pretexto para la elección de un decorado: la sátira s oc
- ial se borra a nte una parábola del paraíso perdido” (Michel Estève).
-  Segunda proyección día 16.\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open House
-DTSTART;VALUE=DATE-TIME:20100413T200000
-DTEND;VALUE=DATE-TIME:20100413T213700
-UID:1004130020_2_dore
-DESCRIPTION:Sala 2 - Open House (Atom Egoyan\, 1982). Int.: Ross Fraser\, 
- Michael Marshall\, Sharon Cavanagh. 25’. Next of Kin (Atom Eg oyan\, 19 
- 84). Int.: Patrick Tiern ey\, Berg e Fazlian\, Sirv art Fazlian . 72’. C
- an adá. VOSE*. Total programa: 97’\n\n\nFuente: http://www.mecd.gob.es/
- cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
- ramacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Same Time\, Next Year
-DTSTART;VALUE=DATE-TIME:20100413T220500
-DTEND;VALUE=DATE-TIME:20100414T000400
-UID:1004130522_1_dore
-DESCRIPTION:Sala 1 - Same Time\, Next Year (El próximo año\, a la misma 
- hora\, Robert Mulligan\, 1978). Int.: Ellen\nBurstyn\, Alan Alda\, Ivan Bo
- nar. EE UU. VOSE*. 119'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
- ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/
- PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peep Show
-DTSTART;VALUE=DATE-TIME:20100414T173000
-DTEND;VALUE=DATE-TIME:20100414T192000
-UID:1004143017_1_dore
-DESCRIPTION:Sala 1 - Peep Show (Atom Egoy an\, 19 81). I nt.: J ohn B all\
- , C laire Let emendia. 7’ . V OSE*. Exotica\n(Exótica\, Atom Egoy an\, 
- 1 993). I nt.: B ruce Green wood\, M ia Ki rschner\, D on M cKellar. VO SE
- . 103'. Canadá. Total programa: 110’\n“Quería construir el guión de
-  Exotica como si tratara de un strip-tease\, a fin de revelar progresivame
- nte los elem entos de una historia con una gran carga em ocional. (…) A 
- ve ces puede n pa recer perversas o absurdas estas actividades por medio d
- e las cuales la gente transforma su sufrimiento en mitos o leyendas fabric
- ados por el los m ismos. Yo c reo q ue para l os seres humanos no h ay nad
- a m ás fasci nante que el exotismo de su propia experiencia” (Atom Egoy
- an). Segunda proyección día 18.\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Akahige
-DTSTART;VALUE=DATE-TIME:20100414T194000
-DTEND;VALUE=DATE-TIME:20100414T223900
-UID:1004144019_1_dore
-DESCRIPTION:Sala 1 - Akahige (Barbarroja\, Akira Kurosawa\, 1965). Int.: T
- oshiro Mifune\, Yuzo Kayama\, Tsutomu Yamazaki. Japón. VOSE. 179'\n“Ya 
- sea un soldado anónimo\, ya un jefe caído\, un clan destruido o una soci
- edad condenada\, Kurosawa los acompaña a todos –c on un resto de c ompa
- sión– en la belleza errática\, extra viada o extravagante de l os movi
- mientos de que son todavía capaces. En Barbarroja\, el médico obliga a s
- u joven discípulo a que no desvíe la mirada del rostro de un agonizante 
- (sobre el tema ‘la muerte de un hombre es el espectáculo más bello’)
- ” (Serge Daney). Segunda proyección día 17.\n\n\nFuente: http://www.me
- cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
- -dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CINE FUTURO Salsas en l as bardenas
-DTSTART;VALUE=DATE-TIME:20100414T200000
-DTEND;VALUE=DATE-TIME:20100414T212700
-UID:1004140020_2_dore
-DESCRIPTION:Sala 2 - CINE FUTURO Salsas en l as bardenas (Alix Delmas\, 2 
- 007). Fr ancia / Espa ña. 14’. Ohne Titel (Filmsetperformancebühnefilm
- ) (Chistoph Meier\, 2009). Austria. 4’. Future Cinema (Simon Mullan\, 20
- 07). Austria. 1’. Film (Hôtel Wolfers) (Dora García\, 2009). España. 
- 12’. Cinema Mundial 1957-2007 (Carles Asensio\, 2008). España. 21’. D
- e Volta ao Quarto 666 (Gustavo Spolidoro\, 2009). Brasil. 15’. A Weekend
-  at the Beach with Jean-Luc Godard (Ira Schneider\, 2009). EE UU / Alemani
- a. 10’. The Two Teams Team (Manuel Saiz\, 2008) España / Reino Unido. 1
- 0’. VOSE/*. Total programa: 87’\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CINE REVISITADO
-DTSTART;VALUE=DATE-TIME:20100414T220000
-DTEND;VALUE=DATE-TIME:20100414T230800
-UID:1004140022_2_dore
-DESCRIPTION:Sala 2 - CINE REVISITADO\nBroken Threads (Fani Zguro\, 2007). 
- Albania. 7’. Arise (Zona) (Maia Pedro\, 2009). Portugal. 10’. The Titl
- e was Shot (Vivian Ostrovsky\, 2009). Francia / EE UU. 9 ’. Shadow of a 
- Do ubt (Bob Paris\, 2009). EE U U. 6’. Grid (V olker Schreiner\, 2 009).
-  Alemania. 6’. Fin (Eli Cortiñ as Hidalgo\, 20 09). Esp aña / Alemania
- . 4’. Unheard Silence (Karen de Cock\, 2009). Bélgica. 5’. Ce disque 
- est le même que l'autre (Jean-Jacques Palix\, 2009). Fra ncia. 9’. Film
-  Qua rtet / Polyframe (Antoni Pinent\, 2008). España. 9’. Civilization 
- (MEGAPLEX) (Marco Bambrilla\, 2008). Italia. 3’. VOSE/*. Total programa:
-  68’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
- ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insomnio
-DTSTART;VALUE=DATE-TIME:20100415T173000
-DTEND;VALUE=DATE-TIME:20100415T191500
-UID:1004153017_1_dore
-DESCRIPTION:Sala 1 - Insomnio (Chus Gutiérrez\, 1997). Int.: Cristina Mar
- cos\, Candela Peña\, María Pujalte. 105'\nEva es una profesional de la t
- elevisión que acaba de ser madre y que quiere ent regarse al máximo e n 
- ambos aspectos de su vida. Cuando está buscando piso conoce a Juan\, un a
- gente inmobiliario a punto de casarse.\n\n\nFuente: http://www.mecd.gob.es
- /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
- gramacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sweet He reafter
-DTSTART;VALUE=DATE-TIME:20100415T193500
-DTEND;VALUE=DATE-TIME:20100415T212700
-UID:1004153519_1_dore
-DESCRIPTION:Sala 1 - The Sweet He reafter (El dulce porve nir\, Atom Egoya
- n\, 1997). Int.: Ian Holm\, Sarah Po lley\, Bruce Greenwood. Canadá. VOSE
- . 112'\n“Ante una tragedia\, se pone a prueba nuestra fortaleza y nuestr
- a fe. Ésta es la historia de una chica que posee un notable coraje. Se en
- frenta a un hom bre qu e tiene todas las respuestas\, pero que no se hace 
- suficientes preguntas. Es u na historia que t rata de l a reparación de h
- e ridas profundas del alma\, y de las opciones morales que deben tomarse e
- n el proceso de curación” (Atom Egoyan). Segunda proyección día 17.\n
- \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
- s-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SUBEXPUESTO Underexposed
-DTSTART;VALUE=DATE-TIME:20100415T210000
-DTEND;VALUE=DATE-TIME:20100415T223000
-UID:1004150021_2_dore
-DESCRIPTION:Sala 2 - SUBEXPUESTO Underexposed (Gregg Smith\, 2 009). Fr an
- cia / Sudáfrica. 23’. Strike (Yo rgos Tax iarchopoulos\, 20 09). Grecia
- . 1’. Hawker (Dustin Feneley\, 2008). Australia. 13’. Strangers (Tomas
-  Hendriks\, 2009). Holanda / Bélgica. 15’. Trilogie Chrysalides (Patric
- k Bernatchez\, 2009). Canadá. 38’. VOSE/*. Total programa: 90’\n\n\nF
- uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
- tura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kakushi-toride no san-akunin
-DTSTART;VALUE=DATE-TIME:20100415T220000
-DTEND;VALUE=DATE-TIME:20100416T000600
-UID:1004150022_1_dore
-DESCRIPTION:Sala 1 - Kakushi-toride no san-akunin (La fortaleza escondida\
- , Akira Kurosawa\, 1958). Int.: Toshiro\nMifune\, Misa Uehara\, Minoru Chi
- aki. Japón. VOSE. 126'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
- ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/
- PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kiss Me Goodbye
-DTSTART;VALUE=DATE-TIME:20100416T173000
-DTEND;VALUE=DATE-TIME:20100416T191100
-UID:1004163017_1_dore
-DESCRIPTION:Sala 1 - Kiss Me Goodbye (Bésame y esfúmate\, Robert Mulliga
- n\, 1982). Int.: Sally Field\, James Caan\,\nJeff Bridges. EE UU. VOSSueco
-  y Finés /E*. 101'\nKay Villano \, una viuda joven y atractiv a\, está a
-  punto d e casarse co n R upert Bain es\, un famoso egiptólogo del Mu seo
-  d e Arte Metro politano d e Nueva York. Pero recib e la sorpren dente vis
- ita d el fantasma de su primer marido\, Jolly Villano. Segunda proyección
-  día 21.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
- a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.p
- df
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Felicia’s Journey
-DTSTART;VALUE=DATE-TIME:20100416T193000
-DTEND;VALUE=DATE-TIME:20100416T212200
-UID:1004163019_1_dore
-DESCRIPTION:Sala 1 - Felicia’s Journey (El viaje de Felicia\, Atom Egoya
- n\, 1997). Int.: Bob Hoskins\, Elaine Cassidy\, Arsinée Khanjian. Canadá
- . VOSE. 112'\n“Actualización en clave realista del cuento de hadas\, El
-  viaje de Felicia coquetea con el thriller o con el relato gótico en su f
- ascinante presentación de un Barba Azul cockney y una niña que se enfren
- ta al ogro malvado y sale victoriosa de su viaje al corazón de las tinieb
- las” (Roberto Cueto). Segunda proyección día 20.\n\n\nFuente: http://w
- ww.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe
- /cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXTRANJERO Outlandish: étranges corps étrangers
-DTSTART;VALUE=DATE-TIME:20100416T200000
-DTEND;VALUE=DATE-TIME:20100416T211700
-UID:1004160020_2_dore
-DESCRIPTION:Sala 2 - EXTRANJERO Outlandish: étranges corps étrangers (Ph
- illip Varnell\, 2009). Francia / Reino Unido. 20’. Le Meilleur âge (Vi 
- anney Lam bert\, 2007). Francia. 10’. Mapping Journey #1 (B ouchra Kh al
- ili\, 2 008). Fran cia / Marruecos. 5’. Mapping Journey #2 (B ouchra Kha
- lili\, 2 008). Fran cia / Marru ecos. 5’. Nasser (Gil & Moti\, 2009). Is
- rael. 7’. Otchajanie (Galina Myznikova y Sergey Provorov\, 2008). Rusia.
-  30’. VOSE/*. Total programa: 77’\n\n\nFuente: http://www.mecd.gob.es/
- cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
- ramacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:August 2008
-DTSTART;VALUE=DATE-TIME:20100416T214500
-DTEND;VALUE=DATE-TIME:20100416T230400
-UID:1004164521_2_dore
-DESCRIPTION:Sala 2 - August 2008 (Rä d i Martin o\, 2 009). Italia / Bél
- g ica. 25 ’. BlueSky (qué será ser á) (Francisco\nRuiz de In fante\, 
- 2009). España / Francia. 6’. Le procès d'Oscar Wilde (Christian Merlhi
- ot\, 2009). Int.: Nasri Sayegh. Francia / Líbano. 68’. VOSE/*. Total pr
- ograma: 79’\nPreestreno de la úl tima pel ícula de C hristian M erlhio
- t\, e n presencia del real izador y del act or Na sri Sayegh.\n\n\nFuente:
-  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
- ine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tengoku to jigoku
-DTSTART;VALUE=DATE-TIME:20100416T220000
-DTEND;VALUE=DATE-TIME:20100417T002300
-UID:1004160022_1_dore
-DESCRIPTION:Sala 1 - Tengoku to jigoku (El infierno del odio\, Akira Kuros
- awa\, 1963). Int.: Toshiro Mifune\, Tatsuya Nakadai\, Kyoko Kagawa. Japón
- . VOSF/E*. 143'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
- cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDo
- re76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peter Pan
-DTSTART;VALUE=DATE-TIME:20100401T173000
-DTEND;VALUE=DATE-TIME:20100401T184600
-UID:1004013017_1_dore
-DESCRIPTION:Sala 1 - Peter Pan (Peter Pan\, Luske Hamilton\, 1953). Animac
- ión. EE UU. VE. 76'\n“El hábi to des personalizador de Di sney de po n
- er a di ferentes equi pos de ani madores a cargo de l as diferentes pa rte
- s de la historia se m uestra claram ente aquí\, con un trabajo que va de 
- lo monótono y empalagoso (la animación del propio Peter Pan) al pleno co
- ntenido y la diversión (el Capitán Garfio y su cocodrilo)” (Dave Kehr)
- . Entrada libre para menores de 14 años.\n\n\nFuente: http://www.mecd.gob
- .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
- programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VALOR TRABAJO Mudanza
-DTSTART;VALUE=DATE-TIME:20100401T183000
-DTEND;VALUE=DATE-TIME:20100401T195600
-UID:1004013018_2_dore
-DESCRIPTION:Sala 2 - VALOR TRABAJO Mudanza (Pere Po rtabella\, 2008). Esp 
- aña. 20’ . Le textile est m ort mais l es gens vi vent enc ore 1 (Natac
- ha Nisic\, 2008). Francia. 6’. Le te xtile est m ort m ais les gens vi v
- ent e ncore 2 (Natacha Nisic \, 2008). F rancia. 5 ’. Hiver (les grands 
- chats) (Marian ne Pistone y G illes D eroo\, 2008 ). Fran cia. 55 ’. VOS
- E/*. Total programa: 86’\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 10/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Akahige
-DTSTART;VALUE=DATE-TIME:20100401T191000
-DTEND;VALUE=DATE-TIME:20100401T220900
-UID:1004011019_1_dore
-DESCRIPTION:Sala 1 - Akahige (Barbarroja\, Akira Kurosawa\, 1965). Int.: T
- oshiro Mifune\, Yuzo Kayama\, Tsutomu\nYamazaki. Japón. VOSE. 179'\n\n\nF
- uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
- tura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HARUN FAROCKI\, LA FORMA DOCUMENTAL
-DTSTART;VALUE=DATE-TIME:20100401T203000
-DTEND;VALUE=DATE-TIME:20100401T215600
-UID:1004013020_2_dore
-DESCRIPTION:Sala 2 - HARUN FAROCKI\, LA FORMA DOCUMENTAL\nEin Bild (Una im
- agen\, Harun Farocki\, 1983). 20’. Zum Vergleich (Comparación\, Harun F
- arocki\, 2009). 61’. Alemania. VOSE/*. Total programa: 86’\nZum Vergle
- ich: “Qui ero proponer una película q ue a porte su c ontribución al c
-  oncepto de t rabajo. Que compare el trabajo e n una sociedad tra dicional
- \, por e jemplo en Áfric a\, en una soci edad e n vías de industrializac
- ión\, com o en la India\, y en una s ociedad muy industrial izada\, en E 
- uropa o en Ja pón. El objeto de la comparación es el trabajo de construc
- ción de bloques de viviendas” (Harun Farocki).\n\n\nFuente: http://www.
- mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
- ne-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sweet He reafter
-DTSTART;VALUE=DATE-TIME:20100401T223000
-DTEND;VALUE=DATE-TIME:20100402T002200
-UID:1004013022_1_dore
-DESCRIPTION:Sala 1 - The Sweet He reafter (El dulce porve nir\, Atom Egoya
- n\, 1997). Int.: Ian Holm\, Sarah Po lley\, Bruce Greenwood. Canadá. VOSE
- . 112'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
- ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dersu Uz ala
-DTSTART;VALUE=DATE-TIME:20100418T173000
-DTEND;VALUE=DATE-TIME:20100418T195100
-UID:1004183017_1_dore
-DESCRIPTION:Sala 1 - Dersu Uz ala (El ca zador\, Akira Kuro sawa\, 1975). 
- Int.: Mak sim M unzuk\, Yuri Solomin\,\nSvetlana Danilchenko. Japón. VOSE
- . 141'\n“La co ncepción que el ge ógrafo A rseniev t iene de l a sol i
- daridad e s i nseparable de una su erte de canibalismo v isual. Está tod 
- avía b ajo la ég ida d e lo geométrico\, de la línea recta\, que va a 
- tra nsformar necesariamente al cazador Dersu e n un a nimal dom éstico. P
- ero Ders u tiene de la s olidaridad una idea completamente distinta: propo
- rcionar pistas útiles para aquél (hombre o animal) que vendrá después 
- de él. Justo después de él\, en el plano siguiente. Y a este hombre o a
- nimal no hay ninguna necesidad de verlo para ayudarlo” (Serge Daney). Se
- gunda proyección día 24.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 10/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DESMOVILIZACIÓN Details 11\, 12\, 13
-DTSTART;VALUE=DATE-TIME:20100418T183000
-DTEND;VALUE=DATE-TIME:20100418T195200
-UID:1004183018_2_dore
-DESCRIPTION:Sala 2 - DESMOVILIZACIÓN Details 11\, 12\, 13 (Avi Mograbi\, 
- 2009). Israel. 12’. Reasons for War (Lia Lapithi Shuluroglou\, 2008). Ch
- ipre. 3’. When I Leav e These La ndings\, Film E2 -1B (Jonathan Cummins\
- , 2009). Irlanda. 5’. Fara Sabina (Avelino Sala\, 2010). España / Itali
- a. 4’. Cinematograful rosu (Aurelia Mihai\, 2009). Rumania / Alemania. 7
- ’. När s olen går ner är den alldeles röd\, sen förs vin (Li na Sel
- ander\, 2008). Suecia. 9’. Herramientas de c onstrucción nacional ( Ram
- ón Mateos\, 20 09). España. 2 ’. Les Oi seaux d’Arabie (David Yon\, 
- 2009). Francia. 40’. VOSE/*. Total programa: 82’\n\n\nFuente: http://w
- ww.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe
- /cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Ma n in the Mo on
-DTSTART;VALUE=DATE-TIME:20100418T201000
-DTEND;VALUE=DATE-TIME:20100418T214900
-UID:1004181020_1_dore
-DESCRIPTION:Sala 1 - The Ma n in the Mo on (Verano en L ouisiana\, Rob ert
-  Mulligan\, 1991). In t.: Sam Waterston\,\nTess Harper\, Reese Witherspoon
- . EE UU. VOSF/E*. 99'\n“Hay dolor traumático\, despertar sexual y v iol
- encia doméstica en este rela to\, pero Mulligan lo filma con tacto\, desd
- e una distancia respetuosa. Su punto de vi sta s obre l os ac ontecimiento
- s\, tran smitido en cad a detalle del t rabajo de cám ara\, del dec orado
-  y de l as interpretacione s\, es reflexi vamente com pasivo” (Adrian Ma
- rtin). Segunda proyección día 22.\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CARTA BLANCA A WERNER SCHROETER Winter Soldier [Vietnam Veterans A
- gainst the War
-DTSTART;VALUE=DATE-TIME:20100418T203000
-DTEND;VALUE=DATE-TIME:20100418T220600
-UID:1004183020_2_dore
-DESCRIPTION:Sala 2 - CARTA BLANCA A WERNER SCHROETER Winter Soldier [Vietn
- am Veterans Against the War (VVAW)\, 1972]. Documental. EE UU. VOSE*. 96
- ’\n“Me gustaría habla r\, en re presentación de todos aq uellos vete
- ranos\, y decir que hace algunos meses en Detroit\, hu bo una i nvestigaci
- ón e n l a que más de 15 0 h onorablemente licenciados y al gunos al tam
- ente condecorados veteranos declararon los crímenes cometidos en el s ude
- ste de Asia\, no incidentes aislados sino crímenes cometidos en el día a
-  día con el pleno consentimiento de los oficiales en todos los niveles de
-  mando… Contaron c ómo\, e n ocasiones\, ha bían pe rsonalmente viol a
- do\, c ortado orejas\, c ortado cabezas\, a dherido cables de teléfo nos 
- po rtátiles a genitales humanos y au mentado la potencia eléctrica\, saj
-  ado miembros\, estallado cue rpos en m il pedazos\, disparado al azar c o
- ntra civiles\, arrasado aldeas a l estilo de Ge ngis Khan\, tiroteado al g
- anado y a los perros por diversión\, envenenado los depósitos de comida\
- , y en general devastado el campo de Vietnam del Sur\, a demás de l os es
- tragos habituales de l a guerra y el habitual y muy particular estrago cau
- sado por el bombardeo del país. Llamamos a esta investigaci ón The Winte
- r Soldier Investigation. El término ‘Winter Soldier’ es un juego de p
- alabras que Thomas Paine h izo en 1776\, cuando habló de la Su nshine Pat
- riot y de los soldados que desertaron en el valle Forge porque la marcha e
- ra dura” (John Kerry).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
- /PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peep Show
-DTSTART;VALUE=DATE-TIME:20100418T220000
-DTEND;VALUE=DATE-TIME:20100418T235000
-UID:1004180022_1_dore
-DESCRIPTION:Sala 1 - Peep Show (Atom Egoy an\, 19 81). I nt.: J ohn B all\
- , C laire Let emendia. 7’ . V OSE*. Exotica (Exótica\, Atom Egoy an\, 1
-  993). I nt.: B ruce Green wood\, M ia Ki rschner\, D on M cKellar. VO SE.
-  103'. Canadá. Total programa: 110’\n\n\nFuente: http://www.mecd.gob.es
- /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
- gramacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Animales de c ompañía
-DTSTART;VALUE=DATE-TIME:20100420T173000
-DTEND;VALUE=DATE-TIME:20100420T190400
-UID:1004203017_1_dore
-DESCRIPTION:Sala 1 - Animales de c ompañía (Nicolás Muñoz\, 2008). Int
- .: Miguel Rellán\, Mireia Ro s\, María Botto.\n94'\nRafa alcanza la nada
-  desdeñable edad de 65 años. A la obligada cena de cumpleaños acudirá 
- la familia al completo –y aledaños–\, un evento en el que las sensibi
- lidades estarán constantemente a flor de piel.\n\n\nFuente: http://www.me
- cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
- -dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Notes on an american fil m Direct or at work: Mar tin Scorsese
-DTSTART;VALUE=DATE-TIME:20100420T193000
-DTEND;VALUE=DATE-TIME:20100420T205000
-UID:1004203019_1_dore
-DESCRIPTION:Sala 1 - Notes on an american fil m Direct or at work: Mar tin
-  Scorsese (Jonas Mek as\, 20 07). Documental. EE UU. VOSE*. 80'\nScorsese\
- , cine sta eficaz y cinéfilo sagaz\, invitó a Mekas \, el papa del under
- ground\, al roda je de The Departed (2006) p ara un a suerte d e making of
-  –un making of\, ¿consiste en m ostrar a un cineast a trabajando? En la
-  era de las té cnicas visuales-de grabación-a-disposición-de-todo-el-mu
- ndo\, Mekas sigue siendo Mekas\, un gran cineasta que sa be celebrar la vi
- da y la amistad\, abandonando no obstante para la ocasión su estilo sinco
- pado y su voz en off nostálgica.\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FICCIÓN VS. DOCUMENTAL Søen i spejlet
-DTSTART;VALUE=DATE-TIME:20100420T213000
-DTEND;VALUE=DATE-TIME:20100420T232300
-UID:1004203021_2_dore
-DESCRIPTION:Sala 2 - FICCIÓN VS. DOCUMENTAL Søen i spejlet (Johanna Donk
- e\, 2009). Alemania / Dinamarca. 20’. Over The Bones (Charlotte Ginsborg
- \, 2008). Reino Un ido. 30’. Traumberuf Re alitaet (T obias Y ves Z inte
- l\, Sebastian Webe r\, 2 009). Alemania. 28’. Madame Butterfly (Tsai Min
- g-liang\, 2008). Taiwan. 35’. VOSE/*. Total programa: 113’\n\n\nFuente
- : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
- cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Felicia’s Journey
-DTSTART;VALUE=DATE-TIME:20100420T220000
-DTEND;VALUE=DATE-TIME:20100420T235200
-UID:1004200022_1_dore
-DESCRIPTION:Sala 1 - Felicia’s Journey (El viaje de Felicia\, Atom Egoya
- n\, 1997). Int.: Bob Hoskins\, Elaine Cassidy\,\nArsinée Khanjian. Canad
- á. VOSE. 112'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
- ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDor
- e76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nada en la nevera
-DTSTART;VALUE=DATE-TIME:20100421T173000
-DTEND;VALUE=DATE-TIME:20100421T190000
-UID:1004213017_1_dore
-DESCRIPTION:Sala 1 - Nada en la nevera (Álvaro Fernández Armero\, 1998).
-  Int.: María Esteve\, Coque Malla\, Roberto\nÁlvarez. 90'\nCarlota es un
- a conductora de ambulancias de Madrid. Hay una s ola cosa por la que c rea
-  que m erece la pena vivir: la sensación de estar enamorada.\n\n\nFuente:
-  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
- ine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El contenido de esta sesión se dará a c onocer en las páginas w
- eb de los Rencontres y Filmoteca Española y en el tablón de anuncios del
-  cine Doré.
-DTSTART;VALUE=DATE-TIME:20100421T193000
-DTEND;VALUE=DATE-TIME:20100421T210000
-UID:1004213019_1_dore
-DESCRIPTION:Sala 1 - El contenido de esta sesión se dará a c onocer en l
- as páginas web de los Rencontres y Filmoteca Española y en el tablón de
-  anuncios del cine Doré.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
- /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/201
- 0/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kiss Me Goodbye
-DTSTART;VALUE=DATE-TIME:20100421T200000
-DTEND;VALUE=DATE-TIME:20100421T214100
-UID:1004210020_2_dore
-DESCRIPTION:Sala 2 - Kiss Me Goodbye (Bésame y esfúmate\, Robert Mulliga
- n\, 1982). Int.: Sally Field\, James Caan\, Jeff Bridges. EE UU. VOSSueco 
- y Finés /E*. 101'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
- cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Progr
- aDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SESION ESPECIAL: ANNE-MARIE MIEVILLE Y JEAN-LUC GODARD
-DTSTART;VALUE=DATE-TIME:20100421T220000
-DTEND;VALUE=DATE-TIME:20100421T232600
-UID:1004210022_1_dore
-DESCRIPTION:Sala 1 - SESION ESPECIAL: ANNE-MARIE MIEVILLE Y JEAN-LUC GODAR
- D\nJe vous salue\, Sarajevo (Jean-Luc Godard\, 1993). Suiza. 2’. The Old
-  Place (Jean-Luc Godard\, AnneMarie Miéville\, 1999 ). Suiza. 47’. De l
- ’Orig ine du XXIe siècle (Jean-Luc Go dard\, 20 00). Sui za / Francia. 
- 16’. Liberté et Patrie (Jea n-Luc G odard\, Anne-Marie M iéville\, 2 0
- 00). Su iza. 21 ’. VOSE/*. Total programa: 86’\nOh\, tiempo universal 
- en el que todo nos pertenecía\, cuando todo nos fue devuelto. “Cuando h
- ablo de un lugar es porque ha desaparecido. Cuando hablo del tiempo\, es p
- orque todavía no es” (Jean-Luc Godard).\n\n\nFuente: http://www.mecd.go
- b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
- /programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yojimbo
-DTSTART;VALUE=DATE-TIME:20100422T173000
-DTEND;VALUE=DATE-TIME:20100422T192300
-UID:1004223017_1_dore
-DESCRIPTION:Sala 1 - Yojimbo (El mercenario\, Akira Kurosawa\, 1961). Int.
- : Toshiro Mifune\, Eijiro Tono\, Kamatari Fujiwara. Japón. VOSE. 113'\n
- “Yojimbo es una pal iza a dministrada al m undo usa ndo su s propias arm
-  as. Desi nterés\, eg oísmo\, desconfianza –éstas so n arm as usa das
-  por e l mal mundo. De ac uerdo. Ahora Kurosawa va a c rear u n héroe e n
-  el que justam ente estas tres c aracterísticas poc o at ractivas son ext
- raordinarias. Y va a mostrárnoslo” (Donald Ritchie). Segunda proyecció
- n día 30.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
- ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.
- pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Portrait of Arshile
-DTSTART;VALUE=DATE-TIME:20100422T194500
-DTEND;VALUE=DATE-TIME:20100422T214400
-UID:1004224519_1_dore
-DESCRIPTION:Sala 1 - A Portrait of Arshile (Atom Egoyan\, 1995). VOSE*. 4
- ’. Ararat (Ararat\, Atom Egoyan\, 2002). Int.: David Alpay\, Charles Azn
- avour\, Arsinée Khanjian. VOSE. 115’. Canadá / Francia. Total programa
- : 119'\nArarat: “Éste es u n film sobre un hecho histórico concreto\, 
- el genocidio armenio de 1 915-1917 a manos de lo s tur cos\, y so bre un p
- ersonaje\, el p intor Ar shile Gord y\, en cu ya t rayectoria v ital se re
- su men lo s padecimientos de t odo un pueblo\, esa profunda he rida\, ese 
- desar raigo im posible de sob rellevar e n el exilio (el pintor era evocad
- o ya en el cortometraje sobre el hijo de Egoyan y Arsinée Khanjian\, A Po
- rtrait of Arshile)” (Jaime Pena). Segunda proyección día 24.\n\n\nFuen
- te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
- a/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Una piraña en el bidé
-DTSTART;VALUE=DATE-TIME:20100422T200000
-DTEND;VALUE=DATE-TIME:20100422T213900
-UID:1004220020_2_dore
-DESCRIPTION:Sala 2 - Una piraña en el bidé (Carlos Pastor\, 1996). Int.:
-  Enrique San Fran cisco\, Tito Valverde\, Silvia Munt. 99'\nJulia\, una ni
- ña de once a ños\, quiere que sus padres separados vuelvan a ju ntarse. 
- Para ello consigue que Ignacio\, su padre y s u “canguro” África\, qu
- e viven juntos\, se pel een\, y que África conquiste a Al ejo\, el compa
- ñero de Mila\, su madre.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
- /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/201
- 0/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Ma n in the Mo on
-DTSTART;VALUE=DATE-TIME:20100422T220000
-DTEND;VALUE=DATE-TIME:20100422T233900
-UID:1004220022_1_dore
-DESCRIPTION:Sala 1 - The Ma n in the Mo on (Verano en L ouisiana\, Rob ert
-  Mulligan\, 1991). In t.: Sam Waterston\, Tess Harper\, Reese Witherspoon.
-  EE UU. VOSF/E*. 99'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
- mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Pro
- graDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shichinin no samurai
-DTSTART;VALUE=DATE-TIME:20100423T173000
-DTEND;VALUE=DATE-TIME:20100423T205100
-UID:1004233017_1_dore
-DESCRIPTION:Sala 1 - Shichinin no samurai (Los siete sam urais\, Ak ira Ku
- ro sawa\, 1954). In t.: To shiro Mifu ne\,\nTakashi Shimura\, Keiko Tsushi
- ma. Japón. VOSE. 201'\n“Queridos y o diados\, t emidos y respet ados\, 
- envi diados y desea dos\, l os samuráis de Kur osawa ense ñan mucho de l
-  o que de bió significar el bushido e n l a l arguísima época feu dal d
- e Ja pón. C iertamente\, conseguir tra nsmitir este contenido historiogr
- áfico y filosófic o por m edio de un fil m de acción\, que se desarroll
- a sin ninguna tregua ni aburrimiento a lo largo de más de tres horas\, co
- nstituye un mérito que se haya al alcanc e de m uy poc os directores de c
- in e” (Andrés E xpósito\, Carlos Giménez Soria y Jordi Puigdomènech)
- . Presentación del libro Akira Kurosawa. La mirada del samurái\, en pres
- encia de Juan Carlos Rentero\, José María Caparrós y los autores (ver n
- ota). Segunda proyección día 29.\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Citadel
-DTSTART;VALUE=DATE-TIME:20100423T200000
-DTEND;VALUE=DATE-TIME:20100423T213300
-UID:1004230020_2_dore
-DESCRIPTION:Sala 2 - Citadel (Atom Egoyan\, 2006). Documental. Canadá. VO
- SF/E*. Vídeo. 93'\n“Una de sus películas más libres y desenvueltas. S
- e trata de un vídeo de viaje en sentido estricto\, un diario editado a pa
- rtir de grabaciones domésticas que registra al acompañar a su esposa Ars
- inée Khanjian en la primera visita que ella realiza a su Lí bano natal\,
-  después de 28 años de ausencia\; es un vi aje a las raíces\, en este s
- entido\, más que puramente turístico” (A. W.).\n\n\nFuente: http://www
- .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
- ine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los santos inocentes
-DTSTART;VALUE=DATE-TIME:20100423T220000
-DTEND;VALUE=DATE-TIME:20100423T234700
-UID:1004230022_1_dore
-DESCRIPTION:Sala 1 - Los santos inocentes (Mario Camus\, 1965). Int.: Alfr
- edo Landa\, Francisco Rabal\, Terele Pávez. 107'\n“Miguel Delibes se so
-  rprendió de que quisiéramos adaptar esta novela\, porque creía que era
-  m uy difícil. Y ef ectivamente lo er a. Él mis mo n os dio l a clav e c
- u ando no s co ntó qu e h abía conocid o a Azarías\, el personaje al qu
- e inte rpretó Paco Ra bal\, e n un m anicomio. De a hí partimos para sac
-  ar la acción de su época y realizar el flashback que explica mejor la n
- arración” (Mario Camus). Entrada libre hasta completar aforo.\n\n\nFuen
- te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
- a/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Rescuers
-DTSTART;VALUE=DATE-TIME:20100424T173000
-DTEND;VALUE=DATE-TIME:20100424T184700
-UID:1004243017_1_dore
-DESCRIPTION:Sala 1 - The Rescuers (Los rescatadores\, Wolfgang Reitherman\
- , John Lounsbery y Art Stevens\, 1977). Animación. EE UU. VE. 77'\nLos ra
- tones Bernard y Bianca son miembros de la Asociación de Rescatadores\, es
- pecializados en ayudar a gente en apuros llevando a cabo peligrosas mision
- es. Un día reciben un mensaje en una botella de parte de una niña que ha
-  sido secuestrada por la malvada Mada me Medusa y\, com o es lógi co\, no
-  pierden el tiempo y salen a buscarla. Entrada libre para menores de 14 a
- ños.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
- cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dersu Uz ala
-DTSTART;VALUE=DATE-TIME:20100424T191500
-DTEND;VALUE=DATE-TIME:20100424T213600
-UID:1004241519_1_dore
-DESCRIPTION:Sala 1 - Dersu Uz ala (El ca zador\, Akira Kuro sawa\, 1975). 
- Int.: Mak sim M unzuk\, Yuri Solomin\, Svetlana Danilchenko. Japón. VOSE.
-  141'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
- cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Howard in Particula r
-DTSTART;VALUE=DATE-TIME:20100424T200000
-DTEND;VALUE=DATE-TIME:20100424T212200
-UID:1004240020_2_dore
-DESCRIPTION:Sala 2 - Howard in Particula r (Atom Egoyan\, 1979). Canadá. 
- 14’. VOSE*. America\, America (Atom\nEgoyan\, 19 97). Canadá. 10’ . K
- rapp's Last T ape (Atom Egoyan\, 2 000). Ada ptación para TV del monólog
- o de Samuel Beckett. Irlanda. 58’. VOSE*. Total programa: 82’\n\n\nFue
- nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
- ra/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Portrait of Arshile
-DTSTART;VALUE=DATE-TIME:20100424T220000
-DTEND;VALUE=DATE-TIME:20100424T235900
-UID:1004240022_1_dore
-DESCRIPTION:Sala 1 - A Portrait of Arshile (Atom Egoyan\, 1995). VOSE*. 4
- ’. Ararat (Ararat\, Atom Egoyan\, 2002).\nInt.: David Alpay\, Charles Az
- navour\, Arsinée Khanjian. VOSE. 115’. Canadá / Francia. Total program
- a: 119'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
- mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kakushi-toride no san-akunin
-DTSTART;VALUE=DATE-TIME:20100425T173000
-DTEND;VALUE=DATE-TIME:20100425T193600
-UID:1004253017_1_dore
-DESCRIPTION:Sala 1 - Kakushi-toride no san-akunin (La fortaleza escondida\
- , Akira Kurosawa\, 1958). Int.: Toshiro\nMifune\, Misa Uehara\, Minoru Chi
- aki. Japón. VOSE. 126'\n“Un c uento d e hadas visto com o un m usical 
- –hay a rias\, n úmeros de bai le de supe rproducción\, pantomimas. Tem
- áticamente\, es de nuevo una crítica a las premisas teatro kabuki\, pero
-  esta vez –porque se trata\, después de todo\, de un cuento de hadas\, 
- de un romance– todo acaba bien\, con los semidioses de vuelta a su lugar
-  y los granjeros reñidos recibiendo como recompensa una única pieza de o
- ro\, algo por lo que no pueden pelearse sencillamente porque no pueden div
- idirla” (Donald Ritchie).\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gross Misconduct: The Life of Bri an Spencer
-DTSTART;VALUE=DATE-TIME:20100425T190000
-DTEND;VALUE=DATE-TIME:20100425T210000
-UID:1004250019_2_dore
-DESCRIPTION:Sala 2 - Gross Misconduct: The Life of Bri an Spencer (Atom Eg
- oyan\, 1998). D ocumental. C anadá. Vídeo. VOSE*. 120'\n“Criado e n u 
- na casa desol ada ba jo una c umbre ne vada\, el juga dor d e hoc key B ri
- an Spe ncer es un personaje m ás b ruto que l os ha bituales de Eg oyan y
-  s us p reocupaciones so n m ucho más pri marias: l a violencia\, la co m
- petitividad\, el éx ito\, la supervivencia. Brian resu me su filo sofía 
- d eportiva y vital diciendo: ‘No veo por qué tengo que patinar esquivan
- do al contrario cuando puedo patinar por encima suyo’” (A. W.).\n\n\nF
- uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
- tura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Nova Cançó
-DTSTART;VALUE=DATE-TIME:20100425T200000
-DTEND;VALUE=DATE-TIME:20100425T214000
-UID:1004250020_1_dore
-DESCRIPTION:Sala 1 - La Nova Cançó (Francesc Bellmunt\, 1976). Documenta
- l. VOSE. 100'\nTestimonio vivo y directo de los años de la Nova Cançó c
- atalana a través de recitales y conciertos como los muy populares de Ll u
- ís Llach y Raimon en el Palau d'Esports de B arcelona. Y t ambién el rie
- sgo\, la experimentación\, quasevol nit pot sortir el sol: Ovidi Montllor
- \, Pau Riba\, Jaume Sisa. Segunda proyección día 27.\n\n\nFuente: http:/
- /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
- fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Konna yume wo mita
-DTSTART;VALUE=DATE-TIME:20100425T220000
-DTEND;VALUE=DATE-TIME:20100426T000000
-UID:1004250022_1_dore
-DESCRIPTION:Sala 1 - Konna yume wo mita (Los sueños de A kira K urosawa\,
-  Akira Ku rosawa\, 19 90). In t.: Akira Terao\, Mitsuko Baisho\, Toshie Ne
- gishi. Japón. VOSE. 120'\n“El verda dero pesimismo es no m irar\, no ha
- blar. L os japoneses n o q uieren ha blar del át omo. Hay que mirar más 
- allá de la punta de nuestra nariz. Tenemos muchos problemas y debemos afr
- ontarlos. Tenemos demasiadas centrales nucleares en Japón. Vivo el peligr
- o que representan estas centrales nucleares en mi país. Si la naturaleza 
- desa parece\, la humanida d de saparecerá irrem ediablemente. Siento que 
- es e l problema más importante al que debemos enfrentarnos hoy” (Akira 
- Kurosawa). Segunda proyección día 28.\n\n\nFuente: http://www.mecd.gob.e
- s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
- ogramacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3:19
-DTSTART;VALUE=DATE-TIME:20100427T173000
-DTEND;VALUE=DATE-TIME:20100427T192000
-UID:1004273017_1_dore
-DESCRIPTION:Sala 1 - 3:19 (Dany Saadia\, 2008). Int.: Miguel Ángel Silves
- tre\, Bárbara Goenaga\, Juan Díaz. 110'\n\n\nFuente: http://www.mecd.gob
- .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
- programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Where the Truth Lies
-DTSTART;VALUE=DATE-TIME:20100427T194000
-DTEND;VALUE=DATE-TIME:20100427T212700
-UID:1004274019_1_dore
-DESCRIPTION:Sala 1 - Where the Truth Lies (Atom Egoyan\, 2005). Int.: Kevi
- n Bacon\, Colin Firth\, Alison Lohman.\nCanadá / Reino Unido. VOSE*. 107'
- \n“El relato\, inspirado en un best-seller de R upert Holmes\, cuenta la
-  historia de u na pareja de c ómicos en cuya ha bitación de hotel apa re
- ce el cadáve r de una chica desnuda. Es como si esa c rónica ne gra que 
- Kenneth Anger d ibujó en su m emorable Hollywood Babilonia resucitara en 
- l os años ci ncuenta\, centrándose es ta vez en dos hipotéticos s osias
-  de la pa reja fo rmada po r Dea n M artin y Jerry Le wis” (Àngel Quint
- ana). Segunda proyección día 29.\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:¿De qué se ríen las mujeres?
-DTSTART;VALUE=DATE-TIME:20100427T200000
-DTEND;VALUE=DATE-TIME:20100427T215600
-UID:1004270020_2_dore
-DESCRIPTION:Sala 2 - ¿De qué se ríen las mujeres? (Joaquín Oristrell\,
-  1996). Int.: Veronica Forqué\, Adriana Ozores\, Candela Peña. 116'\nLuc
- i\, Graci y Mari son hermanas y forman un trío cómico. A pesar de la tra
- gedia provocada por la muerte en accide nte del marido de Luci\, el trí o
-  s e va a Be nidorm para actuar en una sala durante el m es de agosto.\n\n
- \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
- cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Nova Cançó
-DTSTART;VALUE=DATE-TIME:20100427T220000
-DTEND;VALUE=DATE-TIME:20100427T234000
-UID:1004270022_1_dore
-DESCRIPTION:Sala 1 - La Nova Cançó (Francesc Bellmunt\, 1976). Documenta
- l. VOSE. 100'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
- ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore
- 76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Konna yume wo mita
-DTSTART;VALUE=DATE-TIME:20100428T173000
-DTEND;VALUE=DATE-TIME:20100428T193000
-UID:1004283017_1_dore
-DESCRIPTION:Sala 1 - Konna yume wo mita (Los sueños de A kira K urosawa\,
-  Akira Ku rosawa\, 19 90). In t.: Akira\nTerao\, Mitsuko Baisho\, Toshie N
- egishi. Japón. VOSE. 120'\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 10/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adoration
-DTSTART;VALUE=DATE-TIME:20100428T195000
-DTEND;VALUE=DATE-TIME:20100428T213000
-UID:1004285019_1_dore
-DESCRIPTION:Sala 1 - Adoration (Atom Egoyan\, 20 08). I nt.: Ar sinee Khan
- jian\, Scott Spee dman\, Rac hel Blancha rd.\nCanadá. VOSE*. 100'\n“Me 
- i nteresa m ucho cóm o nos com unicamos los seres hum anos y tam bién c
- óm o la t ecnología nos permite acceder a los otros y nos ofrece medios 
- de representarnos a nosotros mismos. (…) Anteriormente\, la emisión int
- ernacional de imágenes era un dominio meticulosamente controlado y reduci
- do a una red de corporaciones pri vadas\, y ta mbién públicas\; ahora cu
- al quiera pue de retransmitir sus pe nsamientos” (Atom Egoyan). Segunda 
- proyección día 30.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
- mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Pro
- graDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los energéticos
-DTSTART;VALUE=DATE-TIME:20100428T200000
-DTEND;VALUE=DATE-TIME:20100428T212800
-UID:1004280020_2_dore
-DESCRIPTION:Sala 2 - Los energéticos (Mariano Ozores\, 1979). Int.: Flori
- nda Chico\, Andrés Pajares\, Fernando Esteso. 88'\nDos rústicos hombres 
- castellanos se en teran un día de que en sus terre nos va a ser ins talad
- a una central nuclear. Temen por sus vidas y las de sus cabras. Acuden al 
- alcalde del pueblo\, pero no consiguen nada.\n\n\nFuente: http://www.mecd.
- gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
- re/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kumonosu-jo
-DTSTART;VALUE=DATE-TIME:20100428T220000
-DTEND;VALUE=DATE-TIME:20100428T234800
-UID:1004280022_1_dore
-DESCRIPTION:Sala 1 - Kumonosu-jo (Trono de sangre\, Akira Kurosawa\, 1957)
- . Int.: Toshiro Mifune\, Isuzu Yamada\, Minoru Chiaki. Japón. VOSE. 108'\
- n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
- as-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Where the Truth Lies
-DTSTART;VALUE=DATE-TIME:20100429T173000
-DTEND;VALUE=DATE-TIME:20100429T191700
-UID:1004293017_1_dore
-DESCRIPTION:Sala 1 - Where the Truth Lies (Atom Egoyan\, 2005). Int.: Kevi
- n Bacon\, Colin Firth\, Alison Lohman.\nCanadá / Reino Unido. VOSE*. 107'
- \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
- eas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shichinin no samurai
-DTSTART;VALUE=DATE-TIME:20100429T194000
-DTEND;VALUE=DATE-TIME:20100429T230100
-UID:1004294019_1_dore
-DESCRIPTION:Sala 1 - Shichinin no samurai (Los siete sam urais\, Ak ira Ku
- ro sawa\, 1954). In t.: To shiro Mifu ne\,\nTakashi Shimura\, Keiko Tsushi
- ma. Japón. VOSE. 201'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
  s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
  rograDore76.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marta y alrededores
-DTSTART;VALUE=DATE-TIME:20100429T200000
-DTEND;VALUE=DATE-TIME:20100429T214400
-UID:1004290020_2_dore
-DESCRIPTION:Sala 2 - Marta y alrededores (Nacho Pérez de la Paz\, 1999). 
- Int.: Marta Belaustegui\, Tristán Ulloa\, Lola\nDueñas. 104'\nEs la hist
- oria de un grupo de amigos. Todos tienen alrededor de los treinta años. L
- os temas de si empre comienzan a verse de m anera di ferente. También hay
-  preocupaciones nue vas. Pa ra al gunos quizá signifique acercarse al tem
- ido borde del final de la juventud.\n\n\nFuente: http://www.mecd.gob.es/cu
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100403T193000
+DTEND;VALUE=DATE-TIME:20100403T210300
+UID:1004033019_1_dore
+DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20100403T200000
+DTEND;VALUE=DATE-TIME:20100403T213000
+UID:1004030020_2_dore
+DESCRIPTION:Sala 2 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100403T220000
+DTEND;VALUE=DATE-TIME:20100404T000200
+UID:1004030022_1_dore
+DESCRIPTION:Sala 1 - S S S \n S S S S\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100404T173000
+DTEND;VALUE=DATE-TIME:20100404T184500
+UID:1004043017_1_dore
+DESCRIPTION:Sala 1 - S S \nS S\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100404T193000
+DTEND;VALUE=DATE-TIME:20100404T211300
+UID:1004043019_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S S
+DTSTART;VALUE=DATE-TIME:20100404T200000
+DTEND;VALUE=DATE-TIME:20100404T212000
+UID:1004040020_2_dore
+DESCRIPTION:Sala 2 - S S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cu
  ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
  macion/2010/PrograDore76.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:¿Dónde queréis vivir esta noche ?
-DTSTART;VALUE=DATE-TIME:20100429T220000
-DTEND;VALUE=DATE-TIME:20100429T230100
-UID:1004290022_2_dore
-DESCRIPTION:Sala 2 - ¿Dónde queréis vivir esta noche ? (Daniel Diosdado
- \, 2007). Vídeo. 10'. Puentes (Paula García Lekuona\, 2009 ). Vídeo. 10
- ' . Marta (Alfons o Llácer\, 2009). Vídeo. 27'. ¿Iguales? (Javier de la
-  To rre\, 2008). 14’. Total programa: 61'\n\n\nFuente: http://www.mecd.g
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100404T220000
+DTEND;VALUE=DATE-TIME:20100404T232800
+UID:1004040022_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100406T173000
+DTEND;VALUE=DATE-TIME:20100406T185800
+UID:1004063017_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100406T193000
+DTEND;VALUE=DATE-TIME:20100406T220400
+UID:1004063019_1_dore
+DESCRIPTION:Sala 1 - S S \n S \n S S\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20100406T200000
+DTEND;VALUE=DATE-TIME:20100406T214500
+UID:1004060020_2_dore
+DESCRIPTION:Sala 2 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100406T220000
+DTEND;VALUE=DATE-TIME:20100406T233300
+UID:1004060022_2_dore
+DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100407T173000
+DTEND;VALUE=DATE-TIME:20100407T193200
+UID:1004073017_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100407T195000
+DTEND;VALUE=DATE-TIME:20100407T213000
+UID:1004075019_1_dore
+DESCRIPTION:Sala 1 - S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100407T200000
+DTEND;VALUE=DATE-TIME:20100407T211300
+UID:1004070020_2_dore
+DESCRIPTION:Sala 2 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20100407T220000
+DTEND;VALUE=DATE-TIME:20100407T233300
+UID:1004070022_1_dore
+DESCRIPTION:Sala 1 - S S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100408T173000
+DTEND;VALUE=DATE-TIME:20100408T191500
+UID:1004083017_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
+ rograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100408T193500
+DTEND;VALUE=DATE-TIME:20100408T211500
+UID:1004083519_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20100408T200000
+DTEND;VALUE=DATE-TIME:20100408T212200
+UID:1004080020_2_dore
+DESCRIPTION:Sala 2 - S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100408T220000
+DTEND;VALUE=DATE-TIME:20100408T234200
+UID:1004080022_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100409T173000
+DTEND;VALUE=DATE-TIME:20100409T190800
+UID:1004093017_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100409T193000
+DTEND;VALUE=DATE-TIME:20100409T212900
+UID:1004093019_1_dore
+DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100409T200000
+DTEND;VALUE=DATE-TIME:20100409T210000
+UID:1004090020_2_dore
+DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20100409T220000
+DTEND;VALUE=DATE-TIME:20100409T233700
+UID:1004090022_1_dore
+DESCRIPTION:Sala 1 - S S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100410T173000
+DTEND;VALUE=DATE-TIME:20100410T185400
+UID:1004103017_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
+ rograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100410T193000
+DTEND;VALUE=DATE-TIME:20100410T210400
+UID:1004103019_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20100410T200000
+DTEND;VALUE=DATE-TIME:20100410T213300
+UID:1004100020_2_dore
+DESCRIPTION:Sala 2 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100410T220000
+DTEND;VALUE=DATE-TIME:20100410T234000
+UID:1004100022_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100401T173000
+DTEND;VALUE=DATE-TIME:20100401T192000
+UID:1004013017_1_dore
+DESCRIPTION:Sala 1 - S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100401T194000
+DTEND;VALUE=DATE-TIME:20100401T212200
+UID:1004014019_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100401T213500
+DTEND;VALUE=DATE-TIME:20100401T224800
+UID:1004013521_2_dore
+DESCRIPTION:Sala 2 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100401T220000
+DTEND;VALUE=DATE-TIME:20100401T234000
+UID:1004010022_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100413T173000
+DTEND;VALUE=DATE-TIME:20100413T190100
+UID:1004133017_1_dore
+DESCRIPTION:Sala 1 - S S \n \n S\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100413T192000
+DTEND;VALUE=DATE-TIME:20100413T214300
+UID:1004132019_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20100413T200000
+DTEND;VALUE=DATE-TIME:20100413T213700
+UID:1004130020_2_dore
+DESCRIPTION:Sala 2 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100413T220500
+DTEND;VALUE=DATE-TIME:20100414T000400
+UID:1004130522_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100414T173000
+DTEND;VALUE=DATE-TIME:20100414T192000
+UID:1004143017_1_dore
+DESCRIPTION:Sala 1 - S S S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100414T194000
+DTEND;VALUE=DATE-TIME:20100414T223900
+UID:1004144019_1_dore
+DESCRIPTION:Sala 1 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S S S S
+DTSTART;VALUE=DATE-TIME:20100414T200000
+DTEND;VALUE=DATE-TIME:20100414T212700
+UID:1004140020_2_dore
+DESCRIPTION:Sala 2 - S S S S S S S\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100414T220000
+DTEND;VALUE=DATE-TIME:20100414T230800
+UID:1004140022_2_dore
+DESCRIPTION:Sala 2 - S S \n S S S S S\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100415T173000
+DTEND;VALUE=DATE-TIME:20100415T191500
+UID:1004153017_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
+ rograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20100415T193500
+DTEND;VALUE=DATE-TIME:20100415T212700
+UID:1004153519_1_dore
+DESCRIPTION:Sala 1 - S S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S S S S S
+DTSTART;VALUE=DATE-TIME:20100415T210000
+DTEND;VALUE=DATE-TIME:20100415T223000
+UID:1004150021_2_dore
+DESCRIPTION:Sala 2 - S S S S S S S S\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100415T220000
+DTEND;VALUE=DATE-TIME:20100416T000600
+UID:1004150022_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100416T173000
+DTEND;VALUE=DATE-TIME:20100416T191100
+UID:1004163017_1_dore
+DESCRIPTION:Sala 1 - S S \n SS \n S\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100416T193000
+DTEND;VALUE=DATE-TIME:20100416T212200
+UID:1004163019_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100416T200000
+DTEND;VALUE=DATE-TIME:20100416T211700
+UID:1004160020_2_dore
+DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100416T214500
+DTEND;VALUE=DATE-TIME:20100416T230400
+UID:1004164521_2_dore
+DESCRIPTION:Sala 2 - S S \n S S \n S\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100416T220000
+DTEND;VALUE=DATE-TIME:20100417T002300
+UID:1004160022_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100401T173000
+DTEND;VALUE=DATE-TIME:20100401T184600
+UID:1004013017_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
+ rograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100401T183000
+DTEND;VALUE=DATE-TIME:20100401T195600
+UID:1004013018_2_dore
+DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100401T191000
+DTEND;VALUE=DATE-TIME:20100401T220900
+UID:1004011019_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100401T203000
+DTEND;VALUE=DATE-TIME:20100401T215600
+UID:1004013020_2_dore
+DESCRIPTION:Sala 2 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20100401T223000
+DTEND;VALUE=DATE-TIME:20100402T002200
+UID:1004013022_1_dore
+DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100418T173000
+DTEND;VALUE=DATE-TIME:20100418T195100
+UID:1004183017_1_dore
+DESCRIPTION:Sala 1 - S S \nS S \n S S\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S S S S S
+DTSTART;VALUE=DATE-TIME:20100418T183000
+DTEND;VALUE=DATE-TIME:20100418T195200
+UID:1004183018_2_dore
+DESCRIPTION:Sala 2 - S S S S S S S S\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100418T201000
+DTEND;VALUE=DATE-TIME:20100418T214900
+UID:1004181020_1_dore
+DESCRIPTION:Sala 1 - S S \n S \n S S\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20100418T203000
+DTEND;VALUE=DATE-TIME:20100418T220600
+UID:1004183020_2_dore
+DESCRIPTION:Sala 2 - S S S S \n S S S S\n\n\nFuente: http://www.mecd.gob.e
+ s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
+ ogramacion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20100418T220000
+DTEND;VALUE=DATE-TIME:20100418T235000
+UID:1004180022_1_dore
+DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100420T173000
+DTEND;VALUE=DATE-TIME:20100420T190400
+UID:1004203017_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
+ rograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100420T193000
+DTEND;VALUE=DATE-TIME:20100420T205000
+UID:1004203019_1_dore
+DESCRIPTION:Sala 1 - S S S \nS\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S S
+DTSTART;VALUE=DATE-TIME:20100420T213000
+DTEND;VALUE=DATE-TIME:20100420T232300
+UID:1004203021_2_dore
+DESCRIPTION:Sala 2 - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100420T220000
+DTEND;VALUE=DATE-TIME:20100420T235200
+UID:1004200022_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100421T173000
+DTEND;VALUE=DATE-TIME:20100421T190000
+UID:1004213017_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
+ rograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100421T193000
+DTEND;VALUE=DATE-TIME:20100421T210000
+UID:1004213019_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
+ rograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S SS
+DTSTART;VALUE=DATE-TIME:20100421T200000
+DTEND;VALUE=DATE-TIME:20100421T214100
+UID:1004210020_2_dore
+DESCRIPTION:Sala 2 - S S SS\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20100421T220000
+DTEND;VALUE=DATE-TIME:20100421T232600
+UID:1004210022_1_dore
+DESCRIPTION:Sala 1 - S S S S \n S S S S S S\n\n\nFuente: http://www.mecd.g
  ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
  e/programacion/2010/PrograDore76.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Suspiros de España
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100422T173000
+DTEND;VALUE=DATE-TIME:20100422T192300
+UID:1004223017_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100422T194500
+DTEND;VALUE=DATE-TIME:20100422T214400
+UID:1004224519_1_dore
+DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100422T200000
+DTEND;VALUE=DATE-TIME:20100422T213900
+UID:1004220020_2_dore
+DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100422T220000
+DTEND;VALUE=DATE-TIME:20100422T233900
+UID:1004220022_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100423T173000
+DTEND;VALUE=DATE-TIME:20100423T205100
+UID:1004233017_1_dore
+DESCRIPTION:Sala 1 - S S \n S S \n S S\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100423T200000
+DTEND;VALUE=DATE-TIME:20100423T213300
+UID:1004230020_2_dore
+DESCRIPTION:Sala 2 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100423T220000
+DTEND;VALUE=DATE-TIME:20100423T234700
+UID:1004230022_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
+ rograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100424T173000
+DTEND;VALUE=DATE-TIME:20100424T184700
+UID:1004243017_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20100424T191500
+DTEND;VALUE=DATE-TIME:20100424T213600
+UID:1004241519_1_dore
+DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100424T200000
+DTEND;VALUE=DATE-TIME:20100424T212200
+UID:1004240020_2_dore
+DESCRIPTION:Sala 2 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100424T220000
+DTEND;VALUE=DATE-TIME:20100424T235900
+UID:1004240022_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100425T173000
+DTEND;VALUE=DATE-TIME:20100425T193600
+UID:1004253017_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100425T190000
+DTEND;VALUE=DATE-TIME:20100425T210000
+UID:1004250019_2_dore
+DESCRIPTION:Sala 2 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100425T200000
+DTEND;VALUE=DATE-TIME:20100425T214000
+UID:1004250020_1_dore
+DESCRIPTION:Sala 1 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100425T220000
+DTEND;VALUE=DATE-TIME:20100426T000000
+UID:1004250022_1_dore
+DESCRIPTION:Sala 1 - S S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100427T173000
+DTEND;VALUE=DATE-TIME:20100427T192000
+UID:1004273017_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100427T194000
+DTEND;VALUE=DATE-TIME:20100427T212700
+UID:1004274019_1_dore
+DESCRIPTION:Sala 1 - S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100427T200000
+DTEND;VALUE=DATE-TIME:20100427T215600
+UID:1004270020_2_dore
+DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
+ rograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100427T220000
+DTEND;VALUE=DATE-TIME:20100427T234000
+UID:1004270022_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100428T173000
+DTEND;VALUE=DATE-TIME:20100428T193000
+UID:1004283017_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100428T195000
+DTEND;VALUE=DATE-TIME:20100428T213000
+UID:1004285019_1_dore
+DESCRIPTION:Sala 1 - S S S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100428T200000
+DTEND;VALUE=DATE-TIME:20100428T212800
+UID:1004280020_2_dore
+DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
+ rograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100428T220000
+DTEND;VALUE=DATE-TIME:20100428T234800
+UID:1004280022_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100429T173000
+DTEND;VALUE=DATE-TIME:20100429T191700
+UID:1004293017_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100429T194000
+DTEND;VALUE=DATE-TIME:20100429T230100
+UID:1004294019_1_dore
+DESCRIPTION:Sala 1 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100429T200000
+DTEND;VALUE=DATE-TIME:20100429T214400
+UID:1004290020_2_dore
+DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
+ rograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100429T220000
+DTEND;VALUE=DATE-TIME:20100429T230100
+UID:1004290022_2_dore
+DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
+ rograDore76.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
 DTSTART;VALUE=DATE-TIME:20100430T173000
 DTEND;VALUE=DATE-TIME:20100430T190300
 UID:1004303017_1_dore
-DESCRIPTION:Sala 1 - Suspiros de España (y Portugal) (José Luis García 
- Sán chez\, 1994). Int.: Juan Echanove\, Juan\nLuis Galiardo\, Rosa Maria 
- Sardà. 93'\nUna cierta tendencia del cine español: “Da un pequeño pas
- eo por la historia de España\, que no es otra que la de un espermatozoide
-  buscando a ver dónde cae” (José Luis García Sánchez).\n\n\nFuente: 
- http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
- ne/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
+DESCRIPTION:Sala 1 - S S S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2010/PrograDore76.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yojimbo
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20100430T193000
 DTEND;VALUE=DATE-TIME:20100430T212300
 UID:1004303019_1_dore
-DESCRIPTION:Sala 1 - Yojimbo (El mercenario\, Akira Kurosawa\, 1961). Int.
- : Toshiro Mifune\, Eijiro Tono\, Kamatari Fujiwara. Japón. VOSE. 113'\n\n
- \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
- cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore76.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rosa la China
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20100430T200000
 DTEND;VALUE=DATE-TIME:20100430T214500
 UID:1004300020_2_dore
-DESCRIPTION:Sala 2 - Rosa la China (Valeria Sarmiento\, 2001). Int.: Juan 
- Luis Galiardo\, Luisa María Jiménez\, Daisy\nGranados. Cuba / España / 
- Francia / Portugal. VOE. 105'\nEl p aís en tero está p aralizado a la h 
- ora d e la siesta p or u n fo lletín rad iofónico qu e cu enta u na so m
- bría historia de traición\, de celos\, un crimen pasional. Es la histori
- a de Dulzura\, jefe del hampa\, y de su mujer\, Rosa la China\, reina de l
- as noches tropicales.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
- /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Pr
- ograDore76.pdf
+DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore76.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adoration
+SUMMARY:S S S S
 DTSTART;VALUE=DATE-TIME:20100430T220000
 DTEND;VALUE=DATE-TIME:20100430T234000
 UID:1004300022_1_dore
-DESCRIPTION:Sala 1 - Adoration (Atom Egoyan\, 20 08). I nt.: Ar sinee Khan
- jian\, Scott Spee dman\, Rac hel Blancha rd. Canadá. VOSE*. 100'\n\n\nFue
- nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
- ra/cine/mc/fe/cine-dore/programacion/2010/PrograDore76.pdf
+DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2010/PrograDore76.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

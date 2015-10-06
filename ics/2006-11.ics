@@ -4,1323 +4,973 @@ PRODID:-//Cine Doré//github.com santos82 doredb//ES
 X-WR-CALNAME:Cine Dore
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:La central
+SUMMARY:S
 DTSTART;VALUE=DATE-TIME:20061102T173000
 DTEND;VALUE=DATE-TIME:20061102T190100
 UID:0611023017_1_dore
-DESCRIPTION:Sala 1 - La central (Françesc Girò\, 2006). Int.: Eduardo Lu
- po\, Yasmina Córcoles\, Ana Canovas. 91'\nAforo limitado\n\n\nFuente: htt
- p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
- mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eternal Love
-DTSTART;VALUE=DATE-TIME:20061102T193000
-DTEND;VALUE=DATE-TIME:20061102T204100
-UID:0611023019_1_dore
-DESCRIPTION:Sala 1 - Eternal Love (Amor eterno\, Ernst Lubitsch\, 1929). I
- nt.: John Barrymore\, Camilla Horn\, Victor Varconi. EE UU. SRISE*. 71'\nC
- opia cedida por UCLA Film and Television Archive. Preservación financiada
-  por The Film Foundation\, The AFI Challenge Grant for Film Preservation y
-  American Movie Classics. Marcus Paltram\, cazador de un pueblo suizo\, es
- tá enamorado de Ciglia\, pero es amado a su vez por Pía\, una chica de l
- as montañas. Segunda proyección día 8.\n\n\nFuente: http://www.mecd.gob
- .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
- programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Important c'est aimer
-DTSTART;VALUE=DATE-TIME:20061102T200000
-DTEND;VALUE=DATE-TIME:20061102T214900
-UID:0611020020_2_dore
-DESCRIPTION:Sala 2 - L'Important c'est aimer (Lo importante es amar\, Andr
- zej Zulawski\, 1975). Int.: Romy Schneider\, Fabio Testi\, Klaus Kinski. F
- rancia. VOSE. 109’\nServais\, un fotógrafo\, conoce a Nadine\, una actr
- iz que rueda películas pornográficas para salir adelante. Segunda proyec
- ción día 5.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
- ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore
- 35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Love Parade
-DTSTART;VALUE=DATE-TIME:20061102T220000
-DTEND;VALUE=DATE-TIME:20061102T234800
-UID:0611020022_1_dore
-DESCRIPTION:Sala 1 - The Love Parade (El desfile del amor\, Ernst Lubitsch
- \, 1929). Int.: Maurice Chevalier\, Jeanette MacDonald\, Lupino Lane. EE U
- U. VOSE*. 108'\nCopia cedida por UCLA Film and Television Archive. “La p
- rimera película sonora de Lubitsch y la primera opereta contiene la emoci
- ón de reinventar el cine\, cuando tanto el silencio como el sonido se con
- vierten en un juguete nuevo. Un estudio sobre el juego\, una fantasia sobr
- e un país preocupado por el matrimonio de su reina\, en la que un perro l
- adra a tono durante un número musical y florece una sexualidad precódigo
-  Hays” (Jonathan Rosenbaum). Segunda proyección día 5.\n\n\nFuente: ht
- tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
- /mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La dama boba
-DTSTART;VALUE=DATE-TIME:20061103T173000
-DTEND;VALUE=DATE-TIME:20061103T190700
-UID:0611033017_1_dore
-DESCRIPTION:Sala 1 - La dama boba (Manuel Iborra\, 2006). Int.: Silvia Aba
- scal\, José Coronado\, Macarena Gómez. 97'\nAforo limitado\n\n\nFuente: 
- http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
- ne/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monte Carlo
-DTSTART;VALUE=DATE-TIME:20061103T193000
-DTEND;VALUE=DATE-TIME:20061103T205900
-UID:0611033019_1_dore
-DESCRIPTION:Sala 1 - Monte Carlo (Montecarlo\, Ernst Lubitsch\, 1930). Int
- .: Jeanette MacDonald\, Jack Buchanan\, ZaSu Pitts. EE UU. VOSE*. 89'\nCop
- ia cedida por UCLA Film and Television Archive. "Para mi\, acción y músi
- ca deberán contribuir por partes iguales a la importancia e interés de c
- ualquier película. Estás películas que yo concibo y que llamaría 'pant
- omimas musicales' deberían suscitar emociones no sólo por la música sin
- o por una música y una acción dosificadas y combinadas a conciencia" (Er
- nst Lubitsch). Segunda proyección día 5.\n\n\nFuente: http://www.mecd.go
- b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
- /programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Die bitteren Tränen der Petra von Kant
-DTSTART;VALUE=DATE-TIME:20061103T200000
-DTEND;VALUE=DATE-TIME:20061103T220400
-UID:0611030020_2_dore
-DESCRIPTION:Sala 2 - Die bitteren Tränen der Petra von Kant (Las amargas 
- lágrimas de Petra von Kant\, Rainer Werner Fassbinder\, 1972) Int.: Hanna
-  Shygulla\, Margit Carstensen\, Irm Hermann. VOSE. 124’\nUna película c
- laustrófóbica y enteramente femenina sobre la dependencia afectiva y las
-  relaciones dominado /dominador que subyacen bajo el deseo y el amor. "Si 
- al final Marlene deja a Petra no es\, creo\, porque quiera ser libre\, sin
- o porque busca otro lugar en el que ser esclava. Sería demasiado optimist
- a y utópico pensar\, como hacen muchos\, que alguien que ha obedecido tan
-  dócilmente durante treinta años pueda de repente elegir ser libre" (R.W
- . Fassbinder). Segunda proyección día 7.\n\n\nFuente: http://www.mecd.go
- b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
- /programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paramount on Parade
-DTSTART;VALUE=DATE-TIME:20061103T220000
-DTEND;VALUE=DATE-TIME:20061103T234200
-UID:0611030022_1_dore
-DESCRIPTION:Sala 1 - Paramount on Parade (Galas de la Paramount\, VVAA\, 1
- 930).EE UU. VOSE*. 102'\nCopia cedida por UCLA Film and Television Archive
- . Preservación financiada por The Films Foundation\, The David and Lucile
-  Packard Foudation y American Movie Classics. Revista musical que incluye 
- diversos números\, tres de ellos dirigidos por Lubitsch. En “Origin of 
- the Apache” un hombre y una mujer bailan en un dormitorio. “A Park in 
- Paris”: un gendarme parisino realiza tareas de vigilancia en un parque. 
- “The Rainbow Revels”: Maurice Chevalier y un coro femenino interpretan
-  a deshollinadores parisinos. Segunda proyección día 7.\n\n\nFuente: htt
- p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
- mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Desde que amanece apetece
-DTSTART;VALUE=DATE-TIME:20061104T173000
-DTEND;VALUE=DATE-TIME:20061104T192500
-UID:0611043017_1_dore
-DESCRIPTION:Sala 1 - Desde que amanece apetece (Antonio del Real\, 2006). 
- Int.: Gabino Diego\, Arturo Fernández\, Loles León. 115'\nAforo limitado
- \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
- eas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Smiling Lieutenant
-DTSTART;VALUE=DATE-TIME:20061104T194500
-DTEND;VALUE=DATE-TIME:20061104T211400
-UID:0611044519_1_dore
-DESCRIPTION:Sala 1 - The Smiling Lieutenant (El teniente seductor\, Ernst 
- Lubitsch\, 1931). Int.: Maurice Chevalier\, Miriam Hopkins\, Claudette Col
- bert. EE UU. VOSE*. 89'\nCopia cedida por UCLA Film and Television Archive
- . Entre una Viena idealizada y un reino imaginario procedente del mundo de
-  la opereta\, Lubitsch despliega un nuevo triángulo amoroso entre un teni
- ente de la guardia real\, su amante violinista y una torpe princesa. Segun
- da proyección día 7.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
  s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
  rograDore35.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Light Sleeper
-DTSTART;VALUE=DATE-TIME:20061104T200000
-DTEND;VALUE=DATE-TIME:20061104T214200
-UID:0611040020_2_dore
-DESCRIPTION:Sala 2 - Light Sleeper (Posibilidad de escape\, Paul Schrader\
- , 1991). Int.: Willen Dafoe\, Susan Sarandon\, Dana Delany. EE UU. VOSE. 1
- 02’\nTiempos de cambio se avecinan para John Le Tour\, camello de lujo. 
- Lleva muchos años trabajando para Ann\, su jefa\, entregando ”mercancí
- a”. Ya no es joven. Ha de pensar en el futuro\, pues la ”empresa va a 
- cerrar”. Un día de lluvia encuentra a Marianne\, la ex esposa junto a l
- a que vivió diez tumultuosos años de drogadicción. Segunda proyección 
- día 10.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
- -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pd
- f
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Broken Lullaby / The Man I Killed
-DTSTART;VALUE=DATE-TIME:20061104T220000
-DTEND;VALUE=DATE-TIME:20061104T231100
-UID:0611040022_1_dore
-DESCRIPTION:Sala 1 - Broken Lullaby / The Man I Killed (Remordimiento\, Er
- nst Lubitsch\, 1932). Int.: Philips Holmes\, Lionel Barrymore\, Nancy Carr
- oll. EE UU. VOSE*. 71'\nCopia cedida por UCLA Film and Television Archive.
-  "Es un argumento genuinamente melodramático el mostrar a un personaje co
- ndenado a ocupar el lugar del otro al que ha perjudicado\, a adquirir sus 
- bienes\, a asumir el conjunto de sus funciones familiares\, sociales\, y a
- morosas. (...) Lubitsch toca con virtuosismo un abanico de emociones que v
- an de lo patético a la farsa\, a veces con cambios bruscos de tono" (J.-L
- . Bourget). Segunda proyección día 8.\n\n\nFuente: http://www.mecd.gob.e
- s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
- ogramacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Síndrome de Svensson
-DTSTART;VALUE=DATE-TIME:20061105T173000
-DTEND;VALUE=DATE-TIME:20061105T190800
-UID:0611053017_1_dore
-DESCRIPTION:Sala 1 - El Síndrome de Svensson (Kepa Sojo\, 2005). Int.: Al
- ejandro Garrido\, Pepe Sancho\, Lluvia Rojo. 98'\nAforo limitado\n\n\nFuen
- te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
- a/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Love Parade
-DTSTART;VALUE=DATE-TIME:20061105T193000
-DTEND;VALUE=DATE-TIME:20061105T211800
-UID:0611053019_1_dore
-DESCRIPTION:Sala 1 - The Love Parade (El desfile del amor\, Ernst Lubitsch
- \, 1929). Int.: Maurice Chevalier\, Jeanette MacDonald\, Lupino Lane. EE U
- U. VOSE*. 108'\nCopia cedida por UCLA Film and Television Archive.\n\n\nFu
- ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
- ura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Important c'est aimer
-DTSTART;VALUE=DATE-TIME:20061105T200000
-DTEND;VALUE=DATE-TIME:20061105T214900
-UID:0611050020_2_dore
-DESCRIPTION:Sala 2 - L'Important c'est aimer (Lo importante es amar\, Andr
- zej Zulawski\, 1975). Int.: Romy Schneider\, Fabio Testi\, Klaus Kinski. F
- rancia. VOSE 109’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
- ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Prog
- raDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monte Carlo
-DTSTART;VALUE=DATE-TIME:20061105T220000
-DTEND;VALUE=DATE-TIME:20061105T232900
-UID:0611050022_1_dore
-DESCRIPTION:Sala 1 - Monte Carlo (Montecarlo\, Ernst Lubitsch\, 1930). Int
- .: Jeanette MacDonald\, Jack Buchanan\,\nZaSu Pitts. EE UU. VOSE*. 89'\nCo
- pia cedida por UCLA Film and Television Archive.\n\n\nFuente: http://www.m
- ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
- e-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Txorixak galduta egozenian / Cuando los pájaros estaban perdidos
-DTSTART;VALUE=DATE-TIME:20061107T173000
-DTEND;VALUE=DATE-TIME:20061107T185300
-UID:0611073017_1_dore
-DESCRIPTION:Sala 1 - Txorixak galduta egozenian / Cuando los pájaros esta
- ban perdidos (José María González Sánchez\, 2006). Documental. 83'\nAf
- oro limitado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
- tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore3
- 5.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Die bitteren Tränen der Petra von Kant
-DTSTART;VALUE=DATE-TIME:20061107T193000
-DTEND;VALUE=DATE-TIME:20061107T213400
-UID:0611073019_1_dore
-DESCRIPTION:Sala 1 - Die bitteren Tränen der Petra von Kant (Las amargas 
- lágrimas de Petra von Kant\, Rainer Werner Fassbinder\, 1972) Int.: Hanna
-  Shygulla\, Margit Carstensen\, Irm Hermann. VOSE. 124’\n\n\nFuente: htt
- p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
- mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paramount on Parade
-DTSTART;VALUE=DATE-TIME:20061107T200000
-DTEND;VALUE=DATE-TIME:20061107T214200
-UID:0611070020_2_dore
-DESCRIPTION:Sala 2 - Paramount on Parade (Galas de la Paramount\, VVAA\, 1
- 930).EE UU. VOSE*. 102'\nCopia cedida por UCLA Film and Television Archive
- . Preservación financiada por The Films Foundation\, The David and Lucile
-  Packard Foundation y American Movie Classics.\n\n\nFuente: http://www.mec
- d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
- dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Smiling Lieutenant
-DTSTART;VALUE=DATE-TIME:20061107T220000
-DTEND;VALUE=DATE-TIME:20061107T232900
-UID:0611070022_1_dore
-DESCRIPTION:Sala 1 - The Smiling Lieutenant (El teniente seductor\, Ernst 
- Lubitsch\, 1931). Int.: Maurice Chevalier\, Miriam Hopkins\, Claudette Col
- bert. EE UU. VOSE*. 89'\nCopia cedida por UCLA Film and Television Archive
- .\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
- reas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alatriste
-DTSTART;VALUE=DATE-TIME:20061108T173000
-DTEND;VALUE=DATE-TIME:20061108T195700
-UID:0611083017_1_dore
-DESCRIPTION:Sala 1 - Alatriste (Agustín Diaz Yanes\, 2006). Int.: Viggo M
- ortensen\, Unax Ugalde\, Ariadna Gil. 147'\nAforo limitado\n\n\nFuente: ht
- tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
- /mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Back Street
-DTSTART;VALUE=DATE-TIME:20061108T200000
-DTEND;VALUE=DATE-TIME:20061108T212900
-UID:0611080020_2_dore
-DESCRIPTION:Sala 2 - Back Street (Su vida íntima\, Robert Stevenson\, 194
- 1). Int.: Charles Boyer\, Margaret Sullavan\, Richard Carlson. EE UU. VOSE
- *. 89'\n“Back Street\, la segunda versión del novelón de Fannie Hurst 
- sobre un hombre egoísta y su sufridora amante\, está indolentemente diri
- gida por Robert Stevenson pero Sullavan está en plena forma en el papel d
- e Ray Smith\, una mujer sin suerte en la vida” (Dan Callahan).\n\n\nFuen
- te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
- a/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Broken Lullaby / The Man I Killed
-DTSTART;VALUE=DATE-TIME:20061108T202000
-DTEND;VALUE=DATE-TIME:20061108T213100
-UID:0611082020_1_dore
-DESCRIPTION:Sala 1 - Broken Lullaby / The Man I Killed (Remordimiento\, Er
- nst Lubitsch\, 1932). Int.: Philips Holmes\, Lionel Barrymore\, Nancy Carr
- oll. EE UU. VOSE*. 71'\nCopia cedida por UCLA Film and Television Archive.
- \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
- eas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eternal Love
-DTSTART;VALUE=DATE-TIME:20061108T220000
-DTEND;VALUE=DATE-TIME:20061108T231100
-UID:0611080022_1_dore
-DESCRIPTION:Sala 1 - Eternal Love (Amor eterno\, Ernst Lubitsch\, 1929). I
- nt.: John Barrymore\, Camilla Horn\, Victor Varconi. EE UU. SRISE*. 71'\nC
- opia cedida por UCLA Film and Television Archive. Preservación financiada
-  por The Film Foundation\, The AFI Challenge Grant for Film Preservation a
- nd American Movie Classics.\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Salvador Puig Antich
-DTSTART;VALUE=DATE-TIME:20061110T173000
-DTEND;VALUE=DATE-TIME:20061110T194700
-UID:0611103017_1_dore
-DESCRIPTION:Sala 1 - Salvador Puig Antich (Manuel Huerga\, 2006). Int.: Da
- niel Brühl\, Tristán Ulloa\, Leonardo Sbaraglia. 137'\nAforo limitado\n\
- n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
- -cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Light Sleeper
-DTSTART;VALUE=DATE-TIME:20061110T200000
-DTEND;VALUE=DATE-TIME:20061110T214200
-UID:0611100020_2_dore
-DESCRIPTION:Sala 2 - Light Sleeper (Posibilidad de escape\, Paul Schrader\
- , 1991). Int.: Willen Dafoe\, Susan Sarandon\, Dana Delany. EE UU. VOSE. 1
- 02’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
- cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Hour with You
-DTSTART;VALUE=DATE-TIME:20061110T201000
-DTEND;VALUE=DATE-TIME:20061110T213100
-UID:0611101020_1_dore
-DESCRIPTION:Sala 1 - One Hour with You (Una hora contigo\, Ernst Lubitsch\
- , 1932). Int.: Jeanette MacDonald\,\nMaurice Chevalier\, Genevieve Tobin. 
- EE UU. VOSE*. 81'\nCopia cedida por UCLA Film and Television Archive. Rema
- ke sonoro de The Marriage Circle. "La contraposición cómico cínica entr
- e la noción de un amor exclusivo y el veneno ineluctable de la desconfian
- za es tanto más cruel cuanto que se acompaña de una demostración: la de
-  la vulnerabilidad universal al halago" (J.-L. Bourget). Segunda proyecci
- ón día 12.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
- tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore3
- 5.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Red Shoes
-DTSTART;VALUE=DATE-TIME:20061110T220000
-DTEND;VALUE=DATE-TIME:20061111T001600
-UID:0611100022_1_dore
-DESCRIPTION:Sala 1 - The Red Shoes (Las zapatillas rojas\, Michael Powell 
- y Emeric Pressburger\, 1948). Int.: Moira Shearer\, Anton Walbrook\, Mariu
- s Goring. GB. VOSE*. 136'\n"The Red Shoes es la prueba del gusto de Powell
-  por el cine total (color\, historia\, decorados\, música\, baile…). Es
-  teatral e imaginativa\, pero la interpretación de un trasunto de Diaghil
- ev por parte de Anton Walbrook refleja la concepción de Powell del artist
- a: un profeta denostado\, segregado de un mundo indolente” (David Thomps
- on).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
- d/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La distancia
-DTSTART;VALUE=DATE-TIME:20061111T173000
-DTEND;VALUE=DATE-TIME:20061111T192100
-UID:0611113017_1_dore
-DESCRIPTION:Sala 1 - La distancia (Inaki Dorrosoro\, 2006). Int.: Miguel 
- Ángel Silvestre\, José Coronado\, Belén López. 111'\nAforo limitado\n\
- n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
- -cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trouble in Paradise
-DTSTART;VALUE=DATE-TIME:20061111T194000
-DTEND;VALUE=DATE-TIME:20061111T210200
-UID:0611114019_1_dore
-DESCRIPTION:Sala 1 - Trouble in Paradise (Un ladrón en la alcoba\, Ernst 
- Lubitsch\, 1932). Int.: Herbert Marshall\, Miriam Hopkins\, Kay Francis. E
- E UU. VOSE*. 82'\n“Entramos en un mundo de virtuosos del disfraz y la f
- ábula\, que evitan enunciar y poner a prueba sus sentimientos por miedo a
-  romper su precaria complicidad. Un mundo de artistas con el que Lubitsch 
- se siente en armonía\, en tanto que él es también un maestro de lo no d
- icho\, de la ilusión\, de los breves encuentros\, un mago que sabe que\, 
- entre todas las formas de pillaje\, el amor es la más cruel y dolorosa”
-  (Olivier Eyquem). Segunda proyección día 14.\n\n\nFuente: http://www.me
- cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
- -dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Black Widow
-DTSTART;VALUE=DATE-TIME:20061111T200000
-DTEND;VALUE=DATE-TIME:20061111T214100
-UID:0611110020_2_dore
-DESCRIPTION:Sala 2 - The Black Widow (El caso de la viuda negra\, Bob Rafe
- lson\, 1987). Int.: Debra Winger\, Theresa Russell\, Samy Frey. EE UU. VOS
- E*. 101'\n“Russell intepreta a una psicópata cuyos asesinatos atraen la
-  atención de una adicta al trabajo (Winger) del Departamento de Justicia\
- , que poco a poco se transforma a imagen de su proteica presa. La historia
-  procede de los thriller de los años 40\, pero es evidente que Rafelson q
- uería hacer algo más que un homenaje\, sólo que la película finalmente
-  da menos de lo que promete” (Geoff Andrews). Segunda proyección día 1
- 6.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
- areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Design for Living
-DTSTART;VALUE=DATE-TIME:20061111T220000
-DTEND;VALUE=DATE-TIME:20061111T232500
-UID:0611110022_1_dore
-DESCRIPTION:Sala 1 - Design for Living (Una mujer para dos\, Ernst Lubitsc
- h\, 1933). Int.: Gary Cooper\, Fredric March\, Miriam Hopkins. EE UU. VOSE
- *. 85'\n"En sus búsquedas existenciales de un design for living\, de una 
- regla de existencia\, los tres protagonistas de Lubitsch se distinguen de 
- los de Coward por ahorrarse las recriminaciones recíprocas (....) Ambos a
- utores nos presentan un tema\, unas preocupaciones\, una época idénticos
- . Sólo que ahí donde Coward idea un trío sofisticado y 'liberado'\, los
-  personajes de Lubitsch son ingenuos y libres" (J.-L. Bourget). Segunda pr
- oyección día 16.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
- cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Progr
- aDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arena en los bolsillos
-DTSTART;VALUE=DATE-TIME:20061112T173000
-DTEND;VALUE=DATE-TIME:20061112T191300
-UID:0611123017_1_dore
-DESCRIPTION:Sala 1 - Arena en los bolsillos (César Martínez\, 2006). Int
- .: Andreas Muñoz\, Nicolae Nicula\, Clara Lago. 103'\nAforo limitado\n\n\
- nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
- ultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Madrid 12.11.2003
-DTSTART;VALUE=DATE-TIME:20061112T183000
-DTEND;VALUE=DATE-TIME:20061112T194000
-UID:0611123018_2_dore
-DESCRIPTION:Sala 2 - Madrid 12.11.2003 (Zaván\, 2006). Documental. Vídeo
- . 70'\nUn documental sobre Madrid filmado sin un guión previo y en tan s
- ólo una hora. Ocho cámaras parten de un mismo punto y siguen distintos e
-  improvisados trayectos. Tienen que grabar todo lo que se van encontrando 
- hasta que la cinta o la batería se agoten. Con la presencia del director.
- \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
- eas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Der Verlorene
-DTSTART;VALUE=DATE-TIME:20061112T193000
-DTEND;VALUE=DATE-TIME:20061112T210800
-UID:0611123019_1_dore
-DESCRIPTION:Sala 1 - Der Verlorene (Peter Lorre\, 1951). Int.: Peter Lorre
- \, Karl John\, Helmut Rudolph. Alemania. VOSE*. 98'\nDer Verlorene trata d
- e los aspectos psicológicos de la reconstrucción alemana\, envueltos en 
- una historia de crímenes. Ambientada en un Hamburgo devastado por las bom
- bas\, combina el expresionismo y el verismo documental de Lang. La histori
- a trata de un científico antiguo nazi acosado por un pasado criminal. Lor
- re la consideraba su mejor trabajo (es su única película como director) 
- pero su mensaje de culpa y redención fue mal recibido en su momento.\n\n\
- nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
- ultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vargtimmen
-DTSTART;VALUE=DATE-TIME:20061112T200000
-DTEND;VALUE=DATE-TIME:20061112T212900
-UID:0611120020_2_dore
-DESCRIPTION:Sala 2 - Vargtimmen (La hora del lobo\, Ingmar Bergman\, 1967)
- . Int.: Max von Sydow\, Liv Ullmann\, Gertrud Fridh. Suecia. VOSE. 89'\n"L
- a primera de las tres películas en las que Max von Sydow encarna a un alt
- er ego de Bergman\, el artista retirado en una isla a la que acuden todos 
- sus demonios y sus monstruos imaginados\, que amenazan con poseer a su cre
- ador y disolverlo en la oscuridad” (Kathleen Murphy). Segunda proyecció
- n día 14.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
- ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.
- pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Hour with You
-DTSTART;VALUE=DATE-TIME:20061112T220000
-DTEND;VALUE=DATE-TIME:20061112T232100
-UID:0611120022_1_dore
-DESCRIPTION:Sala 1 - One Hour with You (Una hora contigo\, Ernst Lubitsch\
- , 1932). Int.: Jeanette MacDonald\, Maurice Chevalier\, Genevieve Tobin. E
- E UU. VOSE*. 81'\nCopia cedida por UCLA Film and Television Archive.\n\n\n
- Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
- ltura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cineastas en acción
-DTSTART;VALUE=DATE-TIME:20061114T173000
-DTEND;VALUE=DATE-TIME:20061114T190500
-UID:0611143017_1_dore
-DESCRIPTION:Sala 1 - Cineastas en acción (Carlos Benpar\, 2006). Document
- al. 95'\nAforo limitado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
- ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/
- PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Presentación a cargo de Stefan Droessler de la restauración de D
- as Weib des Pharao y Die Flamme. Proyección en vídeo
-DTSTART;VALUE=DATE-TIME:20061114T190000
-DTEND;VALUE=DATE-TIME:20061114T203500
-UID:0611140019_2_dore
-DESCRIPTION:Sala 2 - Presentación a cargo de Stefan Droessler de la resta
- uración de Das Weib des Pharao y Die Flamme. Proyección en vídeo (44') 
- de la restauración de Die Flamme (1923).\n\n\nFuente: http://www.mecd.gob
- .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
- programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vargtimmen
-DTSTART;VALUE=DATE-TIME:20061114T193000
-DTEND;VALUE=DATE-TIME:20061114T205900
-UID:0611143019_1_dore
-DESCRIPTION:Sala 1 - Vargtimmen (La hora del lobo\, Ingmar Bergman\, 1967)
- . Int.: Max von Sydow\, Liv Ullmann\, Gertrud Fridh. Suecia. VOSE. 89'\n\n
- \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
- cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trouble in Paradise
-DTSTART;VALUE=DATE-TIME:20061114T223000
-DTEND;VALUE=DATE-TIME:20061114T235200
-UID:0611143022_1_dore
-DESCRIPTION:Sala 1 - Trouble in Paradise (Un ladrón en la alcoba\, Ernst 
- Lubitsch\, 1932). Int.: Herbert Marshall\,\nMiriam Hopkins\, Kay Francis. 
- EE UU. VOSE*. 82'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
- d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Progra
- Dore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los ojos del engaño
-DTSTART;VALUE=DATE-TIME:20061115T173000
-DTEND;VALUE=DATE-TIME:20061115T185600
-UID:0611153017_1_dore
-DESCRIPTION:Sala 1 - Los ojos del engaño (Francisco Javier Capell\, 2004)
- . Int.: Mirta Miller\, Josep Maria Blanco\,\nXavier Serrat. 86'\nAforo lim
- itado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
- cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lola Montez
-DTSTART;VALUE=DATE-TIME:20061115T191500
-DTEND;VALUE=DATE-TIME:20061115T211100
-UID:0611151519_1_dore
-DESCRIPTION:Sala 1 - Lola Montez (Lola Montes\, Max Ophuls\, 1955). Int.: 
- Martine Carol\, Peter Ustinov\, Anton Walbrook. VOSI/E*. 116'\n“Se puede
-  admirar a Max Ophuls por haberse atrevido a hacer una película de vangua
- rdia sobre el tema más convencional y en unas condiciones de producción 
- que habitualmente imponen el peor academicismo” (André Bazin). Presenta
- ción de la restauración de la versión multilingüe de Lola Montez a car
- go de Stefan Droessler.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
- ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/
- PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:If I Had a Million
-DTSTART;VALUE=DATE-TIME:20061115T200000
-DTEND;VALUE=DATE-TIME:20061115T212300
-UID:0611150020_2_dore
-DESCRIPTION:Sala 2 - If I Had a Million (Si yo tuviera un millón\, VVAA\,
-  1933). EE UU. VOSE*. 83'\nEpisodio dirigido por Lubitsch: The Clerk. Int.
- : Charles Laughton. Un magnate decide dejar su fortuna en herencia a gente
-  que la aprecie más que sus herederos. Elige al azar del listín telefón
- ico a varias personas. Segunda proyección día 18.\n\n\nFuente: http://ww
- w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
- cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Lady from Shanghai
-DTSTART;VALUE=DATE-TIME:20061115T223000
-DTEND;VALUE=DATE-TIME:20061115T235600
-UID:0611153022_1_dore
-DESCRIPTION:Sala 1 - The Lady from Shanghai (La dama de Shanghai\, Orson W
- elles\, 1947). Int.: Rita Hayworth\, Orson Welles\, Everett Sloane. EE UU.
-  VOSE. 86'\n"Casi nadie se percata de que Lady from Shanghai es una de las
-  mejores películas de Welles. Con una trama digna de Chandler\, se convie
- rte en una fábula moral sobre el dinero. El tiroteo final en la sala de e
- spejos no sería más que una proeza técnica si el resto de la película 
- no tuviera igual resonancia. Por una vez\, Welles interpreta a un personaj
- e positivo. Estructural\, filosófica y cinematográficamente es un tour d
- e force” ( M. Goodwin y N. Wise).\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El laberinto del fauno
-DTSTART;VALUE=DATE-TIME:20061116T173000
-DTEND;VALUE=DATE-TIME:20061116T193100
-UID:0611163017_1_dore
-DESCRIPTION:Sala 1 - El laberinto del fauno (Guillermo del Toro\, 2006). I
- nt.: Sergi López\, Maribel Verdú\, Ivana Baquero. 121'\nAforo limitado\n
- \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
- s-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Design for Living
-DTSTART;VALUE=DATE-TIME:20061116T200000
-DTEND;VALUE=DATE-TIME:20061116T212500
-UID:0611160020_1_dore
-DESCRIPTION:Sala 1 - Design for Living (Una mujer para dos\, Ernst Lubitsc
- h\, 1933). Int.: Gary Cooper\, Fredric March\, Miriam Hopkins. EE UU. VOSE
- *. 85'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
- ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Black Widow
-DTSTART;VALUE=DATE-TIME:20061116T203000
-DTEND;VALUE=DATE-TIME:20061116T221100
-UID:0611163020_2_dore
-DESCRIPTION:Sala 2 - The Black Widow (El caso de la viuda negra\, Bob Rafe
- lson\, 1987). Int.: Debra Winger\,\nTheresa Russell\, Samy Frey. EE UU. VO
- SE*. 101'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
- a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.p
- df
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Merry Widow
-DTSTART;VALUE=DATE-TIME:20061116T220000
-DTEND;VALUE=DATE-TIME:20061116T233900
-UID:0611160022_1_dore
-DESCRIPTION:Sala 1 - The Merry Widow (La viuda alegre\, Ernst Lubitsch\, 1
- 934). Int.: Jeanette MacDonald\, Maurice\nChevalier\, Edward Everett Horto
- n. EE UU. VOSE. 99'\n"Lubitsch\, a partir de las convenciones anticuadas d
- e la opereta\, va más allá en la sátira de los sexos\, sin disipar el e
- ncanto nostálgico de las melodías de Léhar a las que esta Merry Widow e
- stá\, con tanto acierto\, dedicada" (J. L. Bourget). Segunda proyección 
- día 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
- -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pd
- f
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vete de mi
-DTSTART;VALUE=DATE-TIME:20061117T173000
-DTEND;VALUE=DATE-TIME:20061117T191300
-UID:0611173017_1_dore
-DESCRIPTION:Sala 1 - Vete de mi (Víctor García León\, 2006). Int.: Juan
-  Diego\, Juan Diego Botto\, Cristina Plazas. 103'\nAforo limitado\n\n\nFue
- nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
- ra/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Desire
-DTSTART;VALUE=DATE-TIME:20061117T194000
-DTEND;VALUE=DATE-TIME:20061117T211500
-UID:0611174019_1_dore
-DESCRIPTION:Sala 1 - Desire (Deseo\, Frank Borzage\, 1936). Int.: Marlene 
- Dietrich\, Gary Cooper\, John Halliday. EE UU. VOSE. 95'\nBrillante result
- ado de la colaboración entre Borzage y Lubitsch\, la película es una com
- edia ligera sobre una aventurera ladrona de joyas que se enamora de un hon
- rado ingeniero americano. Segunda proyección día 29.\n\n\nFuente: http:/
- /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
- fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Al'tovaya sonata
-DTSTART;VALUE=DATE-TIME:20061117T200000
-DTEND;VALUE=DATE-TIME:20061117T212500
-UID:0611170020_2_dore
-DESCRIPTION:Sala 2 - Al'tovaya sonata (Sonata para viola\, Alexandr Sokuro
- v\, 1981). Documental. URSS. Vídeo. VOSE*. 85'\nEsta obra en vídeo explo
- ra el significado del silencio artístico y traza la lucha entre Shostakov
- ich y el régimende Stalin mediante material de archivo del compositor y s
- u familia para enraizar su biografía en un contexto histórico. Segunda p
- royección día 22.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
- ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Prog
- raDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Angel
-DTSTART;VALUE=DATE-TIME:20061117T220000
-DTEND;VALUE=DATE-TIME:20061117T233000
-UID:0611170022_1_dore
-DESCRIPTION:Sala 1 - Angel (Ángel\, Ernst Lubitsch\, 1937). Int.: Marlene
-  Dietrich\, Herbert Marshall\, Melvyn Douglas. EE UU. VOSE. 90'\n"Angel\, 
- obra altamente moral\, trata no sólo del matrimonio sino también del ví
- nculo entre la razón y la locura y de la humildad necesaria ante las exig
- encias de la felicidad" (J.-L. Bourget). Segunda proyección día 19.\n\n\
- nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
- ultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Skizo
-DTSTART;VALUE=DATE-TIME:20061118T173000
-DTEND;VALUE=DATE-TIME:20061118T185100
-UID:0611183017_1_dore
-DESCRIPTION:Sala 1 - Skizo (Jesús Ponce\, 2006). Int.: Eloy Azorín\, Ós
- car Jaenada\, Bea Segura. 81'\nAforo limitado\n\n\nFuente: http://www.mecd
- .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
- ore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brosenosets Potiomkin
-DTSTART;VALUE=DATE-TIME:20061118T193000
-DTEND;VALUE=DATE-TIME:20061118T204200
-UID:0611183019_1_dore
-DESCRIPTION:Sala 1 - Brosenosets Potiomkin (El acorazado Potemkin\, Sergei
-  M. Eisenstein\, 1925). Int.: Aleksandr Antonov\, Vladimir Barsky\,Grigori
-  V. Aleksandrov. URSS. Copia sonorizada en 1976 con música de Shostakovic
- h. SRE. 72'\nEn 1905\, en Odessa\, las condiciones miserables en las que v
- iven los marineros del acorazado Potemkin provocan su revuelta contra los 
- oficiales. Se proyecta la versión sonorizada en 1976 con música de Shost
- akovich.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
- -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pd
- f
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:If I Had a Million
-DTSTART;VALUE=DATE-TIME:20061118T200000
-DTEND;VALUE=DATE-TIME:20061118T212300
-UID:0611180020_2_dore
-DESCRIPTION:Sala 2 - If I Had a Million (Si yo tuviera un millón\, VVAA\,
-  1933). EE UU. VOSE*. 83'\nEpisodio dirigido por Lubitsch: The Clerk. Int.
- : Charles Laughton.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
- ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Prog
- raDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bluebeard's Eight Wife
-DTSTART;VALUE=DATE-TIME:20061118T220000
-DTEND;VALUE=DATE-TIME:20061118T232500
-UID:0611180022_1_dore
-DESCRIPTION:Sala 1 - Bluebeard's Eight Wife (La octava mujer de Barba Azul
- \, Ernst Lubisch\, 1938). Int.: Gary Cooper\, Claudette Colbert\, Edward E
- verett Horton. EE UU. VOSE. 85'\nLa primera colaboración de Lubitsch con 
- Billy Wilder es una comedia sobre la domesticación de un mimado millonari
- o americano\, una incursión desigual del director en los terrenos poco fa
- miliares de la screwball. Segunda proyección día 28.\n\n\nFuente: http:/
- /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
- fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La máquina de bailar
-DTSTART;VALUE=DATE-TIME:20061119T173000
-DTEND;VALUE=DATE-TIME:20061119T191400
-UID:0611193017_1_dore
-DESCRIPTION:Sala 1 - La máquina de bailar (Oscar Áibar\, 2006). Int.: Sa
- ntiago Segura\, Jordi Vilches\, Bárbara Muñoz. 104'\nAforo limitado\n\n\
- nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
- ultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Angel
-DTSTART;VALUE=DATE-TIME:20061119T193000
-DTEND;VALUE=DATE-TIME:20061119T210000
-UID:0611193019_1_dore
-DESCRIPTION:Sala 1 - Angel (Ángel\, Ernst Lubitsch\, 1937). Int.: Marlene
-  Dietrich\, Herbert Marshall\, Melvyn Douglas. EE UU. VOSE. 90'\n\n\nFuent
- e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
- /cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Das Lied der Ströme / Song of the Rivers
-DTSTART;VALUE=DATE-TIME:20061119T200000
-DTEND;VALUE=DATE-TIME:20061119T214000
-UID:0611190020_2_dore
-DESCRIPTION:Sala 2 - Das Lied der Ströme / Song of the Rivers (Joris Iven
- s\, 1954). Documental. VOSE*. 100'\n“Considero que Das Lied… es una de
-  las obras artísticas más destacadas dedicadas al tema de la lucha por l
- a paz y la lucha por un trabajo del hombre creador y libre. Para la músic
- a me he esforzado en desarrollar el tema esencial: que todos los bienes so
- n obra de los trabajadores y que todas las riquezas del mundo les pertenec
- en” (Dimitri Shostakovich). Segunda proyección día 21.\n\n\nFuente: ht
- tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
- /mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ninotchka
-DTSTART;VALUE=DATE-TIME:20061119T220000
-DTEND;VALUE=DATE-TIME:20061119T235000
-UID:0611190022_1_dore
-DESCRIPTION:Sala 1 - Ninotchka (Ninotchka\, Ernst Lubitsch\, 1939). Int.: 
- Greta Garbo\, Melvyn Douglas\, Felix Bressart. EE UU. VOSE. 110'\n"Alegrí
- a y tristeza están íntimamente ligadas en ese cuento de hadas que es Nin
- otchka. La ligereza de espíritu del siglo XVIII\, encarnada por el franc
- és\, está yuxtapuesta a una melancolía distinta\, propia del alma eslav
- a de la protagonista" (J.-L. Bourget). Segunda proyección día 22.\n\n\nF
- uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
- tura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los Borgia
-DTSTART;VALUE=DATE-TIME:20061121T173000
-DTEND;VALUE=DATE-TIME:20061121T200100
-UID:0611213017_1_dore
-DESCRIPTION:Sala 1 - Los Borgia (Antonio Hernández\, 2006). Int.: Sergio 
- Peris-Mencheta\, Lluís Homar\, María Valverde. 151'\nAforo limitado\n\n\
- nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
- ultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Das Lied der Ströme / Song of the Rivers
-DTSTART;VALUE=DATE-TIME:20061121T200000
-DTEND;VALUE=DATE-TIME:20061121T214000
-UID:0611210020_2_dore
-DESCRIPTION:Sala 2 - Das Lied der Ströme / Song of the Rivers (Joris Iven
- s\, 1954). Documental. VOSE*. 100'\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Presentación de la nueva edición del libro No-Do. El tiempo y la
-  memoria. Proyección de una
-DTSTART;VALUE=DATE-TIME:20061121T202000
-DTEND;VALUE=DATE-TIME:20061121T220000
-UID:0611212020_1_dore
-DESCRIPTION:Sala 1 - Presentación de la nueva edición del libro No-Do. E
- l tiempo y la memoria. Proyección de una\nselección de noticias del No-D
- o y mesa redonda con la asistencia de Jaime Moreno Monjas (NO-DO)\, los au
- tores\, Vicente Sánchez-Biosca y Rafael Tranche\, y un historiador (por c
- onfirmar).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
- ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.
- pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Shop around the Corner
-DTSTART;VALUE=DATE-TIME:20061121T221500
-DTEND;VALUE=DATE-TIME:20061121T235200
-UID:0611211522_1_dore
-DESCRIPTION:Sala 1 - The Shop around the Corner (El bazar de las sorpresas
- \, Ernst Lubitsch\, 1940). Int.: James Stewart\, Margaret Sullavan\, Frank
-  Morgan. EE UU. VOSE. 97'\n“En el terreno de la comedia humana\, creo qu
- e nunca lo hice mejor que en El bazar de las sorpresas. La atmósfera y lo
- s personajes nunca fueron tan verdaderos como aquí” (Ernst Lubitsch\, 1
- 947). "Quizá con esta película el público descubra hoy que bastan unos 
- personajes y un par de decorados para decir mucho sobre el dinero y el des
- eo\, el amor y la dignidad" (Serge Daney).\n\n\nFuente: http://www.mecd.go
- b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
- /programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los managers
-DTSTART;VALUE=DATE-TIME:20061122T173000
-DTEND;VALUE=DATE-TIME:20061122T191300
-UID:0611223017_1_dore
-DESCRIPTION:Sala 1 - Los managers (Fernando Guillén Cuervo\, 2006). Int.:
-  Enrique Villén\, Manuel Tallafé\, Fran Perea. 103'\nAforo limitado\n\n\
- nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
- ultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ninotchka
-DTSTART;VALUE=DATE-TIME:20061122T194000
-DTEND;VALUE=DATE-TIME:20061122T213000
-UID:0611224019_1_dore
-DESCRIPTION:Sala 1 - Ninotchka (Ninotchka\, Ernst Lubitsch\, 1939). Int.: 
- Greta Garbo\, Melvyn Douglas\, Felix Bressart. EE UU. VOSE. 110'\n\n\nFuen
- te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
- a/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Al'tovaya sonata
-DTSTART;VALUE=DATE-TIME:20061122T200000
-DTEND;VALUE=DATE-TIME:20061122T212500
-UID:0611220020_2_dore
-DESCRIPTION:Sala 2 - Al'tovaya sonata (Sonata para viola\, Alexandr Sokuro
- v\, 1981). Documental. URSS. Vídeo.\nVOSE*. 85'\n\n\nFuente: http://www.m
- ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
- e-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Novyi Vavilon
-DTSTART;VALUE=DATE-TIME:20061122T220000
-DTEND;VALUE=DATE-TIME:20061122T231700
-UID:0611220022_1_dore
-DESCRIPTION:Sala 1 - Novyi Vavilon (La nueva Babilonia\, Gregori Kozintsev
-  y Leonid Trauberg\, 1929). Int.: Elena\nKuzmina\, Piotr Sobolevsky\, Davi
- d Gutman. URSS. Música (por confirmar) sincronizada a partir de una graba
- ción. MRE. 77'\n"Un gran éxito que hablaba de la Comuna de París y evoc
- aba la vida en Francia en 1870. (...) Por entonces Shostakovich estaba lig
- ado al FEKS y escribió una partitura que debía acompañar obligatoriamen
- te todas las proyecciones de la película\, normalmente\, como era habitua
- l\, al piano" (Serguei Gerassimov).\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cargo
-DTSTART;VALUE=DATE-TIME:20061123T173000
-DTEND;VALUE=DATE-TIME:20061123T185800
-UID:0611233017_1_dore
-DESCRIPTION:Sala 1 - Cargo (Clive Gordon\, 2005). Int.: Peter Mullan\, Dan
- iel Brühl\, Luis Tosar. 88'\nAforo limitado\n\n\nFuente: http://www.mecd.
- gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
- re/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:That Uncertain Feeling
-DTSTART;VALUE=DATE-TIME:20061123T193000
-DTEND;VALUE=DATE-TIME:20061123T205400
-UID:0611233019_1_dore
-DESCRIPTION:Sala 1 - That Uncertain Feeling (Lo que piensan las mujeres\, 
- Ernst Lubitsch\, 1941). Int.: Merle Oberon\, Burgess Meredith\, Melvyn Dou
- glas. EE UU. VOSE*. 84'\n"Un trabajo muy cuidado\, incluso de aspecto bril
- lante\, pero menor. (...) Una mujer elegante y bella\, insatisfecha con su
-  marido\, se ha encaprichado de un músico. (...) That Uncertain Feeling i
- nvierte\, en ciertos aspectos\, el tema de Design for Living" (J-L. Bourge
- t). Segunda proyección día 25.\n\n\nFuente: http://www.mecd.gob.es/cultu
- ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
- ion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flamenco por amor de Dios
-DTSTART;VALUE=DATE-TIME:20061123T200000
-DTEND;VALUE=DATE-TIME:20061123T221800
-UID:0611230020_2_dore
-DESCRIPTION:Sala 2 - Flamenco por amor de Dios (Marcel González Gracia\, 
- 2004). Documental. Vídeo. España. 138'\nLas preocupaciones\, el trabajo 
- y el arte de un grupo de profesionales que trabajan en la academnia de bai
- le flamenco y danza española Amor de Dios. Con la presencia del autor.\n\
- n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
- -cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Padeniye Berlina
-DTSTART;VALUE=DATE-TIME:20061123T211500
-DTEND;VALUE=DATE-TIME:20061123T235400
-UID:0611231521_1_dore
-DESCRIPTION:Sala 1 - Padeniye Berlina (La caída de Berlín\, Mijail Chair
- eli\, 1950). Int.: Mijail Gelovani\, Boris Andreyev\, M. Kovalyova. URSS. 
- Vídeo. VOSE*. 159'\nDesmesurada epopeya sobre la conquista de Berlín por
-  el Ejército Rojo y los últimos días de Hitler en su búnker\, apoyada 
- en la peripecia vital de un obrero soviético\, héroe del trabajo condeco
- rado por Stalin. Versión restaurada por Enno Patalas.\n\n\nFuente: http:/
- /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
- fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cabeza de perro
-DTSTART;VALUE=DATE-TIME:20061124T173000
-DTEND;VALUE=DATE-TIME:20061124T190300
-UID:0611243017_1_dore
-DESCRIPTION:Sala 1 - Cabeza de perro (Santiago Amodeo\, 2006). Int.: Juan 
- José Ballesta\, Adriana Ugarte\, Manuel Alexandre. 93'\nAforo limitado\n\
- n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
- -cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Be or Not To Be
-DTSTART;VALUE=DATE-TIME:20061124T193000
-DTEND;VALUE=DATE-TIME:20061124T210900
-UID:0611243019_1_dore
-DESCRIPTION:Sala 1 - To Be or Not To Be (Ser o no ser\, Ernst Lubitsch\, 1
- 942). Int.: Carole Lombard\, Jack Benny\, Robert Stack. EE UU. VOSE. 99'\n
- "Lo que satirizo en esta película es a los nazis y a su ridícula ideolog
- ía. También hago sátira de la actitud de los actores que siguen siendo 
- actores sin tener en cuenta lo peligrosa que puede ser la situación\, lo 
- que me parece ser una certera observación” (Lubitsch\, 1943) Segunda pr
- oyección día 28.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
- cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Progr
- aDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Una mujer con pañuelo
-DTSTART;VALUE=DATE-TIME:20061124T213000
-DTEND;VALUE=DATE-TIME:20061124T222100
-UID:0611243021_2_dore
-DESCRIPTION:Sala 2 - Una mujer con pañuelo (Isaías Jiménez\, 2000). 7'.
-  Una pensión de primera división (Iñigo Echávarri\, 2002). 18'. Promoc
- ión (prohibida su venta) (Luis Arribas\, 2002). 12'. Un. Una (José del R
- ío (2003). 14'. España. Total programa: 51'\n\n\nFuente: http://www.mecd
- .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
- ore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Korol Lir
-DTSTART;VALUE=DATE-TIME:20061124T220000
-DTEND;VALUE=DATE-TIME:20061125T001700
-UID:0611240022_1_dore
-DESCRIPTION:Sala 1 - Korol Lir (El rey Lear\, Gregori Kozintsev\, 1971). I
- nt.: Yuri Jarvet\, Elza Radzins\, Galina\nVolchek. URSS. VOSE. 137'\nBasad
- a en la traducción de Pasternak y con una banda sonora de Shostakovich\, 
- destaca también la interpretación de Yuri Jarvet\, que compone un Lear e
- legante y conmovedor en su lucha entre la diginidad regia y la senilidad. 
- Esta sensación de estar al borde del abismo se refleja en la impresionant
- e fotografía en blanco y negro.\n\n\nFuente: http://www.mecd.gob.es/cultu
- ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
- ion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lorca\, el mar deja de moverse
-DTSTART;VALUE=DATE-TIME:20061125T173000
-DTEND;VALUE=DATE-TIME:20061125T190000
-UID:0611253017_1_dore
-DESCRIPTION:Sala 1 - Lorca\, el mar deja de moverse (Emilio Ruiz Barrachin
- a\, 2006). Documental. 90'\nAforo limitado\n\n\nFuente: http://www.mecd.go
- b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
- /programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heaven Can Wait
-DTSTART;VALUE=DATE-TIME:20061125T193000
-DTEND;VALUE=DATE-TIME:20061125T212100
-UID:0611253019_1_dore
-DESCRIPTION:Sala 1 - Heaven Can Wait (El diablo dijo no\, Ernst Lubitsch\,
-  1943). Int.: Don Ameche\, Gene Tierney\, Charles Coburn. EE UU. VOSE. 111
- '\n“Una tierna\, meditabunda y a menudo muy divertida visión de un don 
- Juan irredento. Como mucha de la obra de Lubitsch a partir de La viuda ale
- gre\, trata tanto de la muerte como del estilo personal\, pero tocas veces
-  se ha tratado este tema con tal afecto por la condición humana (...) En 
- muchos sentidos es el testamento de Lubitsch\, pleno de gracia\, sabidurí
- a y romance” (Jonathan Rosenbaum).\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gamlet
-DTSTART;VALUE=DATE-TIME:20061125T200000
-DTEND;VALUE=DATE-TIME:20061125T222900
-UID:0611250020_2_dore
-DESCRIPTION:Sala 2 - Gamlet (Hamlet\, Grigori Kozintsev\, 1964). Int.: Ino
- ekenti Smoktunovski\, Anastasia Vertinskaia\, Vladimir Toulbeiev. URSS. VO
- SI/E*. 149'\n“Convierte el antiguo Reino de Dinamarca en algo cercano al
-  mundo real al caracterizar a Hamlet como un ser sinceramente motivado y a
- squeado por la injusticia\, el crimen y la tiranía” (Georges Sadoul). S
- egunda proyección día 28.\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:That Uncertain Feeling
-DTSTART;VALUE=DATE-TIME:20061125T220000
-DTEND;VALUE=DATE-TIME:20061125T232400
-UID:0611250022_1_dore
-DESCRIPTION:Sala 1 - That Uncertain Feeling (Lo que piensan las mujeres\, 
- Ernst Lubitsch\, 1941). Int.: Merle Oberon\, Burgess Meredith\, Melvyn Dou
- glas. EE UU. VOSE*. 84'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
- ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/
- PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El mundo alrededor
-DTSTART;VALUE=DATE-TIME:20061126T173000
-DTEND;VALUE=DATE-TIME:20061126T193600
-UID:0611263017_1_dore
-DESCRIPTION:Sala 1 - El mundo alrededor (Alejandro Calvo Sotelo\, 2006). I
- nt.: Antonio Molero\, Óscar Sánchez\nZafra\, Críspulo Cabezas. 126'\nAf
- oro limitado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
- tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore3
- 5.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Katerina Ismailova
-DTSTART;VALUE=DATE-TIME:20061126T193000
-DTEND;VALUE=DATE-TIME:20061126T212600
-UID:0611263019_2_dore
-DESCRIPTION:Sala 2 - Katerina Ismailova (Mijail Shapiro\, 1966). Int.: Gal
- ina Vishnevskaya\, A. Verdernikov\, V. Radziyevski. URSS. VOSE*. 116'\nFil
- mación supervisada por el músico de la última versión de su ópera Lad
- y Macbeth de Minsk\, basada a su vez en el relato homónico de Nikolai Les
- kov.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
- d/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Merry Widow
-DTSTART;VALUE=DATE-TIME:20061126T200000
-DTEND;VALUE=DATE-TIME:20061126T213900
-UID:0611260020_1_dore
-DESCRIPTION:Sala 1 - The Merry Widow (La viuda alegre\, Ernst Lubitsch\, 1
- 934). Int.: Jeanette MacDonald\, Maurice Chevalier\, Edward Everett Horton
- . EE UU. VOSE. 99'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
- cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Progr
- aDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cluny Brown
-DTSTART;VALUE=DATE-TIME:20061126T220000
-DTEND;VALUE=DATE-TIME:20061126T234000
-UID:0611260022_1_dore
-DESCRIPTION:Sala 1 - Cluny Brown (El pecado de Cluny Brown\, Ernst Lubitsc
- h\, 1946). Int.: Charles Boyer\, Jennifer\nJones\, Richard Haydn. EE UU. V
- OSE. 100'\n"Cluny Brown habla del placer\, pero de un placer huido o por v
- enir aún\, disponible\, pero convertido en errante y difícil de acotar. 
- Aquí vemos lo que parecía estar entre los planos de las otras películas
- : la vida que avanza azarosa y el tiempo perdido sin disfrutarlo” (Serge
-  Daney). Segunda proyección día 30.\n\n\nFuente: http://www.mecd.gob.es/
- cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
- ramacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sumas y restas
-DTSTART;VALUE=DATE-TIME:20061128T173000
-DTEND;VALUE=DATE-TIME:20061128T192000
-UID:0611283017_1_dore
-DESCRIPTION:Sala 1 - Sumas y restas (Víctor Gaviria\, 2006). Int.: Juan U
- ribe\, Fabio Restrepo\, María Isabel Gaviria. 110'\nAforo limitado\n\n\nF
- uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
- tura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bluebeard's Eight Wife
-DTSTART;VALUE=DATE-TIME:20061128T194000
-DTEND;VALUE=DATE-TIME:20061128T210500
-UID:0611284019_1_dore
-DESCRIPTION:Sala 1 - Bluebeard's Eight Wife (La octava mujer de Barba Azul
- \, Ernst Lubisch\, 1938). Int.: Gary Cooper\, Claudette Colbert\, Edward E
- verett Horton. EE UU. VOSE. 85'\n\n\nFuente: http://www.mecd.gob.es/cultur
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20061102T193000
+DTEND;VALUE=DATE-TIME:20061102T204100
+UID:0611023019_1_dore
+DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
  a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
  on/2006/PrograDore35.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gamlet
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20061102T200000
+DTEND;VALUE=DATE-TIME:20061102T214900
+UID:0611020020_2_dore
+DESCRIPTION:Sala 2 - S S S \nS S\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061102T220000
+DTEND;VALUE=DATE-TIME:20061102T234800
+UID:0611020022_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061103T173000
+DTEND;VALUE=DATE-TIME:20061103T190700
+UID:0611033017_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20061103T193000
+DTEND;VALUE=DATE-TIME:20061103T205900
+UID:0611033019_1_dore
+DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20061103T200000
+DTEND;VALUE=DATE-TIME:20061103T220400
+UID:0611030020_2_dore
+DESCRIPTION:Sala 2 - S S S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061103T220000
+DTEND;VALUE=DATE-TIME:20061103T234200
+UID:0611030022_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061104T173000
+DTEND;VALUE=DATE-TIME:20061104T192500
+UID:0611043017_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
+ rograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20061104T194500
+DTEND;VALUE=DATE-TIME:20061104T211400
+UID:0611044519_1_dore
+DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S S S
+DTSTART;VALUE=DATE-TIME:20061104T200000
+DTEND;VALUE=DATE-TIME:20061104T214200
+UID:0611040020_2_dore
+DESCRIPTION:Sala 2 - S S S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061104T220000
+DTEND;VALUE=DATE-TIME:20061104T231100
+UID:0611040022_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S S
+DTSTART;VALUE=DATE-TIME:20061105T173000
+DTEND;VALUE=DATE-TIME:20061105T190800
+UID:0611053017_1_dore
+DESCRIPTION:Sala 1 - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061105T193000
+DTEND;VALUE=DATE-TIME:20061105T211800
+UID:0611053019_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20061105T200000
+DTEND;VALUE=DATE-TIME:20061105T214900
+UID:0611050020_2_dore
+DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 06/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061105T220000
+DTEND;VALUE=DATE-TIME:20061105T232900
+UID:0611050022_1_dore
+DESCRIPTION:Sala 1 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061107T173000
+DTEND;VALUE=DATE-TIME:20061107T185300
+UID:0611073017_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20061107T193000
+DTEND;VALUE=DATE-TIME:20061107T213400
+UID:0611073019_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 06/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061107T200000
+DTEND;VALUE=DATE-TIME:20061107T214200
+UID:0611070020_2_dore
+DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20061107T220000
+DTEND;VALUE=DATE-TIME:20061107T232900
+UID:0611070022_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 06/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061108T173000
+DTEND;VALUE=DATE-TIME:20061108T195700
+UID:0611083017_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
+ rograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S S S
+DTSTART;VALUE=DATE-TIME:20061108T200000
+DTEND;VALUE=DATE-TIME:20061108T212900
+UID:0611080020_2_dore
+DESCRIPTION:Sala 2 - S S S S S S \n S S S S\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061108T202000
+DTEND;VALUE=DATE-TIME:20061108T213100
+UID:0611082020_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20061108T220000
+DTEND;VALUE=DATE-TIME:20061108T231100
+UID:0611080022_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 06/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20061110T173000
+DTEND;VALUE=DATE-TIME:20061110T194700
+UID:0611103017_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 06/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S S S
+DTSTART;VALUE=DATE-TIME:20061110T200000
+DTEND;VALUE=DATE-TIME:20061110T214200
+UID:0611100020_2_dore
+DESCRIPTION:Sala 2 - S S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061110T201000
+DTEND;VALUE=DATE-TIME:20061110T213100
+UID:0611101020_1_dore
+DESCRIPTION:Sala 1 - S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20061110T220000
+DTEND;VALUE=DATE-TIME:20061111T001600
+UID:0611100022_1_dore
+DESCRIPTION:Sala 1 - S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061111T173000
+DTEND;VALUE=DATE-TIME:20061111T192100
+UID:0611113017_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061111T194000
+DTEND;VALUE=DATE-TIME:20061111T210200
+UID:0611114019_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20061111T200000
+DTEND;VALUE=DATE-TIME:20061111T214100
+UID:0611110020_2_dore
+DESCRIPTION:Sala 2 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061111T220000
+DTEND;VALUE=DATE-TIME:20061111T232500
+UID:0611110022_1_dore
+DESCRIPTION:Sala 1 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061112T173000
+DTEND;VALUE=DATE-TIME:20061112T191300
+UID:0611123017_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
+ rograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061112T183000
+DTEND;VALUE=DATE-TIME:20061112T194000
+UID:0611123018_2_dore
+DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
+ rograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061112T193000
+DTEND;VALUE=DATE-TIME:20061112T210800
+UID:0611123019_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20061112T200000
+DTEND;VALUE=DATE-TIME:20061112T212900
+UID:0611120020_2_dore
+DESCRIPTION:Sala 2 - S S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061112T220000
+DTEND;VALUE=DATE-TIME:20061112T232100
+UID:0611120022_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061114T173000
+DTEND;VALUE=DATE-TIME:20061114T190500
+UID:0611143017_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
+ rograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061114T190000
+DTEND;VALUE=DATE-TIME:20061114T203500
+UID:0611140019_2_dore
+DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20061114T193000
+DTEND;VALUE=DATE-TIME:20061114T205900
+UID:0611143019_1_dore
+DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061114T223000
+DTEND;VALUE=DATE-TIME:20061114T235200
+UID:0611143022_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061115T173000
+DTEND;VALUE=DATE-TIME:20061115T185600
+UID:0611153017_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061115T191500
+DTEND;VALUE=DATE-TIME:20061115T211100
+UID:0611151519_1_dore
+DESCRIPTION:Sala 1 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20061115T200000
+DTEND;VALUE=DATE-TIME:20061115T212300
+UID:0611150020_2_dore
+DESCRIPTION:Sala 2 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S S
+DTSTART;VALUE=DATE-TIME:20061115T223000
+DTEND;VALUE=DATE-TIME:20061115T235600
+UID:0611153022_1_dore
+DESCRIPTION:Sala 1 - S S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061116T173000
+DTEND;VALUE=DATE-TIME:20061116T193100
+UID:0611163017_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061116T200000
+DTEND;VALUE=DATE-TIME:20061116T212500
+UID:0611160020_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061116T203000
+DTEND;VALUE=DATE-TIME:20061116T221100
+UID:0611163020_2_dore
+DESCRIPTION:Sala 2 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061116T220000
+DTEND;VALUE=DATE-TIME:20061116T233900
+UID:0611160022_1_dore
+DESCRIPTION:Sala 1 - S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061117T173000
+DTEND;VALUE=DATE-TIME:20061117T191300
+UID:0611173017_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
+ rograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061117T194000
+DTEND;VALUE=DATE-TIME:20061117T211500
+UID:0611174019_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S SS S
+DTSTART;VALUE=DATE-TIME:20061117T200000
+DTEND;VALUE=DATE-TIME:20061117T212500
+UID:0611170020_2_dore
+DESCRIPTION:Sala 2 - S S S SS S \n S S S\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061117T220000
+DTEND;VALUE=DATE-TIME:20061117T233000
+UID:0611170022_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20061118T173000
+DTEND;VALUE=DATE-TIME:20061118T185100
+UID:0611183017_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 06/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S SS S S
+DTSTART;VALUE=DATE-TIME:20061118T193000
+DTEND;VALUE=DATE-TIME:20061118T204200
+UID:0611183019_1_dore
+DESCRIPTION:Sala 1 - S S SS S S \n S S\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20061118T200000
+DTEND;VALUE=DATE-TIME:20061118T212300
+UID:0611180020_2_dore
+DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 06/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061118T220000
+DTEND;VALUE=DATE-TIME:20061118T232500
+UID:0611180022_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20061119T173000
+DTEND;VALUE=DATE-TIME:20061119T191400
+UID:0611193017_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 06/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061119T193000
+DTEND;VALUE=DATE-TIME:20061119T210000
+UID:0611193019_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20061119T200000
+DTEND;VALUE=DATE-TIME:20061119T214000
+UID:0611190020_2_dore
+DESCRIPTION:Sala 2 - S S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061119T220000
+DTEND;VALUE=DATE-TIME:20061119T235000
+UID:0611190022_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061121T173000
+DTEND;VALUE=DATE-TIME:20061121T200100
+UID:0611213017_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20061121T200000
+DTEND;VALUE=DATE-TIME:20061121T214000
+UID:0611210020_2_dore
+DESCRIPTION:Sala 2 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061121T202000
+DTEND;VALUE=DATE-TIME:20061121T220000
+UID:0611212020_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S S
+DTSTART;VALUE=DATE-TIME:20061121T221500
+DTEND;VALUE=DATE-TIME:20061121T235200
+UID:0611211522_1_dore
+DESCRIPTION:Sala 1 - S S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061122T173000
+DTEND;VALUE=DATE-TIME:20061122T191300
+UID:0611223017_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
+ rograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061122T194000
+DTEND;VALUE=DATE-TIME:20061122T213000
+UID:0611224019_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S SS
+DTSTART;VALUE=DATE-TIME:20061122T200000
+DTEND;VALUE=DATE-TIME:20061122T212500
+UID:0611220020_2_dore
+DESCRIPTION:Sala 2 - S S S SS \n S\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061122T220000
+DTEND;VALUE=DATE-TIME:20061122T231700
+UID:0611220022_1_dore
+DESCRIPTION:Sala 1 - S \n S SS \n S S S\n\n\nFuente: http://www.mecd.gob.e
+ s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
+ ogramacion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061123T173000
+DTEND;VALUE=DATE-TIME:20061123T185800
+UID:0611233017_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
+ rograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061123T193000
+DTEND;VALUE=DATE-TIME:20061123T205400
+UID:0611233019_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061123T200000
+DTEND;VALUE=DATE-TIME:20061123T221800
+UID:0611230020_2_dore
+DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
+ rograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S SS S
+DTSTART;VALUE=DATE-TIME:20061123T211500
+DTEND;VALUE=DATE-TIME:20061123T235400
+UID:0611231521_1_dore
+DESCRIPTION:Sala 1 - S SS S \n S\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061124T173000
+DTEND;VALUE=DATE-TIME:20061124T190300
+UID:0611243017_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20061124T193000
+DTEND;VALUE=DATE-TIME:20061124T210900
+UID:0611243019_1_dore
+DESCRIPTION:Sala 1 - S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061124T213000
+DTEND;VALUE=DATE-TIME:20061124T222100
+UID:0611243021_2_dore
+DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
+ rograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061124T220000
+DTEND;VALUE=DATE-TIME:20061125T001700
+UID:0611240022_1_dore
+DESCRIPTION:Sala 1 - S \n SS S \n S\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061125T173000
+DTEND;VALUE=DATE-TIME:20061125T190000
+UID:0611253017_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
+ rograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061125T193000
+DTEND;VALUE=DATE-TIME:20061125T212100
+UID:0611253019_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S SS S
+DTSTART;VALUE=DATE-TIME:20061125T200000
+DTEND;VALUE=DATE-TIME:20061125T222900
+UID:0611250020_2_dore
+DESCRIPTION:Sala 2 - S S SS S \n S S\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061125T220000
+DTEND;VALUE=DATE-TIME:20061125T232400
+UID:0611250022_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20061126T173000
+DTEND;VALUE=DATE-TIME:20061126T193600
+UID:0611263017_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 06/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S SS S
+DTSTART;VALUE=DATE-TIME:20061126T193000
+DTEND;VALUE=DATE-TIME:20061126T212600
+UID:0611263019_2_dore
+DESCRIPTION:Sala 2 - S S SS S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061126T200000
+DTEND;VALUE=DATE-TIME:20061126T213900
+UID:0611260020_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20061126T220000
+DTEND;VALUE=DATE-TIME:20061126T234000
+UID:0611260022_1_dore
+DESCRIPTION:Sala 1 - S \n S \n S S\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2006/PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061128T173000
+DTEND;VALUE=DATE-TIME:20061128T192000
+UID:0611283017_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20061128T194000
+DTEND;VALUE=DATE-TIME:20061128T210500
+UID:0611284019_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20061128T200000
 DTEND;VALUE=DATE-TIME:20061128T222900
 UID:0611280020_2_dore
-DESCRIPTION:Sala 2 - Gamlet (Hamlet\, Grigori Kozintsev\, 1964). Int.: Ino
- ekenti Smoktunovski\, Anastasia\nVertinskaia\, Vladimir Toulbeiev. URSS. V
- OSI/E*. 149'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
- tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore3
- 5.pdf
+DESCRIPTION:Sala 2 - S S \n SS S\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2006/PrograDore35.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:To Be or Not To Be
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20061128T220000
 DTEND;VALUE=DATE-TIME:20061128T233900
 UID:0611280022_1_dore
-DESCRIPTION:Sala 1 - To Be or Not To Be (Ser o no ser\, Ernst Lubitsch\, 1
- 942). Int.: Carole Lombard\, Jack Benny\,\nRobert Stack. EE UU. VOSE. 99'\
- n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
- as-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
+DESCRIPTION:Sala 1 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2006/PrograDore35.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Un minuto de silencio
+SUMMARY:S
 DTSTART;VALUE=DATE-TIME:20061129T173000
 DTEND;VALUE=DATE-TIME:20061129T190100
 UID:0611293017_1_dore
-DESCRIPTION:Sala 1 - Un minuto de silencio (Roberto Maiocco\, 2006). Int.:
-  Eduardo Blanco\, Alejandra Darín\,\nAntonio Dechent. 91'\nAforo limitado
- \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
- eas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/P
+ rograDore35.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ernst Lubitsch in Berlin
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20061129T193000
 DTEND;VALUE=DATE-TIME:20061129T212000
 UID:0611293019_1_dore
-DESCRIPTION:Sala 1 - Ernst Lubitsch in Berlin (Robert Fischer\, 2006). Doc
- umental. Vídeo. VOSE*. 110’\nLa época berlinesa de Ernst Lubitsch a tr
- avés de documentos filmados y testimonios. Su hija Nicola Lubitsch nos gu
- ía con la colaboración de historiadores del cine\, especialistas y desta
- cados directores alemanes actuales. Extractos de películas\, fotografías
-  desconocidas y entrevistas con Lubitsch\, la actriz Henny Porten y otros 
- testigos completan este retrato exhaustivo de uno de los auténticos genio
- s del cine. Con la presencia de Robert Fischer.\n\n\nFuente: http://www.me
- cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
- -dore/programacion/2006/PrograDore35.pdf
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2006/PrograDore35.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Baryshnya i khuligan
+SUMMARY:S S S S SS
 DTSTART;VALUE=DATE-TIME:20061129T200000
 DTEND;VALUE=DATE-TIME:20061129T220300
 UID:0611290020_2_dore
-DESCRIPTION:Sala 2 - Baryshnya i khuligan (La damisela y el hooligan\, Yev
- ageni Slavinski\, 1918). Int.: Vladimir Maiakovski\, Aleksandra Rebikova\,
-  Fyodor Dunayev. MRI/E*. 60'. Baryshnya i khuligan (La damisela y el hooli
- gan\, Apollinary Dudko\, 1970). Int.: Irina Kolpakova\, Aleksei Noskov\, S
- vyatoslav Kuznetsov. VOSI. 63'. URSS. Vídeo. Total programa: 123'\nEn pro
- grama doble se presentan una adaptación de Edmondo de Amicis escrita\, co
- dirigida y protagonizada por Maiakovski y una retransmisión del ballet de
- l mismo argumento coreografiado con música de Shostakovich.\n\n\nFuente: 
- http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
- ne/mc/fe/cine-dore/programacion/2006/PrograDore35.pdf
+DESCRIPTION:Sala 2 - S S S S SS \n S\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2006/PrograDore35.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Desire
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20061129T220000
 DTEND;VALUE=DATE-TIME:20061129T233500
 UID:0611290022_1_dore
-DESCRIPTION:Sala 1 - Desire (Deseo\, Frank Borzage\, 1936). Int.. Marlene 
- Dietrich\, Gary Cooper\, John Halliday. EE UU. VOSE. 95'\n\n\nFuente: http
- ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
- c/fe/cine-dore/programacion/2006/PrograDore35.pdf
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Agents secrets / Agentes secretos
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20061130T173000
 DTEND;VALUE=DATE-TIME:20061130T192400
 UID:0611303017_1_dore
-DESCRIPTION:Sala 1 - Agents secrets / Agentes secretos (Frederic Shoendoer
- ffer\, 2006). Int.: Vincent Cassel\, Monica\nBellucci\, André Dussollier.
-  114'\nAforo limitado\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
- /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/Pr
- ograDore35.pdf
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cluny Brown
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20061130T195000
 DTEND;VALUE=DATE-TIME:20061130T213000
 UID:0611305019_1_dore
-DESCRIPTION:Sala 1 - Cluny Brown (El pecado de Cluny Brown\, Ernst Lubitsc
- h\, 1946). Int.: Charles Boyer\, Jennifer Jones\, Richard Haydn. EE UU. VO
- SE. 100'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
- -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pd
- f
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006
+ /PrograDore35.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Le Violon de Rothschild
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20061130T200000
 DTEND;VALUE=DATE-TIME:20061130T214100
 UID:0611300020_2_dore
-DESCRIPTION:Sala 2 - Le Violon de Rothschild (Edgardo Cozarinsky\, 1996). 
- Int.: Sergei Makovetsky\, Dainius\nKazlauskas\, Miklós B. Székely. Franc
- ia / Suiza / Hungría. VOSE*. 101'\n1944\, Durante el asedio a Leningrado\
- , Shostakovich termina una ópera de un alumno suyo muerto en el frente. P
- ero la ópera no puede estrenarse debido a su tema y autor judío. Le Viol
- on… mezcla ficción\, material documental y la música de Shostakovich p
- ara contar la historia de la lucha de un artista contra las estructuras de
- l poder.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
- -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2006/PrograDore35.pd
- f
+DESCRIPTION:Sala 2 - S S \n S S S \n S S\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2006/PrograDore35.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eyes Wide Shut
+SUMMARY:S S S S S S
 DTSTART;VALUE=DATE-TIME:20061130T215000
 DTEND;VALUE=DATE-TIME:20061201T002900
 UID:0611305021_1_dore
-DESCRIPTION:Sala 1 - Eyes Wide Shut (Eyes Wide Shut\, Stanley Kubrick\, 19
- 99). Int.: Tom Cruise\, Nicole Kidman\, Sydney Pollack. EE UU. VOSE. 159'\
- nLa obra póstuma de Stanley Kubrick\, basada en un relato de Arthur Schni
- tzler\, contribuyó\, entre otras cosas\, a popularizar un fragmento de la
- s Suites de Jazz de Shostakovich. </pre> </body> </html>\n\n\nFuente: http
- ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
- c/fe/cine-dore/programacion/2006/PrograDore35.pdf
+DESCRIPTION:Sala 1 - S S S S S S \n S S S S\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2006/PrograDore35.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

@@ -4,1241 +4,793 @@ PRODID:-//Cine Doré//github.com santos82 doredb//ES
 X-WR-CALNAME:Cine Dore
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:Crimen ferpecto
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20100701T180000
 DTEND;VALUE=DATE-TIME:20100701T194600
 UID:1007010018_1_dore
-DESCRIPTION:Sala 1 - Crimen ferpecto (Álex de la Iglesia\, 2004). Int.: G
- uillermo Toledo\, Mónica Cervera\, Luis Varela. VOESF. 106’\nRafael es 
- un tipo seductor y ambicioso. Le gustan las mujeres guapas\, la ropa elega
- nte y el ambiente selecto. Trabaja en unos grandes almacenes. Ha convertid
- o la sección de señoras en su feudo particular. Nació para vender. Lo l
- leva en la sangre. Rafael aspira a convertirse en el nuevo Jefe de Planta.
- \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
- eas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rear Window
-DTSTART;VALUE=DATE-TIME:20100701T200500
-DTEND;VALUE=DATE-TIME:20100701T215700
-UID:1007010520_1_dore
-DESCRIPTION:Sala 1 - Rear Window (La ventana indiscreta\, Alfred Hitchcock
- \, 1954). Int.: James Stewart\, Grace Kelly\, Wendell Corey. EE UU. VOSF/E
- *. 112'\n“La ventana indiscreta trata del matrimonio y su radicalismo se
-  debe a la conexión que hace entre este tema y el tema de la castración.
-  El matrimonio como la castración del macho: dicho así parece una pelíc
- ula impúdicamente misógina\, aunque sólo si se ignoran otros elementos.
-  De lo que trata realmente es de la imposibilidad de que las relaciones hu
- manas prosperen en un sistema ideológico que construye a los hombres y la
- s mujeres como roles desesperadamente incompatibles. (...) Describe los in
- fiernos gemelos del matrimonio y la soltería en una civilización que exi
- ge el primero a la vez que imposibilita que funcione. En último término\
- , lo que el énfasis en la castración y la impotencia logra es cuestionar
-  el concepto de ‘potencia’ (masculinidad) de nuestra cultura y de las 
- exigencias insoportables que impone tanto a hombres como a mujeres” (Rob
- in Wood).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
- a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.p
- df
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L’Enfant sauvage
-DTSTART;VALUE=DATE-TIME:20100701T222000
-DTEND;VALUE=DATE-TIME:20100701T234500
-UID:1007012022_1_dore
-DESCRIPTION:Sala 1 - L’Enfant sauvage (El pequeño salvaje\, François T
- ruffaut\, 1969). Int.: Jean-Pierre Cargol\, François Truffaut\, François
- e Seigner. Francia. VOSE. 85'\nSegunda proyección día 3.\n\n\nFuente: ht
- tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
- /mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Testament d’Orphée
-DTSTART;VALUE=DATE-TIME:20100702T180000
-DTEND;VALUE=DATE-TIME:20100702T192000
-UID:1007020018_1_dore
-DESCRIPTION:Sala 1 - Le Testament d’Orphée (El testamento de Orfeo\, Je
- an Cocteau\, 1960). Int.: Jean Marais\, Alice Heyliger\, María Casares. F
- rancia. VOSE. 80’\n“Esta película es bella\, finalmente\, porque es l
- a película de un hombre que sabe que va a morir y que no consigue\, aunqu
- e lo desee\, tomarse la muerte en serio. El absurdo y la gracia son cara y
-  cruz de una medalla que el poeta arroja en su noche y que resuena en nues
- tras tinieblas” (Jacques Rivette). Segunda proyección día 7.\n\n\nFuen
- te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
- a/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jules et Jim
-DTSTART;VALUE=DATE-TIME:20100702T194500
-DTEND;VALUE=DATE-TIME:20100702T213500
-UID:1007024519_1_dore
-DESCRIPTION:Sala 1 - Jules et Jim (Jules et Jim\, François Truffaut\, 196
- 2). Int.: Jeanne Moreau\, Oskar Werner\, Henri Serre. Francia. VOSE*. 110'
- \n“Cuando leí la novela de Henri-Pierre Roché tuve la sensación de en
- contrarme ante un ejemplo de lo que el cine no llegaba nunca a hacer: most
- rarnos a dos hombres que aman a la misma mujer sin que el ‘público’ p
- ueda sentir una preferencia por uno de estos personajes\, de tan obligado 
- que se ve a quererlos a los tres del mismo modo” (François Truffaut).\n
- \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
- s-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Plages d’Agnès
-DTSTART;VALUE=DATE-TIME:20100702T220000
-DTEND;VALUE=DATE-TIME:20100702T235000
-UID:1007020022_1_dore
-DESCRIPTION:Sala 1 - Les Plages d’Agnès (Agnès Varda\, 2008). Document
- al. Francia. VOSI/E*. 110'\nSu gozosa libertad de escritura\, su pavor a l
- a solemnidad conjurada con un humor autocrítico y leve y el modo en que e
- l curso del film va encontrando su derrotero (mientras produce el impactan
- te efecto de que la directora estuvo en casi todos los grandes acontecimie
- ntos culturales y políticos en el momento justo y con la cámara y el amo
- r en la mano)\, hacen de Les Plages d'Agnès un objeto único y placentero
- . Segunda proyección día 7.\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L’Enfant sauvage
-DTSTART;VALUE=DATE-TIME:20100703T180000
-DTEND;VALUE=DATE-TIME:20100703T192500
-UID:1007030018_1_dore
-DESCRIPTION:Sala 1 - L’Enfant sauvage (El pequeño salvaje\, François T
- ruffaut\, 1969). Int.: Jean-Pierre Cargol\, François Truffaut\, François
- e Seigner. Francia. VOSE. 85'\nTercera proyección y nota día 16.\n\n\nFu
- ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
- ura/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blow-Up [Blow-up
-DTSTART;VALUE=DATE-TIME:20100703T200000
-DTEND;VALUE=DATE-TIME:20100703T214800
-UID:1007030020_1_dore
-DESCRIPTION:Sala 1 - Blow-Up [Blow-up (Deseo de una mañana de verano)\, M
- ichelangelo Antonioni\, 1966]. Int.: David Hemmings\, Vanessa Redgrave\, S
- arah Miles. Reino Unido / Italia / EE UU. VOSE. 108'\n“Desafiemos la int
- erpretación ortodoxa de la película y afirmemos que Blow Up no trata de 
- la ilusión y la realidad. Ésa es una cuestión metafísica\, y a Antonio
- ni le importa la ética: ¿cuál es el comportamiento correcto? La única 
- forma para sus personajes de averiguarlo es percibiendo con exactitud el m
- undo en el que viven\, así como conociéndose y comprendiéndose a sí mi
- smos. El mundo debe tener un sentido\, lo que se percibe mediante un compr
- omiso con la realidad concreta que nos rodea. Se conocen y comprenden a s
- í mismos volviendo a examinar lo que han hecho\, reinterpretando lo que h
- a supuesto su compromiso con el mundo” (Chris Wagstaff).\n\n\nFuente: ht
- tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
- /mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ascenseur pour l’échafaud
-DTSTART;VALUE=DATE-TIME:20100703T221000
-DTEND;VALUE=DATE-TIME:20100703T233800
-UID:1007031022_1_dore
-DESCRIPTION:Sala 1 - Ascenseur pour l’échafaud (Ascensor para el cadals
- o\, Louis Malle\, 1958). Int.: Jeanne Moreau\, Maurice Ronet\, Georges Pou
- jouly. Francia. VOSE*. 88’\nAdaptación muy personal de una novela polic
- iaca\, que Malle sitúa en una atmósfera obsesiva\, potenciada por el cé
- lebre solo de trompeta improvisado por Miles Davis. Florence y Julien Tave
- rnier son dos amantes que han urdido un plan perfecto para asesinar al aca
- udalado marido de ésta (que es además el jefe de él).\n\n\nFuente: http
- ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
- c/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bezhin lug
-DTSTART;VALUE=DATE-TIME:20100704T180000
-DTEND;VALUE=DATE-TIME:20100704T193100
-UID:1007040018_1_dore
-DESCRIPTION:Sala 1 - Bezhin lug (El prado de Bezhin\, Sergei Eisenstein\, 
- 1935-37). Int.: Viktor Kartashov\, Nikolai Khmelyov\, Pyotr Arzhanov. URSS
- . SRSE. 31’. Pasazerka (La pasajera\, Andrzej Munk y Witold Lesiewicz\, 
- 1963). Int.: Aleksandra Slaska\, Anna Ciepielewska\, Janusz Bylczynski. Po
- lonia. VOSE. 60’. Total programa: 91’\n“Las dudas de los miembros de
- l equipo encargado de dar sentido a las escenas rodadas por Munk [muerto d
- urante el rodaje] se hacen explícitas en la voz de un narrador que introd
- uce una historia que arranca a bordo de un trasatlántico con una pasajera
-  muy especial\, Lisa\, antigua supervisora de Auschwitz. (…) En la prime
- ra escala en el continente le parece reconocer\, entre los nuevos pasajero
- s que embarcan\, a Marta\, una prisionera judía que creía muerta y de qu
- ien se atribuye la salvación. Estas escenas del barco responden a un mont
- aje fotográfico que subraya su esencia de restos de una película que no 
- pudo completar su rodaje” (Jaime Pena). Segunda proyección día 6.\n\n\
- nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
- ultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Domicile conjugal
-DTSTART;VALUE=DATE-TIME:20100704T200000
-DTEND;VALUE=DATE-TIME:20100704T214000
-UID:1007040020_1_dore
-DESCRIPTION:Sala 1 - Domicile conjugal (Domicilio conyugal\, François Tru
- ffaut\, 1970). Int.: Jean-Pierre Léaud\, Claude Jade\, Hiroko Berghauer. 
- Francia. VOSE*. 100'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
- mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Pro
- graDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Quatre Cents Coups
-DTSTART;VALUE=DATE-TIME:20100704T220000
-DTEND;VALUE=DATE-TIME:20100704T233300
-UID:1007040022_1_dore
-DESCRIPTION:Sala 1 - Les Quatre Cents Coups (Los cuatrocientos golpes\, Fr
- ançois Truffaut\, 1959). Int.: Jean-Pierre\nLéaud\, Claire Maurier\, Alb
- ert Rémy. Francia. VOSE. 93’\n“La fuerza de Truffaut es la de no habl
- ar jamás directamente de sí mismo\, sino unirse pacientemente a otro jov
- en\, que quizá se le parece como a un hermano\, pero un hermano objetivo\
- , y someterse a él y reconstruir humildemente\, a partir de una experienc
- ia personal\, una realidad igualmente objetiva\, que después filma con el
-  más perfecto respeto. La utilización de este método en el cine lleva u
- n bonito nombre –y da igual si Truffaut lo desconoce–: se llama Flaher
- ty” (Jacques Rivette).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
  dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
  /PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Baisers volés
-DTSTART;VALUE=DATE-TIME:20100706T180000
-DTEND;VALUE=DATE-TIME:20100706T193000
-UID:1007060018_1_dore
-DESCRIPTION:Sala 1 - Baisers volés (Besos robados\, François Truffaut\, 
- 1968). Int.: Jean-Pierre Léaud\, Delphine Seyrig\, Claude Jade. Francia. 
- VOSE*. 90'\nAntoine Doinel visita a su antigua novia\, tras haber sido lic
- enciado del ejército por insubordinación. El padre de la chica encuentra
-  un trabajo temporal para Antoine como vigilante nocturno de un hotel\, em
- pleo que pierde el primer día.\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Mariée était en noir
-DTSTART;VALUE=DATE-TIME:20100706T200000
-DTEND;VALUE=DATE-TIME:20100706T214700
-UID:1007060020_1_dore
-DESCRIPTION:Sala 1 - La Mariée était en noir (La novia vestía de negro\
- , François Truffaut\, 1967). Int.: Jeanne Moreau\, Michel Bouquet\, Jean-
- Claude Brialy. Francia. VOSE*. 107'\n“Me he deleitado en especial con es
- a escena en la que Moreau observa cómo muere lentamente el hombre al que 
- acaba de envenenar. Con mi particular humor\, yo creo que hubiera alargado
-  ese placer: ¡Moreau habría puesto un cojín bajo su cabeza de manera qu
- e muriese más cómodamente todavía!” (Alfred Hitchcock).\n\n\nFuente: 
- http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
- ne/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bezhin lug
-DTSTART;VALUE=DATE-TIME:20100706T221000
-DTEND;VALUE=DATE-TIME:20100706T234100
-UID:1007061022_1_dore
-DESCRIPTION:Sala 1 - Bezhin lug (El prado de Bezhin\, Sergei Eisenstein\, 
- 1935-37). Int.: Viktor Kartashov\, Nikolai Khmelyov\, Pyotr Arzhanov. URSS
- . SRSE. 31’. Pasazerka (La pasajera\, Andrzej Munk y Witold Lesiewicz\, 
- 1963). Int.: Aleksandra Slaska\, Anna Ciepielewska\, Janusz Bylczynski. Po
- lonia. VOSE. 60’. Total programa: 91’\n\n\nFuente: http://www.mecd.gob
- .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
- programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Plages d’Agnès
-DTSTART;VALUE=DATE-TIME:20100707T180000
-DTEND;VALUE=DATE-TIME:20100707T195000
-UID:1007070018_1_dore
-DESCRIPTION:Sala 1 - Les Plages d’Agnès (Agnès Varda\, 2008). Document
- al. Francia. VOSI/E*. 110'\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100701T200500
+DTEND;VALUE=DATE-TIME:20100701T215700
+UID:1007010520_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
  d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
  10/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Les Deux Anglaises et le Continent
-DTSTART;VALUE=DATE-TIME:20100707T201000
-DTEND;VALUE=DATE-TIME:20100707T222200
-UID:1007071020_1_dore
-DESCRIPTION:Sala 1 - Les Deux Anglaises et le Continent (Las dos inglesas 
- y el amor\, François Truffaut\, 1971). Int.:\nJean-Pierre Léaud\, Kika M
- arkham\, Stacey Tendeter. Francia. VOSE*. 132'\n“Uno de los romances má
- s hipnóticos de Truffaut\, un discreto ménage à trois entre un escritor
-  francés y dos hermanas. Un relato sobre el arte que brota del sacrificio
-  emocional puesto que los tres evitan cualquier conflicto o la consumació
- n de sus sentimientos. Por tanto\, trata más de lo que no ocurre que de l
- o que sí” (Geoff Andrew). Segunda proyección día 10.\n\n\nFuente: htt
- p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
- mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100701T222000
+DTEND;VALUE=DATE-TIME:20100701T234500
+UID:1007012022_1_dore
+DESCRIPTION:Sala 1 - S S S \nS\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Le Testament d’Orphée
-DTSTART;VALUE=DATE-TIME:20100707T224000
-DTEND;VALUE=DATE-TIME:20100708T000000
-UID:1007074022_1_dore
-DESCRIPTION:Sala 1 - Le Testament d’Orphée (El testamento de Orfeo\, Je
- an Cocteau\, 1960). Int.: Jean Marais\, Alice Heyliger\, María Casares. F
- rancia. VOSE. 80’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
- ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Prog
- raDore79.pdf
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100702T180000
+DTEND;VALUE=DATE-TIME:20100702T192000
+UID:1007020018_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El año del diluvio
-DTSTART;VALUE=DATE-TIME:20100708T180000
-DTEND;VALUE=DATE-TIME:20100708T192800
-UID:1007080018_1_dore
-DESCRIPTION:Sala 1 - El año del diluvio (Jaime Chávarri\, 2004). Int.: F
- anny Ardant\, Dario Grandinetti\, Eloy Azorín.\n88’\nEn un verano espec
- ialmente caluroso\, Sor Consuelo\, la superiora de una orden de religiosas
-  dedicadas a la medicina caritativa\, decide llevar adelante el proyecto d
- e transformar el destartalado y casi inútil hospital del pueblo en un mod
- erno asilo de ancianos dotado de las últimas infraestructuras.\n\n\nFuent
- e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
- /cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100702T194500
+DTEND;VALUE=DATE-TIME:20100702T213500
+UID:1007024519_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oci ciornie
-DTSTART;VALUE=DATE-TIME:20100708T200000
-DTEND;VALUE=DATE-TIME:20100708T215700
-UID:1007080020_1_dore
-DESCRIPTION:Sala 1 - Oci ciornie (Ojos negros\, Nikita Mikhalkov\, 1987). 
- Int.: Marcello Mastroianni\, Marthe Keller\, Yelena Safonova. Italia / EE 
- UU / Rusia. VOSE. 117’\nBasada en unas historias cortas de Chéjov\, se 
- trata de un nostálgico canto a la belleza de Rusia. Mastroianni es un ele
- gante italiano que conoce a una mujer rusa en un balneario\, y de la que s
- e enamora. Segunda proyección día 18.\n\n\nFuente: http://www.mecd.gob.e
- s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
- ogramacion/2010/PrograDore79.pdf
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100702T220000
+DTEND;VALUE=DATE-TIME:20100702T235000
+UID:1007020022_1_dore
+DESCRIPTION:Sala 1 - S S \nS S\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Une belle fille comme moi
-DTSTART;VALUE=DATE-TIME:20100708T221500
-DTEND;VALUE=DATE-TIME:20100708T235300
-UID:1007081522_1_dore
-DESCRIPTION:Sala 1 - Une belle fille comme moi (Una chica tan decente como
-  yo\, François Truffaut\, 1972). Int.: Bernadette Lafont\, Claude Brasseu
- r\, Charles Denner. Francia. VOSE*. 98'\nTercera proyección día 11.\n\n\
- nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
- ultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100703T180000
+DTEND;VALUE=DATE-TIME:20100703T192500
+UID:1007030018_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:L’Amour en fuite
-DTSTART;VALUE=DATE-TIME:20100709T180000
-DTEND;VALUE=DATE-TIME:20100709T193400
-UID:1007090018_1_dore
-DESCRIPTION:Sala 1 - L’Amour en fuite (El amor en fuga\, François Truff
- aut\, 1978). Int.: Jean-Pierre Léaud\, MarieFrance Pisier\, Claude Jade. 
- Francia. VOSE*. 94'\nAntoine Doinel tiene treinta años. Su matrimonio con
-  Christine termina en divorcio. Se enamora de Sabine\, que le recuerda a l
- a Colette de El amor a los veinte años\; junto a ella evoca el pasado. Un
-  pretexto para una serie de flash-backs sobre la vida de Antoine. Segunda 
- proyección día 11.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
- mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Pro
- graDore79.pdf
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100703T200000
+DTEND;VALUE=DATE-TIME:20100703T214800
+UID:1007030020_1_dore
+DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Sirène du Mississipi
-DTSTART;VALUE=DATE-TIME:20100709T200000
-DTEND;VALUE=DATE-TIME:20100709T220000
-UID:1007090020_1_dore
-DESCRIPTION:Sala 1 - La Sirène du Mississipi (La sirena del Mississipi\, 
- François Truffaut\, 1968). Int.: Jean-Paul Belmondo\, Catherine Deneuve\,
-  Nelly Borgeaud. Francia. VOSE*. 120'\nLa joven Julie Roussel viaja en un 
- barco llamado “La sirena del Mississippi” desde Francia a la isla de R
- eunión para contraer matrimonio con un rico hacendado\, propietario de un
- a plantación de tabaco en La Martinica\, y al que no conoce\, ya que ést
- e sólo ha mantenido con ella una relación por correspondencia.\n\n\nFuen
- te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
- a/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mar adentro
-DTSTART;VALUE=DATE-TIME:20100709T222000
-DTEND;VALUE=DATE-TIME:20100710T002500
-UID:1007092022_1_dore
-DESCRIPTION:Sala 1 - Mar adentro (Alejandro Amenábar\, 2004). Int.: Javie
- r Bardem\, Belén Rueda\, Lola Dueñas. 125’\n“Tal vez lo más irritan
- te de Mar adentro es su premeditación\, la perversidad con que cada líne
- a de diálogo\, cada giro narrativo –recordemos que todos sabemos cómo 
- acaba Sampedro–\, cada broma gastada\, ejerce su poderoso influjo sobre 
- el público. Amenábar no dirige\, calcula: sus películas son mecanismos 
- de relojería perfectos\, tan lejos de la vida como cerca de la taquilla
- ” (Sergi Sánchez).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
- /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Pr
- ograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La historia de Bienvenido
-DTSTART;VALUE=DATE-TIME:20100710T180000
-DTEND;VALUE=DATE-TIME:20100710T190300
-UID:1007100018_1_dore
-DESCRIPTION:Sala 1 - La historia de Bienvenido (Augusto Fenollar\, 1964). 
- Int.: Marisol\, Antonio Braña\, Jesús Guzmán. 63’\nEn una guardería 
- infantil solicitan la asistencia de Marisol para que entretenga a los niñ
- os acogidos allí. La muchacha narra la historia de un burrito muy peculia
- r llamado Bienvenido. Entrada libre para menores de 14 años.\n\n\nFuente:
-  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
- ine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Planète sauvage
-DTSTART;VALUE=DATE-TIME:20100710T200000
-DTEND;VALUE=DATE-TIME:20100710T211100
-UID:1007100020_1_dore
-DESCRIPTION:Sala 1 - La Planète sauvage (El planeta salvaje\, René Lalou
- x\, 1973). Animación. Francia. VOSE. 71’\nLa animación nos traslada a 
- un lejano planeta en donde habita una raza de seres llamados Traags que se
-  encuentran invadidos por otra raza de seres inteligentes llamados Oms pro
- venientes del planeta Terra (de interés es el contexto histórico de la o
- bra en una clara alusión a la ocupación soviética de Checoslovaquia). S
- egunda proyección día 30.\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Deux Anglaises et le Continent
-DTSTART;VALUE=DATE-TIME:20100710T220000
-DTEND;VALUE=DATE-TIME:20100711T001200
-UID:1007100022_1_dore
-DESCRIPTION:Sala 1 - Les Deux Anglaises et le Continent (Las dos inglesas 
- y el amor\, François Truffaut\, 1971). Int.: Jean-Pierre Léaud\, Kika Ma
- rkham\, Stacey Tendeter. Francia. VOSE*. 132'\n\n\nFuente: http://www.mecd
- .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
- ore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Une belle fille comme moi
-DTSTART;VALUE=DATE-TIME:20100711T180000
-DTEND;VALUE=DATE-TIME:20100711T193800
-UID:1007110018_1_dore
-DESCRIPTION:Sala 1 - Une belle fille comme moi (Una chica tan decente como
-  yo\, François Truffaut\, 1972). Int.:\nBernadette Lafont\, Claude Brasse
- ur\, Charles Denner. Francia. VOSE*. 98'\n\n\nFuente: http://www.mecd.gob.
- es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
- rogramacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Chambre verte
-DTSTART;VALUE=DATE-TIME:20100711T200000
-DTEND;VALUE=DATE-TIME:20100711T213400
-UID:1007110020_1_dore
-DESCRIPTION:Sala 1 - La Chambre verte (La habitación verde\, François Tr
- uffaut\, 1978). Int.: François Truffaut\,\nNathalie Baye\, Jean Dasté. F
- rancia. VOSE*. 94'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
- cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Progr
- aDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L’Amour en fuite
-DTSTART;VALUE=DATE-TIME:20100711T220500
-DTEND;VALUE=DATE-TIME:20100711T233900
-UID:1007110522_1_dore
-DESCRIPTION:Sala 1 - L’Amour en fuite (El amor en fuga\, François Truff
- aut\, 1978). Int.: Jean-Pierre Léaud\, MarieFrance Pisier\, Claude Jade. 
- Francia. VOSE*. 94'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
- ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Prog
- raDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Deux Anglaises et le Continent
-DTSTART;VALUE=DATE-TIME:20100713T180000
-DTEND;VALUE=DATE-TIME:20100713T201200
-UID:1007130018_1_dore
-DESCRIPTION:Sala 1 - Les Deux Anglaises et le Continent (Las dos inglesas 
- y el amor\, François Truffaut\, 1971). Int.:\nJean-Pierre Léaud\, Kika M
- arkham\, Stacey Tendeter. Francia. VOSE*. 132'\n\n\nFuente: http://www.mec
- d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
- dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L’Amour en fuite
-DTSTART;VALUE=DATE-TIME:20100713T203500
-DTEND;VALUE=DATE-TIME:20100713T220900
-UID:1007133520_1_dore
-DESCRIPTION:Sala 1 - L’Amour en fuite (El amor en fuga\, François Truff
- aut\, 1978). Int.: Jean-Pierre Léaud\, MarieFrance Pisier\, Claude Jade. 
- Francia. VOSE*. 94'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
- ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Prog
- raDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Chambre verte
-DTSTART;VALUE=DATE-TIME:20100713T222500
-DTEND;VALUE=DATE-TIME:20100713T235900
-UID:1007132522_1_dore
-DESCRIPTION:Sala 1 - La Chambre verte (La habitación verde\, François Tr
- uffaut\, 1978). Int.: François Truffaut\,\nNathalie Baye\, Jean Dasté. F
- rancia. VOSE*. 94'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
- cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Progr
- aDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Nuit américaine
-DTSTART;VALUE=DATE-TIME:20100714T180000
-DTEND;VALUE=DATE-TIME:20100714T195500
-UID:1007140018_1_dore
-DESCRIPTION:Sala 1 - La Nuit américaine (La noche americana\, François T
- ruffaut\, 1973). Int.: Jacqueline Bisset\,\nValentina Cortese\, Jean-Pierr
- e Léaud. Francia. VOSE. 115'\n“La Nuit américaine es un término técn
- ico\, que quiere decir que los americanos filman con frecuencia las escena
- s de noche en pleno día\, con un filtro que hace que el cielo salga azul 
- oscuro o… así\, lo que se llama ‘noche americana’\, en lugar de rod
- ar por la noche… es un efecto técnico. Pero\, al mismo tiempo\, creo qu
- e han recompensado este film [con el Oscar© a la mejor película extranje
- ra] porque escondía bien\, haciendo creer\, al mismo tiempo\, que revelab
- a\, lo que puede ser el cine: un truco mágico del que no se entiende nada
-  y que\, simultáneamente\, atrae a la vez a una gente muy agradable y des
- agradable… lo que hace que la gente al mismo tiempo se alegre\, más bie
- n\, de no formar parte de él\, pero esté encantada de pagar regularmente
-  cinco dólares por ir a ver películas” (Jean-Luc Godard). Segunda proy
- ección día 16.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
- /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograD
- ore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La lunga ombra
-DTSTART;VALUE=DATE-TIME:20100714T201500
-DTEND;VALUE=DATE-TIME:20100714T213200
-UID:1007141520_1_dore
-DESCRIPTION:Sala 1 - La lunga ombra (Jon Jost\, 2006). Int.: Eliana Miglio
- \, Agnese Nano. Italia. VOSE. Vídeo. 77’\n“El periodo tras el 11-S en
-  Europa presentaba una corriente subterránea de miedo y culpa\, que parec
- ía bloqueada e inexpresada\, en parte porque los propios afectados no par
- ecían comprender sus causas. La película funciona con imágenes\, con at
- mósferas\, con tonalidades más que con una narrativa conducida” (Jon J
- ost). Coloquio con Jon Jost.\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L’Histoire de Adèle H.
-DTSTART;VALUE=DATE-TIME:20100714T223500
-DTEND;VALUE=DATE-TIME:20100715T001100
-UID:1007143522_1_dore
-DESCRIPTION:Sala 1 - L’Histoire de Adèle H. (Diario íntimo de Adela H.
- \, François Truffaut\, 1975). Int.: Isabelle Adjani\, Bruce Robinson\, Sy
- lvia Marriott. Francia. VOSE*. 96'\n“No sé por qué hice una película 
- así. Tan triste. Pero la obsesión tiene algo de vertiginoso y creo que f
- ui arrastrado por ese vértigo. Desde el principio\, muestro que todo est
- á perdido: el teniente nunca amará a Adèle. Y toda la película es la d
- escripción de su insistencia. Se tiene la impresión de ver siempre la mi
- sma escena. En lugar de nacer de la sorpresa\, querría que la emoción se
-  desprendiese de la repetición” (François Truffaut). Segunda proyecci
- ón día 15.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
- tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore7
- 9.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blade Runner
-DTSTART;VALUE=DATE-TIME:20100715T180000
-DTEND;VALUE=DATE-TIME:20100715T195700
-UID:1007150018_1_dore
-DESCRIPTION:Sala 1 - Blade Runner (Blade Runner\, Ridley Scott\, 1982). In
- t.: Harrison Ford\, Rutger Hauer\, Sean Young. EE UU / Hong Kong. Director
- ’s cut. VOSE. 117'\n“Meditación inquietantemente erótica sobre la di
- ferencia entre lo humano y lo no-humano. Situada en un sucio Los Ángeles 
- del siglo XXI caracterizado por la lluvia casi constante y una ingente can
- tidad de restaurantes chinos\, la trama involucra a un ex-policía contrat
- ado para localizar y matar a una serie de androides” (Jonathan Rosenbaum
- ).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
- areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Domicile conjugal
-DTSTART;VALUE=DATE-TIME:20100715T201500
-DTEND;VALUE=DATE-TIME:20100715T215500
-UID:1007151520_1_dore
-DESCRIPTION:Sala 1 - Domicile conjugal (Domicilio conyugal\, François Tru
- ffaut\, 1970). Int.: Jean-Pierre Léaud\, Claude Jade\, Hiroko Berghauer. 
- Francia. VOSE*. 100'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
- mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Pro
- graDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parable
-DTSTART;VALUE=DATE-TIME:20100715T221500
-DTEND;VALUE=DATE-TIME:20100716T002700
-UID:1007151522_1_dore
-DESCRIPTION:Sala 1 - Parable (Jon Jost\, 2008). Int.: Stephen Taylor\, Rac
- hael LeValley\, Ryan Harper Gray. EE UU.\n72’. Passages (Jon Jost\, 2006
- ). Int.: Geng Le\, Chang Jieping. China. 60’. VOSE*. Vídeo. Total progr
- ama: 132’\n“Es un reflejo de El Tiempo de Bush en América\, un misera
- ble periodo de corrupción comparable a los peores vividos en este país\,
-  si no el peor. La película aborda esta época con una mezcla de géneros
-  típica de nuestra cultura\, una cultura que destila\, en realidad\, hast
- a dibujos animados\, y en la que una trayectoria de melodrama doméstico c
- onduce axiomáticamente a Abu Ghirab. Parable es la historia como farsa\, 
- una tragedia americana retratada por Los Picapiedra y Los Simpson” (Jon 
- Jost). Con la presencia de Jon Jost.\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:At Play in the Fields of the Lord
-DTSTART;VALUE=DATE-TIME:20100716T180000
-DTEND;VALUE=DATE-TIME:20100716T194100
-UID:1007160018_1_dore
-DESCRIPTION:Sala 1 - At Play in the Fields of the Lord (NEBRASKA) (Jon Jos
- t\, 2007). Videoinstalación. Muda. 23’. Over Here (Jon Jost\, 2007). In
- t.: Ryan Harper Gray\, Stephen Taylor\, Bibi Walton. 78’. VOSE*. EE UU. 
- Vídeo. Total programa: 101’\n“En 2006\, quedó finalmente claro que E
- stados Unidos había sido tomado por la minoría gritona de los neo-cons y
-  que la guerra de Irak\, como muchas otras cosas destructivas de la actual
- idad\, está basada en mentiras\, y sólo nos ha traído tragedias muy pre
- decibles. (…) Over Here fue rodada bajo esta atmósfera\, sin guión y d
- esarrollando la historia durante el rodaje” (Jon Jost). Con la presencia
-  de Jon Jost.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
- ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore
- 79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L’Enfant sauvage
-DTSTART;VALUE=DATE-TIME:20100716T201500
-DTEND;VALUE=DATE-TIME:20100716T214000
-UID:1007161520_1_dore
-DESCRIPTION:Sala 1 - L’Enfant sauvage (El pequeño salvaje\, François T
- ruffaut\, 1969). Int.: Jean-Pierre Cargol\, François Truffaut\, François
- e Seigner. Francia. VOSE. 85'\n“La aparentemente noble tarea del maestro
-  Rousseau en el film: domar la insobornable libertad del niño\, al que ll
- aman salvaje. Perfilar sus maneras. Esculpir en su garganta el lenguaje de
-  los hombres racionales. ‘Un crimen’ oiremos decir al niño salvaje de
-  Straub y Huillet en En rachachant. Vigilar a Víctor desde la ventana. Ca
- stigar a Víctor\, cuando proceda. Premiar a Víctor. Todo lo hace el maes
- tro por miedo a lo que la victoria de esa libertad podría suponer. Pero e
- l niño\, que es contemplado como un esclavo embrutecido del mundo\, que n
- o sabe llamar a las cosas por su nombre –eso que al profesor\, le parece
-  más natural que la naturaleza misma– está capacitado ya para amarlas 
- y para habitar el mundo de una manera justa y libre: como si toda la tierr
- a fuera para él un regazo. Rebelándose si hiciera falta contra la violen
- cia de esa pedagogía. Hace falta. El murmullo del riachuelo\, la luz en e
- l ocaso\, el frescor de la hierba… Nada hay de primitivo en el hecho de 
- que un niño sea capaz de hacer\, de la belleza y la libertad\, su saber y
-  su morada. Por eso un nuevo oráculo reclama su inscripción: ‘sólo ca
- be esperar que los niños se pierdan’” (Rafael Sánchez-Mateos).\n\n\n
- Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
- ltura/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El cielo gira
-DTSTART;VALUE=DATE-TIME:20100716T220000
-DTEND;VALUE=DATE-TIME:20100716T235500
-UID:1007160022_1_dore
-DESCRIPTION:Sala 1 - El cielo gira (Mercedes Álvarez\, 2004). Documental.
-  VOESI. 115’\n“Aldealseñor es un pueblo olvidado en los páramos de S
- oria\, que vive sus días postreros\, los de su agonía como comunidad. Ex
- iliados de esa modernidad que difunden a los cuatro vientos los pregoneros
-  del Estado\, todos sus moradores doblan ya la última vuelta del camino\;
-  llevando a cuestas su más valioso caudal: la memoria de un tiempo que ya
-  se fue. A través del rodaje de una película\, a Aldealseñor regresa el
-  último ser humano que allí nació\, de tal modo que El cielo gira no pu
- ede dejar de ser\, al menos en una primera instancia\, la crónica\, el di
- ario\, el cuaderno de apuntes de un retorno” (Víctor Erice).\n\n\nFuent
- e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
- /cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lady and the Tramp
-DTSTART;VALUE=DATE-TIME:20100717T180000
-DTEND;VALUE=DATE-TIME:20100717T191500
-UID:1007170018_1_dore
-DESCRIPTION:Sala 1 - Lady and the Tramp (La dama y el vagabundo\, Clyde Ge
- ronimi\, Hamilton Luske y Wilfred Jackson\, 1955). Animación. EE UU. VE. 
- 75’\nReina\, una perra de pedigrí\, vive feliz con sus amos\, que acaba
- n de tener un bebé\, hasta que éstos deben partir inesperadamente de via
- je. Acude a cuidar del niño una siniestra señora que atiende al nombre d
- e tía Clara\, dueña de dos gatos siameses. Los mininos le hacen la vida 
- imposible\, y la tía acaba echándola al jardín. Así que Reina huye de 
- casa. Entrada libre para menores de 14 años.\n\n\nFuente: http://www.mecd
- .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
- ore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Nuit américaine
-DTSTART;VALUE=DATE-TIME:20100717T194000
-DTEND;VALUE=DATE-TIME:20100717T213500
-UID:1007174019_1_dore
-DESCRIPTION:Sala 1 - La Nuit américaine (La noche americana\, François T
- ruffaut\, 1973). Int.: Jacqueline Bisset\, Valentina Cortese\, Jean-Pierre
-  Léaud. Francia. VOSE. 115'\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Man Who Would Be King
-DTSTART;VALUE=DATE-TIME:20100717T220000
-DTEND;VALUE=DATE-TIME:20100718T000900
-UID:1007170022_1_dore
-DESCRIPTION:Sala 1 - The Man Who Would Be King (El hombre que pudo reinar\
- , John Huston\, 1975). Int.: Sean\nConnery\, Michael Caine\, Christopher P
- lummer. Reino Unido / USA. VOSE. 129’\nDanny Dravot y Peachy Carnehan so
- n dos aventureros trotamundos en la India de 1880. Sobreviven gracias al c
- ontrabando de armas\, de mercancías y otras dudosas actividades. Un día 
- deciden hacer fortuna en el legendario reino de Kafiristán.\n\n\nFuente: 
- http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
- ne/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L’Histoire de Adèle H.
-DTSTART;VALUE=DATE-TIME:20100718T180000
-DTEND;VALUE=DATE-TIME:20100718T193600
-UID:1007180018_1_dore
-DESCRIPTION:Sala 1 - L’Histoire de Adèle H. (Diario íntimo de Adela H.
- \, François Truffaut\, 1975). Int.: Isabelle Adjani\, Bruce Robinson\, Sy
- lvia Marriott. Francia. VOSE*. 96'\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rumble Fish
-DTSTART;VALUE=DATE-TIME:20100718T200000
-DTEND;VALUE=DATE-TIME:20100718T213400
-UID:1007180020_1_dore
-DESCRIPTION:Sala 1 - Rumble Fish (La ley de la calle\, Francis Ford Coppol
- a\, 1983). Int.: Matt Dillon\, Mickey\nRourke\, Diane Lane. EE UU. VOSE. 9
- 4’\n“¿Qué cuenta La ley de la calle? Un ex jefe de pandilla\, seduct
- or y carismático\, conocido como Motorcycle Boy retorna a casa (en Tulsa)
-  envejecido (¡tiene veintiún años!)\, tras un vago viaje por California
- . Encuentra allí a su padre\, un abogado sin empleo y bebedor y sobre tod
- o a su hermano menor\, Rusty James. En su ausencia\, Rusty ha intentado pe
- rpetuar las pandillas y convertirse en jefe. Rusty es de una belleza feroz
- . Rusty admira totalmente a su hermano. Pero Rusty es traicionado por las 
- palabras: de hecho\, no es demasiado listo. No ha comprendido que ya nadie
-  cree en ese heroísmo\, y que tampoco nadie cree en él como jefe. ¿Cóm
- o hacerle comprender?” (Serge Daney). Segunda proyección día 20.\n\n\n
- Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
- ltura/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oci ciornie
-DTSTART;VALUE=DATE-TIME:20100718T220000
-DTEND;VALUE=DATE-TIME:20100718T235700
-UID:1007180022_1_dore
-DESCRIPTION:Sala 1 - Oci ciornie (Ojos negros\, Nikita Mikhalkov\, 1987). 
- Int.: Marcello Mastroianni\, Marthe Keller\, Yelena Safonova. Italia / EE 
- UU / Rusia. VOSE. 117’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100703T221000
+DTEND;VALUE=DATE-TIME:20100703T233800
+UID:1007031022_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
  dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
  /PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cachorro
-DTSTART;VALUE=DATE-TIME:20100720T180000
-DTEND;VALUE=DATE-TIME:20100720T193900
-UID:1007200018_1_dore
-DESCRIPTION:Sala 1 - Cachorro (Miguel Albadalejo\, 2004). Int.: José Luis
-  García-Pérez\, David Castillo\, Arno\nChevrier. VOESI. 99’\nCuando Vi
- oleta decide hacer un viaje por la India con su nuevo novio\, deja a su hi
- jo Bernardo de 11 años con su hermano Pedro\, un atractivo dentista homos
- exual\, desinhibido en sus relaciones y sin más responsabilidades que par
- a con él mismo.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
- /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograD
- ore79.pdf
+SUMMARY:S S SS S S S S
+DTSTART;VALUE=DATE-TIME:20100704T180000
+DTEND;VALUE=DATE-TIME:20100704T193100
+UID:1007040018_1_dore
+DESCRIPTION:Sala 1 - S S SS S S S S \n S\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Le Dernier Métro
-DTSTART;VALUE=DATE-TIME:20100720T200000
-DTEND;VALUE=DATE-TIME:20100720T221000
-UID:1007200020_1_dore
-DESCRIPTION:Sala 1 - Le Dernier Métro (El último metro\, François Truff
- aut\, 1980). Int.: Catherine Deneuve\, Gérard Depardieu\, Jean Poiret. Fr
- ancia. VOSE. 130'\n“Cercana a La noche americana\, El último metro se i
- nscribe en la línea tibia y consensual del cine de Truffaut. Nuevo avatar
-  de ese ‘democratismo’ del personaje secundario\, que diluye la intens
- idad del drama y la singularidad de los caracteres con una acumulación de
-  escenas pintorescas\, de pequeñas interpretaciones en las que cada perso
- naje confirma su arquetipo” (Cyril Neyrat). Segunda proyección día 22.
- \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
- eas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100704T200000
+DTEND;VALUE=DATE-TIME:20100704T214000
+UID:1007040020_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rumble Fish
-DTSTART;VALUE=DATE-TIME:20100720T223500
-DTEND;VALUE=DATE-TIME:20100721T000900
-UID:1007203522_1_dore
-DESCRIPTION:Sala 1 - Rumble Fish (La ley de la calle\, Francis Ford Coppol
- a\, 1983). Int.: Matt Dillon\, Mickey Rourke\, Diane Lane. EE UU. VOSE. 94
- ’\n“La ley de la calle es la historia de una desilusión. Al encarnars
- e\, el ideal decepciona. Las estrellas\, idolatradas\, se condensan (recor
- dar a Kurtz-Brando en Apocalypse Now). Todo esto es normal. Un cineasta qu
- e quiere repensar los poderes de la ilusión en el cine tiene la necesidad
-  de creer que el mundo (el mundo ‘de verdad’) es ya una ilusión. Que 
- está hecho de apariencias\, de guiños del cielo y de falsas evidencias d
- e la tierra. (…) El mundo\, en el fondo\, casi no existe. El cineasta tr
- itura su materia únicamente para recuperar un poco de su alma” (Serge D
- aney).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
- ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100704T220000
+DTEND;VALUE=DATE-TIME:20100704T233300
+UID:1007040022_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:L’Argent de poche
-DTSTART;VALUE=DATE-TIME:20100721T180000
-DTEND;VALUE=DATE-TIME:20100721T194400
-UID:1007210018_1_dore
-DESCRIPTION:Sala 1 - L’Argent de poche (La piel dura\, François Truffau
- t\, 1976). Int.: Nicole Félix\, Chantal Mercier\, Jean-François Stéveni
- n. Francia. VOSE*. 104'\n– Es pavoroso pensar en cómo los niños están
-  en peligro constantemente. – Eso no es verdad del todo. (…) Los niño
- s son como una roca. Tropiezan por la vida sin quedar lastimados. Ellos se
-  encuentran en estado de gracia y eso les permite tener la piel dura. Son 
- mucho más resistentes que nosotros. Segunda proyección día 23.\n\n\nFue
- nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
- ra/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100706T180000
+DTEND;VALUE=DATE-TIME:20100706T193000
+UID:1007060018_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:No pasarán\, album souvenir
-DTSTART;VALUE=DATE-TIME:20100721T200500
-DTEND;VALUE=DATE-TIME:20100721T211500
-UID:1007210520_1_dore
-DESCRIPTION:Sala 1 - No pasarán\, album souvenir (Henri-François Imbert\
- , 2003). Documental. Francia. VOSE*. 70’\n“Imbert ha remontado la huel
- la de los campos de concentración a partir de un puñado de postales enco
- ntradas en un mercado de los Pirineos\, a pocos kilómetros de donde se en
- contraban\, cincuenta años antes\, esos campos de la vergüenza” (Phili
- ppe Azoury).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
- tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore7
- 9.pdf
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100706T200000
+DTEND;VALUE=DATE-TIME:20100706T214700
+UID:1007060020_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:León y Olvido
-DTSTART;VALUE=DATE-TIME:20100721T220000
-DTEND;VALUE=DATE-TIME:20100721T235200
-UID:1007210022_1_dore
-DESCRIPTION:Sala 1 - León y Olvido (Xavier Bermúdez\, 2004). Int.: Marta
-  Larralde\, Guillem Jiménez y Gary Piquer. VOESI. 112’\nLeón y Olvido 
- son hermanos mellizos\, huérfanos. León tiene el síndrome de Down. Olvi
- do\, cuyas relaciones sentimentales no van nada bien\, ha tenido que dejar
-  sus estudios y ponerse a trabajar.\n\n\nFuente: http://www.mecd.gob.es/cu
+SUMMARY:S S SS S S S S
+DTSTART;VALUE=DATE-TIME:20100706T221000
+DTEND;VALUE=DATE-TIME:20100706T234100
+UID:1007061022_1_dore
+DESCRIPTION:Sala 1 - S S SS S S S S\n\n\nFuente: http://www.mecd.gob.es/cu
  ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
  macion/2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hot Milk
-DTSTART;VALUE=DATE-TIME:20100722T180000
-DTEND;VALUE=DATE-TIME:20100722T192900
-UID:1007220018_1_dore
-DESCRIPTION:Sala 1 - Hot Milk (Ricardo Bofill. 2004). Int.: Ana Turpin\, E
- nrique San Francisco\, Sergio Pazos. 89’\n“Hot Milk es un viaje en có
- digo ‘cuento moderno’. He querido explorar el mundo del desmadre y la 
- fiesta a través de la inocencia pura y virginal de una hermosa niña de p
- ueblo\, Esther\, transformada durante un loco fin de semana en ‘Star’
- ” (Ricardo Bofill).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
- /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Pr
- ograDore79.pdf
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100707T180000
+DTEND;VALUE=DATE-TIME:20100707T195000
+UID:1007070018_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:L’Homme qui aimait les femmes
-DTSTART;VALUE=DATE-TIME:20100722T200000
-DTEND;VALUE=DATE-TIME:20100722T215800
-UID:1007220020_1_dore
-DESCRIPTION:Sala 1 - L’Homme qui aimait les femmes (El amante del amor\,
-  François Truffaut\, 1977). Int.: Charles Denner\, Brigitte Fossey\, Nell
- y Borgeaud. Francia. VOSE*. 118'\n\n\nFuente: http://www.mecd.gob.es/cultu
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100707T201000
+DTEND;VALUE=DATE-TIME:20100707T222200
+UID:1007071020_1_dore
+DESCRIPTION:Sala 1 - S \n S S \n S\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100707T224000
+DTEND;VALUE=DATE-TIME:20100708T000000
+UID:1007074022_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100708T180000
+DTEND;VALUE=DATE-TIME:20100708T192800
+UID:1007080018_1_dore
+DESCRIPTION:Sala 1 - S \n \n S\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100708T200000
+DTEND;VALUE=DATE-TIME:20100708T215700
+UID:1007080020_1_dore
+DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100708T221500
+DTEND;VALUE=DATE-TIME:20100708T235300
+UID:1007081522_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100709T180000
+DTEND;VALUE=DATE-TIME:20100709T193400
+UID:1007090018_1_dore
+DESCRIPTION:Sala 1 - S S \n S S S S\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100709T200000
+DTEND;VALUE=DATE-TIME:20100709T220000
+UID:1007090020_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100709T222000
+DTEND;VALUE=DATE-TIME:20100710T002500
+UID:1007092022_1_dore
+DESCRIPTION:Sala 1 - S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100710T180000
+DTEND;VALUE=DATE-TIME:20100710T190300
+UID:1007100018_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
+ rograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100710T200000
+DTEND;VALUE=DATE-TIME:20100710T211100
+UID:1007100020_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100710T220000
+DTEND;VALUE=DATE-TIME:20100711T001200
+UID:1007100022_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100711T180000
+DTEND;VALUE=DATE-TIME:20100711T193800
+UID:1007110018_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100711T200000
+DTEND;VALUE=DATE-TIME:20100711T213400
+UID:1007110020_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100711T220500
+DTEND;VALUE=DATE-TIME:20100711T233900
+UID:1007110522_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100713T180000
+DTEND;VALUE=DATE-TIME:20100713T201200
+UID:1007130018_1_dore
+DESCRIPTION:Sala 1 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100713T203500
+DTEND;VALUE=DATE-TIME:20100713T220900
+UID:1007133520_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100713T222500
+DTEND;VALUE=DATE-TIME:20100713T235900
+UID:1007132522_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100714T180000
+DTEND;VALUE=DATE-TIME:20100714T195500
+UID:1007140018_1_dore
+DESCRIPTION:Sala 1 - S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cultu
  ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
  ion/2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Le Dernier Métro
-DTSTART;VALUE=DATE-TIME:20100722T222000
-DTEND;VALUE=DATE-TIME:20100723T003000
-UID:1007222022_1_dore
-DESCRIPTION:Sala 1 - Le Dernier Métro (El último metro\, François Truff
- aut\, 1980). Int.: Catherine Deneuve\, Gérard\nDepardieu\, Jean Poiret. F
- rancia. VOSE. 130'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
- cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Progr
- aDore79.pdf
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100714T201500
+DTEND;VALUE=DATE-TIME:20100714T213200
+UID:1007141520_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Lady Vanishes
-DTSTART;VALUE=DATE-TIME:20100723T180000
-DTEND;VALUE=DATE-TIME:20100723T193500
-UID:1007230018_1_dore
-DESCRIPTION:Sala 1 - The Lady Vanishes (Alarma en el expreso\, Alfred Hitc
- hcock\, 1938). Int.: Margaret Lockwood\,\nMichael Redgrave\, Paul Lukas. R
- eino Unido. VOSE. 95’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
- ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/
- PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:En la ciudad de Sylvia
-DTSTART;VALUE=DATE-TIME:20100723T200000
-DTEND;VALUE=DATE-TIME:20100723T210700
-UID:1007230020_1_dore
-DESCRIPTION:Sala 1 - En la ciudad de Sylvia (José Luis Guerin\, 2007). In
- t.: Pilar López de Ayala\, Xavier Lafitte\,\nTanja Czichi. España / Fran
- cia. 85’\n“Intentar transmitir la belleza de un rostro\, preguntarte c
- ómo capturarlo de la mejor manera o buscar las condiciones de rodaje que 
- lo permitan es algo básico. Me gusta pensar el cine como un arte del retr
- ato. En la ciudad de Sylvia es una película muy lúdica en su realizació
- n. Se trata de la búsqueda mítica de la mujer luminosa y el décalage co
- n el paisaje” (José Luis Guerin). Segunda proyección día 29. Coloquio
-  con José Luis Guerin entre las dos proyecciones. Unas fotos en la ciudad
-  de Sylvia (José Luis Guerin\, 2007). Documental. Vídeo. 67’\n“En ni
- ngún caso Unas fotos en la Ciudad de Sylvia deben verse como un esbozo\, 
- está hecha a partir de fotografías en blanco y negro\, mudas\, en ese ca
- so lo que cuenta es la pequeña elipsis que hay entre una fotografía y ot
- ra… Entre una foto y otra hay un tiempo que se fuga\, un misterio que se
-  escapa… Esas limitaciones autoimpuestas requerían de un enunciado en p
- rimera persona que actuara como vía o conductor. En este sentido esas not
- as son mucho más narrativas que En la Ciudad de Sylvia” (José Luis Gue
- rin).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
- cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cameraman
-DTSTART;VALUE=DATE-TIME:20100724T180000
-DTEND;VALUE=DATE-TIME:20100724T190900
-UID:1007240018_1_dore
-DESCRIPTION:Sala 1 - The Cameraman (El Cameraman\, Edward Sedgwick\, 1928)
- . Int.: Buster Keaton\, Marceline Day\, Harold Goodwin. EE UU. SRE. 69'\nL
- a primera película para MGM tras diez obras independientes. Keaton escrib
- ió después que firmar por la Metro fue el peor error de su carrera. Fina
- lmente\, descartó el guión que le imponían e improvisó escenas dignas 
- de sus mejores películas. Todos los elementos del arte y la metafísica d
- e Keaton se funden en una historia que le permite infinitas pirotecnias pi
- randellianas. Entrada libre para menores de 14 años.\n\n\nFuente: http://
- www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
- e/cine-dore/programacion/2010/PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L’Argent de poche
-DTSTART;VALUE=DATE-TIME:20100724T194500
-DTEND;VALUE=DATE-TIME:20100724T212900
-UID:1007244519_1_dore
-DESCRIPTION:Sala 1 - L’Argent de poche (La piel dura\, François Truffau
- t\, 1976). Int.: Nicole Félix\, Chantal Mercier\, Jean-François Stéveni
- n. Francia. VOSE*. 104'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
- ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/
- PrograDore79.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L’Homme qui aimait les femmes
-DTSTART;VALUE=DATE-TIME:20100724T220000
-DTEND;VALUE=DATE-TIME:20100724T235800
-UID:1007240022_1_dore
-DESCRIPTION:Sala 1 - L’Homme qui aimait les femmes (El amante del amor\,
-  François Truffaut\, 1977). Int.: Charles\nDenner\, Brigitte Fossey\, Nel
- ly Borgeaud. Francia. VOSE*. 118'\n\n\nFuente: http://www.mecd.gob.es/cult
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100714T223500
+DTEND;VALUE=DATE-TIME:20100715T001100
+UID:1007143522_1_dore
+DESCRIPTION:Sala 1 - S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cult
  ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
  cion/2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Le Dernier Métro
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20100715T180000
+DTEND;VALUE=DATE-TIME:20100715T195700
+UID:1007150018_1_dore
+DESCRIPTION:Sala 1 - S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100715T201500
+DTEND;VALUE=DATE-TIME:20100715T215500
+UID:1007151520_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100715T221500
+DTEND;VALUE=DATE-TIME:20100716T002700
+UID:1007151522_1_dore
+DESCRIPTION:Sala 1 - S S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S S
+DTSTART;VALUE=DATE-TIME:20100716T180000
+DTEND;VALUE=DATE-TIME:20100716T194100
+UID:1007160018_1_dore
+DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100716T201500
+DTEND;VALUE=DATE-TIME:20100716T214000
+UID:1007161520_1_dore
+DESCRIPTION:Sala 1 - S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100716T220000
+DTEND;VALUE=DATE-TIME:20100716T235500
+UID:1007160022_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100717T180000
+DTEND;VALUE=DATE-TIME:20100717T191500
+UID:1007170018_1_dore
+DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
+ rograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100717T194000
+DTEND;VALUE=DATE-TIME:20100717T213500
+UID:1007174019_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100717T220000
+DTEND;VALUE=DATE-TIME:20100718T000900
+UID:1007170022_1_dore
+DESCRIPTION:Sala 1 - S S \n S S \n S\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100718T180000
+DTEND;VALUE=DATE-TIME:20100718T193600
+UID:1007180018_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100718T200000
+DTEND;VALUE=DATE-TIME:20100718T213400
+UID:1007180020_1_dore
+DESCRIPTION:Sala 1 - S \n S \n S S\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100718T220000
+DTEND;VALUE=DATE-TIME:20100718T235700
+UID:1007180022_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100720T180000
+DTEND;VALUE=DATE-TIME:20100720T193900
+UID:1007200018_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100720T200000
+DTEND;VALUE=DATE-TIME:20100720T221000
+UID:1007200020_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100720T223500
+DTEND;VALUE=DATE-TIME:20100721T000900
+UID:1007203522_1_dore
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100721T180000
+DTEND;VALUE=DATE-TIME:20100721T194400
+UID:1007210018_1_dore
+DESCRIPTION:Sala 1 - S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100721T200500
+DTEND;VALUE=DATE-TIME:20100721T211500
+UID:1007210520_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100721T220000
+DTEND;VALUE=DATE-TIME:20100721T235200
+UID:1007210022_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100722T180000
+DTEND;VALUE=DATE-TIME:20100722T192900
+UID:1007220018_1_dore
+DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100722T200000
+DTEND;VALUE=DATE-TIME:20100722T215800
+UID:1007220020_1_dore
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100722T222000
+DTEND;VALUE=DATE-TIME:20100723T003000
+UID:1007222022_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100723T180000
+DTEND;VALUE=DATE-TIME:20100723T193500
+UID:1007230018_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S
+DTSTART;VALUE=DATE-TIME:20100723T200000
+DTEND;VALUE=DATE-TIME:20100723T210700
+UID:1007230020_1_dore
+DESCRIPTION:Sala 1 - S S \n \n S S S S \n S S\n\n\nFuente: http://www.mecd
+ .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
+ ore/programacion/2010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100724T180000
+DTEND;VALUE=DATE-TIME:20100724T190900
+UID:1007240018_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S S S
+DTSTART;VALUE=DATE-TIME:20100724T194500
+DTEND;VALUE=DATE-TIME:20100724T212900
+UID:1007244519_1_dore
+DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 10/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
+DTSTART;VALUE=DATE-TIME:20100724T220000
+DTEND;VALUE=DATE-TIME:20100724T235800
+UID:1007240022_1_dore
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore79.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S
 DTSTART;VALUE=DATE-TIME:20100725T180000
 DTEND;VALUE=DATE-TIME:20100725T201000
 UID:1007250018_1_dore
-DESCRIPTION:Sala 1 - Le Dernier Métro (El último metro\, François Truff
- aut\, 1980). Int.: Catherine Deneuve\, Gérard\nDepardieu\, Jean Poiret. F
- rancia. VOSE. 130'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
- cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Progr
- aDore79.pdf
+DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La macchina ammazzacattivi
+SUMMARY:S
 DTSTART;VALUE=DATE-TIME:20100725T203000
 DTEND;VALUE=DATE-TIME:20100725T215000
 UID:1007253020_1_dore
-DESCRIPTION:Sala 1 - La macchina ammazzacattivi (Roberto Rossellini\, 1948
- -1952). Int.: Gennaro Pisano\, Giovanni\nAmato\, William Tubbs. Italia. VO
- SI/E*. 80’\n“Resulta difícil considerar fortuita la elección de esa 
- ‘máquina de matar malvados’ que constituye el objeto del relato. Se t
- rata de una cámara fotográfica\, pero su poder mortal no se ejerce al fo
- tografiar personajes reales\, sino simplemente su imagen fotográfica. (
- …) A través de la fotografía\, de la comedia\, se pone en duda la real
- idad del cine\, capaz de dar una reproducción perfecta de la vida\, pero 
- sólo en su aspecto más externo\, sólo conserva la apariencia de la vida
- ” (José Luis Guarner).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
- /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/201
- 0/PrograDore79.pdf
+DESCRIPTION:Sala 1 - S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Femme d’à côté
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20100725T222000
 DTEND;VALUE=DATE-TIME:20100726T000600
 UID:1007252022_1_dore
-DESCRIPTION:Sala 1 - La Femme d’à côté (La mujer de al lado\, Franço
- is Truffaut\, 1981). Int.: Gérard Depardieu\, Fanny Ardant\, Henri Garcin
- . Francia. VOSE*. 106'\n“Si La mujer de al lado es un film logrado y\, e
- n última instancia\, conmovedor\, es porque Truffaut\, enemigo del exhibi
- cionismo de las pasiones y las ideas\, hombre de justos medios y de compro
- misos\, intenta esta vez filmar el compromiso mismo\, hacer de él la mate
- ria\, la forma misma de su film. (…) Apuesta por salir de La Chambre ver
- te\, de mezclar el argumento-Hyde (la pasión mórbida y privada) y el arg
- umento-Jekyll (los otros\, la vida pública)” (Serge Daney). Segunda pro
- yección día 27.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
- d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Progra
- Dore79.pdf
+DESCRIPTION:Sala 1 - S S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Femme d’à côté
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20100727T180000
 DTEND;VALUE=DATE-TIME:20100727T194600
 UID:1007270018_1_dore
-DESCRIPTION:Sala 1 - La Femme d’à côté (La mujer de al lado\, Franço
- is Truffaut\, 1981). Int.: Gérard Depardieu\, Fanny Ardant\, Henri Garcin
- . Francia. VOSE*. 106'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
- rograDore79.pdf
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barry Lyndon
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20100727T203000
 DTEND;VALUE=DATE-TIME:20100727T233400
 UID:1007273020_1_dore
-DESCRIPTION:Sala 1 - Barry Lyndon (Barry Lyndon\, Stanley Kubrick\, 1975).
-  Int.: Ryan O'Neal\, Marisa Berenson\,\nPatrick Magee. Reino Unido. VOSE. 
- 184’\n“Esta personal\, idiosincrática\, melancólica\, y larga adapta
- ción de la novela de Tackeray está exquisitamente fotografiada con luz n
- atural por John Alcott\, cuyo frecuente uso del zoom de retroceso nos dist
- ancia\, tanto histórica como emocionalmente\, de esta enmarañada narrati
- va picaresca sobre un advenedizo del siglo XVIII. A pesar de sus fúnebres
-  atmósferas y ritmo lento\, la película es un relato muy logrado\, const
- ruido en torno a uno de los duelos con más suspense jamás organizados. T
- ambién merece atención como una compleja y fascinante meditación histó
- rica\, a su manera tan enigmática como 2001: Una odisea del espacio” (J
- onathan Rosenbaum).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
- ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/Prog
- raDore79.pdf
+DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Amor idiota
+SUMMARY:S S S
 DTSTART;VALUE=DATE-TIME:20100728T180000
 DTEND;VALUE=DATE-TIME:20100728T194500
 UID:1007280018_1_dore
-DESCRIPTION:Sala 1 - Amor idiota (Ventura Pons\, 2004). Int.: Santi Millá
- n\, Cayetana Guillén Cuervo\, Mercè Pons. VOESI. 105’\nEn medio de una
-  crisis personal\, después de una noche de copas en la que Pere-Lluc sale
-  sólo para olvidar las penas\, tropieza de camino a casa con la escalera 
- de aluminio de una chica\, Sandra\, que se dedica a colgar banderolas en l
- as farolas. Cae al suelo y\, conmocionado\, se queda fascinado por ella.\n
- \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
- s-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
+DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:De Mayerling à Sarajevo
+SUMMARY:S S S S
 DTSTART;VALUE=DATE-TIME:20100728T200500
 DTEND;VALUE=DATE-TIME:20100728T214000
 UID:1007280520_1_dore
-DESCRIPTION:Sala 1 - De Mayerling à Sarajevo (De Mayerling a Sarajevo\, M
- ax Ophüls\, 1940). Int.: Edwige Feuillère\, John Lodge\, Raymond Aymos. 
- Francia. VOSE*. 95’\nSuntuoso drama histórico filmado en el extravagant
- e estilo de su obra tardía\, la película tiene lugar en la corrupta cort
- e del imperio Austrohúngaro\, y narra el romance entre la Condesa Sofía 
- y el Archiduque Franz Ferdinand\, sumidos ya en los acontecimientos que co
- ndujeron a la Primera Guerra Mundial. Ophüls se deleita con la elegancia 
- de la vida cortesana y característicamente está más interesado en la di
- fícil situación de la condesa que en la inminente caída del heredero ap
- arente. Encontramos pues a Ophüls saboreando aquello que mejor supo hacer
-  –observando irónicamente a la aristocracia y retratando un romance agr
- idulce sobre un fondo de óperas\, bailes\, y paseos por el bosque. Segund
- a proyección día 31.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
- rograDore79.pdf
+DESCRIPTION:Sala 1 - S S S S \nS S S\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Do The Right Thing
+SUMMARY:S S S
 DTSTART;VALUE=DATE-TIME:20100728T220000
 DTEND;VALUE=DATE-TIME:20100729T000000
 UID:1007280022_1_dore
-DESCRIPTION:Sala 1 - Do The Right Thing (Haz lo que debas\, Spike Lee\, 19
- 89). Int.: Danny Aiello\, Ossie Davis\, Ruby Dee. EE UU. VOSE. 120’\nEn 
- uno de los barrios más humildes de Brooklyn\, Bedford Stuyvesant\, conviv
- en atropelladamente varias familias de raza negra\, algunos hispanos\, una
-  pareja de comerciantes vietnamitas y una familia de italoamericanos que t
- ienen una pizzería. Mookie\, un chico que trabaja de repartidor de pizzas
- \, es un testigo privilegiado de la cotidianeidad del barrio\, así como d
- e las tensiones y las actitudes racistas de algunos de sus habitantes.\n\n
- \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
- cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
+DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La mala educación
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20100729T180000
 DTEND;VALUE=DATE-TIME:20100729T194500
 UID:1007290018_1_dore
-DESCRIPTION:Sala 1 - La mala educación (Pedro Almodóvar\, 2004). Int.: G
- ael García Bernal\, Fele Martínez\, Javier Cámara. VOESI. 105’\n“La
-  película no supone una reflexión sobre la movida madrileña de principi
- os de los ochenta\, aunque gran parte transcurra en el Madrid de esa époc
- a. Lo que me interesa de ese momento histórico es la borrachera de libert
- ad que vivía España\, en oposición al oscurantismo y la represión de l
- os años 60. Los primeros ochenta son\, por ello\, el marco ideal para que
-  los protagonistas\, ya adultos\, sean dueños de sus destinos\, de sus cu
- erpos y de sus deseos” (Pedro Almodóvar).\n\n\nFuente: http://www.mecd.
- gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
- re/programacion/2010/PrograDore79.pdf
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Picnic at Hanging Rock
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20100729T200500
 DTEND;VALUE=DATE-TIME:20100729T220000
 UID:1007290520_1_dore
-DESCRIPTION:Sala 1 - Picnic at Hanging Rock (Picnic en Hanging Rock\, Pete
- r Weir\, 1975). Int.: Rachel Roberts\, Vivean Gray\, Helen Morse. Australi
- a. VOSE. 115’\nNarra los hechos acaecidos el día de San Valentín de 19
- 00 en la formación volcánica de Hanging Rock\, en el estado australiano 
- de Victoria. Según cuenta la leyenda\, cuatro alumnas y una maestra del c
- olegio Appleyard de la localidad de Woodend\, desaparecieron sin dejar ras
- tro durante una excursión escolar al enigmático lugar.\n\n\nFuente: http
- ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
- c/fe/cine-dore/programacion/2010/PrograDore79.pdf
+DESCRIPTION:Sala 1 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vivement dimanche!
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20100729T222000
 DTEND;VALUE=DATE-TIME:20100730T001100
 UID:1007292022_1_dore
-DESCRIPTION:Sala 1 - Vivement dimanche! (Vivamente el domingo François Tr
- uffaut\, 1983). Int.: Fanny Ardant\, Jean-Louis Trintignant\, Jean-Pierre 
- Kalfon. Francia. VOSE. 111'\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 010/PrograDore79.pdf
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La cicatriz
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20100730T180000
 DTEND;VALUE=DATE-TIME:20100730T193700
 UID:1007300018_1_dore
-DESCRIPTION:Sala 1 - La cicatriz (Pablo Llorca\, 2004). Int.: Angela Pugh\
- , Ludovic Tattevin\, Joan Keary. VOI/ASE.\n97’\n“Igual que algunos eje
- mplos de arte pop\, La cicatriz es más un objeto que una película. O qui
- zás una película-fotocopia que vacía las convenciones del cine de espí
- as para dejarlo en los huesos\, en el puro reflejo de sí mismo. Por un la
- do\, esa estrategia habla de la imposibilidad de contar ese tipo de histor
- ias hoy en día\, de su inutilidad. Por otro\, acaba mostrando el espectro
-  de unas vidas condenadas al reino de las sombras\, los espectros de sí m
- ismas\, localizado en un universo paralelo donde la ficción ya no pretend
- e acercarse a la realidad” (Carlos Losilla).\n\n\nFuente: http://www.mec
- d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
- dore/programacion/2010/PrograDore79.pdf
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Femme d’à côté
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20100730T200000
 DTEND;VALUE=DATE-TIME:20100730T214600
 UID:1007300020_1_dore
-DESCRIPTION:Sala 1 - La Femme d’à côté (La mujer de al lado\, Franço
- is Truffaut\, 1981). Int.: Gérard Depardieu\, Fanny Ardant\, Henri Garcin
- . Francia. VOSE*. 106'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
- rograDore79.pdf
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El milagro de Candeal
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20100730T221000
 DTEND;VALUE=DATE-TIME:20100731T002300
 UID:1007301022_1_dore
-DESCRIPTION:Sala 1 - El milagro de Candeal (Fernando Trueba\, 2004). Docum
- ental. VOSE. 133’\n“Me gusta llamarlo un musical social. Porque cuenta
-  el viaje de un hombre\, pero también la historia de una comunidad\, y el
-  encuentro entre Cuba y Brasil\, la música\, la negritud\, la esclavitud\
- , lo que eso ha supuesto allí. Y a la vez muestra cómo una comunidad neg
- ra de Bahia intenta mejorar su vida a través del arte” (Fernando Trueba
- ).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
- areas-cultura/cine/mc/fe/cine-dore/programacion/2010/PrograDore79.pdf
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Das Feuerzeug
+SUMMARY:S S S
 DTSTART;VALUE=DATE-TIME:20100731T180000
 DTEND;VALUE=DATE-TIME:20100731T192000
 UID:1007310018_1_dore
-DESCRIPTION:Sala 1 - Das Feuerzeug (El mechero maravilloso\, Siegfried Har
- tmann\, 1977). Int.: Rolf Ludwig\, Heinz Schubert\, Rolf Defrank. Alemania
- . VE. 80’\nLa película narra la historia de un soldado que\, descontent
- o con su suerte\, decide pedir audiencia a su rey. Por el camino\, y graci
- as a una anciana\, encuentra un tesoro que repartirá entre todos sus veci
- nos. Sin embargo\, cuando él se vuelve pobre\, descubre que nadie es capa
- z de ayudarle. Entrada libre para menores de 14 años.\n\n\nFuente: http:/
- /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
- fe/cine-dore/programacion/2010/PrograDore79.pdf
+DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vivement dimanche!
+SUMMARY:S S
 DTSTART;VALUE=DATE-TIME:20100731T200000
 DTEND;VALUE=DATE-TIME:20100731T215100
 UID:1007310020_1_dore
-DESCRIPTION:Sala 1 - Vivement dimanche! (Vivamente el domingo François Tr
- uffaut\, 1983). Int.: Fanny Ardant\, Jean-Louis Trintignant\, Jean-Pierre 
- Kalfon. Francia. VOSE. 111'\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 010/PrograDore79.pdf
+DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010
+ /PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:De Mayerling à Sarajevo
+SUMMARY:S S S
 DTSTART;VALUE=DATE-TIME:20100731T221000
 DTEND;VALUE=DATE-TIME:20100731T234500
 UID:1007311022_1_dore
-DESCRIPTION:Sala 1 - De Mayerling à Sarajevo (De Mayerling a Sarajevo\, M
- ax Ophüls\, 1940). Int.: Edwige\nFeuillère\, John Lodge\, Raymond Aymos.
-  Francia. VOSE*. 95’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2010/P
- rograDore79.pdf
+DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2010/PrograDore79.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR
