@@ -4,993 +4,1449 @@ PRODID:-//Cine Doré//github.com santos82 doredb//ES
 X-WR-CALNAME:Cine Dore
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:I compagni
 DTSTART;VALUE=DATE-TIME:20081102T173000
 DTEND;VALUE=DATE-TIME:20081102T194000
 UID:0811023017_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore59.pdf
+DESCRIPTION:Sala 1 - I compagni (Los compañeros\, Mario Monicelli\, 1963)
+ . Int.: Marcello Mastroianni\, Renato Salvatori\, Gabriella Giorgelli. Ita
+ lia. VOSI/E*. 130’\n"Me di cuenta que casi siempre tendía a hacer la mi
+ sma película: un grupo de personas solas\, abandonadas\, que se juntan pa
+ ra llevar a cabo una empresa que les permita cambiar de vida. (...) Pero l
+ a empresa es más grande que ellos y fracasan. La historia no tiene un fin
+ al feliz\, pero de su trayectoria surge la diversión. (...) Así sucede t
+ ambién en I compagni. Los obreros se unen porque quieren mejorar su condi
+ ción. Se organizan ante el capataz\, llevan a cabo una huelga con todo lo
+  que ello comporta y después fracasan. Asi es la comedia a la italiana" (
+ Mario Monicelli).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
+ d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/Progra
+ Dore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:O Convento
 DTSTART;VALUE=DATE-TIME:20081102T200000
 DTEND;VALUE=DATE-TIME:20081102T213000
 UID:0811020020_1_dore
-DESCRIPTION:Sala 1 - S S \n S S S S\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2008/PrograDore59.pdf
+DESCRIPTION:Sala 1 - O Convento (El convento\, Manoel de Oliveira\, 1995).
+  Int.: Catherine Deneuve\, John Malkovich\, Luis Miguel Cintra. Portugal /
+  Francia. VOSF/E*. 90’\nEl profesor Michael Padovic trata de demostrar q
+ ue Shakespeare tenía ascendencia española. Pero le faltan unos documento
+ s que cree que se encuentran en los archivos del antiquísimo Convento de 
+ la Rábida\, en Portugal. Se instala allí con su esposa Hélène. Su anfi
+ trión es el guardián del convento\, un extraño personaje que responde a
+ l nombre de Baltar. Segunda proyección día 5.\n\n\nFuente: http://www.me
+ cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
+ -dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Casanova '70
 DTSTART;VALUE=DATE-TIME:20081102T220000
 DTEND;VALUE=DATE-TIME:20081102T234600
 UID:0811020022_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore59.pdf
+DESCRIPTION:Sala 1 - Casanova '70 (Casanova 70\, Mario Monicelli\, 1965). 
+ Int.: Marcello Mastroianni\, Virna Lisi\, Enrico Maria Salerno. Italia. VO
+ SE. 106’\n"A otras comedias de desigual interés y fortuna\, si algo las
+  caracteriza en común\, sería un cierto traspaso al cosmopolitismo\, por
+  cuya vía tal vez pierden parte de la pertinencia de trabajos anteriores.
+  Así el protagonista de Casanova´70 es un conquistador\, mayor de la OTA
+ N –inevitablemente encarnado por el gran seductor Mastroianni– que pre
+ senta la particularidad de sólo ejercer sus dotes en situaciones de pelig
+ ro" (José Enrique Monterde). Segunda proyección día 5.\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:No me pidas que te bese porque te besaré
 DTSTART;VALUE=DATE-TIME:20081104T173000
 DTEND;VALUE=DATE-TIME:20081104T190500
 UID:0811043017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore59.pdf
+DESCRIPTION:Sala 1 - No me pidas que te bese porque te besaré (Albert Esp
+ inosa\, 2008). Int.: Eloy Azorín\, Albert Espinosa\, Teresa Hurtado. 95'\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Amici miei
 DTSTART;VALUE=DATE-TIME:20081104T193000
 DTEND;VALUE=DATE-TIME:20081104T211900
 UID:0811043019_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore59.pdf
+DESCRIPTION:Sala 1 - Amici miei (Habitación para cuatro\, Mario Monicelli
+ \, 1975). Int.: Ugo Tognazzi\, Gastone\nMoschin\, Philippe Noiret. Italia.
+  VOSE*. 109’\nCopia cortesía de Filmauro. Necchi\, propietario de un ba
+ r\; Perozzi\, periodista\; Melandri\, arquitecto\; y Macetti\, noble arrui
+ nado\, son amigos desde la infancia. Pasan el tiempo organizando bromas te
+ rribles a todo el que se les pone por delante\, para así exorcizar la vej
+ ez y la muerte.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDo
+ re59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Party
 DTSTART;VALUE=DATE-TIME:20081104T200000
 DTEND;VALUE=DATE-TIME:20081104T213100
 UID:0811040020_2_dore
-DESCRIPTION:Sala 2 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore59.pdf
+DESCRIPTION:Sala 2 - Party (Party\, Manoel de Oliveira\, 1996). Int.: Mich
+ el Piccoli\, Irene Papas\, Leonor Silveira. Portugal. VOSE. 91’\n"La int
+ ención de esta película es mostrar lo bueno que tienen las mujeres\, per
+ o también lo perverso y lleno de maldad que es su "efecto" en los hombres
+ . Pero a la vez\, y no tan paradójicamente como pudiera parecer\, muestra
+  exactamente lo contrario\, o sea\, la existencia de mujeres "malvadas" y 
+ santos varones. Los hechos demuestran la existencia de un conflicto latent
+ e entre lo masculino y lo femenino y ni la experiencia ni la edad pueden m
+ ejorar esta triste situación. Pero\, aunque sea imposible resolverlo\, la
+  sabia naturaleza dispone la situación para que se perpetue y así romper
+  la monotonía que genera el tedio y para provocar y estimular las relacio
+ nes entre los mismos. El resto\, si hay un resto\, podemos llamarlo amor" 
+ (Manoel de Oliveira). Segunda proyección día 8.\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:Inquietude
 DTSTART;VALUE=DATE-TIME:20081104T220000
 DTEND;VALUE=DATE-TIME:20081104T235600
 UID:0811040022_1_dore
-DESCRIPTION:Sala 1 - S S S S \n S S S\n\n\nFuente: http://www.mecd.gob.es/
- cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
- ramacion/2008/PrograDore59.pdf
+DESCRIPTION:Sala 1 - Inquietude (Inquietud\, Manoel de Oliveira\, 1998). I
+ nt.: Luís Miguel Cintra\, Isabel Ruth\, Leonor Silveira. VOSE. Portugal /
+  Francia / España / Suiza. 116’\n"Con Inquietud\, Oliveira regresa a un
+  origen narrativamente 'estilizado' como en Mon Cas y A Divína Comédia. 
+ En Inquietud adapta tres historias casi como tres episodios: la obra teatr
+ al Os Imortais de Prista Monteiro (1922-1994)\, el cuento "Suzy" del escri
+ tor simbolista António Patrício (1878-1930) y el cuento "A Mãe de Um Ri
+ o" de Agustina. Sólo que esas tres historias se convierten a un único pu
+ nto de vista mediante una hábil fusión a mitad de la película" (João B
+ énard da Costa). Segunda proyección día 16.\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Diario de una ninfómana
 DTSTART;VALUE=DATE-TIME:20081105T173000
 DTEND;VALUE=DATE-TIME:20081105T191800
 UID:0811053017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
+DESCRIPTION:Sala 1 - Diario de una ninfómana (Christian Molina\, 2008). I
+ nt.: Belén Fabra\, Leonardo Sbaraglia\, Llum Barrera. 108'\n\n\nFuente: h
+ ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
+ e/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Casanova '70
 DTSTART;VALUE=DATE-TIME:20081105T194000
 DTEND;VALUE=DATE-TIME:20081105T212600
 UID:0811054019_1_dore
-DESCRIPTION:Sala 1 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore59.pdf
+DESCRIPTION:Sala 1 - Casanova '70 (Casanova 70\, Mario Monicelli\, 1965). 
+ Int.: Marcello Mastroianni\, Virna Lisi\,\nEnrico Maria Salerno. Italia. V
+ OSE. 106’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
+ ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59
+ .pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:O Convento
 DTSTART;VALUE=DATE-TIME:20081105T200000
 DTEND;VALUE=DATE-TIME:20081105T213000
 UID:0811050020_2_dore
-DESCRIPTION:Sala 2 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore59.pdf
+DESCRIPTION:Sala 2 - O Convento (El convento\, Manoel de Oliveira\, 1995).
+  Int.: Catherine Deneuve\, John\nMalkovich\, Luis Miguel Cintra. Portugal 
+ / Francia. VOSF/E*. 90’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/200
+ 8/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:L’Armata Brancaleone
 DTSTART;VALUE=DATE-TIME:20081105T220000
 DTEND;VALUE=DATE-TIME:20081105T235800
 UID:0811050022_1_dore
-DESCRIPTION:Sala 1 - S \n S S \n S\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2008/PrograDore59.pdf
+DESCRIPTION:Sala 1 - L’Armata Brancaleone (La armada Brancaleone\, Mario
+  Monicelli\, 1965). Int.: Vittorio\nGassman\, Catherine Spaak\, Folco Lull
+ i. Italia / Francia. VOSE*. 118’\nPrimera entrega de las atribuladas ave
+ nturas de Brancaleone da Norcia (Gassman)\, un caballero medieval sin fort
+ una alguna\, y sus desarrapados seguidores. Su intención es conquistar un
+  feudo\, pero por el camino deberán enfrentarse a\, entre otras cosas\, l
+ a peste\, los piratas sarracenos y los forajidos que han secuestrado a una
+  hermosa doncella. Crónica realista de la barbarie del medievo.\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Rivales
 DTSTART;VALUE=DATE-TIME:20081106T173000
 DTEND;VALUE=DATE-TIME:20081106T192000
 UID:0811063017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
+DESCRIPTION:Sala 1 - Rivales (Fernando Colomo\, 2008). Int.: Ernesto Alter
+ io\, Gonzalo de Castro\, Santi Millán. 110'\n\n\nFuente: http://www.mecd.
+ gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
+ re/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:La Lettre
 DTSTART;VALUE=DATE-TIME:20081106T194000
 DTEND;VALUE=DATE-TIME:20081106T212000
 UID:0811064019_1_dore
-DESCRIPTION:Sala 1 - S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cultu
- ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
- ion/2008/PrograDore59.pdf
+DESCRIPTION:Sala 1 - La Lettre (La carta\, Manoel de Oliveira\, 1999). Int
+ .: Chiara Mastroianni\, Pedro Abrunhosa\,\nFrançoise Fabian. Portugal /Fr
+ ancia / España. VOSE. 100’\n"La acción se traslada del siglo XVII al s
+ iglo XX. Madame de Clèves sigue siendo una princesa\, hija de los duques 
+ de Chartres\, pero su pasión no es un noble\, sino un cantante pop\, Pedr
+ o Abrunhosa\, estrella portuguesa cuya asociación con Oliveira fue la gra
+ n sorpresa de la película. Al contrario que en la novela\, al final de la
+  narración Madame de Clèves no escoge la reclusión\, sino dedicarse a l
+ os desheredados del tercer mundo\, encontrando cierta paz en paliar la inm
+ ensa miseria humana que desconocía. Esa nueva vida se cuenta en la carta 
+ (de ahí el título) que escribe a una monja\, su mejor amiga\, un persona
+ je ajeno al libro\, creación de Oliveira" (João Bénard da Costa). Segun
+ da proyección día 22.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
+ ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/
+ PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:Brancaleone alle crociate
 DTSTART;VALUE=DATE-TIME:20081106T200000
 DTEND;VALUE=DATE-TIME:20081106T221800
 UID:0811060020_2_dore
-DESCRIPTION:Sala 2 - S S S S \n S S S\n\n\nFuente: http://www.mecd.gob.es/
- cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
- ramacion/2008/PrograDore59.pdf
+DESCRIPTION:Sala 2 - Brancaleone alle crociate (Brancaleone en las cruzada
+ s\, Mario Monicelli\, 1969). Int.: Vittorio Gassman\, Adolfo Celi\, Stefan
+ ia Sandrelli. Italia. VOSE*. 138’\nAcuciado por el productor\, Monicelli
+  rodó esta segunda parte en la que el caballero y sus harapientos seguido
+ res\, tras fracasar en la conquista del feudo\, parten hacia Tierra Santa\
+ , donde los logros -hallar el Santo Sepulcro\, ni más ni menos- no serán
+  mucho mejores.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDo
+ re59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Porto da Minha Infância
 DTSTART;VALUE=DATE-TIME:20081106T220000
 DTEND;VALUE=DATE-TIME:20081106T233000
 UID:0811060022_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore59.pdf
+DESCRIPTION:Sala 1 - Porto da Minha Infância (Oporto de mi infancia\, Man
+ oel de Oliveira\, 2001). 62’. As Pinturas do Meu Irmão Júlio (Manoel d
+ e Oliveira\, 1965). 18’. A Vida e a Morte. Romance de Vila do Conde (Man
+ oel de Oliveira\, 1965-2008). Vídeo. 6’. O Poeta Doido\, o Vitral e a S
+ anta Morta (Manoel de Oliveira\, 1965-2008). Vídeo. 7’. VOSE*. Total pr
+ ograma: 90’\nCopia Porto... cortesía de Lusomundo. Porto...: "Con la li
+ bertad de inspiración y rigor de escritura que lo caracterizan\, Manoel r
+ egresa a su ciudad natal\, que ya había inspirado su primera película\, 
+ Douro... así como su regreso a las cámaras en 1956\, O Pintor e a Cidade
+ . En esas obras Oliveira había filmado lo que veía. En Porto...escoge fi
+ lmar lo que ya no existe\, lo que pueden ver los ojos de la memoria\, de '
+ su' memoria" (Jacques Parsi). Pinturas...: La nostalgia del escritor José
+  Régio\, le remueve la memoria: los cuadros de su hermano Júlio dos Reis
+  Pereira\, guardados en la vieja casa en la que ambos nacieron. Segunda pr
+ oyección día 15.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/Progr
+ aDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Gente de mala calidad
 DTSTART;VALUE=DATE-TIME:20081107T173000
 DTEND;VALUE=DATE-TIME:20081107T190300
 UID:0811073017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
+DESCRIPTION:Sala 1 - Gente de mala calidad (Juan Cavestany\, 2008). Int.: 
+ Alberto San Juan\, Maribel Verdú\, Fernando Tejero. 93'\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:La mortadella
 DTSTART;VALUE=DATE-TIME:20081107T193000
 DTEND;VALUE=DATE-TIME:20081107T210300
 UID:0811073019_1_dore
-DESCRIPTION:Sala 1 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore59.pdf
+DESCRIPTION:Sala 1 - La mortadella (Mortadela\, Mario Monicelli\, 1971). I
+ nt.: Sophia Loren\, Gigi Proietti\, William\nDevane. Italia. VOSE*.109’ 
+ “La mortadella es la historia de una italiana que va a los Estados Unido
+ s a casarse pero después de una breve experiencia americana prefiere volv
+ erse a casa. No estoy satisfecho de este film\; no tiene mordiente. De otr
+ a parte\, no quería hacer un retrato a priori hostil de los Estados Unido
+ s acabando de llegar de Italia…” (Mario Monicelli). Segunda proyecció
+ n día 12.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.
+ pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Palavra e Utopia
 DTSTART;VALUE=DATE-TIME:20081107T200000
 DTEND;VALUE=DATE-TIME:20081107T221200
 UID:0811070020_2_dore
-DESCRIPTION:Sala 2 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore59.pdf
+DESCRIPTION:Sala 2 - Palavra e Utopia (Palabra y utopía\, Manoel de Olive
+ ira\, 2000). Int.: Lima Duarte\, Luis Miguel Cintra\, Ricardo Trepa. Portu
+ gal / Francia / Brasil / España. VOSE. 132’\nEn 1663\, el padre Antóni
+ o Vieira es convocado a Coimbra para comparecer ante el Tribunal del Santo
+  Oficio\, la terrible Inquisición. Las intrigas cortesanas y una desgraci
+ a ponen en peligro su posición como célebre predicador y amigo íntimo d
+ el difunto rey D. João IV. Ante sus jueces\, el padre António Vieira rec
+ uerda su pasado: su juventud en Brasil\, su adhesión a la causa de los in
+ dios y sus primeros éxitos desde el púlpito. Segunda proyección día 9.
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:La ragazza con la pistola
 DTSTART;VALUE=DATE-TIME:20081107T220000
 DTEND;VALUE=DATE-TIME:20081107T234000
 UID:0811070022_1_dore
-DESCRIPTION:Sala 1 - S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081108T173000
-DTEND;VALUE=DATE-TIME:20081108T183500
-UID:0811083017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081108T190000
-DTEND;VALUE=DATE-TIME:20081108T210600
-UID:0811080019_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20081108T200000
-DTEND;VALUE=DATE-TIME:20081108T213100
-UID:0811080020_2_dore
-DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081108T215000
-DTEND;VALUE=DATE-TIME:20081108T234900
-UID:0811085021_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20081109T173000
-DTEND;VALUE=DATE-TIME:20081109T205800
-UID:0811093017_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081109T190000
-DTEND;VALUE=DATE-TIME:20081109T211200
-UID:0811090019_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081109T220000
-DTEND;VALUE=DATE-TIME:20081109T234100
-UID:0811090022_1_dore
-DESCRIPTION:Sala 1 - S \n S \n S S S\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081111T173000
-DTEND;VALUE=DATE-TIME:20081111T194700
-UID:0811113017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081111T194500
-DTEND;VALUE=DATE-TIME:20081111T210200
-UID:0811114519_2_dore
-DESCRIPTION:Sala 2 - S S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20081111T200500
-DTEND;VALUE=DATE-TIME:20081111T214500
-UID:0811110520_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081111T220000
-DTEND;VALUE=DATE-TIME:20081111T233600
-UID:0811110022_1_dore
-DESCRIPTION:Sala 1 - S S \n S \n S S\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081112T173000
-DTEND;VALUE=DATE-TIME:20081112T191500
-UID:0811123017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081112T194000
-DTEND;VALUE=DATE-TIME:20081112T212500
-UID:0811124019_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081112T200000
-DTEND;VALUE=DATE-TIME:20081112T213000
-UID:0811120020_2_dore
-DESCRIPTION:Sala 2 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20081112T220000
-DTEND;VALUE=DATE-TIME:20081113T001500
-UID:0811120022_1_dore
-DESCRIPTION:Sala 1 - S S S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081113T173000
-DTEND;VALUE=DATE-TIME:20081113T191100
-UID:0811133017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081113T193000
-DTEND;VALUE=DATE-TIME:20081113T210500
-UID:0811133019_1_dore
-DESCRIPTION:Sala 1 - S \n S S \n S S\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081113T200000
-DTEND;VALUE=DATE-TIME:20081113T223200
-UID:0811130020_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081113T223000
-DTEND;VALUE=DATE-TIME:20081114T003000
-UID:0811133022_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20081114T173000
-DTEND;VALUE=DATE-TIME:20081114T184600
-UID:0811143017_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081114T191500
-DTEND;VALUE=DATE-TIME:20081114T212200
-UID:0811141519_1_dore
-DESCRIPTION:Sala 1 - S \n S \n S S\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081114T200000
-DTEND;VALUE=DATE-TIME:20081114T214100
-UID:0811140020_2_dore
-DESCRIPTION:Sala 2 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081114T220000
-DTEND;VALUE=DATE-TIME:20081114T234800
-UID:0811140022_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081115T173000
-DTEND;VALUE=DATE-TIME:20081115T185000
-UID:0811153017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081115T193000
-DTEND;VALUE=DATE-TIME:20081115T213200
-UID:0811153019_1_dore
-DESCRIPTION:Sala 1 - S \n S S S \n S S S\n\n\nFuente: http://www.mecd.gob.
- es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
- rogramacion/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20081115T200000
-DTEND;VALUE=DATE-TIME:20081115T213000
-UID:0811150020_2_dore
-DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081115T220000
-DTEND;VALUE=DATE-TIME:20081115T233000
-UID:0811150022_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081116T173000
-DTEND;VALUE=DATE-TIME:20081116T192500
-UID:0811163017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081116T191500
-DTEND;VALUE=DATE-TIME:20081116T211100
-UID:0811161519_2_dore
-DESCRIPTION:Sala 2 - S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081116T194500
-DTEND;VALUE=DATE-TIME:20081116T214200
-UID:0811164519_1_dore
-DESCRIPTION:Sala 1 - S \n S S \n S S S\n\n\nFuente: http://www.mecd.gob.es
+DESCRIPTION:Sala 1 - La ragazza con la pistola (La ragazza con pistola\, M
+ ario Monicelli\, 1968). Int.: Monica Vitti\, Carlo Giuffrè\, Stanley Bake
+ r. Italia. VOSE*. 100’\n"Una de las últimas manifestaciones de la comed
+ ia a la italiana y un intento (¿quizás una propuesta?) de mirar hacia fu
+ era\, hacia otras cinematografías\, en busca de nuevos modelos con los qu
+ e superar la crisis de un género tocado de muerte y que desaparecería de
+  escena a comienzos de la década siguiente. A su manera\, una sutil llama
+ da de atención para ampliar el campo de acción de la comedia y para actu
+ alizar tanto sus contenidos como\, en cierto sentido\, su superficie en la
+  búsqueda\, cada vez más afanosa\, de nuevos espectadores" (Antonio Sant
+ amarina). Segunda proyección día 11.\n\n\nFuente: http://www.mecd.gob.es
  /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
  gramacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Palabras que vienen del mar
+DTSTART;VALUE=DATE-TIME:20081108T173000
+DTEND;VALUE=DATE-TIME:20081108T183500
+UID:0811083017_1_dore
+DESCRIPTION:Sala 1 - Palabras que vienen del mar (Ángel Amigo\, 2008). Do
+ cumental. 65'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
+ ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore
+ 59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amici miei\, atto II
+DTSTART;VALUE=DATE-TIME:20081108T190000
+DTEND;VALUE=DATE-TIME:20081108T210600
+UID:0811080019_1_dore
+DESCRIPTION:Sala 1 - Amici miei\, atto II (Un quinteto loco\, Mario Monice
+ lli\, 1982). Int.: Ugo Tognazzi\, Gastone\nMoschin\, Adolfo Celi. Italia. 
+ VOSE*. 126’\nCopia cortesía de Filmauro. La película empieza donde ter
+ mina Habitación para cuatro\, con el funeral de Perozzi\, evocado tambié
+ n en algunos flashbacks\, como el de la inundación de Florencia de 1966. 
+ El tiempo ha pasado\, pero los protagonistas siguen con sus "zingarate"\, 
+ bromas cada vez más pesadas.\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Party
+DTSTART;VALUE=DATE-TIME:20081108T200000
+DTEND;VALUE=DATE-TIME:20081108T213100
+UID:0811080020_2_dore
+DESCRIPTION:Sala 2 - Party (Party\, Manoel de Oliveira\, 1996). Int.: Mich
+ el Piccoli\, Irene Papas\, Leonor Silveira. Portugal. VOSE. 91’\n\n\nFue
+ nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
+ ra/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El prado de las estrellas
+DTSTART;VALUE=DATE-TIME:20081108T215000
+DTEND;VALUE=DATE-TIME:20081108T234900
+UID:0811085021_1_dore
+DESCRIPTION:Sala 1 - El prado de las estrellas (Mario Camus\, 2007). Fotog
+ rafía: Hans Burmann. Int.: Alvaro de\nLuna\, Marian Aguilera\, Rodolfo Sa
+ ncho. España. 119'\nAlfonso\, un hombre jubilado entabla amistad con Mart
+ ín un joven aficionado al ciclismo. Alfonso\, apoyado por sus amigos\, ha
+ rá de Martín\, sin equipo ni patrocinadores un gran campeón\, y lo que 
+ es más importante un gran chico. Entrega del premio Golden Award a Hans B
+ urmann y clausura del Festival MadridImagen.\n\n\nFuente: http://www.mecd.
+ gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
+ re/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boccaccio 70
+DTSTART;VALUE=DATE-TIME:20081109T173000
+DTEND;VALUE=DATE-TIME:20081109T205800
+UID:0811093017_1_dore
+DESCRIPTION:Sala 1 - Boccaccio 70 (Boccaccio 70\, VV AA\, 1961). Episodio 
+ de Mario Monicelli: Renzo e Luciana. Int.: Marisa Solinas\, Germano Giglio
+ li. Italia. VOSE*. 208'\n"Curiosa operación que reunía a tres autores 'm
+ ayores' –Fellini\, Visconti y De Sica– con un emergente procedente del
+  género comedia\, Monicelli\, resultó uno de los más apreciables trabaj
+ os de nuestro cineasta\, lejano eso sí de los intereses de Ponti\, hasta 
+ el punto de suprimirlo en la versión comercializada fuera de Italia. Y si
+ n embargo\, Renzo e Luciana es una pequeña joya\, el retrato de una parej
+ a proletaria que ve imposibilitada su boda al trabajar en la misma factor
+ ía\; sin embargo se unen clandestinamente\, pero vuelven a estar separado
+ s al corresponder a turnos laborales distintos y\, finalmente\, serán des
+ pedidos al ser descubiertos" (José Enrique Monterde).\n\n\nFuente: http:/
+ /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
+ fe/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Palavra e Utopia
+DTSTART;VALUE=DATE-TIME:20081109T190000
+DTEND;VALUE=DATE-TIME:20081109T211200
+UID:0811090019_2_dore
+DESCRIPTION:Sala 2 - Palavra e Utopia (Palabra y utopía\, Manoel de Olive
+ ira\, 2000). Int.: Lima Duarte\, Luis Miguel Cintra\, Ricardo Trepa. Portu
+ gal / Francia / Brasil / España. VOSE. 132’\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vogliamo i colonnelli
+DTSTART;VALUE=DATE-TIME:20081109T220000
+DTEND;VALUE=DATE-TIME:20081109T234100
+UID:0811090022_1_dore
+DESCRIPTION:Sala 1 - Vogliamo i colonnelli (¡Queremos los coroneles!\, Ma
+ rio Monicelli\, 1972). Int.: Ugo Tognazzi\,\nCarla Tatò\, Duilio Del Pret
+ e. Italia. VOSI/E*. 101’\n“Cuando preparamos este film Age\, Scarpelli
+  y yo mismo\, Italia comenzaba a dar un giro a la derecha con el gobierno 
+ de Andreotti\, las posiciones del Almirante de la OTAN\, Birindelli\, y el
+  golpe de Estado previsto por el general De Lorenzo\, jefe del SIFAR\, los
+  servicios secretos italianos. Nosotros queríamos reflejar lo ridículo q
+ ue resultaba el ejército italiano\, ya que no lo habían hecho ellos mism
+ os\, mostrando lo payasos que eran nuestros coroneles. En segundo lugar\, 
+ queríamos prevenir al público contra el verdadero peligro representado p
+ or ‘el establishment’ en el poder\, oculto detrás de estos títeres m
+ anipulados según las necesidades de la causa. Este film\, lejos de ser un
+ a obra inventada\, fue construido intencionadamente sobre acontecimientos 
+ reales de nuestra historia nacional” (Mario Monicelli). Segunda proyecci
+ ón día 13.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore5
+ 9.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voces en imágenes
+DTSTART;VALUE=DATE-TIME:20081111T173000
+DTEND;VALUE=DATE-TIME:20081111T194700
+UID:0811113017_1_dore
+DESCRIPTION:Sala 1 - Voces en imágenes (Alfonso Suárez\, 2008). Document
+ al. 137'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pd
+ f
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lisboa Cultural
+DTSTART;VALUE=DATE-TIME:20081111T194500
+DTEND;VALUE=DATE-TIME:20081111T210200
+UID:0811114519_2_dore
+DESCRIPTION:Sala 2 - Lisboa Cultural (Manoel de Oliveira\, 1983). Document
+ al. VOSI/E*. 58’. O Improvável não é\nImpossível (Manoel de Oliveira
+ \, 2006). VOSE*. 19’. Vídeo. Total programa: 77’\n"No es un documenta
+ l sobre Lisboa sino una crónica de la historia cultural portuguesa\, orga
+ nizada a través de 17 intervenciones y de una planificación dictada por 
+ los siglos... Es una visión concreta\, objetiva\, desmitificada\, que mue
+ stra\, siglo a siglo\, lo que somos desde la conquista de Lisboa a los mor
+ os en 1147 hasta la revolución del 25 de abril "(Manoel de Oliveira). Seg
+ unda proyección día 20.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/200
+ 8/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La ragazza con la pistola
+DTSTART;VALUE=DATE-TIME:20081111T200500
+DTEND;VALUE=DATE-TIME:20081111T214500
+UID:0811110520_1_dore
+DESCRIPTION:Sala 1 - La ragazza con la pistola (La ragazza con pistola\, M
+ ario Monicelli\, 1968). Int.: Monica Vitti\, Carlo Giuffrè\, Stanley Bake
+ r. Italia. VOSE*. 100’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
+ /PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Um Filme Falado
+DTSTART;VALUE=DATE-TIME:20081111T220000
+DTEND;VALUE=DATE-TIME:20081111T233600
+UID:0811110022_1_dore
+DESCRIPTION:Sala 1 - Um Filme Falado (Una película hablada\, Manoel de Ol
+ iveira\, 2003). Int.: Leonor Silveira\,\nJohn Malkovich\, Catherine Deneuv
+ e. Portugal / Francia / Italia. VOSE. 96’\n"Una parábola cómica engañ
+ osamente arropada por un relato de viajes a lo siglo XIX. Una joven profes
+ ora de historia portuguesa y su hija zarpan de Lisboa hacia Bombay\, rastr
+ eando las raíces de la civilización durante sus paradas en Francia\, Ita
+ lia\,Grecia y Egipto. Tres famosas mujeres se unen al viaje y cenan cada n
+ oche con el capitán americano. En cierto sentido inocente y arcaica\, esp
+ ecialmente la asunción que que la 'civilización' se encuentra al Norte y
+  no al Sur del Mediterráneo\, pero esconde un aguijón buñueliano en su 
+ cola muy contemporáneo" (Jonathan Rosenbaum). Segunda proyección día 28
+ .\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
+ reas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La vida en rojo
+DTSTART;VALUE=DATE-TIME:20081112T173000
+DTEND;VALUE=DATE-TIME:20081112T191500
+UID:0811123017_1_dore
+DESCRIPTION:Sala 1 - La vida en rojo (Andrés Linares\, 2008). Int.: José
+  Luis Gómez\, Ingrid Rubio\, Pilar Bardem. 105'\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La mortadella
+DTSTART;VALUE=DATE-TIME:20081112T194000
+DTEND;VALUE=DATE-TIME:20081112T212500
+UID:0811124019_1_dore
+DESCRIPTION:Sala 1 - La mortadella (Mortadela\, Mario Monicelli\, 1971). I
+ nt.: Sophia Loren\, Gigi Proietti\, William\nDevane. Italia. VOSE*.109’\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Je Rentre à la Maison / Vou Para Casa
+DTSTART;VALUE=DATE-TIME:20081112T200000
+DTEND;VALUE=DATE-TIME:20081112T213000
+UID:0811120020_2_dore
+DESCRIPTION:Sala 2 - Je Rentre à la Maison / Vou Para Casa (Vuelvo a casa
+ \, Manoel de Oliveira\, 2001). Int.: Michel Piccoli\, Antoine Chappey\, Le
+ onor Baldaque. Portugal / Francia. VOSE. 90’\n"Una de las películas má
+ s sencillas de Oliveira y un éxito sorprendente tanto en Europa como en A
+ mérica\, Vuelvo a casa es una exquisita meditación sobre la edad\, la p
+ érdida y las sencillas alegrías de la vida. Piccoli interpreta a un anci
+ ano actor cuya familia muere en un accidente\, quedando únicamente su nie
+ to. A medida que pasa el tiempo queda claro que aún no ha superado la pen
+ a" (Andre Soares). Segunda proyección día 15.\n\n\nFuente: http://www.me
+ cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
+ -dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:O Princípio da Incerteza
+DTSTART;VALUE=DATE-TIME:20081112T220000
+DTEND;VALUE=DATE-TIME:20081113T001500
+UID:0811120022_1_dore
+DESCRIPTION:Sala 1 - O Princípio da Incerteza (El principio de la incerti
+ dumbre\, Manoel de Oliveira\, 2002). Int.: Leonor Baldaque\, Leonor Silvei
+ ra\, Isabel Ruth. Portugal / Francia. VOSE. 135’\n"Una joven heroina apa
+ rentemente inocente (el título se refiere a esa ambigüedad)\, hija de un
+  jugador compulsivo y que se compara con Juana de Arco acaba casada con un
+  rico corrupto que la lleva a vivir a la misma casa que su amante\, la due
+ ña de un burdel. (...) Su tratamiento manierista de la decadencia recuerd
+ a al último Bresson y\, visualmente\, a Eyes Wide Shut\, de Kubrick. Una 
+ obra obsesiva\, extraña y exquisita" (Jonathan Rosenbaum). Segunda proyec
+ ción día 23.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDor
+ e59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vogliamo i colonnelli
+DTSTART;VALUE=DATE-TIME:20081113T173000
+DTEND;VALUE=DATE-TIME:20081113T191100
+UID:0811133017_1_dore
+DESCRIPTION:Sala 1 - Vogliamo i colonnelli (¡Queremos los coroneles!\, Ma
+ rio Monicelli\, 1972). Int.: Ugo Tognazzi\, Carla Tatò\, Duilio Del Prete
+ . Italia. VOSI/E*. 101’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/200
+ 8/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viagem ao Princípio do Mundo
+DTSTART;VALUE=DATE-TIME:20081113T193000
+DTEND;VALUE=DATE-TIME:20081113T210500
+UID:0811133019_1_dore
+DESCRIPTION:Sala 1 - Viagem ao Princípio do Mundo (Viaje al principio del
+  mundo\, Manoel de Oliveira\, 1997).\nInt.: Marcello Mastroianni\, Jean-Yv
+ es Gautier\, Leonor Silveira. Portugal / Francia. VOSE. 95’\n"Esta pelí
+ cula\, es importante subrayarlo\, es una ficción sobre presencias\, nosta
+ lgias y atavismos. Los lugares son lo lugares reales. No es el caso de los
+  personajes\, que están todos representados por otras personas y no por e
+ llos mismos. Así\, Marcello Mastroianni hace el papel del director. Diogo
+  Dória el de João Bénard da Costa. Leonor Silveira el de Manuela de Fre
+ itas (con el nombre de Judite) y Manoel de Oliveira el de chófer" (Manoel
+  de Oliveira). Con la presencia de Manoel de Oliveira\, João Bénard da C
+ osta y Ricardo Trepa. Segunda proyección día 16.\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sangre de mayo
+DTSTART;VALUE=DATE-TIME:20081113T200000
+DTEND;VALUE=DATE-TIME:20081113T223200
+UID:0811130020_2_dore
+DESCRIPTION:Sala 2 - Sangre de mayo (José Luis Garci\, 2008). Int.: Quim 
+ Gutiérrez\, Paula Echevarría\, Manuel Galiana. 152'\n\n\nFuente: http://
+ www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
+ e/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A 15va Pedra
+DTSTART;VALUE=DATE-TIME:20081113T223000
+DTEND;VALUE=DATE-TIME:20081114T003000
+UID:0811133022_1_dore
+DESCRIPTION:Sala 1 - A 15va Pedra (La 15ª piedra\, Rita Azevedo Gomes\, 2
+ 005). Documental. Video. VOSE*. 120'\nEn una sala del Museo de Arte Antigu
+ o\, con la Anunciación de Leonardo Da Vinci como testigo\, Manoel de Oliv
+ eira y João Bénard da Costa conversan. Segunda proyección día 26.\n\n\
+ nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
+ ultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Princesa de África
+DTSTART;VALUE=DATE-TIME:20081114T173000
+DTEND;VALUE=DATE-TIME:20081114T184600
+UID:0811143017_1_dore
+DESCRIPTION:Sala 1 - Princesa de África (Juan Laguna\, 2007). Int.: Marem
+  Ndiaye\, Sonia Sampayo\, Pap Ndiaye. Vídeo. 76'\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:O Quinto Imperio. Ontem como Hoje
+DTSTART;VALUE=DATE-TIME:20081114T191500
+DTEND;VALUE=DATE-TIME:20081114T212200
+UID:0811141519_1_dore
+DESCRIPTION:Sala 1 - O Quinto Imperio. Ontem como Hoje (Manoel de Oliveira
+ \, 2004). Int.: Ricardo Trepa\, Luis\nMiguel Cintra\, Glória de Matos. Po
+ rtugal / Francia. VOSI/E* 127’\nCopia cortesía de Lusomundo. "El rey Se
+ bastião\, tras la estrepitosa derrota en la batalla de Alcazarquivir (157
+ 8)\, donde no se encontró su cuerpo\, se convirtió en el mito del Encubi
+ erto\, él que fuera antes el Deseado. (...) Curiosamente\, este mito form
+ a parte también de la mitología musulmana\, donde un Imam de la decimose
+ gunda generación volverá en un caballo blanco para vencer al mal y estab
+ lecer la concordia entre los pueblos. Esta obsesión histórica y utópica
+  del Quinto Imperio parece volver a ser una realidad. (...) Esta especie d
+ e vuelta a una lucha atávica e incoherente es también en cierto modo una
+  vuelta al mítico Quinto Imperio\, al Deseado y al Encubierto. Estos moti
+ vos me hicieron llamar a la película El Quinto Imperio: ayer como hoy" (M
+ anoel de Oliveira). Segunda proyección día 22.\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romanzo popolare
+DTSTART;VALUE=DATE-TIME:20081114T200000
+DTEND;VALUE=DATE-TIME:20081114T214100
+UID:0811140020_2_dore
+DESCRIPTION:Sala 2 - Romanzo popolare (Apasionada\, Mario Monicelli\, 1974
+ ). Int.: Ugo Tognazzi\, Ornella Muti\, Michele Placido. Italia. VOSE*. 101
+ ’\nGiulio Basletti\, obrero milanés se casa con una chica meridional mu
+ cho más joven que él\, Vincenzina Rotunno. Todo va bien hasta que aparec
+ e el policía Giovanni Pizzullo que se enamora de Vincenzina. Esta primero
+  le rechaza y luego cede a sus deseos. Giulio\, que hasta entonces se las 
+ daba de moderno\, echa de casa a su mujer\, quien criará sola a su hijo. 
+ Vincenzina\, deja luego a Giovanni y termina por llegar a un cierto entend
+ imiento con Giulio. Segunda proyección día 18.\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caro Michele
+DTSTART;VALUE=DATE-TIME:20081114T220000
+DTEND;VALUE=DATE-TIME:20081114T234800
+UID:0811140022_1_dore
+DESCRIPTION:Sala 1 - Caro Michele (Mario Monicelli\, 1976). Int.: Mariange
+ la Melato\, Lou Castel\, Alfonso Gatto. Italia. VOSI/E*. 108’\n"Es una n
+ ovela muy bien estructurada y quería adaptarla porque me interesaba cómo
+  muestra el fin de una época en Italia\, el fin de la clase burguesa en u
+ nos tiempos de cambios\, de feminismo\, de solidaridad. Estaba cerrándose
+  una época\, y no solamente en Italia\, también ocurría en casi toda Eu
+ ropa\, el fin de lo que podríamos llamar la dictadura de una cierta burgu
+ esía iluminada que estaba siendo superada por una clase más proletaria\,
+  de orígenes más humildes. El mundo estaba cambiando. Natalia Ginzburg l
+ o había reflejado muy bien en su novela y por esta razón quise hacer la 
+ película" (Mario Monicelli). Segunda proyección día 19.\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
+ /mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El espíritu del bosque
+DTSTART;VALUE=DATE-TIME:20081115T173000
+DTEND;VALUE=DATE-TIME:20081115T185000
+UID:0811153017_1_dore
+DESCRIPTION:Sala 1 - El espíritu del bosque (Manuel Gómez\, 2008). Anima
+ ción. 80'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.
+ pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un borghese piccolo piccolo
+DTSTART;VALUE=DATE-TIME:20081115T193000
+DTEND;VALUE=DATE-TIME:20081115T213200
+UID:0811153019_1_dore
+DESCRIPTION:Sala 1 - Un borghese piccolo piccolo (Un burgués pequeño\, m
+ uy pequeño\, Mario Monicelli\, 1977).\nInt.: Alberto Sordi\, Shelley Wint
+ ers\, Romolo Valli. Italia. VOSE*. 122’\n"La primera apuesta fuerte del 
+ filme fue la de aceptar en su totalidad la provocación del libro\, presen
+ tando quizás por primera vez al italiano medio como un auténtico monstru
+ o. La segunda audacia fundamental fue la de escoger como protagonista a Al
+ berto Sordi\, que no era sólo el mayor símbolo de la comedia a la italia
+ na\, sino también el actor que siempre había sabido convertir en simpát
+ icos y atractivos los defectos de bellaquería y oportunismo del italiano 
+ medio. 'Jugué una carta bastante arriesgada” –admitió después Monic
+ elli–\, porque podía parecer un filme fascista\; el peligro consistía 
+ en haber elegido a Sordi\, porque si hubiese tomado a Volonté se habría 
+ convertido fácilmente en un personaje odioso'.” (Renato Venturelli). Se
+ gunda proyección día 18.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 08/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Porto da Minha Infância
+DTSTART;VALUE=DATE-TIME:20081115T200000
+DTEND;VALUE=DATE-TIME:20081115T213000
+UID:0811150020_2_dore
+DESCRIPTION:Sala 2 - Porto da Minha Infância (Oporto de mi infancia\, Man
+ oel de Oliveira\, 2001). 62’. As Pinturas do Meu Irmão Júlio (Manoel d
+ e Oliveira\, 1965). 18’. A Vida e a Morte. Romance de Vila do Conde (Man
+ oel de Oliveira\, 1965-2008). Vídeo. 6’. O Poeta Doido\, o Vitral e a S
+ anta Morta (Manoel de Oliveira\, 1965-2008). Vídeo. 7’. VOSE*. Total pr
+ ograma: 90’\nCopia Porto... cortesía de Lusomundo.\n\n\nFuente: http://
+ www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
+ e/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Je Rentre à la Maison / Vou Para Casa
+DTSTART;VALUE=DATE-TIME:20081115T220000
+DTEND;VALUE=DATE-TIME:20081115T233000
+UID:0811150022_1_dore
+DESCRIPTION:Sala 1 - Je Rentre à la Maison / Vou Para Casa (Vuelvo a casa
+ \, Manoel de Oliveira\, 2001). Int.: Michel Piccoli\, Antoine Chappey\, Le
+ onor Baldaque. Portugal / Francia. VOSE. 90’\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transiberiano
+DTSTART;VALUE=DATE-TIME:20081116T173000
+DTEND;VALUE=DATE-TIME:20081116T192500
+UID:0811163017_1_dore
+DESCRIPTION:Sala 1 - Transiberiano (Brad Anderson\, 2008). Int.: Woody Har
+ relson\, Emily Mortimer\, Kate Mara.\n115'\n\n\nFuente: http://www.mecd.go
+ b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
+ /programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inquietude
+DTSTART;VALUE=DATE-TIME:20081116T191500
+DTEND;VALUE=DATE-TIME:20081116T211100
+UID:0811161519_2_dore
+DESCRIPTION:Sala 2 - Inquietude (Inquietud\, Manoel de Oliveira\, 1998). I
+ nt.: Luís Miguel Cintra\, Isabel Ruth\,\nLeonor Silveira. VOSE. Portugal 
+ / Francia / España / Suiza. 116’\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I nuovi mostri
+DTSTART;VALUE=DATE-TIME:20081116T194500
+DTEND;VALUE=DATE-TIME:20081116T214200
+UID:0811164519_1_dore
+DESCRIPTION:Sala 1 - I nuovi mostri (Que Viva Italia\, VV AA\, 1977). Epis
+ odios: Pronto soccorso (Int.: Ornella\nMuti\, Eros Pagni) y Autostop (Int.
+ : Alberto Sordi). Italia. VOSF/E*. 117'\n"En el último estertor de la com
+ edia italiana se realizó I nuovi mostri\, una suerte de continuación de 
+ I mostri en la que los sketches quedaron repartidos entre Monicelli\, el p
+ ropio Risi y el tercero de los más significativos practicantes del géner
+ o en aquel momento\, Ettore Scola. Tres pesos pesados\, pues\, más la con
+ tribución de Gassman y Tognazzi\, a los que se unieron Alberto Sordi\, Or
+ nella Muti y Eros Pagni para abrir un poco más el abanico tipológico. Ca
+ torce fue también el número de historias tratadas\, de diversa duración
+  e intensidad\, entre el cartoon y la tragicomedia política" (Quim Casas)
+ . Segunda proyección día 20.\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viagem ao Princípio do Mundo
 DTSTART;VALUE=DATE-TIME:20081116T220500
 DTEND;VALUE=DATE-TIME:20081116T234000
 UID:0811160522_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore59.pdf
+DESCRIPTION:Sala 1 - Viagem ao Princípio do Mundo (Viaje al principio del
+  mundo\, Manoel de Oliveira\, 1997). Int.: Marcello Mastroianni\, Jean-Yve
+ s Gautier\, Leonor Silveira. Portugal / Francia. VOSE. 95’\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Belle de jour
 DTSTART;VALUE=DATE-TIME:20081118T173000
 DTEND;VALUE=DATE-TIME:20081118T190500
 UID:0811183017_1_dore
-DESCRIPTION:Sala 1 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore59.pdf
+DESCRIPTION:Sala 1 - Belle de jour (Belle de jour\, Luis Buñuel\, 1967). 
+ Int.: Catherine Deneuve\, Jean Sorel\, Michel\nPiccoli. Francia. VOSE*. 96
+ '' "La novela (...) ofrecía además la posibilidad de (...) precisar el r
+ etrato de una joven burguesa masoquista. La película me permitía tambié
+ n describir con bastante fidelidad varios casos de perversiones sexuales. 
+ Mi interés por el fetichismo era ya perceptible en la primera escena de 
+ Él y en la escena de los botines de Memorias de una doncella\, pero debo 
+ decir que no experimento hacia la perversión sexual sino una atracción t
+ eórica y exterior. Me divierte y me interesa\, pero yo personalmente no t
+ engo nada de perverso. Yo creo que a un perverso no le gusta mostrar en p
+ úblico su perversión\, que es su secreto" (Luis Buñuel). Segunda proyec
+ ción día 29.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDor
+ e59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:Un borghese piccolo piccolo
 DTSTART;VALUE=DATE-TIME:20081118T193000
 DTEND;VALUE=DATE-TIME:20081118T213200
 UID:0811183019_2_dore
-DESCRIPTION:Sala 2 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2008/PrograDore59.pdf
+DESCRIPTION:Sala 2 - Un borghese piccolo piccolo (Un burgués pequeño\, m
+ uy pequeño\, Mario Monicelli\, 1977). Int.: Alberto Sordi\, Shelley Winte
+ rs\, Romolo Valli. Italia. VOSE*. 122’\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Belle Toujours
 DTSTART;VALUE=DATE-TIME:20081118T194500
 DTEND;VALUE=DATE-TIME:20081118T205600
 UID:0811184519_1_dore
-DESCRIPTION:Sala 1 - S \n S \n S S\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2008/PrograDore59.pdf
+DESCRIPTION:Sala 1 - Belle Toujours (Belle toujours\, Manoel de Oliveira\,
+  2006). Int.: Michel Piccoli\, Bulle Ogier\,\nRicardo Trepa. Portugal. VOS
+ E. 71’\n"Lejos de toda tentación nostálgica y ajena por completo a la 
+ retórica cinéfila del homenaje complaciente\, Belle toujours escenifica 
+ el reencuentro entre Séverine y Henri como si se tratara de una evocació
+ n crepuscular despojada por completo de toda tentación sentimental. En el
+  trance\, las dos figuras ganan en dignidad y en autoestima\, en humanidad
+  y en serenidad existencial\, como si el paso del tiempo hubiera servido p
+ ara restañar los viejos desgarros de las humillaciones y de las debilidad
+ es de la carne\, los secretos obligados de una vida paralela poco confesab
+ le y los equívocos morales de las extrañas situaciones compartidas anta
+ ño" (Carlos F. Heredero). Segunda proyección día 29.\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Romanzo popolare
 DTSTART;VALUE=DATE-TIME:20081118T220000
 DTEND;VALUE=DATE-TIME:20081118T234100
 UID:0811180022_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
+DESCRIPTION:Sala 1 - Romanzo popolare (Apasionada\, Mario Monicelli\, 1974
+ ). Int.: Ugo Tognazzi\, Ornella Muti\, Michele Placido. Italia. VOSE*. 101
+ ’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Nadar
 DTSTART;VALUE=DATE-TIME:20081119T173000
 DTEND;VALUE=DATE-TIME:20081119T190300
 UID:0811193017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
+DESCRIPTION:Sala 1 - Nadar (Carla Subirana\, 2008). Documental. Vídeo. 93
+ '\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
+ reas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Caro Michele
 DTSTART;VALUE=DATE-TIME:20081119T193000
 DTEND;VALUE=DATE-TIME:20081119T211800
 UID:0811193019_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore59.pdf
+DESCRIPTION:Sala 1 - Caro Michele (Mario Monicelli\, 1976). Int.: Mariange
+ la Melato\, Lou Castel\, Alfonso Gatto.\nItalia. VOSI/E*. 108’\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Espelho Mágico
 DTSTART;VALUE=DATE-TIME:20081119T200000
 DTEND;VALUE=DATE-TIME:20081119T221700
 UID:0811190020_2_dore
-DESCRIPTION:Sala 2 - S \nS S \n S S\n\n\nFuente: http://www.mecd.gob.es/cu
+DESCRIPTION:Sala 2 - Espelho Mágico (El espejo mágico\, Manoel de Olivei
+ ra\, 2005). Int.: Michel Piccoli\, Leonor\nSilveira\, Ricardo Trepa. Portu
+ gal. VOSE. 137’\n"He querido reflejar el sufrimiento del alma. Esta pel
+ ícula es un retrato de la condición humana que abarca desde los asesinos
+  a los ascetas. Me gustaría hablar con Dios como si fuese una mujer... El
+  poeta Claudel tuvo una revelación en la catedral de Notre-Dame. Fue toca
+ do por la gracia divina. Solía decir que la Virgen María tenía menstrua
+ ción\, que era una mujer como cualquier otra. Es muy interesante" (Manoel
+  de Oliveira). Segunda proyección día 21.\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viaggio con Anita
+DTSTART;VALUE=DATE-TIME:20081119T220000
+DTEND;VALUE=DATE-TIME:20081119T235500
+UID:0811190022_1_dore
+DESCRIPTION:Sala 1 - Viaggio con Anita (Un viaje con Anita\, Mario Monicel
+ li\, 1978). Int.: Giancarlo Giannini\, Goldie Hawn\, Renzo Montagnani. Ita
+ lia. VOSE*. 115’\nGuido Massaccesi\, un rico empleado de banca\, casado 
+ y con hijos\, se dirige a ver a su padre agonizante. De repente\, decide h
+ acer el viaje acompañado\, y se lleva a una turista americana\, ocultánd
+ ole el motivo del viaje. Durante el funeral la verdad sale a la luz con gr
+ an escándalo\, pero el hijo se venga revelando los trapos sucios de la fa
+ milia. Segunda proyección día 21.\n\n\nFuente: http://www.mecd.gob.es/cu
  ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
  macion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081119T220000
-DTEND;VALUE=DATE-TIME:20081119T235500
-UID:0811190022_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Zhao
 DTSTART;VALUE=DATE-TIME:20081120T173000
 DTEND;VALUE=DATE-TIME:20081120T190100
 UID:0811203017_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+DESCRIPTION:Sala 1 - Zhao (Susi Gozalvo\, 2006). Int.: Menh-Wai Trinh\, Mi
+ guel Ángel Silvestre. 91'\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
  d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
  08/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:I nuovi mostri
 DTSTART;VALUE=DATE-TIME:20081120T193000
 DTEND;VALUE=DATE-TIME:20081120T212700
 UID:0811203019_1_dore
-DESCRIPTION:Sala 1 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081120T200000
-DTEND;VALUE=DATE-TIME:20081120T211700
-UID:0811200020_2_dore
-DESCRIPTION:Sala 2 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081120T220000
-DTEND;VALUE=DATE-TIME:20081120T234000
-UID:0811200022_1_dore
-DESCRIPTION:Sala 1 - S \n S \n S S\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081121T173000
-DTEND;VALUE=DATE-TIME:20081121T190900
-UID:0811213017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081121T193000
-DTEND;VALUE=DATE-TIME:20081121T212500
-UID:0811213019_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081121T200000
-DTEND;VALUE=DATE-TIME:20081121T221700
-UID:0811210020_2_dore
-DESCRIPTION:Sala 2 - S \nS S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081121T220000
-DTEND;VALUE=DATE-TIME:20081122T001300
-UID:0811210022_1_dore
-DESCRIPTION:Sala 1 - S S \n S S \n S\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081122T173000
-DTEND;VALUE=DATE-TIME:20081122T191700
-UID:0811223017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081122T193000
-DTEND;VALUE=DATE-TIME:20081122T213700
-UID:0811223019_2_dore
-DESCRIPTION:Sala 2 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081122T194000
-DTEND;VALUE=DATE-TIME:20081122T212000
-UID:0811224019_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081122T221000
-DTEND;VALUE=DATE-TIME:20081122T235000
-UID:0811221022_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081123T173000
-DTEND;VALUE=DATE-TIME:20081123T190700
-UID:0811233017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081123T190000
-DTEND;VALUE=DATE-TIME:20081123T211500
-UID:0811230019_2_dore
-DESCRIPTION:Sala 2 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081123T193000
-DTEND;VALUE=DATE-TIME:20081123T213800
-UID:0811233019_1_dore
-DESCRIPTION:Sala 1 - S \nS S \n S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081123T220000
-DTEND;VALUE=DATE-TIME:20081124T000000
-UID:0811230022_1_dore
-DESCRIPTION:Sala 1 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081125T173000
-DTEND;VALUE=DATE-TIME:20081125T191500
-UID:0811253017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081125T194000
-DTEND;VALUE=DATE-TIME:20081125T214000
-UID:0811254019_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081125T200000
-DTEND;VALUE=DATE-TIME:20081125T210700
-UID:0811250020_2_dore
-DESCRIPTION:Sala 2 - S S \n S S \n S\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081125T220000
-DTEND;VALUE=DATE-TIME:20081126T000000
-UID:0811250022_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081126T173000
-DTEND;VALUE=DATE-TIME:20081126T195300
-UID:0811263017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081126T190000
-DTEND;VALUE=DATE-TIME:20081126T205500
-UID:0811260019_2_dore
-DESCRIPTION:Sala 2 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081126T201500
-DTEND;VALUE=DATE-TIME:20081126T213000
-UID:0811261520_1_dore
-DESCRIPTION:Sala 1 - S S \n S S S S\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081126T214000
-DTEND;VALUE=DATE-TIME:20081126T234000
-UID:0811264021_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20081126T220000
-DTEND;VALUE=DATE-TIME:20081126T235400
-UID:0811260022_1_dore
-DESCRIPTION:Sala 1 - S S S \nS S \n S S\n\n\nFuente: http://www.mecd.gob.e
+DESCRIPTION:Sala 1 - I nuovi mostri (Que Viva Italia\, VV AA\, 1977). Epis
+ odios: Pronto soccorso (Int.: Ornella\nMuti\, Eros Pagni) y Autostop (Int.
+ : Alberto Sordi). Italia. VOSF/E*. 117'\n\n\nFuente: http://www.mecd.gob.e
  s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
  ogramacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081127T173000
-DTEND;VALUE=DATE-TIME:20081127T192000
-UID:0811273017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
+SUMMARY:Lisboa Cultural
+DTSTART;VALUE=DATE-TIME:20081120T200000
+DTEND;VALUE=DATE-TIME:20081120T211700
+UID:0811200020_2_dore
+DESCRIPTION:Sala 2 - Lisboa Cultural (Manoel de Oliveira\, 1983). Document
+ al. VOSI/E*. 58’. O Improvável não é\nImpossível (Manoel de Oliveira
+ \, 2006). VOSE*. 19’. Total programa: 77’\n\n\nFuente: http://www.mecd
+ .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
+ ore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081127T194000
-DTEND;VALUE=DATE-TIME:20081127T213800
-UID:0811274019_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore59.pdf
+SUMMARY:Camera d'albergo
+DTSTART;VALUE=DATE-TIME:20081120T220000
+DTEND;VALUE=DATE-TIME:20081120T234000
+UID:0811200022_1_dore
+DESCRIPTION:Sala 1 - Camera d'albergo (Mario Monicelli\, 1981). Int.: Vitt
+ orio Gassman\, Monica Vitti\, Enrico\nMontesano. Italia. VOSF/E*. 100’\n
+ Tras su encuentro con un productor embrollón de Cinecittà\, tres jóvene
+ s esconden una cámara en la habitación de un hotel. Si bien su primera i
+ ntención es rodar una obra maestra\, terminan por hacer una película esc
+ andalosa pero de éxito seguro. Segunda proyección día 22.\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081127T210000
-DTEND;VALUE=DATE-TIME:20081127T215400
-UID:0811270021_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+SUMMARY:El patio de mi cárcel
+DTSTART;VALUE=DATE-TIME:20081121T173000
+DTEND;VALUE=DATE-TIME:20081121T190900
+UID:0811213017_1_dore
+DESCRIPTION:Sala 1 - El patio de mi cárcel (Belén Macías\, 2008). Int.:
+  Candela Peña\, Verónica Echegui\, Ana Wagener. 99'\n\n\nFuente: http://
+ www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
+ e/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viaggio con Anita
+DTSTART;VALUE=DATE-TIME:20081121T193000
+DTEND;VALUE=DATE-TIME:20081121T212500
+UID:0811213019_1_dore
+DESCRIPTION:Sala 1 - Viaggio con Anita (Un viaje con Anita\, Mario Monicel
+ li\, 1978). Int.: Giancarlo Giannini\,\nGoldie Hawn\, Renzo Montagnani. It
+ alia. VOSE*. 115’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
+ ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/Prog
+ raDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Espelho Mágico
+DTSTART;VALUE=DATE-TIME:20081121T200000
+DTEND;VALUE=DATE-TIME:20081121T221700
+UID:0811210020_2_dore
+DESCRIPTION:Sala 2 - Espelho Mágico (El espejo mágico\, Manoel de Olivei
+ ra\, 2005). Int.: Michel Piccoli\, Leonor\nSilveira\, Ricardo Trepa. Portu
+ gal. VOSE. 137’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
+ d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/Progra
+ Dore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Il Marchese del Grillo
+DTSTART;VALUE=DATE-TIME:20081121T220000
+DTEND;VALUE=DATE-TIME:20081122T001300
+UID:0811210022_1_dore
+DESCRIPTION:Sala 1 - Il Marchese del Grillo (El Marques de Grillo\, Mario 
+ Monicelli\, 1981). Int.: Alberto Sordi\,\nPaolo Stoppa\, Flavio Bucci. Ita
+ lia. VOSE*. 133’\n"Il Marchese del Grillo pone en escena a un perfecto c
+ ínico (de nuevo Sordi)\, que también se aburre en la Roma apolillada y c
+ lerical de comienzos del siglo XIX. Por no morir de abulia\, el noble Onof
+ rio (desdoblado en el carbonero Gasparino\, con el que se cambia para su b
+ eneficio) frecuenta a bandidos\, se aviene con el francés\, escarnece al 
+ prójimo para divertirse y se convierte en príncipe de los bromistas" (Jo
+ sé Enrique Monterde).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
  s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
  rograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081127T220000
-DTEND;VALUE=DATE-TIME:20081128T000800
-UID:0811270022_1_dore
-DESCRIPTION:Sala 1 - S \nS S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2008/PrograDore59.pdf
+SUMMARY:Carlitos y el campo de los sueños
+DTSTART;VALUE=DATE-TIME:20081122T173000
+DTEND;VALUE=DATE-TIME:20081122T191700
+UID:0811223017_1_dore
+DESCRIPTION:Sala 1 - Carlitos y el campo de los sueños (Jesús del Cerro\
+ , 2007). Int.: Gustavo Salmerón\, Irene Visedo\, Jose María Pou. 107'\n\
+ n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
+ -cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081128T173000
-DTEND;VALUE=DATE-TIME:20081128T193000
-UID:0811283017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore59.pdf
+SUMMARY:O Quinto Imperio. Ontem como Hoje
+DTSTART;VALUE=DATE-TIME:20081122T193000
+DTEND;VALUE=DATE-TIME:20081122T213700
+UID:0811223019_2_dore
+DESCRIPTION:Sala 2 - O Quinto Imperio. Ontem como Hoje (Manoel de Oliveira
+ \, 2004). Int.: Ricardo Trepa\, Luis\nMiguel Cintra\, Glória de Matos. Po
+ rtugal / Francia. VOSI/E* 127’\nCopia cortesía de Lusomundo.\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081128T195000
-DTEND;VALUE=DATE-TIME:20081128T213500
-UID:0811285019_1_dore
-DESCRIPTION:Sala 1 - S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cultu
- ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
- ion/2008/PrograDore59.pdf
+SUMMARY:Camera d'albergo
+DTSTART;VALUE=DATE-TIME:20081122T194000
+DTEND;VALUE=DATE-TIME:20081122T212000
+UID:0811224019_1_dore
+DESCRIPTION:Sala 1 - Camera d'albergo (Mario Monicelli\, 1981). Int.: Vitt
+ orio Gassman\, Monica Vitti\, Enrico Montesano. Italia. VOSF/E*. 100’\n\
+ n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
+ -cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20081128T200000
-DTEND;VALUE=DATE-TIME:20081128T213600
-UID:0811280020_2_dore
-DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081128T220000
-DTEND;VALUE=DATE-TIME:20081129T000400
-UID:0811280022_1_dore
-DESCRIPTION:Sala 1 - S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cultu
- ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
- ion/2008/PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081129T173000
-DTEND;VALUE=DATE-TIME:20081129T191500
-UID:0811293017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore59.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081129T193000
-DTEND;VALUE=DATE-TIME:20081129T210600
-UID:0811293019_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+SUMMARY:La Lettre
+DTSTART;VALUE=DATE-TIME:20081122T221000
+DTEND;VALUE=DATE-TIME:20081122T235000
+UID:0811221022_1_dore
+DESCRIPTION:Sala 1 - La Lettre (La carta\, Manoel de Oliveira\, 1999). Int
+ .: Chiara Mastroianni\, Pedro Abrunhosa\,\nFrançoise Fabian. Portugal /Fr
+ ancia / España. VOSE. 100’\n\n\nFuente: http://www.mecd.gob.es/cultura-
  mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
  /2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081129T200000
-DTEND;VALUE=DATE-TIME:20081129T215500
-UID:0811290020_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+SUMMARY:Mi única familia
+DTSTART;VALUE=DATE-TIME:20081123T173000
+DTEND;VALUE=DATE-TIME:20081123T190700
+UID:0811233017_1_dore
+DESCRIPTION:Sala 1 - Mi única familia (Miguel Óscar Menassa\, 2007). Int
+ .: Miguel Óscar Menassa\, Olga de Lucía\,\nCarlos Fernández. 97'\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:O Princípio da Incerteza
+DTSTART;VALUE=DATE-TIME:20081123T190000
+DTEND;VALUE=DATE-TIME:20081123T211500
+UID:0811230019_2_dore
+DESCRIPTION:Sala 2 - O Princípio da Incerteza (El principio de la incerti
+ dumbre\, Manoel de Oliveira\, 2002). Int.:\nLeonor Baldaque\, Leonor Silve
+ ira\, Isabel Ruth. Portugal / Francia. VOSE. 135’\n\n\nFuente: http://ww
+ w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
+ cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bertoldo\, Bertoldino e... Cacasenno
+DTSTART;VALUE=DATE-TIME:20081123T193000
+DTEND;VALUE=DATE-TIME:20081123T213800
+UID:0811233019_1_dore
+DESCRIPTION:Sala 1 - Bertoldo\, Bertoldino e... Cacasenno (Mario Monicelli
+ \, 1984). Int.: Ugo Tognazzi\, Alberto\nSordi\, Maurizio Nichetti. Italia.
+  VOSE*. 128’\nHacia el año 1000\, en la corte del rey Alboino\, tres pe
+ rsonas estrambóticas\, Bertoldo\, un campesino\, su hijo Bertoldino\, que
+  siempre está haciendo bobadas\, y Fra Cipolla da Frosolone\, se libran d
+ e las situaciones más absurdas gracias a su astucia. Segunda proyección 
+ día 27.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pd
+ f
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Picari / Los alegres picaros
+DTSTART;VALUE=DATE-TIME:20081123T220000
+DTEND;VALUE=DATE-TIME:20081124T000000
+UID:0811230022_1_dore
+DESCRIPTION:Sala 1 - I Picari / Los alegres picaros (Mario Monicelli\, 198
+ 8). Int.: Giancarlo Giannini\, Vittorio Gassman\, Nino Manfredi. Italia / 
+ España. VOSE*. 120’\n"En este contexto de progresiva decadencia\, una p
+ elícula como I picari (1987)\, que mezcla al Lazarillo de Tormes con Guzm
+ án de Alfarache\, y a éstos con el Quijote y la literatura erótica del 
+ Siglo de Oro\, no podía ser más que un académico epitafio a la saga que
+  iniciaron sus delincuentes de poca monta en la Italia de la posguerra" (J
+ osé Andrés Dulce). Segunda proyección día 25.\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los años desnudos
+DTSTART;VALUE=DATE-TIME:20081125T173000
+DTEND;VALUE=DATE-TIME:20081125T191500
+UID:0811253017_1_dore
+DESCRIPTION:Sala 1 - Los años desnudos (Dunia Ayaso y Félix Sabroso\, 20
+ 08). Int.: Candela Peña\, Goya Toledo\, Mar Flores. 105'\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Picari / Los alegres picaros
+DTSTART;VALUE=DATE-TIME:20081125T194000
+DTEND;VALUE=DATE-TIME:20081125T214000
+UID:0811254019_1_dore
+DESCRIPTION:Sala 1 - I Picari / Los alegres picaros (Mario Monicelli\, 198
+ 8). Int.: Giancarlo Giannini\, Vittorio\nGassman\, Nino Manfredi. Italia /
+  España. VOSE*. 120’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
+ ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/
+ PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nice... À propos de Jean Vigo
+DTSTART;VALUE=DATE-TIME:20081125T200000
+DTEND;VALUE=DATE-TIME:20081125T210700
+UID:0811250020_2_dore
+DESCRIPTION:Sala 2 - Nice... À propos de Jean Vigo (Manoel de Oliveira\, 
+ 1983). VOSE*. 58’. Rencontre Unique\n(Manoel de Oliveira\, 2007). (Episo
+ dio de Chacun son cinéma). VOSE*. 3’. Do Visível ao Invisível (Manoel
+  de Oliveira\, 2005). VOSI/E*. 6’. Vídeo. Total programa: 67’\nNice..
+ .: "Para mí sólo hay dos cineastas irreverentes: Vigo y Renoir. Es una c
+ osa suya\, nata. Aunque yo también tengo cierta dosis de irreverencia" (M
+ anoel de Oliveira). Segunda proyección día 30.\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Due vite di Mattia Pascal
+DTSTART;VALUE=DATE-TIME:20081125T220000
+DTEND;VALUE=DATE-TIME:20081126T000000
+UID:0811250022_1_dore
+DESCRIPTION:Sala 1 - Le Due vite di Mattia Pascal (La doble vida de Matias
+  Pascal\, Mario Monicelli\, 1985). Int.: Marcello Mastroianni\, Laura Mora
+ nte\, Bernard Blier. VOSE*. 120’\nMattia Pascal es un mujeriego que se v
+ e obligado a casarse con una mujer a la que ha dejado embarazada. Aprovech
+ a que gana mucho dinero en la ruleta para fingir su suicidio y comenzar un
+ a nueva vida\, primero en Montecarlo y después en Venecia. De nuevo en la
+  ruina\, regresa a su pueblo\, donde encuentra a su mujer casada con su me
+ jor amigo\, por lo que no le aguarda más que una vida en soledad.\n\n\nFu
+ ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
+ ura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Camino
+DTSTART;VALUE=DATE-TIME:20081126T173000
+DTEND;VALUE=DATE-TIME:20081126T195300
+UID:0811263017_1_dore
+DESCRIPTION:Sala 1 - Camino (Javier Fesser\, 2008). Int.: Nerea Camacho\, 
+ Carmen Elías\, Mariano Venancio. 143'\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estamira
+DTSTART;VALUE=DATE-TIME:20081126T190000
+DTEND;VALUE=DATE-TIME:20081126T205500
+UID:0811260019_2_dore
+DESCRIPTION:Sala 2 - Estamira (Marcos Prado\, 2005). Documental. Brasil. V
+ OSE. 115'\nEstamira es una mujer de sesenta y tres años que padece esquiz
+ ofrenia y vive hace veinte años en un gran basural en las afueras de Rio 
+ de Janeiro. A pesar de vivir acosada por numerosos fantasmas interiores\, 
+ ha creado su propio mundo rechazando la supremacia de cualquier Dios. Segu
+ nda proyección día 29.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
  dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
  /PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081129T220000
-DTEND;VALUE=DATE-TIME:20081129T231100
-UID:0811290022_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore59.pdf
+SUMMARY:Cristóvão Colombo - O Enigma
+DTSTART;VALUE=DATE-TIME:20081126T201500
+DTEND;VALUE=DATE-TIME:20081126T213000
+UID:0811261520_1_dore
+DESCRIPTION:Sala 1 - Cristóvão Colombo - O Enigma (Manoel de Oliveira\, 
+ 2007). Int.: Ricardo Trepa\, Manoel de Oliveira\, Leonor Baldaque\, Maria 
+ Isabel de Oliveira. Portugal / Francia / Italia. VOSE*. 75’\n"Oliveira r
+ ecrea los esfuerzos de Manuel Luciano da Silva y su mujer Silvia para prob
+ ar que Cristóbal Colón realmente era portugués. Esta exploración abarc
+ a Europa y América desde los años cuarenta hasta el día de hoy. En un g
+ esto de simpatía con los da Silva\, Oliveira y su esposa encarnan a la pa
+ reja en su madurez\, ligando así desenfadadamente el pasado al presente "
+  (BAM Cinematheque). Segunda proyección día 30.\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20081130T173000
-DTEND;VALUE=DATE-TIME:20081130T193400
-UID:0811303017_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore59.pdf
+SUMMARY:A 15va Pedra
+DTSTART;VALUE=DATE-TIME:20081126T214000
+DTEND;VALUE=DATE-TIME:20081126T234000
+UID:0811264021_2_dore
+DESCRIPTION:Sala 2 - A 15va Pedra (La 15ª piedra\, Rita Azevedo Gomes\, 2
+ 005). Documental. Video. VOSE*. 120’\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20081130T200000
-DTEND;VALUE=DATE-TIME:20081130T215400
-UID:0811300020_1_dore
-DESCRIPTION:Sala 1 - S S S \nS S\n\n\nFuente: http://www.mecd.gob.es/cultu
- ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
- ion/2008/PrograDore59.pdf
+SUMMARY:Il male oscuro
+DTSTART;VALUE=DATE-TIME:20081126T220000
+DTEND;VALUE=DATE-TIME:20081126T235400
+UID:0811260022_1_dore
+DESCRIPTION:Sala 1 - Il male oscuro (Mario Monicelli\, 1990). Int.: Gianca
+ rlo Giannini\, Emmanuelle Seigner\, Stefania\nSandrelli. Italia. VOSE*. 11
+ 4’\nGiuseppe Marchi\, un escritor\, abandona a la viuda con la que tení
+ a una relación y se casa con una chica mucho más joven que él a la que 
+ ha dejado embarazada. Se siente insatisfecho profesionalmente\, sufre dolo
+ res y hace que le operen una úlcera y una apendicitis inexistentes\, hast
+ a que un psiquiatra le hace comprender que todo obedece a los problemas no
+  resueltos con su difunto padre\, un despótico oficial de carabineros. Se
+ gunda proyección día 30.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 08/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20081130T203000
-DTEND;VALUE=DATE-TIME:20081130T213700
-UID:0811303020_2_dore
-DESCRIPTION:Sala 2 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
+SUMMARY:Esperpentos
+DTSTART;VALUE=DATE-TIME:20081127T173000
+DTEND;VALUE=DATE-TIME:20081127T192000
+UID:0811273017_1_dore
+DESCRIPTION:Sala 1 - Esperpentos (José Luis García Sánchez\, 2008). Int
+ .: Juan Luis Galiardo\, Juan Diego\, Pilar Bardem. 110'\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cari fottutisimi amici
+DTSTART;VALUE=DATE-TIME:20081127T194000
+DTEND;VALUE=DATE-TIME:20081127T213800
+UID:0811274019_1_dore
+DESCRIPTION:Sala 1 - Cari fottutisimi amici (Mario Monicelli\, 1994). Int.
+ : Paolo Villaggio\, Massimo Ceccherini\,\nVittorio Rap. Italia. VOSE*. 118
+ ’\n"Un relato ambientado inicialmente en Florencia poco después de ser 
+ liberada por los aliados\, en el que sus protagonistas quieren restituir e
+ l interés por el boxeo viajando por todo un país sepultado por los estra
+ gos de la guerra" (Quim Casas).\n\n\nFuente: http://www.mecd.gob.es/cultur
  a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
  on/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Fin
+DTSTART;VALUE=DATE-TIME:20081127T210000
+DTEND;VALUE=DATE-TIME:20081127T215400
+UID:0811270021_2_dore
+DESCRIPTION:Sala 2 - Fin (Esteban Crespo). 14'. La felicidad (Marco Fettol
+ ini-Miguel Aguirre). 12'. Notamotof (Rubén Coca). 9'. La reconversión de
+  las gaviotas (Alberto Rodríguez de la Fuente). 19'. Total programa: 54'\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bertoldo\, Bertoldino e... Cacasenno
+DTSTART;VALUE=DATE-TIME:20081127T220000
+DTEND;VALUE=DATE-TIME:20081128T000800
+UID:0811270022_1_dore
+DESCRIPTION:Sala 1 - Bertoldo\, Bertoldino e... Cacasenno (Mario Monicelli
+ \, 1984). Int.: Ugo Tognazzi\, Alberto\nSordi\, Maurizio Nichetti. Italia.
+  VOSE*. 128’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDor
+ e59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flores de luna
+DTSTART;VALUE=DATE-TIME:20081128T173000
+DTEND;VALUE=DATE-TIME:20081128T193000
+UID:0811283017_1_dore
+DESCRIPTION:Sala 1 - Flores de luna (Juan Vicente Córdoba\, 2008). Docume
+ ntal. 120'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.
+ pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parenti serpenti
+DTSTART;VALUE=DATE-TIME:20081128T195000
+DTEND;VALUE=DATE-TIME:20081128T213500
+UID:0811285019_1_dore
+DESCRIPTION:Sala 1 - Parenti serpenti (Mario Monicelli\, (1992). Int.: Tom
+ maso Bianco\, Marina Confalone\,\nAlessandro Haber. Italia. VOSE*. 105’\
+ n"Una película coral que empieza como un relato realista sobre el reencue
+ ntro de una familia durante las fiestas navideñas y se desarrolla despué
+ s como una comedia negra bastante feroz" (Quim Casas). Segunda proyección
+  día 29.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.p
+ df
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Um Filme Falado
+DTSTART;VALUE=DATE-TIME:20081128T200000
+DTEND;VALUE=DATE-TIME:20081128T213600
+UID:0811280020_2_dore
+DESCRIPTION:Sala 2 - Um Filme Falado (Una película hablada\, Manoel de Ol
+ iveira\, 2003). Int.: Leonor Silveira\, John Malkovich\, Catherine Deneuve
+ . Portugal / Francia / Italia. VOSE. 96’\n\n\nFuente: http://www.mecd.go
+ b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
+ /programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le rose del deserto
+DTSTART;VALUE=DATE-TIME:20081128T220000
+DTEND;VALUE=DATE-TIME:20081129T000400
+UID:0811280022_1_dore
+DESCRIPTION:Sala 1 - Le rose del deserto (Mario Monicelli\, 2006). Int.: M
+ ichele Placido\, Alessandro Haber\, Giorgio\nPasotti. 102'. Vicino al Colo
+ sseo... C'è Monti (Mario Monicelli\, 2008). Documental. Vídeo. 22’ Ita
+ lia. VOSE*. Total programa: 124'\nLe rose...: "Ambientada en el desierto\,
+  en plena campaña del norte de África durante la segunda guerra mundial\
+ , tiene como protagonistas a los integrantes de un batallón sanitario del
+  ejército italiano. (...) Le rose del deserto\, ahora sin picaresca\, es 
+ un film sobre la belleza y la benevolencia en tiempos de guerra" (Quim Cas
+ as). Vicino...: "Monicelli retrata el barrio romano en el que vive desde h
+ ace veintidós años" (Quim Casas). Segunda proyección día 30.\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parenti serpenti
+DTSTART;VALUE=DATE-TIME:20081129T173000
+DTEND;VALUE=DATE-TIME:20081129T191500
+UID:0811293017_1_dore
+DESCRIPTION:Sala 1 - Parenti serpenti (Mario Monicelli\, (1992). Int.: Tom
+ maso Bianco\, Marina Confalone\, Alessandro Haber. Italia. VOSE*. 105’\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Belle de jour
+DTSTART;VALUE=DATE-TIME:20081129T193000
+DTEND;VALUE=DATE-TIME:20081129T210600
+UID:0811293019_1_dore
+DESCRIPTION:Sala 1 - Belle de jour (Belle de jour\, Luis Buñuel\, 1967). 
+ Int.: Catherine Deneuve\, Jean Sorel\, Michel\nPiccoli. Francia. VOSE*. 96
+ '\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
+ reas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estamira
+DTSTART;VALUE=DATE-TIME:20081129T200000
+DTEND;VALUE=DATE-TIME:20081129T215500
+UID:0811290020_2_dore
+DESCRIPTION:Sala 2 - Estamira (Marcos Prado\, 2005). Documental. Brasil. V
+ OSE. 115'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.p
+ df
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Belle Toujours
+DTSTART;VALUE=DATE-TIME:20081129T220000
+DTEND;VALUE=DATE-TIME:20081129T231100
+UID:0811290022_1_dore
+DESCRIPTION:Sala 1 - Belle Toujours (Belle toujours\, Manoel de Oliveira\,
+  2006). Int.: Michel Piccoli\, Bulle Ogier\,\nRicardo Trepa. Portugal. VOS
+ E. 71’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pd
+ f
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le rose del deserto
+DTSTART;VALUE=DATE-TIME:20081130T173000
+DTEND;VALUE=DATE-TIME:20081130T193400
+UID:0811303017_1_dore
+DESCRIPTION:Sala 1 - Le rose del deserto (Mario Monicelli\, 2006). Int.: M
+ ichele Placido\, Alessandro Haber\, Giorgio\nPasotti. 102'. Vicino al Colo
+ sseo... C'è Monti (Mario Monicelli\, 2008). Documental. Vídeo. 22’ Ita
+ lia. VOSE*. Total programa: 124'\n\n\nFuente: http://www.mecd.gob.es/cultu
+ ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
+ ion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Il male oscuro
+DTSTART;VALUE=DATE-TIME:20081130T200000
+DTEND;VALUE=DATE-TIME:20081130T215400
+UID:0811300020_1_dore
+DESCRIPTION:Sala 1 - Il male oscuro (Mario Monicelli\, 1990). Int.: Gianca
+ rlo Giannini\, Emmanuelle Seigner\, Stefania\nSandrelli. Italia. VOSE*. 11
+ 4’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
+ d/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nice... À propos de Jean Vigo
+DTSTART;VALUE=DATE-TIME:20081130T203000
+DTEND;VALUE=DATE-TIME:20081130T213700
+UID:0811303020_2_dore
+DESCRIPTION:Sala 2 - Nice... À propos de Jean Vigo (Manoel de Oliveira\, 
+ 1983). VOSE*. 58’. Rencontre Unique\n(Manoel de Oliveira\, 2007). (Episo
+ dio de Chacun son cinéma). VOSE*. 3’. Do Visível ao Invisível (Manoel
+  de Oliveira\, 2005). VOSI/E*. 6’. Vídeo. Total programa: 67’\n\n\nFu
+ ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
+ ura/cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cristóvão Colombo - O Enigma
 DTSTART;VALUE=DATE-TIME:20081130T221500
 DTEND;VALUE=DATE-TIME:20081130T233000
 UID:0811301522_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore59.pdf
+DESCRIPTION:Sala 1 - Cristóvão Colombo - O Enigma (Manoel de Oliveira\, 
+ 2007). Int.: Ricardo Trepa\, Manoel de\nOliveira\, Leonor Baldaque\, Maria
+  Isabel de Oliveira. Portugal / Francia / Italia. VOSE*. 75’\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2008/PrograDore59.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

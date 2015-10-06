@@ -4,963 +4,1123 @@ PRODID:-//Cine Doré//github.com santos82 doredb//ES
 X-WR-CALNAME:Cine Dore
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Shadows
 DTSTART;VALUE=DATE-TIME:20050102T173000
 DTEND;VALUE=DATE-TIME:20050102T185700
 UID:0501023017_1_dore
-DESCRIPTION:Sala 1 - S S S \nS\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Shadows (John Cassavetes\, 1959). Int.: Ben Carruther
+ s\, Lelia Goldoni\, Hugh Hurd. EE UU. VOSE*. 87'\nSegunda proyección día
+  4.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Slacker
 DTSTART;VALUE=DATE-TIME:20050102T193000
 DTEND;VALUE=DATE-TIME:20050102T211000
 UID:0501023019_1_dore
-DESCRIPTION:Sala 1 - S S S \nS\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Slacker (Richard Linklater\, 1991). Int.: Richard Lin
+ klater\, Rudy Basquez\, Jean Caffeine. EE UU. VOSE*. 100'\nSegunda proyecc
+ ión día 4.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore1
+ 3.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Boda en el infierno
 DTSTART;VALUE=DATE-TIME:20050102T200000
 DTEND;VALUE=DATE-TIME:20050102T210700
 UID:0501020020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
- rograDore13.pdf
+DESCRIPTION:Sala 2 - Boda en el infierno (Antonio Román\, 1942). Int.: Co
+ nchita Montes\, José Nieto\, Manolo Morán. España. Proyección en víde
+ o. 67'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
+ ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:In the Year of the Pig
 DTSTART;VALUE=DATE-TIME:20050102T220000
 DTEND;VALUE=DATE-TIME:20050102T234000
 UID:0501020022_1_dore
-DESCRIPTION:Sala 1 - S \n S \nS\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - In the Year of the Pig (Emile de Antonio\, 1968). Doc
+ umental. EEUU. VOSF/E*. 100'\nSegunda proyección día 7.\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Taxi Driver
 DTSTART;VALUE=DATE-TIME:20050104T173000
 DTEND;VALUE=DATE-TIME:20050104T192400
 UID:0501043017_1_dore
-DESCRIPTION:Sala 1 - S S S \nS\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Taxi Driver (Taxi Driver\, Martin Scorsese\, 1975). I
+ nt.: Robert de Niro\, Jodie Foster\, Harvey Keitel. EE UU. VOSE. 114'\nSeg
+ unda proyección día 8.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005
+ /PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Slacker
 DTSTART;VALUE=DATE-TIME:20050104T194500
 DTEND;VALUE=DATE-TIME:20050104T212500
 UID:0501044519_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 05/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Slacker (Richard Linklater\, 1991). Int.: Richard Lin
+ klater\, Rudy Basquez\, Jean Caffeine. EE UU. VOSE*. 100'\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:La casa de la lluvia
 DTSTART;VALUE=DATE-TIME:20050104T200000
 DTEND;VALUE=DATE-TIME:20050104T210700
 UID:0501040020_2_dore
-DESCRIPTION:Sala 2 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 005/PrograDore13.pdf
+DESCRIPTION:Sala 2 - La casa de la lluvia (Antonio Román\, 1943). Int.: L
+ uis Hurtado\, Blanca de Silos\, Carmen Viance. España. Proyección en ví
+ deo. 67'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pd
+ f
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Shadows
 DTSTART;VALUE=DATE-TIME:20050104T220000
 DTEND;VALUE=DATE-TIME:20050104T232700
 UID:0501040022_1_dore
-DESCRIPTION:Sala 1 - S \nS S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Shadows (John Cassavetes\, 1959). Int.: Ben Carruther
+ s\, Lelia Goldoni\, Hugh Hurd. EE UU. VOSE*. 87'\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Five Easy Pieces
 DTSTART;VALUE=DATE-TIME:20050105T173000
 DTEND;VALUE=DATE-TIME:20050105T190600
 UID:0501053017_1_dore
-DESCRIPTION:Sala 1 - S \n S \nS\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Five Easy Pieces (Mi vida es mi vida\, Bob Rafelson\,
+  1970). Int.: Jack Nicholson\, Karen Black\, Billy Green Bush. EE UU. VOSE
+ *. 96'\nSegunda proyección día 9.\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Reminiscences of a Journey to Lithuania
 DTSTART;VALUE=DATE-TIME:20050105T193000
 DTEND;VALUE=DATE-TIME:20050105T205000
 UID:0501053019_1_dore
-DESCRIPTION:Sala 1 - S S \nS\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Reminiscences of a Journey to Lithuania (Jonas Mekas\
+ ,1950-1972). Documental. EE UU. VOSE*. 80'\nSegunda proyección día 8.\n\
+ n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
+ -cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Los últimos de Filipinas
 DTSTART;VALUE=DATE-TIME:20050105T200000
 DTEND;VALUE=DATE-TIME:20050105T213000
 UID:0501050020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
- rograDore13.pdf
+DESCRIPTION:Sala 2 - Los últimos de Filipinas (Antonio Román\, 1945). In
+ t.: Armando Calvo\, José Nieto\, Guillermo Marín. España. 90'\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:The Honeymoon Killers
 DTSTART;VALUE=DATE-TIME:20050105T220000
 DTEND;VALUE=DATE-TIME:20050105T234600
 UID:0501050022_1_dore
-DESCRIPTION:Sala 1 - S \n S S S \nS\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - The Honeymoon Killers (Los asesinos de la luna de mie
+ l\, Leonard Kastle\, 1969). Int.: Shirley Stoler\, Tony Lo Bianco\, Mary J
+ ane Higby. EE UU. VOSE. 106'\nSegunda proyección día 9.\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:She's Gotta Have It
 DTSTART;VALUE=DATE-TIME:20050107T173000
 DTEND;VALUE=DATE-TIME:20050107T185500
 UID:0501073017_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - She's Gotta Have It (Nola Darling\, Spike Lee\, 1986)
+ . Int.: Tracy Camilla Johns\, Tommy Redmond Hicks\, John Canada Terrell. E
+ E UU. VOSE. 85'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDo
+ re13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:In the Year of the Pig
 DTSTART;VALUE=DATE-TIME:20050107T193000
 DTEND;VALUE=DATE-TIME:20050107T211000
 UID:0501073019_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - In the Year of the Pig (Emile de Antonio\, 1968). Doc
+ umental. EEUU. VOSF/E*. 100'\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Fuenteovejuna
 DTSTART;VALUE=DATE-TIME:20050107T200000
 DTEND;VALUE=DATE-TIME:20050107T211400
 UID:0501070020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
- rograDore13.pdf
+DESCRIPTION:Sala 2 - Fuenteovejuna (Antonio Román\, 1947). Int.: Amparo R
+ ivelles\, Manuel Luna\, Fernando Rey. Proyección en vídeo. España. 74'\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Bound for Glory
 DTSTART;VALUE=DATE-TIME:20050107T220000
 DTEND;VALUE=DATE-TIME:20050108T002800
 UID:0501070022_1_dore
-DESCRIPTION:Sala 1 - S \n S \nS\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Bound for Glory (Hal Ahsby\, 1976). Int.: David Carra
+ dine\, Ronny Cox\, Melinda Dillon. EE UU. VOSE. 148'\nSegunda proyección 
+ día 8.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Bound for Glory
 DTSTART;VALUE=DATE-TIME:20050108T173000
 DTEND;VALUE=DATE-TIME:20050108T195800
 UID:0501083017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005
- /PrograDore13.pdf
+DESCRIPTION:Sala 1 - Bound for Glory (Hal Ahsby\, 1976). Int.: David Carra
+ dine\, Ronny Cox\, Melinda Dillon. EE UU. VOSE. 148'\n\n\nFuente: http://w
+ ww.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe
+ /cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Reminiscences of a Journey to Lithuania
 DTSTART;VALUE=DATE-TIME:20050108T201000
 DTEND;VALUE=DATE-TIME:20050108T213000
 UID:0501081020_2_dore
-DESCRIPTION:Sala 2 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 005/PrograDore13.pdf
+DESCRIPTION:Sala 2 - Reminiscences of a Journey to Lithuania (Jonas Mekas\
+ ,1950-1972). Documental. EE UU. VOSE*. 80'\n\n\nFuente: http://www.mecd.go
+ b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
+ /programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Furtivos
 DTSTART;VALUE=DATE-TIME:20050108T202000
 DTEND;VALUE=DATE-TIME:20050108T215000
 UID:0501082020_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Furtivos (José Luis Borau\, 1975). Int.: Ovidi Montl
+ lor\, Lola Gaos\, Alicia Sánchez\, España. 90'\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Taxi Driver
 DTSTART;VALUE=DATE-TIME:20050108T221500
 DTEND;VALUE=DATE-TIME:20050109T000900
 UID:0501081522_1_dore
-DESCRIPTION:Sala 1 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Taxi Driver (Taxi Driver\, Martin Scorsese\, 1975). I
+ nt.: Robert de Niro\, Jodie Foster\, Harvey Keitel. EE UU. VOSE. 114'\n\n\
+ nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
+ ultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:The Honeymoon Killers
 DTSTART;VALUE=DATE-TIME:20050109T173000
 DTEND;VALUE=DATE-TIME:20050109T191600
 UID:0501093017_1_dore
-DESCRIPTION:Sala 1 - S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - The Honeymoon Killers (Los asesinos de la luna de mie
+ l\, Leonard Kastle\, 1969). Int.: Shirley Stoler\, Tony Lo Bianco\, Mary J
+ ane Higby. EE UU. VOSE. 106'\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:We Can't Go Home Again
 DTSTART;VALUE=DATE-TIME:20050109T193000
 DTEND;VALUE=DATE-TIME:20050109T210300
 UID:0501093019_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - We Can't Go Home Again (Nicholas Ray\, 1976). Int.: N
+ icholas Ray\, Tom Hayden. EE UU. VOSE*. 93'\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Con uñas y dientes
 DTSTART;VALUE=DATE-TIME:20050109T200000
 DTEND;VALUE=DATE-TIME:20050109T214000
 UID:0501090020_2_dore
-DESCRIPTION:Sala 2 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2005/PrograDore13.pdf
+DESCRIPTION:Sala 2 - Con uñas y dientes (Paulino Viota\, 1978). Int.: Ali
+ cia Sanchez\, Santiago Ramos\, Alfredo Mayo. España. 100'\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
+ /mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Five Easy Pieces
 DTSTART;VALUE=DATE-TIME:20050109T220000
 DTEND;VALUE=DATE-TIME:20050109T233600
 UID:0501090022_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Five Easy Pieces (Mi vida es mi vida\, Bob Rafelson\,
+  1970). Int.: Jack Nicholson\, Karen Black\, Billy Green Bush. EE UU. VOSE
+ *. 96'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
+ ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:You Are Not I
 DTSTART;VALUE=DATE-TIME:20050111T173000
 DTEND;VALUE=DATE-TIME:20050111T182000
 UID:0501113017_1_dore
-DESCRIPTION:Sala 1 - S \n S S S S S \nS\n\n\nFuente: http://www.mecd.gob.e
- s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
- ogramacion/2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - You Are Not I (Sara Driver\, 1981). Int.: Suzanne Fle
+ tcher\, Evelyn Smith\, Luc Sante. EE UU. VOSE. 50'\nSegunda proyección d
+ ía 13.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Walden
 DTSTART;VALUE=DATE-TIME:20050111T184000
 DTEND;VALUE=DATE-TIME:20050111T213300
 UID:0501114018_2_dore
-DESCRIPTION:Sala 2 - S S S \nS\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2005/PrograDore13.pdf
+DESCRIPTION:Sala 2 - Walden (Diaries\, Notebooks and Sketches) (Jonas Meka
+ s\, 1964-69). Documental. EE UU. VOSE*. 173'\nSegunda proyección día 14.
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:El espíritu de la colmena
 DTSTART;VALUE=DATE-TIME:20050111T193000
 DTEND;VALUE=DATE-TIME:20050111T210800
 UID:0501113019_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
- rograDore13.pdf
+DESCRIPTION:Sala 1 - El espíritu de la colmena (Víctor Erice\, 1973). In
+ t.: Fernando Fernán Gómez\, Ana Torrent\, Teresa Gimpera. España. 98'\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Gimme Shelter
 DTSTART;VALUE=DATE-TIME:20050111T220000
 DTEND;VALUE=DATE-TIME:20050111T232700
 UID:0501110022_1_dore
-DESCRIPTION:Sala 1 - S \n S S \nS\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Gimme Shelter (David & Albert Maysles\, Charlotte Zwe
+ rin\, 1970). Documental. EEUU. VOSE. 87'\nSegunda proyección día 15.\n\n
+ \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
+ cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Stranger than Paradise
 DTSTART;VALUE=DATE-TIME:20050112T173000
 DTEND;VALUE=DATE-TIME:20050112T185900
 UID:0501123017_1_dore
-DESCRIPTION:Sala 1 - S S S \nS\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Stranger than Paradise (Extraños en el paraíso\, Ji
+ m Jarmusch\,1984). Int.: John Lurie\, Eszter Balint\, Richard Edson. EE UU
+  / RFA.VOSE. 89'\nSegunda proyección día 20.\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Vota a Gundisalvo
 DTSTART;VALUE=DATE-TIME:20050112T180000
 DTEND;VALUE=DATE-TIME:20050112T194500
 UID:0501120018_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005
- /PrograDore13.pdf
+DESCRIPTION:Sala 2 - Vota a Gundisalvo (Pedro Lazaga\, 1977). Int.: Antoni
+ o Ferrandis\, Emilio Gutiérrez Caba\, Laly Soldevilla. España. 105'\n\n\
+ nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
+ ultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Lianna
 DTSTART;VALUE=DATE-TIME:20050112T193000
 DTEND;VALUE=DATE-TIME:20050112T212200
 UID:0501123019_1_dore
-DESCRIPTION:Sala 1 - S \n S S \n S\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Lianna (John Sayles\, 1982). Int.: Linda Griffiths\, 
+ Jane Hallaren\, Jon DeVries. EE UU. VOSE. 112'\nPresentación del libro De
+ ntro y fuera de Hollywood\, con la asistencia de los coordinadores Roberto
+  Cueto y Antonio Weinrichter\, y de José Antonio Hurtado\, director del I
+ VAC. Segunda proyección día 16.\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Shirley Temple Story
 DTSTART;VALUE=DATE-TIME:20050112T200000
 DTEND;VALUE=DATE-TIME:20050112T234400
 UID:0501120020_2_dore
-DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 05/PrograDore13.pdf
+DESCRIPTION:Sala 2 - Shirley Temple Story (Antoni Padrós\, 1976). Int.: R
+ osa Morata\, Dolores Doucastella\, Montse Fontova. España. 224'\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Miedo a salir de noche
 DTSTART;VALUE=DATE-TIME:20050113T173000
 DTEND;VALUE=DATE-TIME:20050113T191900
 UID:0501133017_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Miedo a salir de noche (Eloy de la Iglesia\, 1979). I
+ nt.: José Sacristán\, Antonio Ferrandis\, Claudia Gravi. España. 109'\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Easy Rider
 DTSTART;VALUE=DATE-TIME:20050113T194500
 DTEND;VALUE=DATE-TIME:20050113T211900
 UID:0501134519_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Easy Rider (En busca de mi destino\, Dennis Hopper\, 
+ 1969). Int.: Dennis Hopper\, Peter Fonda\, Jack Nicholson. EE UU. VOSE. 94
+ '\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
+ reas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Congreso en Sevilla
 DTSTART;VALUE=DATE-TIME:20050113T200000
 DTEND;VALUE=DATE-TIME:20050113T213300
 UID:0501130020_2_dore
-DESCRIPTION:Sala 2 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2005/PrograDore13.pdf
+DESCRIPTION:Sala 2 - Congreso en Sevilla (Antonio Román\, 1955). Int.: Ca
+ rmen Sevilla\, Fernando Fernán Gómez\, Manolo Morán. España. 93'\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:You Are Not I
 DTSTART;VALUE=DATE-TIME:20050113T220000
 DTEND;VALUE=DATE-TIME:20050113T225000
 UID:0501130022_1_dore
-DESCRIPTION:Sala 1 - S \n S S S S S\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - You Are Not I (Sara Driver\, 1981). Int.: Suzanne Fle
+ tcher\, Evelyn Smith\, Luc Sante. EE UU. VOSE. 50'\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Haircut
 DTSTART;VALUE=DATE-TIME:20050114T173000
 DTEND;VALUE=DATE-TIME:20050114T184100
 UID:0501143017_1_dore
-DESCRIPTION:Sala 1 - S \n S S S \nS\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Haircut (Andy Warhol\, 1964). Muda. 33'. Serene Veloc
+ ity (Ernie Gehr\, 1970).Muda. 23'. Little Stabs at Happiness (Ken Jacobs\,
+  1959-63). Sonorizada. 15'. EE UU. Total programa: 71'\nSegunda proyecció
+ n día 16.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.
+ pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Walden
 DTSTART;VALUE=DATE-TIME:20050114T190000
 DTEND;VALUE=DATE-TIME:20050114T215300
 UID:0501140019_2_dore
-DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 05/PrograDore13.pdf
+DESCRIPTION:Sala 2 - Walden (Diaries\, Notebooks and Sketches) (Jonas Meka
+ s\, 1964-69). Documental. EE UU. VOSE*. 173'\n\n\nFuente: http://www.mecd.
+ gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
+ re/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Yo creo que...
 DTSTART;VALUE=DATE-TIME:20050114T193000
 DTEND;VALUE=DATE-TIME:20050114T210800
 UID:0501143019_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
- rograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20050114T221500
-DTEND;VALUE=DATE-TIME:20050115T002000
-UID:0501141522_2_dore
-DESCRIPTION:Sala 2 - S S \nS\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20050115T173000
-DTEND;VALUE=DATE-TIME:20050115T185700
-UID:0501153017_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 05/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050115T193000
-DTEND;VALUE=DATE-TIME:20050115T205100
-UID:0501153019_1_dore
-DESCRIPTION:Sala 1 - S \n S S \nS\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20050115T200000
-DTEND;VALUE=DATE-TIME:20050115T213400
-UID:0501150020_2_dore
-DESCRIPTION:Sala 2 - S S \nS\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20050115T220000
-DTEND;VALUE=DATE-TIME:20050115T233700
-UID:0501150022_1_dore
-DESCRIPTION:Sala 1 - S S \nS\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20050116T173000
-DTEND;VALUE=DATE-TIME:20050116T192200
-UID:0501163017_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 05/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050116T194500
-DTEND;VALUE=DATE-TIME:20050116T215000
-UID:0501164519_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050116T200000
-DTEND;VALUE=DATE-TIME:20050116T220500
-UID:0501160020_2_dore
-DESCRIPTION:Sala 2 - S \n S S S S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20050116T221000
-DTEND;VALUE=DATE-TIME:20050116T232100
-UID:0501161022_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050118T173000
-DTEND;VALUE=DATE-TIME:20050118T190700
-UID:0501183017_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050118T193000
-DTEND;VALUE=DATE-TIME:20050118T202700
-UID:0501183019_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20050118T200000
-DTEND;VALUE=DATE-TIME:20050118T213000
-UID:0501180020_2_dore
-DESCRIPTION:Sala 2 - S S S S \nS\n\n\nFuente: http://www.mecd.gob.es/cultu
- ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
- ion/2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20050118T220000
-DTEND;VALUE=DATE-TIME:20050118T232100
-UID:0501180022_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 05/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050119T173000
-DTEND;VALUE=DATE-TIME:20050119T192200
-UID:0501193017_1_dore
-DESCRIPTION:Sala 1 - S \n S S S S S \nS\n\n\nFuente: http://www.mecd.gob.e
- s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
- ogramacion/2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20050119T194500
-DTEND;VALUE=DATE-TIME:20050119T212900
-UID:0501194519_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050119T200000
-DTEND;VALUE=DATE-TIME:20050119T212700
-UID:0501190020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
- rograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050119T220000
-DTEND;VALUE=DATE-TIME:20050119T231500
-UID:0501190022_2_dore
-DESCRIPTION:Sala 2 - S \n S S \nS\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20050120T173000
-DTEND;VALUE=DATE-TIME:20050120T185800
-UID:0501203017_1_dore
-DESCRIPTION:Sala 1 - S S S S S \nS\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20050120T193000
-DTEND;VALUE=DATE-TIME:20050120T211200
-UID:0501203019_1_dore
-DESCRIPTION:Sala 1 - S S S \nS\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050120T200000
-DTEND;VALUE=DATE-TIME:20050120T212500
-UID:0501200020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
- rograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050120T220000
-DTEND;VALUE=DATE-TIME:20050120T232900
-UID:0501200022_1_dore
-DESCRIPTION:Sala 1 - S \nS S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050121T173000
-DTEND;VALUE=DATE-TIME:20050121T184500
-UID:0501213017_1_dore
-DESCRIPTION:Sala 1 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050121T193000
-DTEND;VALUE=DATE-TIME:20050121T210000
-UID:0501213019_1_dore
-DESCRIPTION:Sala 1 - S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050121T200000
-DTEND;VALUE=DATE-TIME:20050121T212600
-UID:0501210020_2_dore
-DESCRIPTION:Sala 2 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050121T220000
-DTEND;VALUE=DATE-TIME:20050121T234400
-UID:0501210022_1_dore
-DESCRIPTION:Sala 1 - S \n S S \nS\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050122T173000
-DTEND;VALUE=DATE-TIME:20050122T185800
-UID:0501223017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
- rograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050122T193000
-DTEND;VALUE=DATE-TIME:20050122T211300
-UID:0501223019_1_dore
-DESCRIPTION:Sala 1 - S \n S S \nS\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20050122T200000
-DTEND;VALUE=DATE-TIME:20050122T212800
-UID:0501220020_2_dore
-DESCRIPTION:Sala 2 - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050122T220000
-DTEND;VALUE=DATE-TIME:20050122T233700
-UID:0501220022_1_dore
-DESCRIPTION:Sala 1 - S \nS S S S S S \nS\n\n\nFuente: http://www.mecd.gob.
- es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
- rogramacion/2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050123T173000
-DTEND;VALUE=DATE-TIME:20050123T190300
-UID:0501233017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
- rograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050123T193000
-DTEND;VALUE=DATE-TIME:20050123T212200
-UID:0501233019_1_dore
-DESCRIPTION:Sala 1 - S \n S S S S S\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050123T200000
-DTEND;VALUE=DATE-TIME:20050123T214400
-UID:0501230020_2_dore
-DESCRIPTION:Sala 2 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050123T220000
-DTEND;VALUE=DATE-TIME:20050123T234200
-UID:0501230022_1_dore
-DESCRIPTION:Sala 1 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050125T173000
-DTEND;VALUE=DATE-TIME:20050125T190700
-UID:0501253017_1_dore
-DESCRIPTION:Sala 1 - S \nS S S S S S\n\n\nFuente: http://www.mecd.gob.es/c
+DESCRIPTION:Sala 1 - Yo creo que... (Antonio Artero\, 1975). Int.: Juan Di
+ ego\, Gregori Concha\, Félix Rotaeta. España. 98'\nPresentación del lib
+ ro Voces en la niebla y homenaje a Antonio Artero con la asistencia de Jav
+ ier Hernández y Pablo Pérez Rubio.\n\n\nFuente: http://www.mecd.gob.es/c
  ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
  amacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050125T191500
-DTEND;VALUE=DATE-TIME:20050125T205000
-UID:0501251519_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
- rograDore13.pdf
+SUMMARY:Pull My Daisy
+DTSTART;VALUE=DATE-TIME:20050114T221500
+DTEND;VALUE=DATE-TIME:20050115T002000
+UID:0501141522_2_dore
+DESCRIPTION:Sala 2 - Pull My Daisy (Robert Frank y Alfred Leslie\, 1959). 
+ 30'. Me and My Brother (Robert Frank\, 1968). Int.: Julius Orlovsky\, Jose
+ ph Chaikin\, John Coe. 95'. VOSE*. EE UU. Total programa: 125'\nSegunda pr
+ oyección día 16.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Progr
+ aDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20050125T193000
-DTEND;VALUE=DATE-TIME:20050125T210000
-UID:0501253019_1_dore
-DESCRIPTION:Sala 1 - S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2005/PrograDore13.pdf
+SUMMARY:Gimme Shelter
+DTSTART;VALUE=DATE-TIME:20050115T173000
+DTEND;VALUE=DATE-TIME:20050115T185700
+UID:0501153017_1_dore
+DESCRIPTION:Sala 1 - Gimme Shelter (David & Albert Maysles\, Charlotte Zwe
+ rin\, 1970). Documental. EEUU. VOSE. 87'\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20050125T220000
-DTEND;VALUE=DATE-TIME:20050125T234400
-UID:0501250022_2_dore
-DESCRIPTION:Sala 2 - S S S \nS\n\n\nFuente: http://www.mecd.gob.es/cultura
+SUMMARY:The Shooting
+DTSTART;VALUE=DATE-TIME:20050115T193000
+DTEND;VALUE=DATE-TIME:20050115T205100
+UID:0501153019_1_dore
+DESCRIPTION:Sala 1 - The Shooting (El tiroteo\, Monte Hellman\, 1966). Int
+ .: Will Hutchins\, Millie Perkins\, Jack Nicholson. EE UU. VOSE. 81'\nSegu
+ nda proyección día 18.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005
+ /PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hong xia
+DTSTART;VALUE=DATE-TIME:20050115T200000
+DTEND;VALUE=DATE-TIME:20050115T213400
+UID:0501150020_2_dore
+DESCRIPTION:Sala 2 - Hong xia (La heroína roja\, Wen Yimin\, 1929). Int: 
+ Fan Xuepeng\, Xu Guohui\, Wen Yimin. China. MRCh/ISE*. 94'\nSegunda proyec
+ ción día 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDor
+ e13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erection
+DTSTART;VALUE=DATE-TIME:20050115T220000
+DTEND;VALUE=DATE-TIME:20050115T233700
+UID:0501150022_1_dore
+DESCRIPTION:Sala 1 - Erection (John Lennon y Yoko Ono\, 1971). GB. 20'. Ra
+ pe (John Lennon y Yoko Ono\, 1969). Int.: Nicholas D. Knowland\, Eva Majla
+ ta EE UU. 77'. Sin diálogos. Total programa: 97'\nSegunda proyección dí
+ a 18.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lianna
+DTSTART;VALUE=DATE-TIME:20050116T173000
+DTEND;VALUE=DATE-TIME:20050116T192200
+UID:0501163017_1_dore
+DESCRIPTION:Sala 1 - Lianna (John Sayles\, 1982). Int.: Linda Griffiths\, 
+ Jane Hallaren\, Jon DeVries. EE UU. VOSE. 112'\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pull My Daisy
+DTSTART;VALUE=DATE-TIME:20050116T194500
+DTEND;VALUE=DATE-TIME:20050116T215000
+UID:0501164519_1_dore
+DESCRIPTION:Sala 1 - Pull My Daisy (Robert Frank y Alfred Leslie\, 1959). 
+ 30'. Me and My Brother (Robert Frank\, 1968). Int.: Julius Orlovsky\, Jose
+ ph Chaikin\, John Coe. 95'. VOSE*. EE UU. Total programa: 125'\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dalu
+DTSTART;VALUE=DATE-TIME:20050116T200000
+DTEND;VALUE=DATE-TIME:20050116T220500
+UID:0501160020_2_dore
+DESCRIPTION:Sala 2 - Dalu (La gran carretera\, Sun Yu\, 1934). Int: Jin Ya
+ n\, Zhang Yi\, Hang Langen. China.SRCh/ISE*.102' Segunda proyección día 
+ 27.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haircut
+DTSTART;VALUE=DATE-TIME:20050116T221000
+DTEND;VALUE=DATE-TIME:20050116T232100
+UID:0501161022_1_dore
+DESCRIPTION:Sala 1 - Haircut (Andy Warhol\, 1964). Muda. 33'. Serene Veloc
+ ity (Ernie Gehr\, 1970).Muda. 23'. Little Stabs at Happiness (Ken Jacobs\,
+  1959-63). VOSE*. 15'. EE UU. Total programa: 71'\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erection
+DTSTART;VALUE=DATE-TIME:20050118T173000
+DTEND;VALUE=DATE-TIME:20050118T190700
+UID:0501183017_1_dore
+DESCRIPTION:Sala 1 - Erection (John Lennon y Yoko Ono\, 1971). GB. 20'. Ra
+ pe (John Lennon y Yoko Ono\, 1969). Int.: Nicholas D. Knowland\, Eva Majla
+ ta EE UU. 77'. Sin diálogos. Total programa: 97'\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Jarama
+DTSTART;VALUE=DATE-TIME:20050118T193000
+DTEND;VALUE=DATE-TIME:20050118T202700
+UID:0501183019_1_dore
+DESCRIPTION:Sala 1 - El Jarama (Julián Marcos\, 1965). Int.: Pilar Romero
+ \, Jesús Ciuro\, Luis Páramo. 30'. El encuentro (Julián Marcos\, 1966).
+  Int.: Julia Peña\, José María Resel\, José Luis Sánchez Poto. 27'. E
+ spaña. Total programa: 57'\nCon la presencia de...\n\n\nFuente: http://ww
+ w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
+ cine-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last Chants for a Slow Dance
+DTSTART;VALUE=DATE-TIME:20050118T200000
+DTEND;VALUE=DATE-TIME:20050118T213000
+UID:0501180020_2_dore
+DESCRIPTION:Sala 2 - Last Chants for a Slow Dance (Jon Jost\, 1977). Int.:
+  Tom Blair\, Wayne Crouse\, Jessica St. John. EE UU. VOSE*. 90'\nSegunda p
+ royección día 21.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
+ ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/Prog
+ raDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Shooting
+DTSTART;VALUE=DATE-TIME:20050118T220000
+DTEND;VALUE=DATE-TIME:20050118T232100
+UID:0501180022_1_dore
+DESCRIPTION:Sala 1 - The Shooting (El tiroteo\, Monte Hellman\, 1966). Int
+ .: Will Hutchins\, Millie Perkins\, Jack Nicholson. EE UU. VOSE. 81'\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liquid Sky
+DTSTART;VALUE=DATE-TIME:20050119T173000
+DTEND;VALUE=DATE-TIME:20050119T192200
+UID:0501193017_1_dore
+DESCRIPTION:Sala 1 - Liquid Sky (Cielo Líquido\, Slava Tsukerman\, 1982).
+  Int.: Anne Carlisle\, Paula E. Sheppard\, Susan Doukas EE UU. VOSE*. 112'
+ \nSegunda proyección día 23.\n\n\nFuente: http://www.mecd.gob.es/cultura
  -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
  n/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20050126T173000
-DTEND;VALUE=DATE-TIME:20050126T191300
-UID:0501263017_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 05/PrograDore13.pdf
+SUMMARY:Xin nüxing
+DTSTART;VALUE=DATE-TIME:20050119T194500
+DTEND;VALUE=DATE-TIME:20050119T212900
+UID:0501194519_1_dore
+DESCRIPTION:Sala 1 - Xin nüxing (Nuevas mujeres\, Cai Chusheng\, 1934). I
+ nt.: Ruan Lingyu\, Zheng Junli\, Wang Naidong. China. SRChSE*. 104'\nPrese
+ ntación del ciclo a cargo de Alberto Elena\, Hu Ke\, especialista de la F
+ ilmoteca China\, y Taciana Fisac\, directora del Centro de Estudios de Asi
+ a Oriental de la UAM. Segunda proyección día 23.\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050126T193000
-DTEND;VALUE=DATE-TIME:20050126T211300
-UID:0501263019_1_dore
-DESCRIPTION:Sala 1 - S \n S S \n S\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2005/PrograDore13.pdf
+SUMMARY:Dos novias para un torero / Dos charros y una gitana
+DTSTART;VALUE=DATE-TIME:20050119T200000
+DTEND;VALUE=DATE-TIME:20050119T212700
+UID:0501190020_2_dore
+DESCRIPTION:Sala 2 - Dos novias para un torero / Dos charros y una gitana 
+ (Antonio Román\, 1956). Int.: Paquita Rico\, Manuel Capetillo\, José Ven
+ egas "El Bronco". España /México. 87'\n\n\nFuente: http://www.mecd.gob.e
+ s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
+ ogramacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050126T200000
-DTEND;VALUE=DATE-TIME:20050126T220300
-UID:0501260020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
- rograDore13.pdf
+SUMMARY:Dog Star Man
+DTSTART;VALUE=DATE-TIME:20050119T220000
+DTEND;VALUE=DATE-TIME:20050119T231500
+UID:0501190022_2_dore
+DESCRIPTION:Sala 2 - Dog Star Man (Stan Brackhage\, 1962-1964). EE UU. Mud
+ a. 75'\nSegunda proyección día 21.\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20050126T221500
-DTEND;VALUE=DATE-TIME:20050126T234900
-UID:0501261522_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005
- /PrograDore13.pdf
+SUMMARY:Zhi guo yuan/ Laogong zhi aiqing
+DTSTART;VALUE=DATE-TIME:20050120T173000
+DTEND;VALUE=DATE-TIME:20050120T185800
+UID:0501203017_1_dore
+DESCRIPTION:Sala 1 - Zhi guo yuan/ Laogong zhi aiqing (Romance de un vende
+ dor de fruta\, Zhang Sichuan\, 1922). Int.: Zheng Zhegu\, Yu Ying\, Zheng 
+ Zhengqiu. MRChSE*. 25'. Mitu de Gaoyang (Un corderito extraviado\, Cai Chu
+ sheng\, 1936). Int.: Ge Zuozhi\, Chen Juanjuan\, Li Zhuozhuo\, Zheng Junli
+ . SRChSE*. 63'. China. Total programa: 88'\nSegunda proyección día 22.\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20050127T173000
-DTEND;VALUE=DATE-TIME:20050127T192400
-UID:0501273017_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2005/PrograDore13.pdf
+SUMMARY:The Rain People
+DTSTART;VALUE=DATE-TIME:20050120T193000
+DTEND;VALUE=DATE-TIME:20050120T211200
+UID:0501203019_1_dore
+DESCRIPTION:Sala 1 - The Rain People (Llueve sobre mi corazón\, Francis F
+ ord Coppola\, 1969). Int.: James Caan\, Shirley Knight\, Robert Duvall EE 
+ UU. VOSE. 102'\nSegunda proyección día 23.\n\n\nFuente: http://www.mecd.
+ gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
+ re/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20050127T195000
-DTEND;VALUE=DATE-TIME:20050127T211200
-UID:0501275019_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 05/PrograDore13.pdf
+SUMMARY:Madrugada
+DTSTART;VALUE=DATE-TIME:20050120T200000
+DTEND;VALUE=DATE-TIME:20050120T212500
+UID:0501200020_2_dore
+DESCRIPTION:Sala 2 - Madrugada (Antonio Román\, 1957). Int.: Zully Moreno
+ \, Luis Peña\, Antonio Prieto. España. 85'\n\n\nFuente: http://www.mecd.
+ gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
+ re/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20050127T200000
-DTEND;VALUE=DATE-TIME:20050127T213000
-UID:0501270020_2_dore
-DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 05/PrograDore13.pdf
+SUMMARY:Stranger than Paradise
+DTSTART;VALUE=DATE-TIME:20050120T220000
+DTEND;VALUE=DATE-TIME:20050120T232900
+UID:0501200022_1_dore
+DESCRIPTION:Sala 1 - Stranger than Paradise (Extraños en el paraíso\, Ji
+ m Jarmusch\,1984). Int.: John Lurie\, Eszter Balint\, Richard Edson. EE UU
+  / RFA.VOSE. 89'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograD
+ ore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20050127T223000
-DTEND;VALUE=DATE-TIME:20050128T001300
-UID:0501273022_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2005/PrograDore13.pdf
+SUMMARY:Dog Star Man
+DTSTART;VALUE=DATE-TIME:20050121T173000
+DTEND;VALUE=DATE-TIME:20050121T184500
+UID:0501213017_1_dore
+DESCRIPTION:Sala 1 - Dog Star Man (Stan Brackhage\, 1962-1964). EE UU. Mud
+ a. 75'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
+ ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20050128T173000
-DTEND;VALUE=DATE-TIME:20050128T185300
-UID:0501283017_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2005/PrograDore13.pdf
+SUMMARY:Last Chants for a Slow Dance
+DTSTART;VALUE=DATE-TIME:20050121T193000
+DTEND;VALUE=DATE-TIME:20050121T210000
+UID:0501213019_1_dore
+DESCRIPTION:Sala 1 - Last Chants for a Slow Dance (Jon Jost\, 1977). Int.:
+  Tom Blair\, Wayne Crouse\, Jessica St. John. EE UU. VOSE*. 90'\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20050128T193000
-DTEND;VALUE=DATE-TIME:20050128T210500
-UID:0501283019_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 05/PrograDore13.pdf
+SUMMARY:Bombas para la paz
+DTSTART;VALUE=DATE-TIME:20050121T200000
+DTEND;VALUE=DATE-TIME:20050121T212600
+UID:0501210020_2_dore
+DESCRIPTION:Sala 2 - Bombas para la paz (Antonio Román\, 1958). Int.: Fer
+ nando Fernán Gómez\, Susana Campos\, Julita Martínez. España. España.
+  86'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
+ d/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20050128T200000
-DTEND;VALUE=DATE-TIME:20050128T213500
-UID:0501280020_2_dore
-DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 05/PrograDore13.pdf
+SUMMARY:Chuncan
+DTSTART;VALUE=DATE-TIME:20050121T220000
+DTEND;VALUE=DATE-TIME:20050121T234400
+UID:0501210022_1_dore
+DESCRIPTION:Sala 1 - Chuncan (Los gusanos de seda de la primavera\, Cheng 
+ Bugao\, 1933). Int.: Xiao Ying\, Yan Yuexian\, Gong Jianong. China. SRChSE
+ *. 104'\nSegunda proyección día 25.\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050128T220000
-DTEND;VALUE=DATE-TIME:20050129T000100
-UID:0501280022_1_dore
-DESCRIPTION:Sala 1 - S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cultu
- ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
- ion/2005/PrograDore13.pdf
+SUMMARY:El sol en el espejo
+DTSTART;VALUE=DATE-TIME:20050122T173000
+DTEND;VALUE=DATE-TIME:20050122T185800
+UID:0501223017_1_dore
+DESCRIPTION:Sala 1 - El sol en el espejo (Antonio Román\, 1962). Int.: Yv
+ onne Bastién\, Luis Dávila\, José Isbert. España. 88'\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050129T173000
-DTEND;VALUE=DATE-TIME:20050129T190900
-UID:0501293017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
- rograDore13.pdf
+SUMMARY:Harlan County
+DTSTART;VALUE=DATE-TIME:20050122T193000
+DTEND;VALUE=DATE-TIME:20050122T211300
+UID:0501223019_1_dore
+DESCRIPTION:Sala 1 - Harlan County (Harlan County USA\, Barbara Kopple\, 1
+ 977). Documental. EE UU. VOSE*. 103'\nSegunda proyección día 26.\n\n\nFu
+ ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
+ ura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20050129T194500
-DTEND;VALUE=DATE-TIME:20050129T212800
-UID:0501294519_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 05/PrograDore13.pdf
+SUMMARY:Zhi guo yuan/ Laogong zhi aiqing
+DTSTART;VALUE=DATE-TIME:20050122T200000
+DTEND;VALUE=DATE-TIME:20050122T212800
+UID:0501220020_2_dore
+DESCRIPTION:Sala 2 - Zhi guo yuan/ Laogong zhi aiqing (Romance de un vende
+ dor de fruta\, Zhang Sichuan\, 1922). Int.: Zheng Zhegu\, Yu Ying\, Zheng 
+ Zhengqiu. MRChSE*. 25'. Mitu de Gaoyang (Un corderito extraviado\, Cai Chu
+ sheng\, 1936). Int.: Ge Zuozhi\, Chen Juanjuan\, Li Zhuozhuo\, Zheng Junli
+ . SRChSE*. 63'. China. Total programa: 88'\n\n\nFuente: http://www.mecd.go
+ b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
+ /programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20050129T200000
-DTEND;VALUE=DATE-TIME:20050129T213000
-UID:0501290020_2_dore
-DESCRIPTION:Sala 2 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+SUMMARY:Sweet Sweetback's Baad Asssss Song
+DTSTART;VALUE=DATE-TIME:20050122T220000
+DTEND;VALUE=DATE-TIME:20050122T233700
+UID:0501220022_1_dore
+DESCRIPTION:Sala 1 - Sweet Sweetback's Baad Asssss Song (Melvin van Peeble
+ s\, 1971). Int.: Simon Chuckster\, Melvin Van Peebles\, Hubert Scales EE U
+ U. VOSE*. 97'\nSegunda proyección día 25.\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pacto de silencio
+DTSTART;VALUE=DATE-TIME:20050123T173000
+DTEND;VALUE=DATE-TIME:20050123T190300
+UID:0501233017_1_dore
+DESCRIPTION:Sala 1 - Pacto de silencio (Antonio Román\, 1963). Int.: Yvon
+ ne Bastier\, Pierre Brice\, Carlos Estrada. España. 93'\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liquid Sky
+DTSTART;VALUE=DATE-TIME:20050123T193000
+DTEND;VALUE=DATE-TIME:20050123T212200
+UID:0501233019_1_dore
+DESCRIPTION:Sala 1 - Liquid Sky (Cielo Líquido\, Slava Tsukerman\, 1982).
+  Int.: Anne Carlisle\, Paula E. Sheppard\, Susan Doukas EE UU. VOSE*. 112'
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xin nüxing
+DTSTART;VALUE=DATE-TIME:20050123T200000
+DTEND;VALUE=DATE-TIME:20050123T214400
+UID:0501230020_2_dore
+DESCRIPTION:Sala 2 - Xin nüxing (Nuevas mujeres\, Cai Chusheng\, 1934). I
+ nt.: Ruan Lingyu\, Zheng Junli\, Wang Naidong. China. SRChSE*. 104'\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rain People
+DTSTART;VALUE=DATE-TIME:20050123T220000
+DTEND;VALUE=DATE-TIME:20050123T234200
+UID:0501230022_1_dore
+DESCRIPTION:Sala 1 - The Rain People (Llueve sobre mi corazón\, Francis F
+ ord Coppola\, 1969). Int.: James Caan\, Shirley Knight\, Robert Duvall EE 
+ UU. VOSE. 102'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDor
+ e13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweet Sweetback's Baad Asssss Song
+DTSTART;VALUE=DATE-TIME:20050125T173000
+DTEND;VALUE=DATE-TIME:20050125T190700
+UID:0501253017_1_dore
+DESCRIPTION:Sala 1 - Sweet Sweetback's Baad Asssss Song (Melvin van Peeble
+ s\, 1971). Int.: Simon Chuckster\, Melvin Van Peebles\, Hubert Scales EE U
+ U. VOSE*. 97'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
+ ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore
+ 13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los peces rojos
+DTSTART;VALUE=DATE-TIME:20050125T191500
+DTEND;VALUE=DATE-TIME:20050125T205000
+UID:0501251519_2_dore
+DESCRIPTION:Sala 2 - Los peces rojos (José Antonio Nieves Conde\, 1955). 
+ Int.: Arturo de Córdova\, Emma Penella\, Félix Dafauce. España. 95'\nPr
+ esentación de la película.\n\n\nFuente: http://www.mecd.gob.es/cultura-m
  ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
  2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050129T220000
-DTEND;VALUE=DATE-TIME:20050129T235400
-UID:0501290022_1_dore
-DESCRIPTION:Sala 1 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2005/PrograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20050130T173000
-DTEND;VALUE=DATE-TIME:20050130T191800
-UID:0501303017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
- rograDore13.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20050130T200000
-DTEND;VALUE=DATE-TIME:20050130T220100
-UID:0501300020_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+SUMMARY:Toute une nuit
+DTSTART;VALUE=DATE-TIME:20050125T193000
+DTEND;VALUE=DATE-TIME:20050125T210000
+UID:0501253019_1_dore
+DESCRIPTION:Sala 1 - Toute une nuit (Chantal Akerman\, 1982). Int.: Aurore
+  Clément\, Samy Szlingerbaum\, Natalia Akerman. Francia / Bélgica. VOSE*
+ . 90'\nPresentación y coloquio con la asistencia de Chantal Akerman. Segu
+ nda proyección día 29.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
  dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005
  /PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20050130T201500
-DTEND;VALUE=DATE-TIME:20050130T215800
-UID:0501301520_2_dore
-DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 05/PrograDore13.pdf
+SUMMARY:Chuncan
+DTSTART;VALUE=DATE-TIME:20050125T220000
+DTEND;VALUE=DATE-TIME:20050125T234400
+UID:0501250022_2_dore
+DESCRIPTION:Sala 2 - Chuncan (Los gusanos de seda de la primavera\, Cheng 
+ Bugao\, 1933). Int.: Xiao Ying\, Yan Yuexian\, Gong Jianong. China. SRChSE
+ *. 104'\nSegunda proyección día 29.\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Harlan County
+DTSTART;VALUE=DATE-TIME:20050126T173000
+DTEND;VALUE=DATE-TIME:20050126T191300
+UID:0501263017_1_dore
+DESCRIPTION:Sala 1 - Harlan County (Harlan County USA\, Barbara Kopple\, 1
+ 977). Documental. EE UU. VOSE*. 103'\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De l'autre côté / From the Other Side
+DTSTART;VALUE=DATE-TIME:20050126T193000
+DTEND;VALUE=DATE-TIME:20050126T211300
+UID:0501263019_1_dore
+DESCRIPTION:Sala 1 - De l'autre côté / From the Other Side (Chantal Aker
+ man\, 2002). Documental. Francia / Bélgica / Australia / Finlandia. VOSI/
+ E*. 103'\nCon la presencia de Chantal Akerman. Segunda proyección día 30
+ .\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
+ reas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El mundo sigue
+DTSTART;VALUE=DATE-TIME:20050126T200000
+DTEND;VALUE=DATE-TIME:20050126T220300
+UID:0501260020_2_dore
+DESCRIPTION:Sala 2 - El mundo sigue (Fernando Fernán Gómez\, 1963). Int.
+ : Lina Canalejas\, Gemma Cuervo\, Fernando Fernán Gómez. España. 123'\n
+ Presentación de la película.\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hong xia
+DTSTART;VALUE=DATE-TIME:20050126T221500
+DTEND;VALUE=DATE-TIME:20050126T234900
+UID:0501261522_1_dore
+DESCRIPTION:Sala 1 - Hong xia (La heroína roja\, Wen Yimin\, 1929). Int: 
+ Fan Xuepeng\, Xu Guohui\, Wen Yimin. China. MRCh/ISE*. 94'\nAcompañamient
+ o de piano: Javier Pérez de Azpeitia.\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xiao wanyi
+DTSTART;VALUE=DATE-TIME:20050127T173000
+DTEND;VALUE=DATE-TIME:20050127T192400
+UID:0501273017_1_dore
+DESCRIPTION:Sala 1 - Xiao wanyi (Los juguetes\, Sun Yu\, 1933). Int.: Ruan
+  Lingyu\, Yuan Congmei\, Li Lili. China. MRChSE*. 114'\nAcompañamiento de
+  piano: Javier Pérez de Azpeitia. Segunda proyección día 29.\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los clarines del miedo
+DTSTART;VALUE=DATE-TIME:20050127T195000
+DTEND;VALUE=DATE-TIME:20050127T211200
+UID:0501275019_1_dore
+DESCRIPTION:Sala 1 - Los clarines del miedo (Antonio Román\, 1958). Int.:
+  Francisco Rabal\, Rogelio Madrid\, Silvia Solar. España. 82'\nPresentaci
+ ón del libro Antonio Román\, un cineasta de la posguerra\, con la asiste
+ ncia de su autor\, Pepe Coira.\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Epílogo
+DTSTART;VALUE=DATE-TIME:20050127T200000
+DTEND;VALUE=DATE-TIME:20050127T213000
+UID:0501270020_2_dore
+DESCRIPTION:Sala 2 - Epílogo (Gonzalo Suarez\, 1984). Int.: Francisco Rab
+ al\, José Sacristán\, Charo López. España. 90'\nPresentación de la pe
+ lícula.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pd
+ f
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tianming
+DTSTART;VALUE=DATE-TIME:20050127T223000
+DTEND;VALUE=DATE-TIME:20050128T001300
+UID:0501273022_1_dore
+DESCRIPTION:Sala 1 - Tianming (El amanecer\, Sun Yu\, 1933). Int.: Gao Zha
+ nfei\, Li Lili\, Yuan Congmei. China. MRChSE*. 103'\nAcompañamiento de pi
+ ano: Javier Pérez de Azpeitia. Segunda proyección día 29.\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiyu Huanghou
+DTSTART;VALUE=DATE-TIME:20050128T173000
+DTEND;VALUE=DATE-TIME:20050128T185300
+UID:0501283017_1_dore
+DESCRIPTION:Sala 1 - Tiyu Huanghou (La reina del deporte\, Sun Yu\, 1934).
+  Int.: Li Lili\, Bai Lu. China. MRChSE*. 83'\nAcompañamiento de piano: Ja
+ vier Pérez de Azpeitia. Segunda proyección día 30.\n\n\nFuente: http://
+ www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
+ e/cine-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Sur
+DTSTART;VALUE=DATE-TIME:20050128T193000
+DTEND;VALUE=DATE-TIME:20050128T210500
+UID:0501283019_1_dore
+DESCRIPTION:Sala 1 - El Sur (Víctor Erice\, 1983). Int.: Omero Antonutti\
+ , Icíar Bollaín\, Sonsoles Aranguren. España. 95'\nPresentación de la 
+ película\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.p
+ df
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Underground USA
+DTSTART;VALUE=DATE-TIME:20050128T200000
+DTEND;VALUE=DATE-TIME:20050128T213500
+UID:0501280020_2_dore
+DESCRIPTION:Sala 2 - Underground USA (Eric Mitchell\, 1980). Int.: Patti A
+ stor\, Eric Mitchell\, René Ricard. EE UU. VOSE. 95'\n\n\nFuente: http://
+ www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
+ e/cine-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yijian mei
+DTSTART;VALUE=DATE-TIME:20050128T220000
+DTEND;VALUE=DATE-TIME:20050129T000100
+UID:0501280022_1_dore
+DESCRIPTION:Sala 1 - Yijian mei (Una rama de ciruelo\, Bu Wancang\, 1931).
+  Int.: Ruan Lingyu\, Jin Yan\, Gao Zhanfei. China.MRChSE*. 121'\nAcompaña
+ miento de piano: Javier Pérez de Azpeitia. Segunda proyección día 30.\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El disputado voto del señor Cayo
+DTSTART;VALUE=DATE-TIME:20050129T173000
+DTEND;VALUE=DATE-TIME:20050129T190900
+UID:0501293017_1_dore
+DESCRIPTION:Sala 1 - El disputado voto del señor Cayo (Antonio Giménez R
+ ico\, 1986). Int.: Francisco Rabal\, Lidia Bosch\, Iñaki Miramón. Españ
+ a. 99'\nPresentación de la película\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tianming
+DTSTART;VALUE=DATE-TIME:20050129T194500
+DTEND;VALUE=DATE-TIME:20050129T212800
+UID:0501294519_1_dore
+DESCRIPTION:Sala 1 - Tianming (El amanecer\, Sun Yu\, 1933). Int.: Gao Zha
+ nfei\, Li Lili\, Yuan Congmei. China. MRChSE*. 103'\nAcompañamiento de pi
+ ano: Javier Pérez de Azpeitia.\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toute une nuit
+DTSTART;VALUE=DATE-TIME:20050129T200000
+DTEND;VALUE=DATE-TIME:20050129T213000
+UID:0501290020_2_dore
+DESCRIPTION:Sala 2 - Toute une nuit (Chantal Akerman\, 1982). Int.: Aurore
+  Clément\, Samy Szlingerbaum\, Natalia Akerman. Francia / Bélgica. VOSE*
+ . 90'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xiao wanyi
+DTSTART;VALUE=DATE-TIME:20050129T220000
+DTEND;VALUE=DATE-TIME:20050129T235400
+UID:0501290022_1_dore
+DESCRIPTION:Sala 1 - Xiao wanyi (Los juguetes\, Sun Yu\, 1933). Int.: Ruan
+  Lingyu\, Yuan Congmei\, Li Lili. China. MRChSE*. 114'\nAcompañamiento de
+  piano: Javier Pérez de Azpeitia.\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El bosque animado
+DTSTART;VALUE=DATE-TIME:20050130T173000
+DTEND;VALUE=DATE-TIME:20050130T191800
+UID:0501303017_1_dore
+DESCRIPTION:Sala 1 - El bosque animado (José Luis Cuerda\, 1987). Int.: A
+ lfredo Landa\, Fernando Valverde\, Alejandra Grepi. España. 108'\nPresent
+ ación de la película\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/P
+ rograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yijian mei
+DTSTART;VALUE=DATE-TIME:20050130T200000
+DTEND;VALUE=DATE-TIME:20050130T220100
+UID:0501300020_1_dore
+DESCRIPTION:Sala 1 - Yijian mei (Una rama de ciruelo\, Bu Wancang\, 1931).
+  Int.: Ruan Lingyu\, Jin Yan\, Gao Zhanfei. China.MRChSE*. 121'\nAcompaña
+ miento de piano: Javier Pérez de Azpeitia.\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2005/PrograDore13.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De l'autre côté / From the Other Side
+DTSTART;VALUE=DATE-TIME:20050130T201500
+DTEND;VALUE=DATE-TIME:20050130T215800
+UID:0501301520_2_dore
+DESCRIPTION:Sala 2 - De l'autre côté / From the Other Side (Chantal Aker
+ man\, 2002). Documental. Francia / Bélgica / Australia / Finlandia. VOSI/
+ E*. 103'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2005/PrograDore13.pd
+ f
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiyu Huanghou
 DTSTART;VALUE=DATE-TIME:20050130T220000
 DTEND;VALUE=DATE-TIME:20050130T232300
 UID:0501300022_1_dore
-DESCRIPTION:Sala 1 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2005/PrograDore13.pdf
+DESCRIPTION:Sala 1 - Tiyu Huanghou (La reina del deporte\, Sun Yu\, 1934).
+  Int.: Li Lili\, Bai Lu. China. MRChSE*. 83'\nAcompañamiento de piano: Ja
+ vier Pérez de Azpeitia. </pre> </body> </html>\n\n\nFuente: http://www.me
+ cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
+ -dore/programacion/2005/PrograDore13.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

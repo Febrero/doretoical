@@ -4,833 +4,1270 @@ PRODID:-//Cine Doré//github.com santos82 doredb//ES
 X-WR-CALNAME:Cine Dore
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:S S S S S S
+SUMMARY:The Frozen North
 DTSTART;VALUE=DATE-TIME:20150801T180000
 DTEND;VALUE=DATE-TIME:20150801T192700
 UID:1508010018_1_dore
-DESCRIPTION:Sala 1 - S S S S S S \nS S\n\n\nFuente: http://www.mecd.gob.es
- /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
- gramacion/2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - The Frozen North (Buster Keaton\, Eddie Cline\, 1922)
+ . Int.:Buster Keaton\, Sybil Seely. EE UU. DCP. 17'. Steamboat Bill Jr. (E
+ l héroe del río\, Charles F. Reisner\, Charles Reisner\, 1928). Int.:Bus
+ ter Keaton\, Ernest Torrence\, Marion Byron. EE UU. DCP. SRISE. 70'. Total
+  programa: 87'\nSteamboat Bill Jr.: Sin duda uno de los títulos más admi
+ rados y conocidos del genial Buster Keaton\, en el que el director mezcla 
+ perfectamente las situaciones absurdas\, con un humor creíble y con unas 
+ escenas de acción prodigiosas. Las rivalidades surgidas entre los propiet
+ arios de dos barcos darán rienda suelta a una joya del cine clásico. Ent
+ rada libre para menores de 14 años.\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Gravity
 DTSTART;VALUE=DATE-TIME:20150801T195000
 DTEND;VALUE=DATE-TIME:20150801T212100
 UID:1508015019_1_dore
-DESCRIPTION:Sala 1 - S S S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Gravity (Gravity\, Alfonso Cuarón\, 2013). Int.:Geor
+ ge Clooney\, Sandra Bullock\, Ed Harris. EE UU. DCP. VOSE. 91'\n"Alfonso C
+ uarón ha hecho de ese momento una hipnótica película de 90 minutos\, un
+  salto al vacío técnico que comprime sus accidentes en una aventura de s
+ upervivencia eficaz y emocionante\, y que se atreve a forzar a sus dos est
+ rellas\, al menos durante medio metraje\, a trabajar con la voz y el cuerp
+ o\, su icónico rostro apagado por la inmensidad sideral." (Sergi Sánchez
+ ) Segunda proyección día 4.\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Tabu
 DTSTART;VALUE=DATE-TIME:20150801T220000
 DTEND;VALUE=DATE-TIME:20150801T235800
 UID:1508010022_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 15/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Tabu (Tabu\, Miguel Gomes\, 2012). Int.:Ana Moreira\,
+  Teresa Madruga\, Laura Soveral. Portugal. B-R. VOSE. 118'\n"Existe Mogamb
+ o y ¡Hatari!\, la mitología y la idea que el cine inventó de África\, 
+ una África que no es la real sino una que ha sido proyectada e inventada 
+ a través de las películas. Yo siempre consideré Tabu como una película
+  de Hollywood con gente jugando de una forma completamente ficcional con e
+ lementos inverosímiles\, como personas con cocodrilos como animales de co
+ mpañía." (Miguel Gomes)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/201
+ 5/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Indignados
 DTSTART;VALUE=DATE-TIME:20150802T180000
 DTEND;VALUE=DATE-TIME:20150802T192500
 UID:1508020018_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Indignados (Tony Gatlif\, 2012). Documental. Francia.
+  B-R. VOSE. 85'\n“Tuve el reflejo de tomar el primer vuelo a París y co
+ ger mi cámara. Hacía muchos años que esperaba que sucediera algo así\,
+  que la juventud se decidiera de una vez a expresar su descontento con el 
+ mundo en el que vive. Había que moverse rápido y dejar un testimonio fil
+ mado del movimiento.” (Tony Gatlif) Segunda proyección día 5.\n\n\nFue
+ nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
+ ra/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Beasts of the Southern Wild
 DTSTART;VALUE=DATE-TIME:20150802T194500
 DTEND;VALUE=DATE-TIME:20150802T212000
 UID:1508024519_1_dore
-DESCRIPTION:Sala 1 - S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Beasts of the Southern Wild (Bestias del sur salvaje\
+ , Benh Zeitlin\, 2012). Int.:Quvenzhané Wallis\, Dwight Henry\, Levy East
+ erly. EE UU. 35mm. VOSE. 95'\n"Un debut que no lo parece\, pues el trabajo
+  de dirección es soberbio y Bestias del Sur salvaje alcanza unos niveles 
+ de intensidad no aptos para todas las paciencias. Pura vehemencia\, puro a
+ rrebato." (Desirée de Fez) Segunda proyección día 4.\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Fuga de cerebros
 DTSTART;VALUE=DATE-TIME:20150802T215000
 DTEND;VALUE=DATE-TIME:20150802T233700
 UID:1508025021_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Fuga de cerebros (Fernando González Molina\, 2009). 
+ Int.:Mario Casas\, Alberto Amarilla\, Amaia Salamanca. España. 35mm. 107'
+ \n"Salvo pioneras y cachondas aportaciones\, el cine patrio adolecía aún
+  de su gran comedia teen escatológica y desfasada. Eso hasta ahora\, porq
+ ue Fuga de cerebros es el Año Cero del despiporre destroyer\, el inicio d
+ e la Era Dorada de la cafrada como obra de arte revientataquillas." (Faust
+ o Fernández)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
+ ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAg
+ osto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Gravity
 DTSTART;VALUE=DATE-TIME:20150804T180000
 DTEND;VALUE=DATE-TIME:20150804T193100
 UID:1508040018_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 15/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Gravity (Gravity\, Alfonso Cuarón\, 2013). Int.:Geor
+ ge Clooney\, Sandra Bullock\, Ed Harris. EE UU. DCP. VOSE. 91'\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Question Mark/ F for Fake
 DTSTART;VALUE=DATE-TIME:20150804T200000
 DTEND;VALUE=DATE-TIME:20150804T212500
 UID:1508040020_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Question Mark/ F for Fake (Fraude\, Orson Welles\, 19
+ 73). Documental. Irán/Francia/\nAlemania. DCP. VOSE. 85'\n"No es de extra
+ ñar el interés de Welles por la vida de De Hory y las posibilidades de r
+ eflexión que ésta le brinda. También no es extraño que las conclusione
+ s a las que llega el realizador y que expresa al finalizar la película ve
+ rsen sobre la inutilidad del arte\, al que no parece dispuesto a conceder 
+ ninguna función social\, histórica o cultural. Es\, en definitiva\, un a
+ legato sobre su propia imposibilidad para realizar el cine que realmente q
+ uería\, sobre el oficio de cineasta y su continua lucha contra lo que el 
+ denomina 'dominar las catástrofes'." (Paolo Mereghetti)\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Los condenados
 DTSTART;VALUE=DATE-TIME:20150804T215000
 DTEND;VALUE=DATE-TIME:20150804T233000
 UID:1508045021_1_dore
-DESCRIPTION:Sala 1 - S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Los condenados (Isaki Lacuesta\, 2009). Int.:Daniel F
+ anego\, Arturo Goetz\, Leonor Manso. España. 35mm. 100'\n"La sinopsis de 
+ Los condenados parece carne de aquel cine militante a la antigua usanza\, 
+ poblado de personajes que necesitan justificar su posición ideológica ca
+ da vez que abren la boca. Pero en verdad Isaki Lacuesta ha hecho lo contra
+ rio: a las arengas discursivas de aquel cine político carcomido por la cu
+ lpa y el maniqueísmo les corresponde un deambular eterno y una desaparici
+ ón final\, y la sensación de que cierta recuperación de la memoria hist
+ órica solo sirve para repetir los mismos gestos del pasado\, y también l
+ os mismos errores. Se trata de filmar los paisajes como si fueran rostros 
+ y viceversa\, para examinar no solo la erosión del tiempo sino también e
+ l contraste entre lo maduro y lo joven\, entre lo reseco y lo frondoso." (
+ Sergi Sánchez)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/Programa
+ Agosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Beasts of the Southern Wild
 DTSTART;VALUE=DATE-TIME:20150804T222000
 DTEND;VALUE=DATE-TIME:20150804T235500
 UID:1508042022_Verano_dore
-DESCRIPTION:Sala Verano - S S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala Verano - Beasts of the Southern Wild (Bestias del sur sal
+ vaje\, Benh Zeitlin\, 2012). Int.:Quvenzhané Wallis\, Dwight Henry\, Levy
+  Easterly. EE UU. 35mm. VOSE. 95'\nVer nota 2.\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:No
 DTSTART;VALUE=DATE-TIME:20150805T180000
 DTEND;VALUE=DATE-TIME:20150805T195600
 UID:1508050018_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/P
- rogramaAgosto.pdf
+DESCRIPTION:Sala 1 - No (Pablo Larraín\, 2012). Int.:Gael García Bernal\
+ , Alfredo Castro\, Luis Gnecco. Chile/México/EE UU. 35mm. 116'\nNo cuenta
+  la historia del plebiscito de 1988 que el general Augusto Pinochet convoc
+ ó para perpetuarse en el poder\, pero acabó perdiendo."Grabada toda ella
+  con cinta de vídeo U-matic (como los propios vídeo que se ven en tele d
+ e entonces)\, la película acierta a radiografiar el estado de profunda fe
+ aldad de un tiempo fundamentalmente feo. De repente\, ante los ojos sorpre
+ ndidos de la audiencia\, la frivolidad alegre de la campaña publicitaria 
+ se da de bruces con los adoquines de la dura vida hasta componer la radiog
+ rafía perfecta no de una época sino de un estado de ánimo convertido en
+  enfermedad." (Luis Martínez)\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:Syngué Sabour
 DTSTART;VALUE=DATE-TIME:20150805T201500
 DTEND;VALUE=DATE-TIME:20150805T215700
 UID:1508051520_1_dore
-DESCRIPTION:Sala 1 - S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Syngué Sabour (La piedra de la paciencia\, Atiq Rahi
+ mi\, 2012). Int.:Golshifteh Farahani\, Hamid Djavadan\, Massi Mrowat. Afga
+ nistán/Francia. 35mm. VOSE. 102'\n"La fluidez de las imágenes contrapesa
+  la radicalidad del planteamiento dramático\, pero\, por fortuna\, no res
+ ta fuerza\, ni brutalidad a un crescendo que culmina con una escena catár
+ tica muy difícil de olvidar." (Jordi Costa) Segunda proyección día 14.\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Celda 211
 DTSTART;VALUE=DATE-TIME:20150805T221000
 DTEND;VALUE=DATE-TIME:20150806T000200
 UID:1508051022_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/P
- rogramaAgosto.pdf
+DESCRIPTION:Sala 1 - Celda 211 (Daniel Monzón\, 2009). Int.:Carlos Bardem
+ \, Luis Tosar\, Alberto Ammann. España. 35mm. 112'\n“Celda 211 podría 
+ resumirse como el encuentro y el reconocimiento de dos personajes tan apar
+ entemente alejados como un funcionario de prisiones novato y el más duro 
+ y temible de los delincuentes. Es en esa confrontación de aliento trágic
+ o por donde la película traza sus líneas de fuga y trasciende el género
+  carcelario\, eso sí\, sin ningunearlo\, erigiéndose en algo tan inusual
+  en el cine español como un espectáculo trepidante\, que maneja los hilo
+ s de la acción y del drama\, el espacio cerrado de la prisión y los dist
+ intos puntos de vista sobre lo que ocurre con una desenvoltura cercana al 
+ virtuosismo.” (Alberto Bermejo)\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Indignados
 DTSTART;VALUE=DATE-TIME:20150805T223000
 DTEND;VALUE=DATE-TIME:20150805T235500
 UID:1508053022_Verano_dore
-DESCRIPTION:Sala Verano - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala Verano - Indignados (Tony Gatlif\, 2012). Documental. Fra
+ ncia. B-R. VOSE. 85'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/Pro
+ gramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Momoiro sora o/About the Pink Sky
 DTSTART;VALUE=DATE-TIME:20150806T180000
 DTEND;VALUE=DATE-TIME:20150806T195300
 UID:1508060018_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Momoiro sora o/About the Pink Sky (Sobre el cielo ros
+ a\, Keiichi Kobayashi\, 2011). Int.:Ai\nIkeda\, Ena Koshino\, Reiko Fujiwa
+ ra. Japón. DCP. VOSE. 113'\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Après mai
 DTSTART;VALUE=DATE-TIME:20150806T201000
 DTEND;VALUE=DATE-TIME:20150806T221700
 UID:1508061020_1_dore
-DESCRIPTION:Sala 1 - S \n S \nS\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20150806T221500
-DTEND;VALUE=DATE-TIME:20150806T232500
-UID:1508061522_Verano_dore
-DESCRIPTION:Sala Verano - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20150806T224000
-DTEND;VALUE=DATE-TIME:20150807T000600
-UID:1508064022_1_dore
-DESCRIPTION:Sala 1 - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20150807T180000
-DTEND;VALUE=DATE-TIME:20150807T192300
-UID:1508070018_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20150807T194500
-DTEND;VALUE=DATE-TIME:20150807T214600
-UID:1508074519_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20150807T221000
-DTEND;VALUE=DATE-TIME:20150808T000700
-UID:1508071022_1_dore
-DESCRIPTION:Sala 1 - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20150807T221500
-DTEND;VALUE=DATE-TIME:20150807T232500
-UID:1508071522_Verano_dore
-DESCRIPTION:Sala Verano - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultu
- ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
- ion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20150808T180000
-DTEND;VALUE=DATE-TIME:20150808T194300
-UID:1508080018_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/P
- rogramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20150808T200000
-DTEND;VALUE=DATE-TIME:20150808T212600
-UID:1508080020_1_dore
-DESCRIPTION:Sala 1 - S S S S S \n S S S\n\n\nFuente: http://www.mecd.gob.e
- s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
- ogramacion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20150808T215000
-DTEND;VALUE=DATE-TIME:20150808T235700
-UID:1508085021_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015
- /ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20150808T223000
-DTEND;VALUE=DATE-TIME:20150809T001600
-UID:1508083022_Verano_dore
-DESCRIPTION:Sala Verano - S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20150809T180000
-DTEND;VALUE=DATE-TIME:20150809T200700
-UID:1508090018_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/P
- rogramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20150809T204000
-DTEND;VALUE=DATE-TIME:20150809T232500
-UID:1508094020_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015
- /ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20150811T180000
-DTEND;VALUE=DATE-TIME:20150811T204500
-UID:1508110018_1_dore
-DESCRIPTION:Sala 1 - S \n S \n S S\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20150811T211500
-DTEND;VALUE=DATE-TIME:20150811T232500
-UID:1508111521_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20150812T180000
-DTEND;VALUE=DATE-TIME:20150812T194300
-UID:1508120018_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015
- /ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20150812T200000
-DTEND;VALUE=DATE-TIME:20150812T221000
-UID:1508120020_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015
- /ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20150812T220000
-DTEND;VALUE=DATE-TIME:20150812T232500
-UID:1508120022_Verano_dore
-DESCRIPTION:Sala Verano - S S S S S \n S\n\n\nFuente: http://www.mecd.gob.
- es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
- rogramacion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20150812T223000
-DTEND;VALUE=DATE-TIME:20150813T003100
-UID:1508123022_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015
- /ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20150813T180000
-DTEND;VALUE=DATE-TIME:20150813T192500
-UID:1508130018_1_dore
-DESCRIPTION:Sala 1 - S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20150813T200000
-DTEND;VALUE=DATE-TIME:20150813T215700
-UID:1508130020_1_dore
-DESCRIPTION:Sala 1 - S \n S S S S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20150813T221500
-DTEND;VALUE=DATE-TIME:20150813T235400
-UID:1508131522_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20150813T223000
-DTEND;VALUE=DATE-TIME:20150814T001700
-UID:1508133022_Verano_dore
-DESCRIPTION:Sala Verano - S S S S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20150814T180000
-DTEND;VALUE=DATE-TIME:20150814T194700
-UID:1508140018_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20150814T201000
-DTEND;VALUE=DATE-TIME:20150814T220300
-UID:1508141020_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20150814T220000
-DTEND;VALUE=DATE-TIME:20150814T235000
-UID:1508140022_Verano_dore
-DESCRIPTION:Sala Verano - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20150814T222000
-DTEND;VALUE=DATE-TIME:20150815T000200
-UID:1508142022_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20150816T180000
-DTEND;VALUE=DATE-TIME:20150816T201000
-UID:1508160018_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20150816T204500
-DTEND;VALUE=DATE-TIME:20150816T234500
-UID:1508164520_1_dore
-DESCRIPTION:Sala 1 - S \n S S \n S S S\n\n\nFuente: http://www.mecd.gob.es
- /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
- gramacion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20150818T180000
-DTEND;VALUE=DATE-TIME:20150818T200600
-UID:1508180018_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015
- /ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20150818T204000
-DTEND;VALUE=DATE-TIME:20150818T234000
-UID:1508184020_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 15/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20150819T180000
-DTEND;VALUE=DATE-TIME:20150819T200200
-UID:1508190018_1_dore
-DESCRIPTION:Sala 1 - S S \n S \n S S\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20150819T202000
-DTEND;VALUE=DATE-TIME:20150819T215800
-UID:1508192020_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 15/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20150819T220000
-DTEND;VALUE=DATE-TIME:20150819T232900
-UID:1508190022_Verano_dore
-DESCRIPTION:Sala Verano - S \n S S S S S\n\n\nFuente: http://www.mecd.gob.
- es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
- rogramacion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20150819T222000
-DTEND;VALUE=DATE-TIME:20150819T235100
-UID:1508192022_1_dore
-DESCRIPTION:Sala 1 - S S \n \n S S\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20150820T180000
-DTEND;VALUE=DATE-TIME:20150820T195600
-UID:1508200018_1_dore
-DESCRIPTION:Sala 1 - S S S S \nS S S\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20150820T201500
-DTEND;VALUE=DATE-TIME:20150820T215200
-UID:1508201520_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/P
- rogramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S S S
-DTSTART;VALUE=DATE-TIME:20150820T221500
-DTEND;VALUE=DATE-TIME:20150820T234400
-UID:1508201522_1_dore
-DESCRIPTION:Sala 1 - S S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultu
- ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
- ion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20150820T223000
-DTEND;VALUE=DATE-TIME:20150821T000800
-UID:1508203022_Verano_dore
-DESCRIPTION:Sala Verano - S S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20150821T180000
-DTEND;VALUE=DATE-TIME:20150821T193500
-UID:1508210018_1_dore
-DESCRIPTION:Sala 1 - S S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20150821T200000
-DTEND;VALUE=DATE-TIME:20150821T213000
-UID:1508210020_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20150821T220000
-DTEND;VALUE=DATE-TIME:20150821T233800
-UID:1508210022_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20150821T221500
-DTEND;VALUE=DATE-TIME:20150822T002200
-UID:1508211522_Verano_dore
-DESCRIPTION:Sala Verano - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cu
+DESCRIPTION:Sala 1 - Après mai (Después de mayo\, Olivier Assayas\, 2012
+ ). Int.:Lola Créton\, Clement Metayer\,\nFelix Armand. Francia. DCP. VOSE
+ . 127'\nSegunda proyección día 8.\n\n\nFuente: http://www.mecd.gob.es/cu
  ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
  macion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20150822T180000
-DTEND;VALUE=DATE-TIME:20150822T193400
-UID:1508220018_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/P
- rogramaAgosto.pdf
+SUMMARY:Los exiliados románticos
+DTSTART;VALUE=DATE-TIME:20150806T221500
+DTEND;VALUE=DATE-TIME:20150806T232500
+UID:1508061522_Verano_dore
+DESCRIPTION:Sala Verano - Los exiliados románticos (Jonás Trueba\, 2015)
+ . Int.:Francesco Carril\, Vito Sanz\, Luis E. Parés. España. B-R. 70'\nT
+ res amigos emprenden un viaje sin motivo aparente. Algunos dirán que se t
+ rata de quemar las últimas naves de la juventud mientras que otros hablar
+ án de la decadencia del género masculino\, y no podremos estar más de a
+ cuerdo. Esta película habla un poco de eso y lo hace de manera explícita
+  y también efímera\, durante un trayecto largo y a la vez corto\, en el 
+ que los personajes van al encuentro de amores idílicos y a la vez efímer
+ os\, con la única misión de sorprenderse a sí mismos y de seguir sinti
+ éndose vivos. Con la presencia de Jonás Trueba. Segunda proyección día
+  7.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20150822T200000
-DTEND;VALUE=DATE-TIME:20150822T213800
-UID:1508220020_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 15/ProgramaAgosto.pdf
+SUMMARY:Searching for Sugar Man
+DTSTART;VALUE=DATE-TIME:20150806T224000
+DTEND;VALUE=DATE-TIME:20150807T000600
+UID:1508064022_1_dore
+DESCRIPTION:Sala 1 - Searching for Sugar Man (Malik Bendjelloul\, 2012). D
+ ocumental. Suecia. DCP. VOSE. 86'\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20150822T220000
-DTEND;VALUE=DATE-TIME:20150823T000700
-UID:1508220022_1_dore
-DESCRIPTION:Sala 1 - S S S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/
+SUMMARY:Tres dies amb la família/Tres días con la familia
+DTSTART;VALUE=DATE-TIME:20150807T180000
+DTEND;VALUE=DATE-TIME:20150807T192300
+UID:1508070018_1_dore
+DESCRIPTION:Sala 1 - Tres dies amb la família/Tres días con la familia (
+ Mar Coll\, 2009). Int.:Eduard Fernández\,\nNausicaa Bonnín\, Philippine 
+ Leroy-Beaulieu. España. 35mm. VOSE. 83'\n"Bastan pocos minutos de metraje
+  para intuir en la mirada de Mar Coll una inclinación afrancesada\, en el
+  mejor sentido de la palabra: su control del registro naturalista no levan
+ ta sospechas de ejercicio de estilo\, pero sí revela conocimiento de caus
+ a\, una exquisita y nada forzada selección de referentes y una inusual ca
+ pacidad para mirar más allá de ese cine español que parece empeñado en
+  encontrar las claves del realismo en las impostadas ficciones televisivas
+ ." (Jordi Costa)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/Program
+ aAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captive
+DTSTART;VALUE=DATE-TIME:20150807T194500
+DTEND;VALUE=DATE-TIME:20150807T214600
+UID:1508074519_1_dore
+DESCRIPTION:Sala 1 - Captive (Cautiva\, Brillante Mendoza\, 2012). Int.:Is
+ abelle Huppert\, Maria Isabel Lopez\, Mercedes Cabral. Francia/Filipinas. 
+ 35mm. VOSE. 121'\n"Capaz de atrapar lo esencial sin subrayar\, de desvelar
+  las ambigüedades de una situación extrema\, Mendoza se revela aquí tan
+  preciso como cuando\, en Kinatay\, ahondaba en el bajo vientre de una Man
+ ila donde el horror forma parte del tejido de lo real." (Jordi Costa) Segu
+ nda proyección día 12.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015
+ /ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nymphomaniac. Volume I
+DTSTART;VALUE=DATE-TIME:20150807T221000
+DTEND;VALUE=DATE-TIME:20150808T000700
+UID:1508071022_1_dore
+DESCRIPTION:Sala 1 - Nymphomaniac. Volume I (Nymphomaniac. Volumen 1\, Lar
+ s von Trier\, 2013). Int.:Charlotte Gainsbourg\, Stellan Skarsgård\, Stac
+ y Martin. Dinamarca. 35mm. VOSE. 117'\n\n\nFuente: http://www.mecd.gob.es/
  cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
  ramacion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20150822T221000
-DTEND;VALUE=DATE-TIME:20150822T235800
-UID:1508221022_Verano_dore
-DESCRIPTION:Sala Verano - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+SUMMARY:Los exiliados románticos
+DTSTART;VALUE=DATE-TIME:20150807T221500
+DTEND;VALUE=DATE-TIME:20150807T232500
+UID:1508071522_Verano_dore
+DESCRIPTION:Sala Verano - Los exiliados románticos (Jonás Trueba\, 2015)
+ . Int.:Francesco Carril\, Vito Sanz\, Luis E. Parés. España. B-R. 70'\nC
+ on la presencia de Jonás Trueba.\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frozen
+DTSTART;VALUE=DATE-TIME:20150808T180000
+DTEND;VALUE=DATE-TIME:20150808T194300
+UID:1508080018_1_dore
+DESCRIPTION:Sala 1 - Frozen (Frozen. El reino del hielo\, Chris Buck\, Jen
+ nifer Lee\, 2013). Animación. EE UU. DCP. VE. 103'\n"Frozen\, el reino de
+ l hielo podría erigirse como gran paradigma de la apropiación disneyana 
+ del gran imaginario fantástico del cuento de hadas europeo: una lección 
+ magistral de traición creativa que\, he aquí lo importante\, se conviert
+ e\, también\, en una gran película y un espectacular acto de autoafirmac
+ ión." (Jordi Costa) Entrada libre para menores de 14 años.\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Searching for Sugar Man
+DTSTART;VALUE=DATE-TIME:20150808T200000
+DTEND;VALUE=DATE-TIME:20150808T212600
+UID:1508080020_1_dore
+DESCRIPTION:Sala 1 - Searching for Sugar Man (Malik Bendjelloul\, 2012). D
+ ocumental. Suecia. DCP. VOSE. 86'\nRetrato del cantante Sixto Rodríguez. 
+ "Searching for Sugar Man habla de los sinuosos caminos del arte como proce
+ so comunicativo\, funciona como emocionante thriller cultural\, integra fr
+ agmentos animados con elegancia y culmina con un poderoso retrato del arti
+ sta en paz consigo mismo." (Jordi Costa)\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Après mai
+DTSTART;VALUE=DATE-TIME:20150808T215000
+DTEND;VALUE=DATE-TIME:20150808T235700
+UID:1508085021_1_dore
+DESCRIPTION:Sala 1 - Après mai (Después de mayo\, Olivier Assayas\, 2012
+ ). Int.:Lola Créton\, Clement Metayer\, Felix Armand. Francia. DCP. VOSE.
+  127'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mal día para pescar
+DTSTART;VALUE=DATE-TIME:20150808T223000
+DTEND;VALUE=DATE-TIME:20150809T001600
+UID:1508083022_Verano_dore
+DESCRIPTION:Sala Verano - Mal día para pescar (Álvaro Brechner\, 2009). 
+ Int.:Antonella Costa\, Gary Piquer\, Jouko Ahola. Uruguay/España. 35mm. 1
+ 06'\n"Tanto la presencia física como la mirada del finlandés Jouko Ahola
+  proporcionan los mejores momentos de una película más que estimable\, l
+ lena de intermitentes momentos de los que surgen conmovedores fogonazos de
+  verdad." (Carlos F. Heredero)\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los abrazos rotos
+DTSTART;VALUE=DATE-TIME:20150809T180000
+DTEND;VALUE=DATE-TIME:20150809T200700
+UID:1508090018_1_dore
+DESCRIPTION:Sala 1 - Los abrazos rotos (Pedro Almodóvar\, 2009). Int.:Pen
+ élope Cruz\, Blanca Portillo\, Lluís Homar. España. 35mm. 127'\n"Del pr
+ imer al último fotograma lleva grabada a fuego la identidad de su creador
+ \, que proporciona al espectador uno de esos baños de intensidad que ning
+ ún otro cineasta español parece dispuesto a garantizar." (Jordi Costa)\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Unchained
+DTSTART;VALUE=DATE-TIME:20150809T204000
+DTEND;VALUE=DATE-TIME:20150809T232500
+UID:1508094020_1_dore
+DESCRIPTION:Sala 1 - Django Unchained (Django desencadenado\, Quentin Tara
+ ntino\, 2012). Int.:Leonardo DiCaprio\, Jamie Foxx\, Christoph Waltz. EE U
+ U. DCP. VOSE. 165'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/Progr
+ amaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Unchained
+DTSTART;VALUE=DATE-TIME:20150811T180000
+DTEND;VALUE=DATE-TIME:20150811T204500
+UID:1508110018_1_dore
+DESCRIPTION:Sala 1 - Django Unchained (Django desencadenado\, Quentin Tara
+ ntino\, 2012). Int.:Leonardo\nDiCaprio\, Jamie Foxx\, Christoph Waltz. EE 
+ UU. DCP. VOSE. 165'\n"Django desencadenado tiene algo de repetición de la
+  jugada de Malditos Bastardos\, con su impulso de reescribir la historia a
+  través de la ficción pop y la presencia magnética de Christoph Waltz\,
+  actor que es algo así como un Stradivarius en manos del virtuoso cineast
+ a (nadie desgrana como él sus sinuosos diálogos\, atravesando idiomas y 
+ registros con elegancia versallesca). Waltz también sirve en bandeja un e
+ stimulante subtexto: aquí\, Django es un héroe trágico-romántico\, un 
+ Sigfrido afroamericano en busca de su Brunilda esclavizada." (Jordi Costa)
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mud
+DTSTART;VALUE=DATE-TIME:20150811T211500
+DTEND;VALUE=DATE-TIME:20150811T232500
+UID:1508111521_1_dore
+DESCRIPTION:Sala 1 - Mud (Mud\, Jeff Nichols\, 2012). Int.:Matthew McConau
+ ghey\, Tye Sheridan\, Jacob Lofland. EE UU. DCP. VOSE. 130'\n"Con precisi
+ ón y buen gusto\, la cámara acierta a describir la geografía de un luga
+ r amenazante muy lejos del paraíso de plástico de los cuentos de Disney.
+  Ya saben\, lo que se descubre son cosas tales como el amor\, el miedo\, l
+ a mentira y la traición. De otro modo\, todo aquello que nos separa de nu
+ estra condición de estúpidos a tiempo completo: la edad adulta." (Luis M
+ artínez) Segunda proyección día 16.\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frozen
+DTSTART;VALUE=DATE-TIME:20150812T180000
+DTEND;VALUE=DATE-TIME:20150812T194300
+UID:1508120018_1_dore
+DESCRIPTION:Sala 1 - Frozen (Frozen. El reino del hielo\, Chris Buck\, Jen
+ nifer Lee\, 2013). Animación. EE UU. DCP. VOSE. 103'\n\n\nFuente: http://
+ www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
+ e/cine-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Io\, Don Giovanni
+DTSTART;VALUE=DATE-TIME:20150812T200000
+DTEND;VALUE=DATE-TIME:20150812T221000
+UID:1508120020_1_dore
+DESCRIPTION:Sala 1 - Io\, Don Giovanni (Carlos Saura\, 2009). Int.:Bárbar
+ a Goenaga\, Lorenzo Balducci\, Tobias\nMoretti. España/Italia. 35mm. 130'
+ \n"A partir de un personaje desconocido incluso para el propio autor de La
+  madriguera\, un poeta libertino que deja atrás la Venecia inquisidora pa
+ ra iniciar un viaje\, en todos los sentidos\, recalando primero en Viena. 
+ Io\, Don Giovanni habla constantemente de La Divina Comedia\, libro que pe
+ rsigue al protagonista\, quien\, entre reyes y artistas divinos\, intenta 
+ poner un poco de comedia a su complicada vida." (Pere Vall)\n\n\nFuente: h
+ ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
+ e/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marieke\, Marieke
+DTSTART;VALUE=DATE-TIME:20150812T220000
+DTEND;VALUE=DATE-TIME:20150812T232500
+UID:1508120022_Verano_dore
+DESCRIPTION:Sala Verano - Marieke\, Marieke (Marieke\, Sophie Schoukens\, 
+ 2010). Int.:Hande Kodja\, Jan Decleier\, Barbara Sarafian. Bélgica / Alem
+ ania. B-R. VOSE. 85'\nMarieke tiene 20 años y trabaja en una fábrica de 
+ chocolate de Bruselas. Durante las noches\, busca la compañía de hombres
+ \, mucho mayores que ella\, que le recuerden la figura de su padre\, falle
+ cido tempranamente en extrañas circunstancias. Con ellos se encuentra pro
+ tegida\, libre y receptiva del cariño que su madre\, fría y distante\, n
+ o le puede proporcionar. La llegada de Jacoby\, un editor que podría acla
+ rar la misteriosa muerte de su padre\, abre una puerta a la esperanza en s
+ u inestable vida. Segunda proyección día 13.\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captive
+DTSTART;VALUE=DATE-TIME:20150812T223000
+DTEND;VALUE=DATE-TIME:20150813T003100
+UID:1508123022_1_dore
+DESCRIPTION:Sala 1 - Captive (Cautiva\, Brillante Mendoza\, 2012). Int.:Is
+ abelle Huppert\, Maria Isabel Lopez\, Mercedes Cabral. Francia/Filipinas. 
+ 35mm. VOSE. 121'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/Program
+ aAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marieke\, Marieke
+DTSTART;VALUE=DATE-TIME:20150813T180000
+DTEND;VALUE=DATE-TIME:20150813T192500
+UID:1508130018_1_dore
+DESCRIPTION:Sala 1 - Marieke\, Marieke (Marieke\, Sophie Schoukens\, 2010)
+ . Int.:Hande Kodja\, Jan Decleier\,\nBarbara Sarafian. Bélgica / Alemania
+ . B-R. VOSE. 85'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/Program
+ aAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nymphomaniac. Volume I
+DTSTART;VALUE=DATE-TIME:20150813T200000
+DTEND;VALUE=DATE-TIME:20150813T215700
+UID:1508130020_1_dore
+DESCRIPTION:Sala 1 - Nymphomaniac. Volume I (Nymphomaniac. Volumen 1\, Lar
+ s von Trier\, 2013). Int.:Charlotte\nGainsbourg\, Stellan Skarsgård\, Sta
+ cy Martin. Dinamarca. 35mm. VOSE. 117'\n"Es a la vez la más enigmática r
+ eflexión sobre los límites de la sexualidad\, de la carne\, y la peor pe
+ lícula pornográfica jamás filmada. Y\, en cualquier caso\, la cinta fun
+ ciona dentro de la filmografía del director como un punto límite." (Luis
+  Martínez)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
+ ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgos
+ to.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La teta asustada
+DTSTART;VALUE=DATE-TIME:20150813T221500
+DTEND;VALUE=DATE-TIME:20150813T235400
+UID:1508131522_1_dore
+DESCRIPTION:Sala 1 - La teta asustada (Claudia Llosa\, 2009). Int.:Magaly 
+ Solier\, Susi Sánchez\, Marino Ballón. Perú/España. 35mm. 99'\n"Fausta
+  es una joven que padece el mal de la teta asustada al que intenta combati
+ r componiendo canciones en quechua que nacen del corazón. Pero Fausta tie
+ ne un secreto más profundo y hasta que no consiga arrancárselo\, literal
+ mente\, del cuerpo\, no podrá alcanzar el equilibrio como ser humano. Cla
+ udia Llosa cuenta esta historia contemporánea\, ambientada en un barrio e
+ mergente de la ciudad de Lima\, con la delicadeza del trazo de una flor\, 
+ tratando con todo cuidado a su protagonista\, dejándola crecer en un cont
+ exto en el que la vida cotidiana está llena de bodas y festejos\, piscina
+ s improvisadas y amigos inesperados." (Nuria Vidal)\n\n\nFuente: http://ww
+ w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
+ cine-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Trip
+DTSTART;VALUE=DATE-TIME:20150813T223000
+DTEND;VALUE=DATE-TIME:20150814T001700
+UID:1508133022_Verano_dore
+DESCRIPTION:Sala Verano - The Trip (Michael Winterbottom\, 2010). Int.:Ste
+ ve Coogan\, Rob Brydon\, Margo Stilley. Reino Unido. DCP. VOSE. 107'\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Trip
+DTSTART;VALUE=DATE-TIME:20150814T180000
+DTEND;VALUE=DATE-TIME:20150814T194700
+UID:1508140018_1_dore
+DESCRIPTION:Sala 1 - The Trip (Michael Winterbottom\, 2010). Int.:Steve Co
+ ogan\, Rob Brydon\, Margo Stilley. Reino\nUnido. DCP. VOSE. 107'\n"The Tri
+ p cuenta la ruta gastronómica por norte de Inglaterra de la pareja de có
+ micos en un viaje financiado por The Guardian: partiendo de la improvisaci
+ ón\, la película hace invisible su construcción cómica y funciona como
+  sucesora evolutiva de las comedias de Hope y Crosby\, al tiempo que refle
+ xiona sobre lo divino\, lo humano\, la nueva cocina\, los claroscuros de l
+ a fama declinante\, el feroz ego del cómico y el crepúsculo post-románt
+ ico de los paisajes que una vez recorrieron Wordsworth y Coleridge. Brilla
+ nte\, sutil\, estupenda." (Jordi Costa)\n\n\nFuente: http://www.mecd.gob.e
+ s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
+ ogramacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Momoiro sora o/About the Pink Sky
+DTSTART;VALUE=DATE-TIME:20150814T201000
+DTEND;VALUE=DATE-TIME:20150814T220300
+UID:1508141020_1_dore
+DESCRIPTION:Sala 1 - Momoiro sora o/About the Pink Sky (Sobre el cielo ros
+ a\, Keiichi Kobayashi\, 2011). Int.:Ai Ikeda\, Ena Koshino\, Reiko Fujiwar
+ a. Japón. DCP. VOSE. 113'\n"Rodada en un blanco y negro sobreexpuesto\, s
+ ometido a un sugestivo juego de estratégicos desenfoques\, contada a trav
+ és de esquemáticos planos secuencia que parecen favorecer la improvisaci
+ ón de un reparto no profesional\, About the pink sky se erige\, así\, en
+  la zona de confluencia de dos formas de afectación: ese segmento de la c
+ ultura popular japonesa que se basa en la exasperación de lo adorable y l
+ as derivas lánguidas de un indie americano." (Jordi Costa)\n\n\nFuente: h
+ ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
+ e/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El cónsul de Sodoma
+DTSTART;VALUE=DATE-TIME:20150814T220000
+DTEND;VALUE=DATE-TIME:20150814T235000
+UID:1508140022_Verano_dore
+DESCRIPTION:Sala Verano - El cónsul de Sodoma (Sigfrid Monleón\, Jordi M
+ ollà\, 2009). Int.:Àlex Brendemühl\, Bimba Bosé. España. 35mm. 110'\n
+ "Sigfrid Monleón ha optado por poner en pie\, de forma deliberada\, una r
+ epresentación de aroma explícitamente camp. que bebe de manera confesa e
+ n fuentes melodramáticas fassbinderianas y que se atreve a poner en escen
+ a algunos momentos resbaladizos de la vida del poeta Jaime Gil de Biedma."
+  (Carlos F. Heredero)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/Pr
+ ogramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Syngué Sabour
+DTSTART;VALUE=DATE-TIME:20150814T222000
+DTEND;VALUE=DATE-TIME:20150815T000200
+UID:1508142022_1_dore
+DESCRIPTION:Sala 1 - Syngué Sabour (La piedra de la paciencia\, Atiq Rahi
+ mi\, 2012). Int.:Golshifteh Farahani\, Hamid Djavadan\, Massi Mrowat. Afga
+ nistán/Francia. 35mm. VOSE. 102'\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mud
+DTSTART;VALUE=DATE-TIME:20150816T180000
+DTEND;VALUE=DATE-TIME:20150816T201000
+UID:1508160018_1_dore
+DESCRIPTION:Sala 1 - Mud (Mud\, Jeff Nichols\, 2012). Int.:Matthew McConau
+ ghey\, Tye Sheridan\, Jacob Lofland. EE\nUU. DCP. VOSE. 130'\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Vie d'Adèle
+DTSTART;VALUE=DATE-TIME:20150816T204500
+DTEND;VALUE=DATE-TIME:20150816T234500
+UID:1508164520_1_dore
+DESCRIPTION:Sala 1 - La Vie d'Adèle (La vida de Adèle\, Abdellatif Kechi
+ che\, Leah Gilliam\, 2013). Int.:Adèle\nExarchopoulos\, Salim Kechiouche.
+  Francia. DCP. VOSE. 180'\n"Lo que importa es que\, al margen de la cuesti
+ ón de género\, respiran deseo como pocas veces se ha logrado en el cine.
+  Es el deseo de dos personas que se aman. Kechiche sabe que en el dominio 
+ del tiempo de la escena (y en el trabajo de dos actrices que nos dejan mud
+ os) está el secreto de su éxito. El tiempo es el que nos permite ver las
+  grietas\, las rencillas\, las dependencias enfermizas de ese amor." (Serg
+ i Sánchez) Segunda proyección día 18.\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ágora
+DTSTART;VALUE=DATE-TIME:20150818T180000
+DTEND;VALUE=DATE-TIME:20150818T200600
+UID:1508180018_1_dore
+DESCRIPTION:Sala 1 - Ágora (Alejandro Amenábar\, 2009). Int.:Rachel Weis
+ z\, Max Minghella\, Ashraf Barhom. España. 35mm. VOSE. 126'\n"Brillante c
+ uando se propone el espectáculo\, cerebral cuando aborda su aparente tema
+ -coartada\, minuciosa en su reconstrucción histórica y emocionante cuand
+ o todo se precipita\, Agora es una nueva y reconfortante sorpresa más en 
+ la larga e inusual carrera del más ambicioso de los directores de nuestro
+  cine." (Mirito Torreiro)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/201
+ 5/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Vie d'Adèle
+DTSTART;VALUE=DATE-TIME:20150818T204000
+DTEND;VALUE=DATE-TIME:20150818T234000
+UID:1508184020_1_dore
+DESCRIPTION:Sala 1 - La Vie d'Adèle (La vida de Adèle\, Abdellatif Kechi
+ che\, Leah Gilliam\, 2013). Int.:Adèle Exarchopoulos\, Salim Kechiouche. 
+ Francia. DCP. VOSE. 180'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015
+ /ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paradies: Liebe
+DTSTART;VALUE=DATE-TIME:20150819T180000
+DTEND;VALUE=DATE-TIME:20150819T200200
+UID:1508190018_1_dore
+DESCRIPTION:Sala 1 - Paradies: Liebe (Paraíso: Amor\, Ulrich Seidl\, 2012
+ ). Int.:Margarete Tiesel\, Inge Maux\, Peter\nKazungu. Austria. 35mm. VOSE
+ . 122'\nPrimera parte de la trilogía. Una mujer viaja a Kenya en busca de
+  turismo sexual. "Estas tres películas\, tanto por separado como en su co
+ njunto\, deben situarse entre las propuestas más honestas y sinceras que 
+ ha dado el cine en los últimos años\, sólo comparable\, en salvajismo y
+  brutalidad\, a algunos trabajos de Luis Buñuel o Eric von Stroheim." (Ca
+ rlos Losilla) Segunda proyección día 25.\n\n\nFuente: http://www.mecd.go
+ b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
+ /programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Jasmine
+DTSTART;VALUE=DATE-TIME:20150819T202000
+DTEND;VALUE=DATE-TIME:20150819T215800
+UID:1508192020_1_dore
+DESCRIPTION:Sala 1 - Blue Jasmine (Woody Allen\, 2013). Int.:Cate Blanchet
+ t\, Alec Baldwin\, Sally Hawkins. EE UU. DCP. VOSE. 98'\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Da-reun na-ra-e-suh/In Another Country
+DTSTART;VALUE=DATE-TIME:20150819T220000
+DTEND;VALUE=DATE-TIME:20150819T232900
+UID:1508190022_Verano_dore
+DESCRIPTION:Sala Verano - Da-reun na-ra-e-suh/In Another Country (En otro 
+ país\, Hong Sang-soo\, 2012). Int.:Isabelle Huppert\, Yu Jun-Sang\, Moon 
+ So-Ri. Corea del Sur. 35mm. VOSE. 89'\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petit Indi
+DTSTART;VALUE=DATE-TIME:20150819T222000
+DTEND;VALUE=DATE-TIME:20150819T235100
+UID:1508192022_1_dore
+DESCRIPTION:Sala 1 - Petit Indi (Marc Recha\, 2009). Int.:Sergi López\, E
+ duardo Noriega\, Eulàlia Ramon. España.\n35mm. 91'\n"El trabajo visual c
+ on ese espacio que está al límite de las cosas (y que\, de paso\, da una
+  insólita perspectiva de la Barcelona del AVE y el triunfalismo turístic
+ o) define de una manera muy económica y muy hermosa la relación de Arnau
+  con la naturaleza\, a la vez tensa y calmada\, tanto como lo es este west
+ ern camuflado\, que se mueve tan cómodo en el culto a la contemplación c
+ omo en el suspense neorrealista." (Segi Sánchez)\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paradies: Glaube
+DTSTART;VALUE=DATE-TIME:20150820T180000
+DTEND;VALUE=DATE-TIME:20150820T195600
+UID:1508200018_1_dore
+DESCRIPTION:Sala 1 - Paradies: Glaube (Paraíso: Fe\, Ulrich Seidl\, 2012)
+ . Int.:Maria Hofstatter\, Nabil Saleh\, Natalya Baranova. Austria. 35mm. V
+ OSE. 116'\nSegunda parte de la trilogía. En este caso el relato se centra
+  en la religión y cuenta la historia de Annamaria\, una técnico de hospi
+ tal muy devota que se hace misionera. "Seidl posee una habilidad especial 
+ para desvelar los matices más grotescos escondidos en tras las situacione
+ s en apariencia más banales." (Carlos Losilla) Segunda proyección día 2
+ 6.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
+ areas-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La mujer sin piano
+DTSTART;VALUE=DATE-TIME:20150820T201500
+DTEND;VALUE=DATE-TIME:20150820T215200
+UID:1508201520_1_dore
+DESCRIPTION:Sala 1 - La mujer sin piano (Javier Rebollo\, 2009). Int.: Car
+ men Machi\, Jan Budar\, Pep Ricart. España. 35mm. 97'\n“Desdramatizada 
+ y precisa\, alejada de todo convencionalismo propio de cierto cine españo
+ l\, en especial sus comedias\, La mujer sin piano es un retrato en movimie
+ nto\, que mezcla humor absurdo\, contemplación y un cariño por los perso
+ najes que lo aleja del humor burlón\, que podría haber sido el camino m
+ ás fácil. Rebollo maneja códigos similares al de su opera prima\, lleva
+ ndo “lo real” hacia zonas inquietantes\, raras\, si bien en este caso 
+ en un tono más liviano. Ese extraño deambular de Rosa por una Madrid de 
+ madrugada tal vez sea un reflejo de que otra vida\, al igual que otro cine
+ \, siempre es posible.” (Diego Lerer)\n\n\nFuente: http://www.mecd.gob.e
+ s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
+ ogramacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Da-reun na-ra-e-suh/In Another Country
+DTSTART;VALUE=DATE-TIME:20150820T221500
+DTEND;VALUE=DATE-TIME:20150820T234400
+UID:1508201522_1_dore
+DESCRIPTION:Sala 1 - Da-reun na-ra-e-suh/In Another Country (En otro país
+ \, Hong Sang-soo\, 2012). Int.:Isabelle Huppert\, Yu Jun-Sang\, Moon So-Ri
+ . Corea del Sur. 35mm. VOSE. 89'\n"Quizá En otro país no sea la mejor pe
+ lícula de su director\, pero es sin duda una óptima y muy divertida puer
+ ta de entrada a su distintivo universo de hombres y mujeres empeñados en 
+ encontrarse\, charlar\, confraternizar y/o enamorarse en plano secuencia. 
+ En esta ocasión\, Isabelle Huppert interpreta a tres mujeres extraviadas 
+ lejos de casa\, dando pie a uno de los juegos favoritos del realizador cor
+ eano: la organización de la película en torno a variaciones de un mismo 
+ tema\, como si se tratara de un estudio musical. Un experimento que concen
+ tra la esencia estilística de uno de los maestros del cine contemporáneo
+ ." (Manu Yáñez)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
+ d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/Progra
+ maAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wadjda
+DTSTART;VALUE=DATE-TIME:20150820T223000
+DTEND;VALUE=DATE-TIME:20150821T000800
+UID:1508203022_Verano_dore
+DESCRIPTION:Sala Verano - Wadjda (La bicicleta verde\, Haifaa Al-Mansour\,
+  2012). Int.:Reem Abdullah\, Waad Mohammed. Arabia Saudí/Alemania. 35mm. 
+ VOSE. 98'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgosto
+ .pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paradies: Hoffnung
+DTSTART;VALUE=DATE-TIME:20150821T180000
+DTEND;VALUE=DATE-TIME:20150821T193500
+UID:1508210018_1_dore
+DESCRIPTION:Sala 1 - Paradies: Hoffnung (Paraíso: Esperanza\, Ulrich Seid
+ l\, 2013). Experimental. Int.:Melanie\nLenz\, Joseph Lorenz\, Verena Lehba
+ uer. Austria. 35mm. VOSE. 95'\nTercera parte de la trilogía. "Gigantesca 
+ fábula moral sobre los pecados capitales de la civilización contemporán
+ ea\, la trilogía tiene algo de tratado medieval de moralidad\, a la maner
+ a de cierta tradición germana que empezaría en Lutero y terminaría en F
+ assbinder." (Carlos Losilla) Segunda proyección día 27.\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Only God Forgives
+DTSTART;VALUE=DATE-TIME:20150821T200000
+DTEND;VALUE=DATE-TIME:20150821T213000
+UID:1508210020_1_dore
+DESCRIPTION:Sala 1 - Only God Forgives (Sólo Dios perdona\, Nicolas Windi
+ ng Refn\, 2013). Int.:Kristin Scott Thomas\, Ryan Gosling\, Vithaya Pansri
+ ngarm. Francia / Dinamarca. DCP. VOSE. 90'\n\n\nFuente: http://www.mecd.go
+ b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
+ /programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Jasmine
+DTSTART;VALUE=DATE-TIME:20150821T220000
+DTEND;VALUE=DATE-TIME:20150821T233800
+UID:1508210022_1_dore
+DESCRIPTION:Sala 1 - Blue Jasmine (Woody Allen\, 2013). Int.:Cate Blanchet
+ t\, Alec Baldwin\, Sally Hawkins. EE UU.\nDCP. VOSE. 98'\n"Con Blue Jasmin
+ e estamos ante una de las películas más vivas\, afiladas y lúcidas de W
+ oody Allen\, que habla de la dificultad de conocer\, de saber quiénes som
+ os y quiénes son los otros\, y de cómo se borran en el aire los rostros 
+ amados\, mientras la memoria edifica palacios de niebla con las ruinas des
+ enterradas del pasado." (Anton Merikaetxebarria)\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On the road
+DTSTART;VALUE=DATE-TIME:20150821T221500
+DTEND;VALUE=DATE-TIME:20150822T002200
+UID:1508211522_Verano_dore
+DESCRIPTION:Sala Verano - On the road (On the road\, Walter Salles\, 2012)
+ . Int.:Garrett Hedlund\, Sam Riley\, Kristen Stewart. Reino Unido/Francia/
+ EE UU/Brasil. B-R. VOSE. 127'\n\n\nFuente: http://www.mecd.gob.es/cultura-
  mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
  /2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Planet 51
+DTSTART;VALUE=DATE-TIME:20150822T180000
+DTEND;VALUE=DATE-TIME:20150822T193400
+UID:1508220018_1_dore
+DESCRIPTION:Sala 1 - Planet 51 (Jorge Blanco\, Javier Abad\, Marcos Martí
+ nez\, 2009). Animación. España/Reino\nUnido. 35mm. 94'\nPlanet 51 es la 
+ historia de una familia de extraterrestres que vive tranquilamente en su p
+ laneta hasta la llegada de lo que para ellos es un alienígena: un humano.
+  El Capitán Charles "Chuck" Baker\, astronauta americano\, aterriza en Pl
+ anet 51 pensando que es la primera persona en pisar el planeta. Para su so
+ rpresa\, descubre que el planeta está habitado por pequeñas criaturas ve
+ rdes que viven felizmente en un mundo plagado de cercas blancas\, reminisc
+ encia de la alegre inocencia de la América de los años 50\, y cuyo únic
+ o temor es el de ser invadidos por alienígenas... ¡como Chuck! Entrada l
+ ibre para menores de 14 años.\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wadjda
+DTSTART;VALUE=DATE-TIME:20150822T200000
+DTEND;VALUE=DATE-TIME:20150822T213800
+UID:1508220020_1_dore
+DESCRIPTION:Sala 1 - Wadjda (La bicicleta verde\, Haifaa Al-Mansour\, 2012
+ ). Int.:Reem Abdullah\, Waad Mohammed. Arabia Saudí/Alemania. 35mm. VOSE.
+  98'\n"El film muestra la vida de una familia saudita de clase media\, inc
+ luidos la intimidad familiar\, el conflicto que genera la decisión del pa
+ dre de reincidir en el matrimonio\, la coexistencia de antiguas tradicione
+ s y la rutina de las mujeres que trabajan en una ciudad moderna de estos t
+ iempos de globalización y TV omnipresente. En su sencillez y su verdad de
+ spojada de artificios\, el film de Haifaa Al Mansour \, colmado de apuntes
+  inesperados\, trae cierta reminiscencia de las primeras películas de Kia
+ rostami." (Fernando López)\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On the road
+DTSTART;VALUE=DATE-TIME:20150822T220000
+DTEND;VALUE=DATE-TIME:20150823T000700
+UID:1508220022_1_dore
+DESCRIPTION:Sala 1 - On the road (On the road\, Walter Salles\, 2012). Int
+ .:Garrett Hedlund\, Sam Riley\, Kristen Stewart. Reino Unido/Francia/EE UU
+ /Brasil. B-R. VOSE. 127'\nAdaptación de la novela de Jack Kerouac. Tras l
+ a muerte de su padre\, Sal Paradise\, un neoyorquino que aspira a ser escr
+ itor\, conoce a Dean Moriarty\, un ex-presidiario de un encanto arrollador
+  y casado con la liberada y seductora Marylou. Sal y Dean se hacen amigos 
+ al instante.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgo
+ sto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Before Midnight
+DTSTART;VALUE=DATE-TIME:20150822T221000
+DTEND;VALUE=DATE-TIME:20150822T235800
+UID:1508221022_Verano_dore
+DESCRIPTION:Sala Verano - Before Midnight (Antes del anochecer\, Richard L
+ inklater\, 2013). Int.:Julie Delpy\, Ethan Hawke. EE UU. B-R. VOSE. 108'\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bir zamanlar Anadolu'da
 DTSTART;VALUE=DATE-TIME:20150823T180000
 DTEND;VALUE=DATE-TIME:20150823T203700
 UID:1508230018_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Bir zamanlar Anadolu'da (Érase una vez en Anatolia\,
+  Nuri Bilge Ceylan\, 2011).\nInt.:Muhammet Uzuner\, Yilmaz Erdogan\, Taner
+  Birsel. Turquía. DCP. VOSE. 157'\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Prisoners
 DTSTART;VALUE=DATE-TIME:20150823T211000
 DTEND;VALUE=DATE-TIME:20150823T234300
 UID:1508231021_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Prisoners (Prisioneros\, Denis Villeneuve\, 2013). In
+ t.:Hugh Jackman\, Jake Gyllenhaal\, Viola\nDavis. EE UU. DCP. VOSE. 153'\n
+ "Villeneuve (aquí se revela poseedor de una pericia narrativa y una capac
+ idad de caracterización de personajes complejos y problemáticos cercanas
+  a lo asombroso. Es una de esas películas que trascienden con creces su p
+ unto de partida." (Jordi Costa)\n\n\nFuente: http://www.mecd.gob.es/cultur
+ a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
+ on/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:Sightseers
 DTSTART;VALUE=DATE-TIME:20150825T180000
 DTEND;VALUE=DATE-TIME:20150825T192800
 UID:1508250018_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Sightseers (Turistas\, Ben Wheatley\, 2012). Int.:Ali
+ ce Lowe\, Steve Oram\, Eileen Davies. Reino Unido. 35mm. VOSE. 88'\n\n\nFu
+ ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
+ ura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Gordos
 DTSTART;VALUE=DATE-TIME:20150825T200000
 DTEND;VALUE=DATE-TIME:20150825T215800
 UID:1508250020_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015
- /ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Gordos (Daniel Sánchez Arévalo\, 2009). Int.:Antoni
+ o de la Torre\, Raúl Arévalo\, Roberto\nEnríquez. España. 35mm. 118'\n
+ "Un guión abigarrado y frondoso\, con momentos de incontestable ingenio y
+  una tendencia desmesurada a todo tipo de excesos\, pero también a una he
+ terogénea\, a ratos estridente\, variedad de tonos y registros." (Alberto
+  Bermejo)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgosto
+ .pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Paradies: Liebe
 DTSTART;VALUE=DATE-TIME:20150825T221000
 DTEND;VALUE=DATE-TIME:20150826T001200
 UID:1508251022_Verano_dore
-DESCRIPTION:Sala Verano - S S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala Verano - Paradies: Liebe (Paraíso: Amor\, Ulrich Seidl\,
+  2012). Int.:Margarete Tiesel\, Inge Maux\, Peter Kazungu. Austria. 35mm. 
+ VOSE. 122'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgost
+ o.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Only God Forgives
 DTSTART;VALUE=DATE-TIME:20150825T222000
 DTEND;VALUE=DATE-TIME:20150825T235000
 UID:1508252022_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Only God Forgives (Sólo Dios perdona\, Nicolas Windi
+ ng Refn\, 2013). Int.:Kristin Scott\nThomas\, Ryan Gosling\, Vithaya Pansr
+ ingarm. Francia / Dinamarca. DCP. VOSE. 90'\n"Una película de temática y
+  desarrollo minimalistas\, no apta para todas las sensibilidades pero que 
+ alcanza cotas de verdadero virtuosismo sensorial en la mayoría de sus esc
+ enas. Un trabajo solemne\, mayúsculo." (Javier Angulo)\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:El secreto de sus ojos
 DTSTART;VALUE=DATE-TIME:20150826T180000
 DTEND;VALUE=DATE-TIME:20150826T200800
 UID:1508260018_1_dore
-DESCRIPTION:Sala 1 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - El secreto de sus ojos (Juan José Campanella\, 2009)
+ . Int.:Ricardo Darín\, Soledad Villamil\, Guillermo Francella. España/Ar
+ gentina. 35mm. 128'\n"La fórmula perfecta del cine emocional\, quizá sen
+ timental. Unos diálogos hilvanados con muchísima gracia\; una trama en e
+ spiral que se agarra al estómago como la sensación de vértigo y un puñ
+ ado de interpretaciones memorables ofrecen la definición precisa del trab
+ ajo de Campanella. ¿Se acuerdan de las comedias trágicas de Comencini\, 
+ Monicelli\, Vittorio de Sica o Dino Risi? Pues lo mismo\, pero con acento 
+ argentino." (Luis Martínez)\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Bir zamanlar Anadolu'da
 DTSTART;VALUE=DATE-TIME:20150826T203000
 DTEND;VALUE=DATE-TIME:20150826T230700
 UID:1508263020_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+DESCRIPTION:Sala 1 - Bir zamanlar Anadolu'da (Érase una vez en Anatolia\,
+  Nuri Bilge Ceylan\, 2011). Int.:Muhammet Uzuner\, Yilmaz Erdogan\, Taner 
+ Birsel. Turquía. DCP. VOSE. 157'\n"Érase una vez en Anatolia es muchas c
+ osas a la vez\, pero en todos sus posibles rostros se manifiesta el genio 
+ de un cineasta que no deja de tomar riesgos y desafiar a sus espectadores:
+  la crónica de una investigación regida por el caos y condicionada por l
+ a devaluación de los recursos públicos\, una meditación sobre la transf
+ erencia de culpa de padres a hijos\, una cartografía nocturna de puntas d
+ e iceberg\, que desvelan soterrados cargamentos de dolor y melancolía…"
+  (Jordi Costa)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaA
+ gosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paradies: Glaube
+DTSTART;VALUE=DATE-TIME:20150826T220000
+DTEND;VALUE=DATE-TIME:20150826T235600
+UID:1508260022_Verano_dore
+DESCRIPTION:Sala Verano - Paradies: Glaube (Paraíso: Fe\, Ulrich Seidl\, 
+ 2012). Int.:Maria Hofstatter\, Nabil Saleh\, Natalya Baranova. Austria. 35
+ mm. VOSE. 116'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaA
+ gosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Before Midnight
+DTSTART;VALUE=DATE-TIME:20150827T180000
+DTEND;VALUE=DATE-TIME:20150827T194800
+UID:1508270018_1_dore
+DESCRIPTION:Sala 1 - Before Midnight (Antes del anochecer\, Richard Linkla
+ ter\, 2013). Int.:Julie Delpy\, Ethan\nHawke. EE UU. DCP. VOSE. 108'\n"De 
+ repente\, ante los ojos sorprendidos del espectador\, la película se conv
+ ierte en un divertido (y algo doloroso\, la verdad) juego de espejos donde
+  uno no sólo ve reflejada la vida de los protagonistas sino a sí mismo\;
+  a sí mismo contemplando cómo ha envejecido\; cómo ha envejecido viénd
+ oles\, precisamente\, a ellos." (Luis Martínez)\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paisito
+DTSTART;VALUE=DATE-TIME:20150827T201000
+DTEND;VALUE=DATE-TIME:20150827T213700
+UID:1508271020_1_dore
+DESCRIPTION:Sala 1 - Paisito (Ana Díez\, 2008). Int.:Emilio Gutiérrez Ca
+ ba\, María Botto\, Nicolás Pauls. Uruguay/España/Argentina. 35mm. 87'\n
+ "Un policía que cree en la democracia\, y sabe cómo funcionan las cosas 
+ tras bastidores\, pero que hace como si no supiese nada\, se convierte tam
+ bién en torturador\, sabe las bestialidades que se cometen y omite hacer 
+ algo. La gente que decide no tomar partido en una dictadura siempre termin
+ a por servirle a algún bando." (Ana Díez)\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soshite chichi ni naru/Like Father\, Like Son
+DTSTART;VALUE=DATE-TIME:20150827T220000
+DTEND;VALUE=DATE-TIME:20150828T000100
+UID:1508270022_1_dore
+DESCRIPTION:Sala 1 - Soshite chichi ni naru/Like Father\, Like Son (De tal
+  padre\, tal hijo\, Hirokazu Kore-Eda\, 2013). Int.:Jun Kunimura\, Masahar
+ u Fukuyama\, Yôko Maki. Japón. 35mm. VOSE. 121'\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paradies: Hoffnung
+DTSTART;VALUE=DATE-TIME:20150827T221500
+DTEND;VALUE=DATE-TIME:20150827T235000
+UID:1508271522_Verano_dore
+DESCRIPTION:Sala Verano - Paradies: Hoffnung (Paraíso: Esperanza\, Ulrich
+  Seidl\, 2013). Experimental. Int.:Melanie Lenz\, Joseph Lorenz\, Verena L
+ ehbauer. Austria. 35mm. VOSE. 95'\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prisoners
+DTSTART;VALUE=DATE-TIME:20150828T180000
+DTEND;VALUE=DATE-TIME:20150828T203300
+UID:1508280018_1_dore
+DESCRIPTION:Sala 1 - Prisoners (Prisioneros\, Denis Villeneuve\, 2013). In
+ t.:Hugh Jackman\, Jake Gyllenhaal\, Viola\nDavis. EE UU. DCP. VOSE. 153'\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[REC] 2
+DTSTART;VALUE=DATE-TIME:20150828T205000
+DTEND;VALUE=DATE-TIME:20150828T221800
+UID:1508285020_1_dore
+DESCRIPTION:Sala 1 - [REC] 2 (Jaume Balagueró y Paco Plaza\, 2009). Int.:
+ Manuela Velasco\, Juli Fábregas\, Pep\nMolina. España. 35mm. 88'\n"Toda 
+ secuela debería ser una carrera de obstáculos\, un más difícil todaví
+ a que replanteara los logros de la primera parte. Sabemos por experiencia 
+ cinéfila que eso no ocurre con frecuencia. Teniendo en cuenta que [REC] e
+ xplotaba su originalidad hasta el infinito y más allá\, sorprende gratam
+ ente que esta continuación no críe fama y se eche a dormir. Balagueró y
+  Plaza hacen estallar la agotada potencialidad de una situación única ll
+ evada al extremo y filman su fuera de campo. Una secuela nada perezosa\, q
+ ue da exactamente lo que promete: pan y circo para los fans del cine de te
+ rror entendido como uno de los grandes placeres que se viven en una sala o
+ scura." (Sergi Sánchez)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
  dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015
  /ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20150826T220000
-DTEND;VALUE=DATE-TIME:20150826T235600
-UID:1508260022_Verano_dore
-DESCRIPTION:Sala Verano - S S S S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20150827T180000
-DTEND;VALUE=DATE-TIME:20150827T194800
-UID:1508270018_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20150827T201000
-DTEND;VALUE=DATE-TIME:20150827T213700
-UID:1508271020_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/P
- rogramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20150827T220000
-DTEND;VALUE=DATE-TIME:20150828T000100
-UID:1508270022_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20150827T221500
-DTEND;VALUE=DATE-TIME:20150827T235000
-UID:1508271522_Verano_dore
-DESCRIPTION:Sala Verano - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20150828T180000
-DTEND;VALUE=DATE-TIME:20150828T203300
-UID:1508280018_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20150828T205000
-DTEND;VALUE=DATE-TIME:20150828T221800
-UID:1508285020_1_dore
-DESCRIPTION:Sala 1 - S \n \n S S S\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2015/ProgramaAgosto.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Stoker
 DTSTART;VALUE=DATE-TIME:20150828T224000
 DTEND;VALUE=DATE-TIME:20150829T002000
 UID:1508284022_1_dore
-DESCRIPTION:Sala 1 - S S S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Stoker (Park Chan-wook\, 2013). Int.:Mia Wasikowska\,
+  Matthew Goode\, Nicole Kidman. EE UU. 35mm. VOSE. 100'\n"A medio camino e
+ ntre un capítulo de Dexter y una versión explícitamente incestuosa de L
+ a sombra de una duda. No estamos tan lejos de Oldboy\, aunque Stoker susti
+ tuye el enfermo romanticismo de aquélla por un nihilismo determinista." (
+ Sergi Sánchez)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/Programa
+ Agosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:The Gold Rush
 DTSTART;VALUE=DATE-TIME:20150829T180000
 DTEND;VALUE=DATE-TIME:20150829T190900
 UID:1508290018_1_dore
-DESCRIPTION:Sala 1 - S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - The Gold Rush (La quimera del oro\, Charles Chaplin\,
+  1925). Int.:Charles Chaplin\, Mack Swain\, Tom Murray. EE UU. DCP. SRISE.
+  69'\n“Sobre esta obra se ha hablado con detalle y así basta con decir 
+ que una vieja impresión se ha confirmado: aquí Chaplin alcanza no sólo 
+ su habitual unidad psicológica sino también una increíble plasticidad.
+ ” (Michelangelo Antonioni) Entrada libre para menores de 14 años.\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:Map of the Sounds of Tokyo/Mapa de los sonidos de Tokio
 DTSTART;VALUE=DATE-TIME:20150829T194000
 DTEND;VALUE=DATE-TIME:20150829T212600
 UID:1508294019_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Map of the Sounds of Tokyo/Mapa de los sonidos de Tok
+ io (Isabel Coixet\, 2009). Int.:Sergi López\, Rinko Kikuchi\, Min Tanaka.
+  España. 35mm. VOSE. 106'\n"El film propone una cartografía de transacci
+ ones materiales (del sexo a la muerte\, pasando por la básica alimentaci
+ ón y la accesoria cata de lujo) sobre un espacio urbano que funciona como
+  el universal fantasma de nuestras Navidades futuras: un lugar donde la ge
+ stión del deseo termina revelando que el mapa no es el territorio y que s
+ on\, precisamente\, las cosas que nunca se dicen las que impedirán cuadra
+ r la caja." (Jordi Costa)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/201
+ 5/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:Sightseers
 DTSTART;VALUE=DATE-TIME:20150829T220000
 DTEND;VALUE=DATE-TIME:20150829T232800
 UID:1508290022_1_dore
-DESCRIPTION:Sala 1 - S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Sightseers (Turistas\, Ben Wheatley\, 2012). Int.:Ali
+ ce Lowe\, Steve Oram\, Eileen Davies. Reino Unido. 35mm. VOSE. 88'\n"Alice
+  Lowe y Steve Oram\, cómicos de amplia trayectoria en los callejones más
+  excéntricos de la nueva comedia británica\, crearon a la pareja protago
+ nista de Turistas en un número concebido para clubes de comedia antes de 
+ toparse con Ben Wheatley. Chris y Tina\, pareja formada en una encrucijada
+  de zonas de exclusión (laboral\, social\, afectiva\, sexual)\, se convie
+ rten en declinación desastrada\, con un retrogusto a Mike Leigh\, de tant
+ os tándems fatales que han recorrido las rutas de la transgresión autode
+ structiva\, de El demonio de las armas a Asesinos natos pasando por Bonnie
+  y Clyde y Malas tierras." (Jordi Costa)\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:Soshite chichi ni naru/Like Father\, Like Son
 DTSTART;VALUE=DATE-TIME:20150830T180000
 DTEND;VALUE=DATE-TIME:20150830T200100
 UID:1508300018_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2015/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Soshite chichi ni naru/Like Father\, Like Son (De tal
+  padre\, tal hijo\, Hirokazu Kore-Eda\, 2013). Int.:Jun Kunimura\, Masahar
+ u Fukuyama\, Yôko Maki. Japón. 35mm. VOSE. 121'\n"Trata sobre el interca
+ mbio de dos niños\, uno por otro\, que pasan a formar parte respectivamen
+ te de otra familia. Es una situación muy compleja que he querido tratar c
+ on muchos matices. Yo tengo una hija de seis años y siempre pienso como u
+ n padre\, me pregunto cómo se siente un hombre cuando tiene hijos ." (Hir
+ okazu Kore-Eda)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/Programa
+ Agosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Laurence Anyways
 DTSTART;VALUE=DATE-TIME:20150830T203000
 DTEND;VALUE=DATE-TIME:20150830T232200
 UID:1508303020_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 15/ProgramaAgosto.pdf
+DESCRIPTION:Sala 1 - Laurence Anyways (Laurence Anyways\, Xavier Dolan\, 2
+ 011). Int.:Melvil Poupaud\, Suzanne Clément\, Nathalie Baye. Canadá/Fran
+ cia. 35mm. VOSE. 172'\n"Que la película adopte por momentos el tono de un
+ a ópera decadentista no nos debería llevar a engaño\, como tampoco la m
+ elancolía que impregna el flahsback final: el romanticismo de Laurence An
+ yways no es fruto de una lectura irónica o paródica\; su vitalidad la re
+ dime de sus aspectos más cuestionables." (Jaime Pena) </pre> </body> </ht
+ ml>\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2015/ProgramaAgosto.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

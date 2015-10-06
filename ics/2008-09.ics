@@ -4,759 +4,1148 @@ PRODID:-//Cine Doré//github.com santos82 doredb//ES
 X-WR-CALNAME:Cine Dore
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:No digas nada
 DTSTART;VALUE=DATE-TIME:20080902T180000
 DTEND;VALUE=DATE-TIME:20080902T193000
 UID:0809020018_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/
- FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - No digas nada (Felipe Jiménez\, 2007). Int.: Santi R
+ odríguez\, Claudia Molina\, Elio González. 90'\n\n\nFuente: http://www.m
+ ecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:The Queen
 DTSTART;VALUE=DATE-TIME:20080902T200000
 DTEND;VALUE=DATE-TIME:20080902T213700
 UID:0809020020_1_dore
-DESCRIPTION:Sala 1 - S S S \n S \n S S S\n\n\nFuente: http://www.mecd.gob.
- es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - The Queen (La reina\, Stephen Frears\, 2006). Int.: H
+ elen Mirren\, Michael Sheen\, James Cromwell.\nGB. VOSE. 97'\n"La películ
+ a está por encima de la política. Mostrábamos que la Reina es una mujer
+  y esto debería ser un elogio. El lado monárquico de su vida es bastante
+  ridículo\, pero el más personal merecía la pena ser explorado. Si yo f
+ uera ella estaría contenta. No era un insulto. De hecho se nos ha acusado
+  de ser demasiado amables en nuestro retrato" (Stephen Frears). Segunda pr
+ oyección día 5.\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/Prog
+ raDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Los crímenes de Oxford
 DTSTART;VALUE=DATE-TIME:20080903T180000
 DTEND;VALUE=DATE-TIME:20080903T194600
 UID:0809030018_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Los crímenes de Oxford (Álex de la Iglesia\, 2007).
+  Int.: Elijah Wood\, John Hurt\, Leonor Watling.\n\n\nFuente: http://www.m
+ ecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Brandy / Cavalca e uccidi
 DTSTART;VALUE=DATE-TIME:20080903T201000
 DTEND;VALUE=DATE-TIME:20080903T213400
 UID:0809031020_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Brandy / Cavalca e uccidi (José Luis Borau\, 1963). 
+ Int.: Alex Nicol\, Maite Blasco\, Antonio Casas. España e Italia. VOE. 84
+ ’\n“Pechando como puede con un argumento pobre y\, para colmo de males
+ \, de desarrollo previsible\, que además se precipita abruptamente en el 
+ tramo final\, Borau empero triunfa en su mímesis del western americano a 
+ la hora de guardar un ritmo calmo\, mediante bonitos planos largos y una a
+ bundancia de panorámicas y travellings donde la cámara se mueve con rigo
+ r y precisión\, en un dechado de buen gusto y sin alardes gratuitos” (C
+ arlos Aguilar).\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/Progra
+ Dore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Mrs Henderson Presents
 DTSTART;VALUE=DATE-TIME:20080903T220000
 DTEND;VALUE=DATE-TIME:20080903T234300
 UID:0809030022_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/d
- ocs/MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Mrs Henderson Presents (Mrs Henderson presenta\, Step
+ hen Frears\, 2005). Int.: Judy Dench\, Bob Hoskins\, Christopher Guest. GB
+ . VOSE. 103'\n"En los años 30\, Mrs. Laura Henderson\, una viuda obstinad
+ a y reaccionaria\, compra un teatro decrépito y contrata a un manager jud
+ io\, Viviam Van Damm\, para llevarlo. La extraña pareja se las apaña par
+ a seguir abiertos durante toda la guerra. (...) Mrs Henderson\, que perdi
+ ó a su hijo en la I Guerra Mundial\, tiene la idea de que los chicos no d
+ eberían morir sin haber visto a una hermosa mujer desnuda al menos una ve
+ z" (David Denby). Segunda proyección día 6.\n\n\nFuente: http://www.mecd
+ .gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Martini il valenciano
 DTSTART;VALUE=DATE-TIME:20080904T180000
 DTEND;VALUE=DATE-TIME:20080904T200900
 UID:0809040018_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/
- MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Martini il valenciano (Miguel Perelló\, 2008). Int.:
+  Toni Cantó\, Paula Garber\, Ximo Solano. Vídeo.\n\n\nFuente: http://www
+ .mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S S
+SUMMARY:My Beautiful Laundrette
 DTSTART;VALUE=DATE-TIME:20080904T203000
 DTEND;VALUE=DATE-TIME:20080904T220700
 UID:0809043020_1_dore
-DESCRIPTION:Sala 1 - S S S S S \nS\n\n\nFuente: http://www.mecd.gob.es/cin
- e/docs/MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - My Beautiful Laundrette (Mi hermosa lavandería\, Ste
+ phen Frears\, 1985). Int.: Saeed Jaffrey\, Roshan Seth\, Daniel Day-Lewis.
+  GB. VOSE. 97'\nSegunda proyección día 13.\n\n\nFuente: http://www.mecd.
+ gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Django
 DTSTART;VALUE=DATE-TIME:20080904T222500
 DTEND;VALUE=DATE-TIME:20080904T235400
 UID:0809042522_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/
- FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Django (Sergio Corbucci\, 1966). Int.: Franco Nero\, 
+ Loredana Nusciak\, Eduardo Fajardo. España e Italia. VOE. 89’\n“Pelí
+ cula al borde del surrealismo en su creación de inolvidables momentos del
+ irantes: la entrada del héroe en el pueblo\, arrastrando un ataúd\; su l
+ ucha final con los villanos\, entre las cruces del cementerio\; la procesi
+ ón de los fanáticos racistas evocando el Ku Klux Klan… en un clima de 
+ crueldad omnipresente donde es imposible contar la gente que muere de modo
+  casi ininterrumpido” (Alain Petit).\n\n\nFuente: http://www.mecd.gob.es
+ /cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Bienvenido a Farewell-Gutmann
 DTSTART;VALUE=DATE-TIME:20080905T180000
 DTEND;VALUE=DATE-TIME:20080905T194000
 UID:0809050018_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/
- FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Bienvenido a Farewell-Gutmann (Xabi Puebla\, 2007). I
+ nt.: Ana Fernández\, Lluís Soler\, Adolfo Fernández. 100'\n\n\nFuente: 
+ http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Prick Up your Ears
 DTSTART;VALUE=DATE-TIME:20080905T200000
 DTEND;VALUE=DATE-TIME:20080905T214900
 UID:0809050020_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/doc
- s/MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Prick Up your Ears (Ábrete de orejas\, Stephen Frear
+ s\, 1987). Int.: Gary Oldman\, Alfred Molina\,\nVanessa Redgrave. GB. VOSE
+ . 109'\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/Prog
+ raDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Oro maldito / Se sei vivo\, spara
 DTSTART;VALUE=DATE-TIME:20080905T221000
 DTEND;VALUE=DATE-TIME:20080905T234100
 UID:0809051022_1_dore
-DESCRIPTION:Sala 1 - S S \n \n S S\n\n\nFuente: http://www.mecd.gob.es/cin
- e/docs/MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Oro maldito / Se sei vivo\, spara (Giulio Questi\, 19
+ 67). Int.: Tomás Milian\, Marilú Toló\, Roberto\nCamardiel. Italia y Es
+ paña. VOE. 91’\n“Una película provocativa\, cuyos personajes son per
+ sonalísimos fantasmas: el gran Tomás Milian es un Cuchillo Sánchez pasa
+ do por el Mahabharata\, el terrateniente es un dandy que puede permitirse 
+ citar a Sade y comanda una manada de machotes vestidos de negro que parece
+ n salidos de una pesadilla de Kenneth Anger\, la sensual Marilú Toló y l
+ a infeliz Patricia Valturri parecen sacadas de una película de terror de 
+ Freda\, y el incendio final recuerda a la vez Johnny Guitar y la casa Ushe
+ r” (Andrea Bruni)\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/Pr
+ ograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Un poco de chocolate
 DTSTART;VALUE=DATE-TIME:20080906T180000
 DTEND;VALUE=DATE-TIME:20080906T193200
 UID:0809060018_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/
- MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Un poco de chocolate (Aitzol Aramaio\, 2007). Int.: H
+ éctor Alterio\, Daniel Brühl\, Julieta Serrano.\n\n\nFuente: http://www.
+ mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Mrs Henderson Presents
 DTSTART;VALUE=DATE-TIME:20080906T200000
 DTEND;VALUE=DATE-TIME:20080906T214300
 UID:0809060020_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/M
+DESCRIPTION:Sala 1 - Mrs Henderson Presents (Mrs Henderson presenta\, Step
+ hen Frears\, 2005). Int.: Judy Dench\, Bob Hoskins\, Christopher Guest. GB
+ . VOSE. 103'\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDor
+ e/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El precio de un hombre / The Bounty Killer
+DTSTART;VALUE=DATE-TIME:20080906T220000
+DTEND;VALUE=DATE-TIME:20080906T233600
+UID:0809060022_1_dore
+DESCRIPTION:Sala 1 - El precio de un hombre / The Bounty Killer (Eugenio M
+ artín\, 1966). Int.: Richard Wyler\,\nTomás Milian\, Ella Karin. España
+  e Italia. VOE. 96’\n“Uno de los mejores westerns dirigidos por un esp
+ añol\, con una estupenda banda sonora de Stelvio Cipriani\, que supone la
+  entrada de Tomás Milian en el género\, mediante una de sus interpretaci
+ ones más intensas y menos conocidas\, lejos del histrionismo en que cayó
+  durante los años 70 (…) Los personajes son magníficos\, y viven y mue
+ ren casi en simbiosis con el ambiente que los circunda\, solitario\, calci
+ nante y desértico” (Federico De Zigno).\n\n\nFuente: http://www.mecd.go
+ b.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La crisis carnívora
+DTSTART;VALUE=DATE-TIME:20080907T180000
+DTEND;VALUE=DATE-TIME:20080907T191000
+UID:0809070018_1_dore
+DESCRIPTION:Sala 1 - La crisis carnívora (Pedro Rivero\, 2008). Animació
+ n. 70'\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/Prog
+ raDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kakushi ken: oni no tsume / The Hidden Blade
+DTSTART;VALUE=DATE-TIME:20080907T193000
+DTEND;VALUE=DATE-TIME:20080907T214200
+UID:0809073019_1_dore
+DESCRIPTION:Sala 1 - Kakushi ken: oni no tsume / The Hidden Blade (Yoji Ya
+ mada\, 2004). Int.: Masatoshi Nagase\,\nTakako Matsu\, Hidetaka Yoshioka. 
+ Japón. VOSE. 132'\n"Munezo\, el honorable samurai\, está enamorado desde
+  niño de Kie\, una mujer de casta inferior casada con un mercader de mald
+ ad dickensiana. Yamada describe el militarismo del shogunato Tokugawa de l
+ a década de 1860 (con muchas escenas cómicas que implican a los rifles i
+ ngleses y los cañones holandeses)\, pero su corazón está en la historia
+  de amor de Munezo y Kie\, para los que traza un retrato de pareja que bor
+ dea el melodrama sirkiano" (Wally Hammond).\n\n\nFuente: http://www.mecd.g
+ ob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Burning
+DTSTART;VALUE=DATE-TIME:20080909T221500
+DTEND;VALUE=DATE-TIME:20080909T233500
+UID:0809091522_1_dore
+DESCRIPTION:Sala 1 - The Burning (Stephen Frears\, 1968). Int.: Gwen Ffran
+ gcon-Davies\, Isabel Muller\, Maxine Day. GB. 30'. A Day Out (Stephen Frea
+ rs\, 1972). Int.: David Waller\, James Cossins\, John Normington. GB. 50'.
+  VOSE* Total programa: 80'\nThe Burning: La visita semanal de una blanca s
+ udafricana a la granja de su hermana\, donde ha tenido lugar una rebelión
+  negra\, y sus reacciones ante ella. A Day...: "Una excursión de los miem
+ bros de un club de ciclismo de Halifax en 1911. La obra les sigue y escuch
+ a sus conversaciones\, que van de lo inconsecuente a lo reflexivo\, pasand
+ o por lo cruelmente irónico" (BFI). Segunda proyección día 10.\n\n\nFue
+ nte: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8 citas
+DTSTART;VALUE=DATE-TIME:20080910T180000
+DTEND;VALUE=DATE-TIME:20080910T193200
+UID:0809100018_1_dore
+DESCRIPTION:Sala 1 - 8 citas (Peris Romano y Rodrigo Sorogoyen\, 2007). In
+ t.: Fernando Tejero\, Raúl Arévalo\, Cecilia Freire. 92'\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gumshoe
+DTSTART;VALUE=DATE-TIME:20080910T200000
+DTEND;VALUE=DATE-TIME:20080910T212800
+UID:0809100020_1_dore
+DESCRIPTION:Sala 1 - Gumshoe (Detective sin licencia\, Stephen Frears\, 19
+ 71). Int.: Albert Finney\, Billie Whitelaw\,\nFrank Finlay. GB. VOSE*. 88'
+ \n"Una obra observadora y hermosa sobre un trabajador del bingo de un club
+  obrero de Liverpool que sueña con escribir (y protagonizar) El halcón m
+ altés y que se ve envuelto en un asesinato real. Gumshoe\, al contrario d
+ e muchos pastiches\, no se ahoga en referencias\, gracias a Finney y a Fre
+ ars\, que se preocupa de anclar la película en el gris submundo de Liverp
+ ool antes de dar vida a los sueños de Eddie" (Phil Hardy). Segunda proyec
+ ción día 12.\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograD
+ ore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Burning
+DTSTART;VALUE=DATE-TIME:20080910T220000
+DTEND;VALUE=DATE-TIME:20080910T232000
+UID:0809100022_1_dore
+DESCRIPTION:Sala 1 - The Burning (Stephen Frears\, 1968). Int.: Gwen Ffran
+ gcon-Davies\, Isabel Muller\, Maxine Day. GB. 30'. A Day Out (Stephen Frea
+ rs\, 1972). Int.: David Waller\, James Cossins\, John Normington. GB. 50'.
+  VOSE* Total programa: 80'\n\n\nFuente: http://www.mecd.gob.es/cine/docs/M
  C/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080906T220000
-DTEND;VALUE=DATE-TIME:20080906T233600
-UID:0809060022_1_dore
-DESCRIPTION:Sala 1 - S \n \n S\n\n\nFuente: http://www.mecd.gob.es/cine/do
- cs/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080907T180000
-DTEND;VALUE=DATE-TIME:20080907T191000
-UID:0809070018_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080907T193000
-DTEND;VALUE=DATE-TIME:20080907T214200
-UID:0809073019_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/
- MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20080909T221500
-DTEND;VALUE=DATE-TIME:20080909T233500
-UID:0809091522_1_dore
-DESCRIPTION:Sala 1 - S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cine
- /docs/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080910T180000
-DTEND;VALUE=DATE-TIME:20080910T193200
-UID:0809100018_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/
- FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080910T200000
-DTEND;VALUE=DATE-TIME:20080910T212800
-UID:0809100020_1_dore
-DESCRIPTION:Sala 1 - S S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cin
- e/docs/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20080910T220000
-DTEND;VALUE=DATE-TIME:20080910T232000
-UID:0809100022_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs
+SUMMARY:Casual Day
+DTSTART;VALUE=DATE-TIME:20080911T180000
+DTEND;VALUE=DATE-TIME:20080911T193300
+UID:0809110018_1_dore
+DESCRIPTION:Sala 1 - Casual Day (Max Lemcke\, 2007). Int.: Juan Diego\, Ja
+ vier Ríos\, Luis Tosar. 93'\n\n\nFuente: http://www.mecd.gob.es/cine/docs
  /MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080911T180000
-DTEND;VALUE=DATE-TIME:20080911T193300
-UID:0809110018_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:The Hit
 DTSTART;VALUE=DATE-TIME:20080911T195000
 DTEND;VALUE=DATE-TIME:20080911T212800
 UID:0809115019_1_dore
-DESCRIPTION:Sala 1 - S S \nS S \n S S S\n\n\nFuente: http://www.mecd.gob.e
+DESCRIPTION:Sala 1 - The Hit (The Hit / La venganza\, Stephen Frears\, 198
+ 4). Int.: John Hurt\, Tim Roth\, Laura Del\nSol. GB. VOSE*. 98'\n"Esta com
+ edia filosófica asume la forma de una película de gangsters sobre un del
+ ator de la mafia que ha pasado diez años escondido en un pueblo español 
+ preparándose espiritualmente el día inevitable en el que vendrán a busc
+ arlo para vengarse. Cuando aparece un asesino profesional y su aprendiz\, 
+ la calma sonriente de su víctima los desquicia. Frears traslada gradualme
+ nte nuestras simpatías\, revierte los papeles de torturador y torturado y
+  rastrea en el pánico y la inquietud del asesino la humanidad que el otro
+  ha suprimido" (Dave Kehr). Con la asistencia de Stephen Frears Presentaci
+ ón del libro Stephen Frears: cronista camaleonico\, de Javier Hernández 
+ Ruiz. Segunda proyección día 14.\n\n\nFuente: http://www.mecd.gob.es/cin
+ e/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juzgado permanente
+DTSTART;VALUE=DATE-TIME:20080911T200000
+DTEND;VALUE=DATE-TIME:20080911T213400
+UID:0809110020_2_dore
+DESCRIPTION:Sala 2 - Juzgado permanente (Joaquín Romero Marchent\, 1953).
+  Int.: José María Rodero\, Elvira Quintillá\, Rafael Romero Marchent. E
+ spaña. Vídeo. 94’\n“Yo estaba seguro de que me casarían los planos.
+  Fuera de esto\, admitía toda clase de comparaciones. Porque yo siempre d
+ igo que en el cine todo depende\, y cuando se hacen comparaciones hay que 
+ considerar las dificultades. Si a mí me preguntan\, ‘¿qué tal directo
+ r eres?’\, yo respondo\, ‘¿comparado con quién?’ Y si dicen\, ‘
+ ¿qué tal están tus películas?’\, yo digo\, ‘¿comparadas con cuál
+ es?’ (Joaquín Romero Marchent).\n\n\nFuente: http://www.mecd.gob.es/cin
+ e/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La vida de Martin Frost / The Inner life of Martin Frost
+DTSTART;VALUE=DATE-TIME:20080912T180000
+DTEND;VALUE=DATE-TIME:20080912T193300
+UID:0809120018_1_dore
+DESCRIPTION:Sala 1 - La vida de Martin Frost / The Inner life of Martin Fr
+ ost (Paul Auster\, 2007). Int.: David Thewlis\, Irène Jacob\, Michael Imp
+ erioli. 93'\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore
+ /PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lo chiamavano Trinitá
+DTSTART;VALUE=DATE-TIME:20080912T200000
+DTEND;VALUE=DATE-TIME:20080912T214600
+UID:0809120020_1_dore
+DESCRIPTION:Sala 1 - Lo chiamavano Trinitá (Le llamaban Trinidad\, Enzo B
+ arboni\, 1971). Int.: Terence Hill\, Bud\nSpencer\, Farley Granger. Italia
+ . VE. 106’\n“Al codificar sus propias reglas y asentarse en un espacio
+  propio\, el eurowestern pudo ofrecer como muestra de madurez (ojo: genér
+ ica) una parodia de sí mismo. El fenómeno Trinidad articula una mirada d
+ escarada\, ni desmitificadora ni iconoclasta\, sobre el género\, y no se 
+ burla de las grandes películas sino de sus imitadores" (Ramón Freixas y 
+ Joan Bassa)\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore
+ /PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gumshoe
+DTSTART;VALUE=DATE-TIME:20080912T220000
+DTEND;VALUE=DATE-TIME:20080912T232800
+UID:0809120022_1_dore
+DESCRIPTION:Sala 1 - Gumshoe (Detective sin licencia\, Stephen Frears\, 19
+ 71). Int.: Albert Finney\, Billie Whitelaw\, Frank Finlay. GB. VOSE*. 88'\
+ n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore5
+ 7.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmos
+DTSTART;VALUE=DATE-TIME:20080913T180000
+DTEND;VALUE=DATE-TIME:20080913T193900
+UID:0809130018_1_dore
+DESCRIPTION:Sala 1 - Cosmos (Diego Fandos\, 2007). Int.: Oihana Maritorena
+ \, Xabier Elorriaga\, Ramón Barea. 99'\n\n\nFuente: http://www.mecd.gob.e
  s/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080911T200000
-DTEND;VALUE=DATE-TIME:20080911T213400
-UID:0809110020_2_dore
-DESCRIPTION:Sala 2 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/
- MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080912T180000
-DTEND;VALUE=DATE-TIME:20080912T193300
-UID:0809120018_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080912T200000
-DTEND;VALUE=DATE-TIME:20080912T214600
-UID:0809120020_1_dore
-DESCRIPTION:Sala 1 - S \nS\n\n\nFuente: http://www.mecd.gob.es/cine/docs/M
- C/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080912T220000
-DTEND;VALUE=DATE-TIME:20080912T232800
-UID:0809120022_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/M
- C/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080913T180000
-DTEND;VALUE=DATE-TIME:20080913T193900
-UID:0809130018_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:My Beautiful Laundrette
 DTSTART;VALUE=DATE-TIME:20080913T200000
 DTEND;VALUE=DATE-TIME:20080913T213700
 UID:0809130020_1_dore
-DESCRIPTION:Sala 1 - S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cine
- /docs/MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - My Beautiful Laundrette (Mi hermosa lavandería\, Ste
+ phen Frears\, 1985). Int.: Saeed Jaffrey\,\nRoshan Seth\, Daniel Day-Lewis
+ . GB. VOSE. 97'\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/Progra
+ Dore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:PROGRAMA BUSTER KEATON I
 DTSTART;VALUE=DATE-TIME:20080913T220000
 DTEND;VALUE=DATE-TIME:20080914T001400
 UID:0809130022_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/doc
- s/MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - PROGRAMA BUSTER KEATON I\nThe Hayseed (1919). Int.: F
+ atty Arbuckle\, Buster Keaton. B/N. 22'. The Garage (Fatty en el garaje\, 
+ 1919). Int.: Fatty Arbuckle\, Buster Keaton. Tintada. 22'. The Haunted Hou
+ se (La casa encantada\, 1921). Int.: Buster Keaton. Tintada. 24'. Daydream
+ s (Sueños imposibles\, 1922). Int.: Buster Keaton. B/N. 23'. Cops (La mud
+ anza\, 1922). Int.: Buster Keaton. B/N. 20'. The Love Nest (Nido de amor\,
+  1923). Int.: Buster Keaton. Tintada. 23'. EE UU. MRE*. Total programa: 13
+ 4'\nAcompañamiento musical a cargo del grupo Eucaliptus Now!\n\n\nFuente:
+  http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Abrígate
 DTSTART;VALUE=DATE-TIME:20080914T180000
 DTEND;VALUE=DATE-TIME:20080914T193000
 UID:0809140018_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Abrígate (Ramón Costafreda\, 2008). Animación. 90'
+ \n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore
+ 57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:¡Mátalo! / Mátalo!
 DTSTART;VALUE=DATE-TIME:20080914T200000
 DTEND;VALUE=DATE-TIME:20080914T212400
 UID:0809140020_1_dore
-DESCRIPTION:Sala 1 - S \n \n S\n\n\nFuente: http://www.mecd.gob.es/cine/do
- cs/MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - ¡Mátalo! / Mátalo! (Cesare Canevari\, 1970). Int.:
+  Lou Castel\, Corrado Pani\, Claudia Gravy. Italia y\nEspaña. VOE. 84’\
+ n“Su originalidad y coherencia descansa sólo en el estilo. Apenas hay d
+ iálogos\, y el montaje está en función de la banda sonora compuesta por
+  Mario Migliardi\, que combina por lo menos cuatro estilos (las guitarras 
+ eléctricas típicas del spaghetti western\, el rock psicodélico\, la mú
+ sica electrónica y ciertos subrayados orquestales). Así\, las transicion
+ es de un estilo musical a otro se convierten en la única lógica auténti
+ ca de una trama que transcurre en una dimensión alucinada\, con unas acci
+ ones que se repiten y otras que no se explican” (Alberto Pezzotta).\n\n\
+ nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pd
+ f
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:The Hit
 DTSTART;VALUE=DATE-TIME:20080914T220000
 DTEND;VALUE=DATE-TIME:20080914T233800
 UID:0809140022_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs
- /MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - The Hit (The Hit / La venganza\, Stephen Frears\, 198
+ 4). Int.: John Hurt\, Tim Roth\, Laura Del Sol. GB. VOSE*. 98'\n\n\nFuente
+ : http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Aqua
 DTSTART;VALUE=DATE-TIME:20080916T173000
 DTEND;VALUE=DATE-TIME:20080916T190600
 UID:0809163017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Aqua (El riu vermell) / Agua\, el río rojo (Manel Al
+ biñana\, 2007). Documental. 96'\n\n\nFuente: http://www.mecd.gob.es/cine/
+ docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:El sabor de la venganza/I tre spietati
 DTSTART;VALUE=DATE-TIME:20080916T193000
 DTEND;VALUE=DATE-TIME:20080916T211000
 UID:0809163019_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - El sabor de la venganza/I tre spietati (Joaquín Rome
+ ro Marchent\, 1963). Int.: Richard Harrison\,\nGloria Milland\, Robert Hun
+ dar. España e Italia. VOE. 100’\n“Película de grandes méritos\, est
+ á construida sobre un argumento harto sencillo. El relato\, además\, no 
+ resulta original en absoluto\, ni busca coartadas ideológicas o de moda. 
+ Más aún\, su sencillez termina por constituir uno de los mayores puntos 
+ de apoyo para la arquitectura final del film” (Patxi Urquijo).\n\n\nFuen
+ te: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Afternoon Off
 DTSTART;VALUE=DATE-TIME:20080916T200000
 DTEND;VALUE=DATE-TIME:20080916T210400
 UID:0809160020_2_dore
-DESCRIPTION:Sala 2 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/d
- ocs/MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 2 - Afternoon Off (Stephen Frears\, 1979). Int.: Henry Ma
+ n\, Harold Innocent\, Pete Postlethwaite. GB. VOSE*. Vídeo. 64'\nUn camar
+ ero asiático\, Lee\, pasa su tarde libre de Hartlepool buscando placer se
+ xual\, pero en lugar de ello se topa con una ciudad plagada de excéntrico
+ s con mezquinos prejuicios. Segunda proyección día 21.\n\n\nFuente: http
+ ://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:The Grifters
 DTSTART;VALUE=DATE-TIME:20080916T220000
 DTEND;VALUE=DATE-TIME:20080916T235500
 UID:0809160022_1_dore
-DESCRIPTION:Sala 1 - S S S \n S S S\n\n\nFuente: http://www.mecd.gob.es/ci
- ne/docs/MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - The Grifters (Los timadores\, Stephen Frears\, 1990).
+  Int.: Anjelica Huston\, John Cusack\, Annette Bennng. EE UU. VOSE*. 115'\
+ n"Un thriller manierista que no termina de funcionar a pesar del número d
+ e talentos implicados. Donald Westlake adapta una novela de Jim Thompson\,
+  Stephen Frears dirige\, Scorsese coproduce y el reparto es más que compe
+ tente. Aunque nunca deja de interesar\, la autoconsciente piedad que Frear
+ s arroja sobre su material lo coloca en una tierra incierta que le impide 
+ ser plenamente convincente\, ni siquiera como ejercicio de estilo" (Jonath
+ an Rosenbaum). Segunda proyección día 20.\n\n\nFuente: http://www.mecd.g
+ ob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:En un mundo libre / It's a Free World
 DTSTART;VALUE=DATE-TIME:20080917T173000
 DTEND;VALUE=DATE-TIME:20080917T190800
 UID:0809173017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - En un mundo libre / It's a Free World (Ken Loach\, 20
+ 07). Int.: Kierston Wareing\, Juliet Ellis\, Leslaw Zurek. 98'\n\n\nFuente
+ : http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S S
+SUMMARY:Sammy and Rosie Get Laid
 DTSTART;VALUE=DATE-TIME:20080917T193000
 DTEND;VALUE=DATE-TIME:20080917T211000
 UID:0809173019_1_dore
-DESCRIPTION:Sala 1 - S S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/ci
+DESCRIPTION:Sala 1 - Sammy and Rosie Get Laid (Sammy y Rosie se lo montan\
+ , Stephen Frears\, 1987). Int.: Shashi\nKapoor\, Frances Barber\,Claire Bl
+ oom. GB. VOSE. 100'\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/Pr
+ ograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Por un puñado de sueños
+DTSTART;VALUE=DATE-TIME:20080917T200000
+DTEND;VALUE=DATE-TIME:20080917T211700
+UID:0809170020_2_dore
+DESCRIPTION:Sala 2 - Por un puñado de sueños (Antonio Lobo\, 2006). Docu
+ mental. España. Vídeo. 77'\nEl nacimiento y la crisis del cine en Almer
+ ía a través de los nativos que trabajaron junto a uno de los artistas m
+ ás populares del siglo XX\, el director italiano Sergio Leone. La histori
+ a de una región alejada del mundo que un día recibió en avalancha la ll
+ egada del negocio del cine. Segunda proyección día 27.\n\n\nFuente: http
+ ://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Savage Grace
+DTSTART;VALUE=DATE-TIME:20080918T173000
+DTEND;VALUE=DATE-TIME:20080918T190300
+UID:0809183017_1_dore
+DESCRIPTION:Sala 1 - Savage Grace (Tom Kalin\, 2007). Int.: Julianne Moore
+ \, Stephen Dillane\, Eddie Redmayne. 93'\n\n\nFuente: http://www.mecd.gob.
+ es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Il mio nome é Nessuno
+DTSTART;VALUE=DATE-TIME:20080918T193000
+DTEND;VALUE=DATE-TIME:20080918T212700
+UID:0809183019_1_dore
+DESCRIPTION:Sala 1 - Il mio nome é Nessuno (Mi nombre es Ninguno\, Tonino
+  Valerii\, 1973). Int.: Henry Fonda\,\nTerence Hill\, Piero Lulli. Italia\
+ , Francia y Alemania. VOItSE*. 117’\nCopia cortesía de la Cineteca Nazi
+ onale. “Mi nombre es Ninguno es\, después de El bueno\, el feo y el mal
+ o y Hasta que llegó su hora\, la tercera y definitiva lápida del Western
+  all’italiana\, porque a pesar de (o\, más bien\, 'gracias a') sus defe
+ ctos\, sintetiza (¿involuntariamente?\, no tiene importancia) 'también' 
+ el proceso que ha dado vida al western posmoderno conduciéndolo a un ráp
+ ido final” (Roberto Curti) Mesa redonda con la asistencia de Eugenio Mar
+ tín\, Joaquín Romero Marchent\, Tonino Valerii\, moderada por Carlos Agu
+ ilar.\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/Progr
+ aDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Snapper
+DTSTART;VALUE=DATE-TIME:20080918T200000
+DTEND;VALUE=DATE-TIME:20080918T213000
+UID:0809180020_2_dore
+DESCRIPTION:Sala 2 - The Snapper (Café irlandés\, Stephen Frears\, 1993)
+ . Int.: Tina Kellegher\, Colm Meaney\, Ruth McCabe. GB / Irlanda. VOSE. 90
+ '\n"Una familia de Dublin\, los Curley\, se enfrentan a una crisis cuando 
+ Sharon\, de 20 años\, se queda embarazada pero se niega a decir quién es
+  el padre. Su humor lacónico distingue a la película del realismo urbano
+ . Colm Meaney destaca como el tierno y bien intencionado padre que se deba
+ te entre la vergüenza\, la ira\, la culpa y orgullo. Esa red de emociones
+  indica la complejidad no pretenciosa de la película\, en la que el guió
+ n de Doyle registra los sutiles cambios en las relaciones de familia\, ami
+ gos y vecinos" (Geoff Andrews). Segunda proyección día 20.\n\n\nFuente: 
+ http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hero
+DTSTART;VALUE=DATE-TIME:20080918T220000
+DTEND;VALUE=DATE-TIME:20080918T235800
+UID:0809180022_2_dore
+DESCRIPTION:Sala 2 - Hero (Héroe por accidente\, Stephen Frears\, 1992). 
+ Int.: Geena Davis\, Dustin Hoffman\, Andy García. EE UU. VOSE. 118'\n"Un 
+ ratero salva la vida de 54 pasajeros atrapados en un avión estrellado y u
+ n vagabundo asume su identidad para cobrar la recompensa. Una película ca
+ priana con toques de Preston Sturges. La sátira a los medios se resiente 
+ de la insistencia y la película en general da la sensación de arcaica (n
+ o es extraño\, puesto que se basa en situaciones y personajes de hace med
+ io siglo). A veces su sentimentalismo y su autosatisfacción por cómo ata
+ ca el sentimentalismo son irritantes. Pero el mensaje\, que el heroísmo e
+ s un papel que crean los medios\, queda claro y de él se extrae diversió
+ n y una sabiduría amarga" (Jonathan Rosenbaum). Segunda proyección día 
+ 21.\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograD
+ ore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ognuno per sè
+DTSTART;VALUE=DATE-TIME:20080919T173000
+DTEND;VALUE=DATE-TIME:20080919T191100
+UID:0809193017_1_dore
+DESCRIPTION:Sala 1 - Ognuno per sè (Los profesionales del oro\, Giorgio C
+ apitani\, 1968). Int.: Van Heflin\, Gilbert Roland\, Klaus Kinski. Italia 
+ y Alemania. VOItSE*. 101’\n“Una pequeña obra maestra\, cuyo tratamien
+ to reúne muy bien la lección americana del género con los rasgos europe
+ os\, potenciado por una bellísima música de Carlo Rustichelli y basándo
+ se en el contraste psicológico entre las dos parejas masculinas protagoni
+ stas. Inteligentemente contrastado con los personajes del americano Van He
+ flin\, el mexicano Gilbert Roland y el uruguayo George Hilton\, el rol de 
+ Kinski es formidable\, un pérfido asesino homosexual que se mueve cual fe
+ lino\, mira de soslayo y apenas habla” (Carlos Aguilar). Segunda proyecc
+ ión día 24.\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDo
+ re/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antes llega la muerte/I sette del Texas
+DTSTART;VALUE=DATE-TIME:20080919T193000
+DTEND;VALUE=DATE-TIME:20080919T210800
+UID:0809193019_1_dore
+DESCRIPTION:Sala 1 - Antes llega la muerte/I sette del Texas (Joaquín Rom
+ ero Marchent\, 1964). Int.: Paul Piaget\, Gloria Milland\, Jesús Puente. 
+ España e Italia. VOE. 98’\n“Una del todo honesta y muy conseguida rem
+ odelación-homenaje del estilo de western a la vez físico y psicológico 
+ que durante los años anteriores habían cultivado en Hollywood cineastas 
+ como Budd Boetticher\, Anthony Mann\, Robert Parrish\, Henry King o John S
+ turges” (Carlos Aguilar).\n\n\nFuente: http://www.mecd.gob.es/cine/docs/
+ MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Reilly
+DTSTART;VALUE=DATE-TIME:20080919T200000
+DTEND;VALUE=DATE-TIME:20080919T214800
+UID:0809190020_2_dore
+DESCRIPTION:Sala 2 - Mary Reilly (Mary Reilly\, Stephen Frears\, 1996). In
+ t.: Julia Roberts\, John Malkovich\, Michael Sheen. EE UU. VOSE. 108'\nLon
+ dres\, finales del siglo XIX. Mary Reilly es una servienta irlandesa que h
+ a encontrado trabajo en el hogar del doctor Henry Jeckyll. Pronto la mujer
+  se verá envuelta en los extraños experimentos que está realizando el c
+ irujano.\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/Pr
+ ograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Van
+DTSTART;VALUE=DATE-TIME:20080919T220000
+DTEND;VALUE=DATE-TIME:20080919T234000
+UID:0809190022_1_dore
+DESCRIPTION:Sala 1 - The Van (La camioneta\, Stephen Frears\, 1996). Int.:
+  Colm Meaney\, Donal O'Kelly\, Ger Ryan. GB / Irlanda. VOSE. 100'\n"La ada
+ ptación de la tercera parte de la trilogía de Barrytown de Roddy Doyle e
+ s una comedia sobre el desempleo que\, en ocasiones\, trasluce demasiado s
+ us intenciones de caer bien. Pero a medida que avanza la película\, la re
+ lación entre los protagonistas se resiente y los chistes dejan paso a alg
+ o más esencial: que la amistad depende en cierto modo de que haya igualda
+ d" (Geoff Andrews). Segunda proyección día 23.\n\n\nFuente: http://www.m
+ ecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El menor de los males
+DTSTART;VALUE=DATE-TIME:20080920T173000
+DTEND;VALUE=DATE-TIME:20080920T191900
+UID:0809203017_1_dore
+DESCRIPTION:Sala 1 - El menor de los males (Antonio Hernández\, 2007). In
+ t.: Carmen Maura\, Roberto Álvarez\, Verónica Echegui. 109'\n\n\nFuente:
+  http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Grifters
+DTSTART;VALUE=DATE-TIME:20080920T194000
+DTEND;VALUE=DATE-TIME:20080920T213500
+UID:0809204019_1_dore
+DESCRIPTION:Sala 1 - The Grifters (Los timadores\, Stephen Frears\, 1990).
+  Int.: Anjelica Huston\, John Cusack\, Annette\nBenning. EE UU. VOSE*. 115
+ '\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDor
+ e57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La venganza del Zorro/Zorro\, le Vengeur
+DTSTART;VALUE=DATE-TIME:20080920T200000
+DTEND;VALUE=DATE-TIME:20080920T212400
+UID:0809200020_2_dore
+DESCRIPTION:Sala 2 - La venganza del Zorro/Zorro\, le Vengeur (Joaquín Ro
+ mero Marchent\, 1962). Int.: Frank\nLatimore\, María Luz Galicia\, Howard
+  Vernon. España y Francia. VOE. 84’\n“Apuesta ya por un estilo propio
+ \, bien delimitado\, que puede definirse como clásico\, pues se distingue
+  por subordinar la cámara a la claridad expositiva. Marchent se va a alej
+ ar de los planos estrafalarios\, de las angulaciones extrañas\, de los to
+ ques de pseudovanguardia\, de todo efectismo visual” (Pedro Gutiérrez R
+ ecacha).\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/Pr
+ ograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Snapper
+DTSTART;VALUE=DATE-TIME:20080920T220000
+DTEND;VALUE=DATE-TIME:20080920T233000
+UID:0809200022_1_dore
+DESCRIPTION:Sala 1 - The Snapper (Café irlandés\, Stephen Frears\, 1993)
+ . Int.: Tina Kellegher\, Colm Meaney\, Ruth McCabe. GB / Irlanda. VOSE. 90
+ '\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDor
+ e57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:C’era una volta il West
+DTSTART;VALUE=DATE-TIME:20080921T173000
+DTEND;VALUE=DATE-TIME:20080921T202000
+UID:0809213017_1_dore
+DESCRIPTION:Sala 1 - C’era una volta il West (Hasta que llegó su hora\,
+  Sergio Leone\, 1968). Int.: Claudia Cardinale\,\nHenry Fonda\, Charles Br
+ onson. Italia. VOItSE*. 170'\nCopia restaurada por la Cineteca Nazionale. 
+ “Leone no está más lejos de las leyendas del western americano que los
+  pintores florentinos del Renacimiento de la crucifixión de Jesucristo\, 
+ y\, si una película debe ser\, por lo menos\, un vehiculo o una expresió
+ n\, el punto de vista de Leone es tan válido como el de cualquier directo
+ r americano (…) Leone ha conseguido crear una obra de arte que en sustan
+ cia es una película muda\, usando los diálogos sólo como si fueran subt
+ ítulos aforísticos. Podría suprimirse todo el diálogo\, y entenderíam
+ os igualmente las obsesiones que representan cada uno de los protagonistas
+ ” (Andrew Sarris). Segunda proyección día 25.\n\n\nFuente: http://www.
+ mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hero
+DTSTART;VALUE=DATE-TIME:20080921T200000
+DTEND;VALUE=DATE-TIME:20080921T215800
+UID:0809210020_2_dore
+DESCRIPTION:Sala 2 - Hero (Héroe por accidente\, Stephen Frears\, 1992). 
+ Int.: Geena Davis\, Dustin Hoffman\, Andy García. EE UU. VOSE. 118'\n\n\n
+ Fuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El hombre del paraguas blanco/L’uomo dall’ombrello bianco
+DTSTART;VALUE=DATE-TIME:20080921T204000
+DTEND;VALUE=DATE-TIME:20080921T215700
+UID:0809214020_1_dore
+DESCRIPTION:Sala 1 - El hombre del paraguas blanco/L’uomo dall’ombrell
+ o bianco (Joaquín Romero Marchent\,\n1958). Int.: José Luis Ozores\, Lor
+ ella di Luca\, Fernando Delgado. España e Italia. 77’\n“Entre dos pue
+ blos vecinos hay establecida una rivalidad para la celebración de las fie
+ stas\, con objeto de obtener el triunfo en la apoteosis de los fuegos arti
+ ficiales. En esto\, llega a uno de los pueblos un misterioso buhonero prov
+ isto de un paraguas blanco. Digna comedia meloso-costumbrista\, que diría
+ se un híbrido de Bienvenido\, Mr. Marshall y Marcelino\, pan y vino” (C
+ arlos Aguilar)\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograD
+ ore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoon Off
+DTSTART;VALUE=DATE-TIME:20080921T222000
+DTEND;VALUE=DATE-TIME:20080921T232400
+UID:0809212022_1_dore
+DESCRIPTION:Sala 1 - Afternoon Off (Stephen Frears\, 1979). Int.: Henry Ma
+ n\, Harold Innocent\, Peter Postlethwaite. GB. VOSE*. Vídeo. 64'\n\n\nFue
+ nte: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El retorno de Ringo / Il ritorno di Ringo
+DTSTART;VALUE=DATE-TIME:20080923T173000
+DTEND;VALUE=DATE-TIME:20080923T183400
+UID:0809233017_1_dore
+DESCRIPTION:Sala 1 - El retorno de Ringo / Il ritorno di Ringo (Duccio Tes
+ sari\, 1965). Int.: Giuliano Gemma\, Lorella\ndi Luca\, Fernando Sancho. E
+ spaña e Italia. VOItSE*. 96’. “Es La Odisea\, evidentemente\, con Uli
+ ses que vuelve camuflado de mendigo mexicano\, de acuerdo con ingredientes
+  fundamentales en el Western europeo como son la ocultación de la identid
+ ad y el doble juego (…). Penélope es una mujer cuya ambigüedad se mant
+ iene durante toda la película\, y su doble femenino mexicano\, solar y cl
+ ara en los sentimientos\, es una Nieves Navarro muy sexy\, que finaliza la
+  película marchándose a lomos de un burro como guiño a la Gina Lollobri
+ gida de Pan\, amor y fantasía" (Giorgio Placereani). Segunda proyección 
+ día 27.\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/Pr
+ ograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nedbrudte nerver
+DTSTART;VALUE=DATE-TIME:20080923T193000
+DTEND;VALUE=DATE-TIME:20080923T203400
+UID:0809233019_1_dore
+DESCRIPTION:Sala 1 - Nedbrudte nerver (A.W. Sandberg\, 1923). Int.: Gorm S
+ chmidt\, Olga d’Org\, Egill Rostrup. Dinamarca. MRI/Danés SE*. 74' a 20
+  f/s. Una historia detectivesca entretenida en la que el protagonista\, un
+  periodista de sucesos\, trata de salvar a la mujer de la que se ha enamor
+ ado. Una comedia del estilo de las producidas entonces por Hollywood. Copi
+ a restaurada por el Danish Film Institute / Det Danske Filminstitut en 200
+ 6. Inauguración de la muestra Sombras recobradas\n\n\nFuente: http://www.
+ mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Van
+DTSTART;VALUE=DATE-TIME:20080923T200000
+DTEND;VALUE=DATE-TIME:20080923T214000
+UID:0809230020_2_dore
+DESCRIPTION:Sala 2 - The Van (La camioneta\, Stephen Frears\, 1996). Int.:
+  Colm Meaney\, Donal O'Kelly\, Ger Ryan. GB / Irlanda. VOSE. 100'\n\n\nFue
+ nte: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doris and Doreen
+DTSTART;VALUE=DATE-TIME:20080923T220000
+DTEND;VALUE=DATE-TIME:20080923T231300
+UID:0809230022_1_dore
+DESCRIPTION:Sala 1 - Doris and Doreen (Stephen Frears\, 1978). Int.: Prune
+ lla Scales\, Patricia Routledge\, Pete\nPostlethwaite.VOSE*. Vídeo. 73'\n
+ Doris y Doreen trabajan en una pequeña oficina de una enorme organizació
+ n burocrática\, haciendo papeleo en los intervalos de su conversación. P
+ ero\, ¿quién ocupará la tercera mesa y cómo afectará a sus vidas?\n\n
+ \nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.p
+ df
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hi-Lo Country
+DTSTART;VALUE=DATE-TIME:20080924T173000
+DTEND;VALUE=DATE-TIME:20080924T192400
+UID:0809243017_1_dore
+DESCRIPTION:Sala 1 - Hi-Lo Country (The Hi-Lo Country\, 1998). Int.: Woody
+  Harrelson\, Billy Crudup\, Patricia Arquette. GB / EE UU / Alemania. VOSS
+ /E*. 114'\n"Si Peckinpah\, como quería\, hubiera hecho esta película\, 
+ ésta tendría algo de la rudeza amable de The Ballad of Cable Hogue (1970
+ ) o Junior Bonner (1972). Pero Stephen Frears la dirige con un estilo dist
+ anciado y conscientemente clásico. La línea del horizonte está invariab
+ lemente en el centro del encuadre\, por lo que la película se hace estát
+ ica aunque las imágenes son hermosas y evocadoras. Una película bonita p
+ ero lejana" (David Edelstein). Segunda proyección día 27.\n\n\nFuente: h
+ ttp://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liam
+DTSTART;VALUE=DATE-TIME:20080924T193000
+DTEND;VALUE=DATE-TIME:20080924T210100
+UID:0809243019_1_dore
+DESCRIPTION:Sala 1 - Liam (Liam\, Stephen Frears\, 2000). Int.: Ian Hart\,
+  Claire Hackett\, Anthony Borrows. GB / Alemania / Francia. VOSE. 91'\nLiv
+ erpool\, años 30. Liam\, un niño de siete años\, vive en un barrio obre
+ ro católico irlandés con sus hermanos mayores\, su devota madre y un pad
+ re que se mata a trabajar. Pero la Depresión empieza a golpear y el traba
+ jo en los muelles escasea. Segunda proyección día 27.\n\n\nFuente: http:
+ //www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fulano y Mengano
+DTSTART;VALUE=DATE-TIME:20080924T200000
+DTEND;VALUE=DATE-TIME:20080924T212600
+UID:0809240020_2_dore
+DESCRIPTION:Sala 2 - Fulano y Mengano (Joaquín Romero Marchent\, 1956). I
+ nt.: José Isbert\, Juanjo Menéndez\, Julia Martínez. España. 86’\n
+ “Este valiente fresco del Madrid de la época hunde sus raíces en la tr
+ adición realista de la cultura hispana\, desde los relatos picarescos del
+  siglo de oro hasta ciertos elementos de la novela decimonónica. De sus m
+ árgenes está ausente cualquier alusión al supuesto talante protector de
+  la Iglesia hacia los desfavorecidos\, a una – históricamente inexisten
+ te – organización sindical o a la función de los medios de comunicaci
+ ón como posibles detractores de la injusticia del sistema” (Pablo Pére
+ z Rubio).\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/P
+ rograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ognuno per sè
+DTSTART;VALUE=DATE-TIME:20080924T220000
+DTEND;VALUE=DATE-TIME:20080924T234100
+UID:0809240022_1_dore
+DESCRIPTION:Sala 1 - Ognuno per sè (Los profesionales del oro\, Giorgio C
+ apitani\, 1968). Int.: Van Heflin\, Gilbert Roland\, Klaus Kinski. Italia 
+ y Alemania. VOItSE*. 101’\n\n\nFuente: http://www.mecd.gob.es/cine/docs/
+ MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Myway
+DTSTART;VALUE=DATE-TIME:20080925T173000
+DTEND;VALUE=DATE-TIME:20080925T191500
+UID:0809253017_1_dore
+DESCRIPTION:Sala 1 - Myway (Toni Salgot\, 2008). Int.: Ariel Casas\, Silvi
+ a Marsó\, Joan Dalmau. 105'\n\n\nFuente: http://www.mecd.gob.es/cine/docs
+ /MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:C’era una volta il West
+DTSTART;VALUE=DATE-TIME:20080925T193500
+DTEND;VALUE=DATE-TIME:20080925T212000
+UID:0809253519_1_dore
+DESCRIPTION:Sala 1 - C’era una volta il West (Hasta que llegó su hora\,
+  Sergio Leone\, 1968). Int.: Claudia Cardinale\,\nHenry Fonda\, Charles Br
+ onson. Italia. VOItSE*. 170’. Copia restaurada por la Cineteca Nazionale
+ .\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDor
+ e57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El hombre que viajaba despacito
+DTSTART;VALUE=DATE-TIME:20080925T200000
+DTEND;VALUE=DATE-TIME:20080925T212400
+UID:0809250020_2_dore
+DESCRIPTION:Sala 2 - El hombre que viajaba despacito (Joaquín Romero Marc
+ hent\, 1957). Int.: Miguel Gila\, Licia Calderón\, Julio Riscal. España.
+  84’\n“El título es de Gila. Así como todos los hallazgos cómicos q
+ ue puedas encontrar en la película\, mi autoría aquí es muy limitada. E
+ l guión lo había escrito un hombre que trabajaba en una compañía de se
+ guros\, Fernando Sánchez Cobos\, el padre del actor Germán Cobos. Pero G
+ ila es un autor\, incluso más que un cómico\, porque el Gila actor es mu
+ y inferior al Gila creador. Es decir\, que Gila retocaba el guión sobre l
+ a marcha\, improvisando sus diálogos” (Joaquín Romero Marchent).\n\n\n
+ Fuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Deal
+DTSTART;VALUE=DATE-TIME:20080925T220000
+DTEND;VALUE=DATE-TIME:20080925T231600
+UID:0809250022_2_dore
+DESCRIPTION:Sala 2 - The Deal (Stephen Frears\, 2003). Int.: David Morriss
+ ey\, Michael Sheen\, Dexter Fletcher. GB. VOSE*. Vídeo. 76'\nLa compleja 
+ relación política y provada entre Tony Blair y Gordon Brown desde su pri
+ mer contacto en 1983\, centrándose especialmente en el pacto que suscribi
+ eron acerca del liderazgo del Partido Laborista.\n\n\nFuente: http://www.m
+ ecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:High Fidelity
+DTSTART;VALUE=DATE-TIME:20080926T173000
+DTEND;VALUE=DATE-TIME:20080926T192400
+UID:0809263017_1_dore
+DESCRIPTION:Sala 1 - High Fidelity (Alta fidelidad\, Stephen Frears\, 2000
+ ). Int.: John Cusack\, Jack Black\, Iben Hjejle. EE UU /GB. VOSE. 114'\n"S
+ i se pasa por alto la impertinencia y el egotismo\, es una comedia románt
+ ica disfrutable sobre un chiflado de la música que posee una anticuada ti
+ enda de discos y fracasado en el amor. Dos pluses: que el humor sobre la n
+ eurosis masculina no intenta recordar a Woody Allen y que Chicago parece p
+ or una vez un escenario apropiado para algo distinto que carreras de coche
+ s" (Jonathan Rosenbaum). Segunda proyección día 28.\n\n\nFuente: http://
+ www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transes / Al Hal
+DTSTART;VALUE=DATE-TIME:20080926T194500
+DTEND;VALUE=DATE-TIME:20080926T213900
+UID:0809264519_1_dore
+DESCRIPTION:Sala 1 - Transes / Al Hal ( Ahmed El Maanouni\, 1981). Int.: N
+ ass El Ghiwane\, Larbi Batma\, Abderrahman Paco. Marruecos. VOSF/E*. 87’
+ . Copia restaurada por la Cineteca di Bologna – L’Immagine Ritrovata. 
+ La historia de un grupo musical muy popular en Marruecos\, Nass El Ghiwane
+ . Un recorrido sobre los mestizajes culturales marroquíes. En esta pelíc
+ ula descubrimos las fusiones entre ritmos del norte de África y del Áfri
+ ca subsahariana. Con la presencia del director. Segunda proyección día 2
+ 8.\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDo
+ re57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Fine Day
+DTSTART;VALUE=DATE-TIME:20080926T200000
+DTEND;VALUE=DATE-TIME:20080926T213500
+UID:0809260020_2_dore
+DESCRIPTION:Sala 2 - One Fine Day (Stephen Frears\, 1979). Int.: Dave Alle
+ n\, Robert Stephens\, Dominic Guard. GB. Vídeo. VOSE*. 95'\n\n\nFuente: h
+ ttp://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fisura
+DTSTART;VALUE=DATE-TIME:20080926T220000
+DTEND;VALUE=DATE-TIME:20080926T225800
+UID:0809260022_2_dore
+DESCRIPTION:Sala 2 - Fisura (Isabel Coll). 11'. El extra (Alberto Pernet).
+  15'. Usar y tirar (Daniel García-Pablos). 10'.\nNiño vudu (Arturo Ruiz)
+ . 22'. España. Total programa: 58'\n\n\nFuente: http://www.mecd.gob.es/ci
  ne/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080917T200000
-DTEND;VALUE=DATE-TIME:20080917T211700
-UID:0809170020_2_dore
-DESCRIPTION:Sala 2 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cine/doc
- s/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080918T173000
-DTEND;VALUE=DATE-TIME:20080918T190300
-UID:0809183017_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/M
- C/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080918T193000
-DTEND;VALUE=DATE-TIME:20080918T212700
-UID:0809183019_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/
- MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20080918T200000
-DTEND;VALUE=DATE-TIME:20080918T213000
-UID:0809180020_2_dore
-DESCRIPTION:Sala 2 - S S S S \n S S S\n\n\nFuente: http://www.mecd.gob.es/
- cine/docs/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080918T220000
-DTEND;VALUE=DATE-TIME:20080918T235800
-UID:0809180022_2_dore
-DESCRIPTION:Sala 2 - S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cine
- /docs/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080919T173000
-DTEND;VALUE=DATE-TIME:20080919T191100
-UID:0809193017_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/doc
- s/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080919T193000
-DTEND;VALUE=DATE-TIME:20080919T210800
-UID:0809193019_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/
- MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20080919T200000
-DTEND;VALUE=DATE-TIME:20080919T214800
-UID:0809190020_2_dore
-DESCRIPTION:Sala 2 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs
- /MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080919T220000
-DTEND;VALUE=DATE-TIME:20080919T234000
-UID:0809190022_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/d
- ocs/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080920T173000
-DTEND;VALUE=DATE-TIME:20080920T191900
-UID:0809203017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080920T194000
-DTEND;VALUE=DATE-TIME:20080920T213500
-UID:0809204019_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/doc
- s/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080920T200000
-DTEND;VALUE=DATE-TIME:20080920T212400
-UID:0809200020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20080920T220000
-DTEND;VALUE=DATE-TIME:20080920T233000
-UID:0809200022_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs
- /MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080921T173000
-DTEND;VALUE=DATE-TIME:20080921T202000
-UID:0809213017_1_dore
-DESCRIPTION:Sala 1 - S S \n S \n S S\n\n\nFuente: http://www.mecd.gob.es/c
- ine/docs/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080921T200000
-DTEND;VALUE=DATE-TIME:20080921T215800
-UID:0809210020_2_dore
-DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/M
- C/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080921T204000
-DTEND;VALUE=DATE-TIME:20080921T215700
-UID:0809214020_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080921T222000
-DTEND;VALUE=DATE-TIME:20080921T232400
-UID:0809212022_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/M
- C/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080923T173000
-DTEND;VALUE=DATE-TIME:20080923T183400
-UID:0809233017_1_dore
-DESCRIPTION:Sala 1 - S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cine/d
- ocs/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20080923T193000
-DTEND;VALUE=DATE-TIME:20080923T203400
-UID:0809233019_1_dore
-DESCRIPTION:Sala 1 - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cine/do
- cs/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080923T200000
-DTEND;VALUE=DATE-TIME:20080923T214000
-UID:0809230020_2_dore
-DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/M
- C/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080923T220000
-DTEND;VALUE=DATE-TIME:20080923T231300
-UID:0809230022_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/d
- ocs/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S SS
-DTSTART;VALUE=DATE-TIME:20080924T173000
-DTEND;VALUE=DATE-TIME:20080924T192400
-UID:0809243017_1_dore
-DESCRIPTION:Sala 1 - S SS \n S S S\n\n\nFuente: http://www.mecd.gob.es/cin
- e/docs/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080924T193000
-DTEND;VALUE=DATE-TIME:20080924T210100
-UID:0809243019_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/d
- ocs/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080924T200000
-DTEND;VALUE=DATE-TIME:20080924T212600
-UID:0809240020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080924T220000
-DTEND;VALUE=DATE-TIME:20080924T234100
-UID:0809240022_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/
- FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080925T173000
-DTEND;VALUE=DATE-TIME:20080925T191500
-UID:0809253017_1_dore
-DESCRIPTION:Sala 1 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cine/doc
- s/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080925T193500
-DTEND;VALUE=DATE-TIME:20080925T212000
-UID:0809253519_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/doc
- s/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080925T200000
-DTEND;VALUE=DATE-TIME:20080925T212400
-UID:0809250020_2_dore
-DESCRIPTION:Sala 2 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/
- MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20080925T220000
-DTEND;VALUE=DATE-TIME:20080925T231600
-UID:0809250022_2_dore
-DESCRIPTION:Sala 2 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs
- /MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080926T173000
-DTEND;VALUE=DATE-TIME:20080926T192400
-UID:0809263017_1_dore
-DESCRIPTION:Sala 1 - S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cine
- /docs/MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080926T194500
-DTEND;VALUE=DATE-TIME:20080926T213900
-UID:0809264519_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/M
- C/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20080926T200000
-DTEND;VALUE=DATE-TIME:20080926T213500
-UID:0809260020_2_dore
-DESCRIPTION:Sala 2 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs
- /MC/FE/PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080926T220000
-DTEND;VALUE=DATE-TIME:20080926T225800
-UID:0809260022_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Náufragos\, vengo de un avión que cayó en las montañas
 DTSTART;VALUE=DATE-TIME:20080927T173000
 DTEND;VALUE=DATE-TIME:20080927T192700
 UID:0809273017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Náufragos\, vengo de un avión que cayó en las mont
+ añas (Gonzalo Arijón\, 2008). Documental.\nVídeo. 117'\n\n\nFuente: htt
+ p://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Por un puñado de sueños
 DTSTART;VALUE=DATE-TIME:20080927T183000
 DTEND;VALUE=DATE-TIME:20080927T194700
 UID:0809273018_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 2 - Por un puñado de sueños (Antonio Lobo\, 2006). Docu
+ mental. Vídeo. España. 77'\n\n\nFuente: http://www.mecd.gob.es/cine/docs
+ /MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Liam
 DTSTART;VALUE=DATE-TIME:20080927T195000
 DTEND;VALUE=DATE-TIME:20080927T212100
 UID:0809275019_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/doc
- s/MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Liam (Liam\, Stephen Frears\, 2000). Int.: Ian Hart\,
+  Claire Hackett\, Anthony Borrows. GB /\nAlemania / Francia. VOSE. 91'\n\n
+ \nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.p
+ df
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:El retorno de Ringo / Il ritorno di Ringo
 DTSTART;VALUE=DATE-TIME:20080927T200000
 DTEND;VALUE=DATE-TIME:20080927T213600
 UID:0809270020_2_dore
-DESCRIPTION:Sala 2 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cine/doc
- s/MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 2 - El retorno de Ringo / Il ritorno di Ringo (Duccio Tes
+ sari\, 1965). Int.: Giuliano Gemma\, Lorella\ndi Luca\, Fernando Sancho. E
+ spaña e Italia. VOIt SE*. 96’\n\n\nFuente: http://www.mecd.gob.es/cine/
+ docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Hi-Lo Country
 DTSTART;VALUE=DATE-TIME:20080927T220000
 DTEND;VALUE=DATE-TIME:20080927T235400
 UID:0809270022_1_dore
-DESCRIPTION:Sala 1 - S \n SS\n\n\nFuente: http://www.mecd.gob.es/cine/docs
- /MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Hi-Lo Country (The Hi-Lo Country\, 1998). Int.: Woody
+  Harrelson\, Billy Crudup\, Patricia\nArquette. GB / EE UU / Alemania. VOS
+ S/E*. 114'\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/
+ PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Transes / Al Hal
 DTSTART;VALUE=DATE-TIME:20080928T173000
 DTEND;VALUE=DATE-TIME:20080928T185700
 UID:0809283017_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/
- MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Transes / Al Hal ( Ahmed El Maanouni\, 1981). Int.: N
+ ass El Ghiwane\, Larbi Batma\, Abderrahman\nPaco. Marruecos. VOSF/E*. 87
+ ’\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograD
+ ore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Die Gezeichneten
 DTSTART;VALUE=DATE-TIME:20080928T193000
 DTEND;VALUE=DATE-TIME:20080928T205700
 UID:0809283019_1_dore
-DESCRIPTION:Sala 1 - S \n S S S S\n\n\nFuente: http://www.mecd.gob.es/cine
- /docs/MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Die Gezeichneten (Ama a tu prójimo\, Carl Th. Dreyer
+ \, 1921). Int.: Richard Boleslawski\, Vladimir\nGajdarov\, Johannes Meyer.
+  Dinamarca. MRE*. 95' a 20 f/s La joven Hanna-Liebe\, que vive en un guett
+ o judío en un pueblo ruso se enamora de Sascha\, que no es judio. Hanna l
+ e sigue a San Petesburgo. Allí se entera de que Sascha ha entrado a forma
+ r parte de un grupo revolucionario... Copia restaurada por el Danish Film 
+ Institute / Det Danske Filminstitut en 2007. Clausura de la muestra Sombra
+ s recobradas\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDor
+ e/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Manos torpes / Quando Satana impugnò la colt
 DTSTART;VALUE=DATE-TIME:20080928T200000
 DTEND;VALUE=DATE-TIME:20080928T213300
 UID:0809280020_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/
- FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 2 - Manos torpes / Quando Satana impugnò la colt (Rafael
+  Romero Marchent\, 1969). Int.: Peter Lee Lawrence\, Pilar Velázquez\, Al
+ berto de Mendoza. España e Italia. VOE. 93’\nCopia nueva. “De los muc
+ hos westerns de Rafael Romero Marchent\, sin duda es uno de los más inter
+ esantes y particulares\, en virtud de un argumento de melodrama (venganza\
+ , amor desesperado\, violencia sádica) en el cual se insertan rasgos de t
+ error y curiosas contaminaciones de cine oriental. El sendero de la vengan
+ za emprendido por el protagonista (Peter Lee Lawrence\, en su clásico rol
+  de joven inicialmente bondadoso que se convierte en un temible pistolero 
+ por culpa de la crueldad ajena) es una auténtica pesadilla” (Federico D
+ e Zigno).\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/P
+ rograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:High Fidelity
 DTSTART;VALUE=DATE-TIME:20080928T220000
 DTEND;VALUE=DATE-TIME:20080928T235400
 UID:0809280022_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/M
- C/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - High Fidelity (Alta fidelidad\, Stephen Frears\, 2000
+ ). Int.: John Cusack\, Jack Black\, Iben Hjejle. EE UU /GB. VOSE. 114'\n\n
+ \nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.p
+ df
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Nevando voy
 DTSTART;VALUE=DATE-TIME:20080930T173000
 DTEND;VALUE=DATE-TIME:20080930T190900
 UID:0809303017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Nevando voy (Candela Figueira y Maitena Muruzábal\, 
+ 2007). Int.: Laura de Pedro\, Gabriel\nLatorre\, Xavier Yárnoz. 99'\n\n\n
+ Fuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Les pel.lícules del meu pare / Las películas de mi padre
 DTSTART;VALUE=DATE-TIME:20080930T193000
 DTEND;VALUE=DATE-TIME:20080930T211500
 UID:0809303019_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 1 - Les pel.lícules del meu pare / Las películas de mi 
+ padre (Augusto M. Torres\, 2007). Int.: Karme\nMálaga\, Ariadna Cabrol\, 
+ Marisa Lull. España. 105'\n"Con Las películas de mi padre\, una pesadill
+ a\, unos recuerdos o sólo una película\, he intentado dibujar la sombra 
+ de un incesto\, el más terrible\, entre padre e hija\, con unas peculiare
+ s características" (A. M. Torres). Presentación del libro Josep Anton Pe
+ rez Giner: La veritable història de l’innombrable\, de Piti Español\, 
+ con la asistencia de Josep Anton Perez Giner y Augusto Martínez Torres.\n
+ \n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57
+ .pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:El juego del adulterio
 DTSTART;VALUE=DATE-TIME:20080930T200000
 DTEND;VALUE=DATE-TIME:20080930T212300
 UID:0809300020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE
- /PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 2 - El juego del adulterio (Joaquín Romero Marchent\, 19
+ 74). Int.: Juan Luis Galiardo\, Vicente Parra\, Erika Blanc. España. 83
+ ’\nCopia nueva. “Especie de versión masculina de Las diabólicas\, co
+ n cierta entidad y una estupenda Erika Blanc\, estrella del cine italiano 
+ de género de los años sesenta/setenta\, que confiere una remarcable dign
+ idad a su personaje” (Carlos Aguilar).\n\n\nFuente: http://www.mecd.gob.
+ es/cine/docs/MC/FE/PrograDore/PrograDore57.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:Dirty Pretty Things
 DTSTART;VALUE=DATE-TIME:20080930T220000
 DTEND;VALUE=DATE-TIME:20080930T233700
 UID:0809300022_2_dore
-DESCRIPTION:Sala 2 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cine/docs
- /MC/FE/PrograDore/PrograDore57.pdf
+DESCRIPTION:Sala 2 - Dirty Pretty Things (Negocios ocultos\, Stephen Frear
+ s\, 2002). Int.: Chiwetel Ejiofor\, Audrey Tautou\, Sergi López. GB. VOSE
+ . 97'\n"Dirty Pretty Things se centra en un grupo de inmmigrantes\, alguno
+ s ilegales\, que viven en Londres. Frears ya había tratado el tema de los
+  refugiados políticos en la producción para televisión Cold Harbour (19
+ 78). Pero en este caso\, la cuidadosamente dibujada relación ente los dos
+  personajes principales se merma por una sensación de rutina y por un ele
+ mento de thriller destinado a complacer al público" ( Daniel O'Brien).\n\
+ n\nFuente: http://www.mecd.gob.es/cine/docs/MC/FE/PrograDore/PrograDore57.
+ pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

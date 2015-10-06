@@ -4,873 +4,1475 @@ PRODID:-//Cine Doré//github.com santos82 doredb//ES
 X-WR-CALNAME:Cine Dore
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:The Wish Fish
 DTSTART;VALUE=DATE-TIME:20121201T173000
 DTEND;VALUE=DATE-TIME:20121201T184100
 UID:1212013017_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 012/PrograDore108-doc.doc
+DESCRIPTION:Sala 1 - The Wish Fish (Gorka Vázquez e Iván Oneka\, 2012). 
+ Animación. España. 71’\nThe Wish Fish cuenta la historia de Opil\, un 
+ niño que aborrece el pescado. Su madre\, en un intento desesperado para q
+ ue deje de engullir comida basura\, le sirve un plato especial: el pez de 
+ los deseos. Ahí comienza la aventura ya que Opil tendrá que enfrentarse 
+ a unos extraterrestres. Entrada libre para menores de 14 años.\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S S
+SUMMARY:Arafat and I
 DTSTART;VALUE=DATE-TIME:20121201T190000
 DTEND;VALUE=DATE-TIME:20121201T204700
 UID:1212010019_1_dore
-DESCRIPTION:Sala 1 - S S S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/
- cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
- ramacion/2012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20121201T200000
-DTEND;VALUE=DATE-TIME:20121201T213000
-UID:1212010020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/P
- rograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20121201T220000
-DTEND;VALUE=DATE-TIME:20121201T233400
-UID:1212010022_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20121202T173000
-DTEND;VALUE=DATE-TIME:20121202T191400
-UID:1212023017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/P
- rograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20121202T193000
-DTEND;VALUE=DATE-TIME:20121202T211100
-UID:1212023019_1_dore
-DESCRIPTION:Sala 1 - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121202T200000
-DTEND;VALUE=DATE-TIME:20121202T213000
-UID:1212020020_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121202T214000
-DTEND;VALUE=DATE-TIME:20121202T234000
-UID:1212024021_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121204T173000
-DTEND;VALUE=DATE-TIME:20121204T185500
-UID:1212043017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121204T191500
-DTEND;VALUE=DATE-TIME:20121204T212400
-UID:1212041519_1_dore
-DESCRIPTION:Sala 1 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20121204T200000
-DTEND;VALUE=DATE-TIME:20121204T212000
-UID:1212040020_2_dore
-DESCRIPTION:Sala 2 - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121204T214500
-DTEND;VALUE=DATE-TIME:20121204T231700
-UID:1212044521_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20121205T173000
-DTEND;VALUE=DATE-TIME:20121205T185700
-UID:1212053017_1_dore
-DESCRIPTION:Sala 1 - S S S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cu
+DESCRIPTION:Sala 1 - Arafat and I (Mahdi Fleifel\, 2008). Int.: Mahdi Flei
+ fel\, Zein Ja’far. Reino Unido. Video. VOSI/E*. 15’. Yadun ‘Ilahiyya
+  (Intervención divina\, Elia Suleiman\, 2002). Int.: Elia Suleiman\, Mana
+ l Khader\, George Ibrahim. Francia/Marruecos/Alemania/Palestina. VOSE. 92
+ ’. Total programa: 107’\nIntervención Divina es una meditación muy p
+ ersonal sobre el amor\, la vida y el conflicto israelí-palestino. La pel
+ ícula comienza en Nazaret\, la ciudad natal de Suleiman\, donde vemos una
+  banda de niños capturando a Papá Noel hasta matarle apuñalado. Lacóni
+ co\, agudo y escandaloso\, Suleiman trabaja con escenas lentas y poéticas
+  que crean un clima divertidísimo.\n\n\nFuente: http://www.mecd.gob.es/cu
  ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
  macion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20121205T193000
-DTEND;VALUE=DATE-TIME:20121205T205700
-UID:1212053019_1_dore
-DESCRIPTION:Sala 1 - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2012/PrograDore108-doc.doc
+SUMMARY:La rosa de nadie
+DTSTART;VALUE=DATE-TIME:20121201T200000
+DTEND;VALUE=DATE-TIME:20121201T213000
+UID:1212010020_2_dore
+DESCRIPTION:Sala 2 - La rosa de nadie (Ignacio Oliva\, 2012). Int.: Ana Ot
+ ero\, Carlos Leal. España. Blu-ray. 90’\nDaniel\, un escritor francés\
+ , regresa a una pequeña ciudad de provincias para buscar a Manuela\, fot
+ ógrafa y artista\, con quien comparte algo sucedido tiempo atrás. Daniel
+  descubre el lado oscuro de Manuela y queda fascinado por su distante y au
+ todestructivo universo\, y tratará de explorar sus límites. Pero Manuela
+  sólo intenta sobrevivir en un presente devastado...\n\n\nFuente: http://
+ www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
+ e/cine-dore/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20121205T200000
-DTEND;VALUE=DATE-TIME:20121205T220900
-UID:1212050020_2_dore
-DESCRIPTION:Sala 2 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 012/PrograDore108-doc.doc
+SUMMARY:Baton rouge
+DTSTART;VALUE=DATE-TIME:20121201T220000
+DTEND;VALUE=DATE-TIME:20121201T233400
+UID:1212010022_1_dore
+DESCRIPTION:Sala 1 - Baton rouge (Rafael Moleón\, 1988). Int.: Victoria A
+ bril\, Antonio Banderas\, Carmen Maura. España. 94’\n“Situada en el M
+ adrid de 1990\, es un thriller tipo Los Angeles 1940\, con lo que se neces
+ ita de lucidez para mostrar a la oscuridad de un lado\, la misoginia de ot
+ ro\, y el poder del dinero para envolver y determinar la acción. Cine inm
+ ediato\, eficaz” (Jean-Pierre Jeancolas) Clausura y entrega de premios d
+ el Festival MadridImagen. Entro otros\, se entregará el premio especial a
+  Ángel Luis Fernandez\, director de fotografía de Baton Rouge\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20121205T220000
-DTEND;VALUE=DATE-TIME:20121206T000900
-UID:1212050022_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 12/PrograDore108-doc.doc
+SUMMARY:El artista y la modelo
+DTSTART;VALUE=DATE-TIME:20121202T173000
+DTEND;VALUE=DATE-TIME:20121202T191400
+UID:1212023017_1_dore
+DESCRIPTION:Sala 1 - El artista y la modelo (Fernando Trueba\, 2012). Int.
+ : Jean Rochefort\, Aida Folch\, Claudia Cardinale. España. Digital. 104
+ ’\nVerano de 1943. En un lugar de la Francia ocupada\, no lejos de la fr
+ ontera española\, un viejo escultor de fama\, cansado de la vida y de la 
+ locura de los hombres\, reencuentra\, gracias a la llegada de una joven es
+ pañola escapada de un campo de refugiados\, el deseo de volver a trabajar
+  y esculpir su última obra.\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121207T173000
-DTEND;VALUE=DATE-TIME:20121207T192200
-UID:1212073017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
+SUMMARY:A Space Exodus
+DTSTART;VALUE=DATE-TIME:20121202T193000
+DTEND;VALUE=DATE-TIME:20121202T211100
+UID:1212023019_1_dore
+DESCRIPTION:Sala 1 - A Space Exodus (Un éxodo espacial\, Larissa Sansour\
+ , 2009). Palestina. Video. VOSI/E*. 5’. Amreeka (América\, Cherien Dabi
+ s\, 2009). Int.: Nisreen Faour\, Melkar Muallem. EE UU/ Canada. VOSE. 96
+ ’. Total programa: 101’\nAmérica cuenta las aventuras de Muna\, una m
+ adre soltera que deja Cisjordania junto a su hijo adolescente Fadi\, que s
+ ueña con un futuro excitante en la tierra prometida de una pequeña ciuda
+ d de Illinois. Ya en EE UU\, mientras su hijo navega por los pasillos del 
+ instituto como solía moverse a través de los checkpoints\, la indómita 
+ Muna se crea con dificultad una nueva vida cocinando bocadillos de falafel
+  y hamburguesas en un restaurante de comida rápida.\n\n\nFuente: http://w
+ ww.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe
+ /cine-dore/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20121207T194000
-DTEND;VALUE=DATE-TIME:20121207T213300
-UID:1212074019_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 12/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S S S S S S
-DTSTART;VALUE=DATE-TIME:20121207T200000
-DTEND;VALUE=DATE-TIME:20121207T222000
-UID:1212070020_2_dore
-DESCRIPTION:Sala 2 - S S S S S S S S S \n S S\n\n\nFuente: http://www.mecd
- .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
- ore/programacion/2012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121207T215000
-DTEND;VALUE=DATE-TIME:20121207T234200
-UID:1212075021_1_dore
-DESCRIPTION:Sala 1 - S S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121209T173000
-DTEND;VALUE=DATE-TIME:20121209T192200
-UID:1212093017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121209T193000
-DTEND;VALUE=DATE-TIME:20121209T211800
-UID:1212093019_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20121209T200000
-DTEND;VALUE=DATE-TIME:20121209T213500
-UID:1212090020_2_dore
-DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 12/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121209T214000
-DTEND;VALUE=DATE-TIME:20121209T235500
-UID:1212094021_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+SUMMARY:Los dioses de verdad tienen huesos
+DTSTART;VALUE=DATE-TIME:20121202T200000
+DTEND;VALUE=DATE-TIME:20121202T213000
+UID:1212020020_2_dore
+DESCRIPTION:Sala 2 - Los dioses de verdad tienen huesos (Belén Santos y D
+ avid Alfaro\, 2012). Documental. España. 90’\nLa vida en Guinea Bissau 
+ no es sencilla por ser uno de los países más pobres del mundo. Los niño
+ s con graves problemas de salud tienen que ser evacuados a Europa para sal
+ var sus vidas. Cinco personas muy diferentes nos descubren las dificultade
+ s para llevar esto a cabo\, como el día que el asesinato del Presidente d
+ el Gobierno paraliza el país. Pero en África lo fácil es difícil y lo 
+ imposible se vuelve sencillo.\n\n\nFuente: http://www.mecd.gob.es/cultura-
  mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
  /2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20121211T173000
-DTEND;VALUE=DATE-TIME:20121211T191800
-UID:1212113017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+SUMMARY:L’Île au trésor / Treasure Island
+DTSTART;VALUE=DATE-TIME:20121202T214000
+DTEND;VALUE=DATE-TIME:20121202T234000
+UID:1212024021_1_dore
+DESCRIPTION:Sala 1 - L’Île au trésor / Treasure Island (Raúl Ruiz\, 1
+ 985). Int. : Melvil Poupaud\, Martin Landau\, Vic Tayback\, Lou Castel. F
+ rancia/ Reino Unido/ Estados Unidos. VOSE*. 120’\n“Tome a un niño y a
+ segúrese que sueña\; despiértelo y cuéntele una historia. Acúnelo con
+  la más hermosa voz en off. Es necesario que\, cuando se haya dormido de 
+ nuevo\, el niño acabe de soñar la historia que se le sopló. Es necesari
+ o que cuando despierte sienta que ha sido la historia quien lo ha elegido 
+ y no viceversa. Una historia inmortal\, cómo se llamó una de las última
+ s películas de Welles\, pero las películas de Raúl Ruiz dicen que todas
+  las historias lo son. De ahí el placer\, de ahí luego el demasiado plac
+ er\, después el terror”. (Serge Daney).\n\n\nFuente: http://www.mecd.go
+ b.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore
+ /programacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ibiza Occidente
+DTSTART;VALUE=DATE-TIME:20121204T173000
+DTEND;VALUE=DATE-TIME:20121204T185500
+UID:1212043017_1_dore
+DESCRIPTION:Sala 1 - Ibiza Occidente (Günter Schwaiger\, 2011). Documenta
+ l. Austria/España. Digital. 85’\nEn el Hollywood de la música electró
+ nica\, músicos\, djs\, gogós y promotores trabajan en una sofisticada ma
+ quinaria de ocio para satisfacer los deseos de diversión\, sexo y liberta
+ d de la acelerada sociedad occidental.\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women in Love
+DTSTART;VALUE=DATE-TIME:20121204T191500
+DTEND;VALUE=DATE-TIME:20121204T212400
+UID:1212041519_1_dore
+DESCRIPTION:Sala 1 - Women in Love (Mujeres enamoradas\, Ken Russell\, 196
+ 9). Int.: Alan Bates\, Oliver Reed\, Glenda Jackson. Reino Unido. VOSE*. 1
+ 29’\n“En Mujeres enamoradas hay dos conciencias artísticas: la visió
+ n de Lawrence\, que proporciona las palabras y las acciones\, y la de Russ
+ ell que las dota de forma\, tamaño\, color y ritmo. El talento visual del
+  director inclina la historia hacia una forma poliédrica\, un vasto rango
+  de colores\, y un ritmo que no desfallece. Esto unido a la fascinación d
+ e ambos autores por la decadencia y lo grotesco\, acerca a la película al
+  estilo de Stroheim”. (Jack Fisher) Segunda proyección día 16.\n\n\nFu
+ ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
+ ura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Before You Is the Sea
+DTSTART;VALUE=DATE-TIME:20121204T200000
+DTEND;VALUE=DATE-TIME:20121204T212000
+UID:1212040020_2_dore
+DESCRIPTION:Sala 2 - Before You Is the Sea (Ante ti está el mar\, Hisham 
+ Zreiq\, 2011). Int.: Hisham Suliman\, Hili Yalo Alemania/Palestina/Israel.
+  VOSI/E*. 9’. Ford Transit (Hany Abu Assad\, 2002). Documental. VOSE. Vi
+ deo. 80’\nPelícula en la que el conductor de un taxi colectivo\, el tra
+ nsporte más popular de Cisjordania\, ejerce de guía por la geografía hu
+ mana y territorial que existe entre Ramallah y Jerusalén. Hany Abu Asad\,
+  es autor de Paradise Now\, película nominada al Oscar a la mejor pelícu
+ la extranjera en 2004.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
  s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/P
  rograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:L’onorevole Angelina
+DTSTART;VALUE=DATE-TIME:20121204T214500
+DTEND;VALUE=DATE-TIME:20121204T231700
+UID:1212044521_1_dore
+DESCRIPTION:Sala 1 - L’onorevole Angelina (Noble gesta\, Luigi Zampa\, 1
+ 947). Int.: Anna Magnani\, Nando Bruno\, Ave Ninchi. Italia. VOSE*. 92’\
+ n“Con un cívico y fascinante argumento\, emerge el alma de un gran dire
+ ctor. Hay que hacer notar cómo Zampa sitúa el Neorrealismo en un context
+ o histórico representando periodistas de clase media y fotógrafos que cu
+ riosean entre las chabolas y son insultados por los habitantes. Una mise-e
+ n-abyme metalingüística\, autocrítica\, una declaración moral”. (Alb
+ erto Pezzota) Copia cortesía de Fondazione Cineteca Nazionale. Segunda pr
+ oyección enero.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograD
+ ore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un garibaldino al convento
+DTSTART;VALUE=DATE-TIME:20121205T173000
+DTEND;VALUE=DATE-TIME:20121205T185700
+UID:1212053017_1_dore
+DESCRIPTION:Sala 1 - Un garibaldino al convento (Recuerdo de amor\, Vittor
+ io De Sica\, 1942). Int.: Carla Del Poggio\, María Mercader\, Leonardo Co
+ rtese. Italia. VOSE*. 87’\n“La calidad de la figura de la Mercader rad
+ ica\, pues\, en ser a primera vista sencilla y palmaria pero cuajar despu
+ és en sí misma una cierta dosis de misterio con insondadas y tal vez inc
+ luso nunca realmente conocidas\, profundidades e inquietudes. De Sica apro
+ vecha la doble valencia de la personalidad de la actriz para introducir un
+  juego narrativo basado en el crescendo y el diminuendo” (Gualberto de S
+ anti) Copia cortesía de Fondazione Cineteca Nazionale. Segunda proyecció
+ n día 14.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108
+ -doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yaomiyyat Ahir
+DTSTART;VALUE=DATE-TIME:20121205T193000
+DTEND;VALUE=DATE-TIME:20121205T205700
+UID:1212053019_1_dore
+DESCRIPTION:Sala 1 - Yaomiyyat Ahir (Diario de un gigoló\, Tawfik Abu Awe
+ l\, 2001). Int.: Tahir Mahamid\, Sami Habki. Palestina. Video. VOSE*. 14
+ ’. Tanathur (Tawfik Abu Wael\, 2011). Int.: Ali Bardani\, Samir Hawa\, K
+ ais Nashif. Palestina\, Israel\, Alemania\, Francia. Video. VOSE*. 80’. 
+ Tanhatur: Nour e Iyad\, una pareja palestina que vive en Jerusalén Este\,
+  se preparan para trasladarse a París. Él es un cirujano en el auge de s
+ u carrera\; ella es una joven actriz de la burguesía intelectual palestin
+ a\, atractiva\, independiente y enigmática. De camino al aeropuerto\, se 
+ les informa de que un terrible accidente que provoca que Iyad regrese a su
+  hospital y retrase la partida. Abandonada por su marido de nuevo\, Nour c
+ omienza a cuestionar sus planes de futuro y su matrimonio mientras muestra
+  lo atada que está a todo lo que está a punto de dejar atrás.\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holmes & Watson. Madrid Days
+DTSTART;VALUE=DATE-TIME:20121205T200000
+DTEND;VALUE=DATE-TIME:20121205T220900
+UID:1212050020_2_dore
+DESCRIPTION:Sala 2 - Holmes & Watson. Madrid Days (José Luis Garci\, 2012
+ ). Int.: Gary Piquer\, José Luis García Pérez\, Belén López. España.
+  129’\nLa película sitúa a Sherlock Holmes y a su fiel colaborador\, e
+ l doctor Watson\, en el Madrid de Galdós\, al que acuden atraídos por un
+ os crímenes que podrían haber sido cometidos\, por su modus operandi\, p
+ or Jack el Destripador.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
+ ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/
+ PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Devils
+DTSTART;VALUE=DATE-TIME:20121205T220000
+DTEND;VALUE=DATE-TIME:20121206T000900
+UID:1212050022_1_dore
+DESCRIPTION:Sala 1 - The Devils (Los demonios\, Ken Russell\, 1971). Int.:
+ Vanessa Redgrave\, Oliver Reed\, Dudley Sutton. Reino Unido. VOSE.109’\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sueño y silencio
+DTSTART;VALUE=DATE-TIME:20121207T173000
+DTEND;VALUE=DATE-TIME:20121207T192200
+UID:1212073017_1_dore
+DESCRIPTION:Sala 1 - Sueño y silencio (Jaime Rosales\, 2011). Int.: Yolan
+ da Galocha\, Oriol Roselló\, Jaume Terradas. España. 112’\nOriol y Yol
+ anda viven en París con sus dos hijas. Él es arquitecto\, ella es profes
+ ora. Durante unas vacaciones en el Delta del Ebro\, un accidente transform
+ a sus vidas.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore1
+ 08-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anni difficili
+DTSTART;VALUE=DATE-TIME:20121207T194000
+DTEND;VALUE=DATE-TIME:20121207T213300
+UID:1212074019_1_dore
+DESCRIPTION:Sala 1 - Anni difficili (Luigi Zampa\, 1948). Int.: Umberto Sp
+ adaro\, Ave Ninchi\, Enzo Biliotti. Italia. VOSE*. 113’\n“Con Anni dif
+ ficili he hablado de un problema que siempre ha ocupado un puesto muy impo
+ rtante en la consciencia de todos los italianos. He dicho aquello que pod
+ ía: no pretendo haber contentado a todos. Pero la polémica despertada po
+ r la película me ha convencido que hemos tocado una cuerda sincera en el 
+ corazón de nuestro público”. (Luigi Zampa)\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bedoun mobile
+DTSTART;VALUE=DATE-TIME:20121207T200000
+DTEND;VALUE=DATE-TIME:20121207T222000
+UID:1212070020_2_dore
+DESCRIPTION:Sala 2 - Bedoun mobile (Sin móvil\, Sameh Zoabi\, 2011). Int.
+ : Razi Shawahdeh\, Bassem Loulou\, Loai Nofi. Bélgica/Francia/Palestina/I
+ srael. Video. VOSI/E*. 78’. Port of Memory (El puerto de la memoria\, Ka
+ mal Aljafari\, 2010). Int: Salim Bilbesi\, Fatmeh Bilbesi\, Sadika Bilbesi
+ \, Angel Hamati\, Kamleh Hamati\,  Ashraf Saker. Alemania/Francia/EAU. 35
+ mm. VOSF/E*. 62’.Total programa: 140’\nBedoun...: Jawdat\, un inquieto
+  joven obrero\, solo quiere divertirse con sus amigos\, hablar por móvil 
+ y encontrar el amor una tarea imposible en un lugar donde la política y l
+ os valores tradicionales dominan. Su padre gruñón\, Salem\, arrastra a J
+ awdat y al pueblo entero a una batalla contra una torre de telefonía móv
+ il israelí que teme que está envenenándolos con su radiación. Port..: 
+ La historia de la ciudad de Jaffa\, una floreciente ciudad portuaria ahora
+  parte de Tel Aviv\, con la historia de su familia materna\, en riesgo de 
+ desalojo si no prueban que la casa en la que han vivido durante décadas l
+ es pertenece…\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDo
+ re108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Trouble with Angels
+DTSTART;VALUE=DATE-TIME:20121207T215000
+DTEND;VALUE=DATE-TIME:20121207T234200
+UID:1212075021_1_dore
+DESCRIPTION:Sala 1 - The Trouble with Angels (Ángeles rebeldes\, Ida Lupi
+ no\, 1966) Int.: Hayley Mills\, Rosalind Russell\, June Harding. EE UU.VOS
+ E*. 112’\nCuando la animada Mary llega a la Academia de San Francisco pa
+ ra niñas con sus cigarrillos y bromas pesadas\, la Madre Superiora se imp
+ one como misión calmarla... “Divertida realización sobre la vida en un
+  internado religioso de Pennsylvania\, con dos estudiantes (Mills y Hardin
+ g) trayendo de cabeza a la madre superiora” (Carlos Aguilar). Copia de e
+ studio cortesía de Sony Pictures Entertainment.\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Contra el tiempo
+DTSTART;VALUE=DATE-TIME:20121209T173000
+DTEND;VALUE=DATE-TIME:20121209T192200
+UID:1212093017_1_dore
+DESCRIPTION:Sala 1 - Contra el tiempo (Jose Manuel Serrano\, 2012). Docume
+ ntal. España. Digital. 90’. El joven actor Antonio Mora quiere conocer 
+ a actores veteranos\, a ser posible poco conocidos\, para aprender de sus 
+ triunfos y de sus fracasos\, para entender la faceta del intérprete como 
+ trabajador y no como estrella mediática. Para ello pide ayuda a un amigo 
+ periodista que le pondrá en contacto con algunos actores\, sobre todo de 
+ la época de las coproducciones de género.\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Processo alla cittá
+DTSTART;VALUE=DATE-TIME:20121209T193000
+DTEND;VALUE=DATE-TIME:20121209T211800
+UID:1212093019_1_dore
+DESCRIPTION:Sala 1 - Processo alla cittá (Proceso a la ciudad\, Luigi Zam
+ pa\, 1952). Int. : Amedeo Nazzari\, Marietta Lotti. Italia. VOSE*. 108’
+ \n“La película que Zampa siempre dijo que era su favorita. Fue una idea
+  de Francesco Rosi\, que quería hacer una película sobre el juicio Cuoco
+ lo\, que fue la primera condena para miembros de la Camorra. Pero la pelí
+ cula es puro Zampa\, con una composición dramática tan efectiva como las
+  descripciones de los ambientes. Y se puede decir que la recreación de la
+  Belle Epoque de la Camorra sólo es la excusa para hablar honestamente de
+  una sociedad que no cambia”. (Alberto Pezzota) Copia cortesía de Fonda
+ zione Cineteca Nazionale.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/201
+ 2/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Al-mor wa al rumman
+DTSTART;VALUE=DATE-TIME:20121209T200000
+DTEND;VALUE=DATE-TIME:20121209T213500
+UID:1212090020_2_dore
+DESCRIPTION:Sala 2 - Al-mor wa al rumman (Granadas y mirra\, Najwa Najjar\
+ , 2008). Int.: Ali Suliman\, Hiam Abbass. Palestina. VOSI/E*. 95’\nEn Ra
+ mallah\, Kamar\, una bailarina de espíritu libre\, se encuentra como la m
+ ujer de un prisionero\, Zaid. Lejos de todo lo que ama\, vuelve a la danza
+  desafiando los tabúes de la sociedad. Al mismo tiempo\, surge el caso le
+ gal de la familia contra la confiscación de sus tierras que afronta un ob
+ stáculo tras otro.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
+ ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/Prog
+ raDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boy Friend
+DTSTART;VALUE=DATE-TIME:20121209T214000
+DTEND;VALUE=DATE-TIME:20121209T235500
+UID:1212094021_1_dore
+DESCRIPTION:Sala 1 - The Boy Friend (El novio\, Ken Russell\, 1971). Int.:
+  Twiggy\, Christopher Gable\, Barbara Windsor. Reino Unido. VOSE*. 135’\
+ n“La película es una innovadora obra maestra. Esta adaptación de los m
+ usicales de antaño está hecha con inspiración\, el espectáculo deja si
+ n aliento\, pero también contiene momentos de una exquisita simplicidad q
+ ue nos recuerda a la maestría visual de las primeras películas de Russel
+ l.” (Ross Care) Copia cortesía del British Film Institute. Segunda proy
+ ección día 12.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograD
+ ore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12+1\, una comedia metafísica
+DTSTART;VALUE=DATE-TIME:20121211T173000
+DTEND;VALUE=DATE-TIME:20121211T191800
+UID:1212113017_1_dore
+DESCRIPTION:Sala 1 - 12+1\, una comedia metafísica (Chiqui Carabante\, 20
+ 12). Int.: Gorka Zubeldía\, Aránzazu Garrastazul\, Manolo Monteagudo. Es
+ paña. Digital. 108’\nUnos tipos van por el desierto buscando algo. Lo q
+ ue buscan solo lo sabe uno\, al que llaman ‘el maestro’. Buscar en el 
+ desierto es peligroso pues\, a parte de las inclemencias propias de un lug
+ ar sin agua y con muchas horas de sol\, ‘el Bautista’ ronda las dunas.
+  Un loco que de creyente pasó a asesino\, de la misma forma iluminada. As
+ í que el grupo duda entre pensar que buscan a Dios o a la muerte\, o si e
+ stas dos cosas son la misma.\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juan y Eva
 DTSTART;VALUE=DATE-TIME:20121211T194000
 DTEND;VALUE=DATE-TIME:20121211T213000
 UID:1212114019_1_dore
-DESCRIPTION:Sala 1 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2012/PrograDore108-doc.doc
+DESCRIPTION:Sala 1 - Juan y Eva (Paula de Luque\, 2011). Int.: Julieta Dí
+ az\, Osmar Núñez\, Alfredo Casero. Argentina. Video. 110’\nÉl es un c
+ oronel del Ejército\; ella una actriz de radio en ascenso. La película n
+ arra la construcción de esa relación entre enero de 1944 hasta octubre d
+ e 1945\, en el que se consolidan como pareja. Eva colabora junto con otros
+  artistas en la colecta que organiza Perón\, desde la Secretaría de Trab
+ ajo\, para recaudar fondos para las víctimas del terremoto. Ni él ni ell
+ a saben entonces todo lo que les deparará el destino. Inauguración de la
+  muestra. Segunda proyección día 15.\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:I nostri sogni
 DTSTART;VALUE=DATE-TIME:20121211T200000
 DTEND;VALUE=DATE-TIME:20121211T211000
 UID:1212110020_2_dore
-DESCRIPTION:Sala 2 - S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2012/PrograDore108-doc.doc
+DESCRIPTION:Sala 2 - I nostri sogni (Vittorio Cottafavi\, 1943). Int.: Vit
+ torio de Sica\, María Mercader\, Paolo Stoppa. Italia. VOSE*. 70’\nUn j
+ oven necesitado que intenta prosperar es designado por su jefe para acompa
+ ñar a la hija de un contador de la empresa propietaria. El joven aprovech
+ a la oportunidad para pasar por rico ante la chica ingenua y lleva en una 
+ habitación\, creación de lujo\, gracias a su fantasía de inventor\, un 
+ auténtico ambiente de sueño. Copia cortesía de Fondazione Cineteca Nazi
+ onale. Segunda proyección día 21..\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Crimes of Passion
 DTSTART;VALUE=DATE-TIME:20121211T220000
 DTEND;VALUE=DATE-TIME:20121211T232400
 UID:1212110022_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2012/PrograDore108-doc.doc
+DESCRIPTION:Sala 1 - Crimes of Passion (La pasión de China Blue\, Ken Rus
+ sell\, 1984). Int.: Kathleen Turner\, Anthony Perkins\, John Laughlin. Rei
+ no Unido. VOSE*. 84’\nA un joven padre de familia\, detective para llega
+ r a fin de mes\, le encargan vigilar a la discreta estilista Joanna\, de q
+ uien su jefe sospecha que vende sus modelos a la competencia. Pero por la 
+ noche\, Joanna se convierte en China blue\, prostituta en los bajos fondos
+  de Los Angeles\, que cuenta entre sus clientes a personajes lúgubres... 
+ Segunda proyección día 22.\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:The Boy Friend
 DTSTART;VALUE=DATE-TIME:20121212T173000
 DTEND;VALUE=DATE-TIME:20121212T194500
 UID:1212123017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
+DESCRIPTION:Sala 1 - The Boy Friend (El novio\, Ken Russell\, 1971). Int.:
+  Twiggy\, Christopher Gable\, Barbara Windsor. Reino Unido. VOSE*. 135’\
+ nCopia cortesía del British Film Institute.\n\n\nFuente: http://www.mecd.
+ gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
+ re/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Eva de la Argentina
 DTSTART;VALUE=DATE-TIME:20121212T200000
 DTEND;VALUE=DATE-TIME:20121212T211500
 UID:1212120020_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
+DESCRIPTION:Sala 2 - Eva de la Argentina (María Seoane\, 2011). Animació
+ n. Argentina. Video. 75’\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 12/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Deste lado da ressurreição
 DTSTART;VALUE=DATE-TIME:20121212T214500
 DTEND;VALUE=DATE-TIME:20121212T234300
 UID:1212124521_1_dore
-DESCRIPTION:Sala 1 - S S \nS S S\n\n\nFuente: http://www.mecd.gob.es/cultu
+DESCRIPTION:Sala 1 - Deste lado da ressurreição (Joaquim Sapinho\, 2011)
+ . Int.: Pedro\nSousa\, Joana Barata\, Sofia Grillo. Portugal. VOSE*. Digit
+ al. 118’\nInês descubre que su hermano volvió de Australia. Como quier
+ e ser surfista\, como él\, huye de casa\, y se va para Guincho\, donde es
+ tá su hermano\, para quien lo único importante del surf es mirar al ciel
+ o. En esa temporada\, Rafael le cuenta que en realidad no estuvo en Austra
+ lia sino en un convento\, y que va a volver a él. Inês se ve obligada a 
+ volver con su madre pero se siente perdida\, y quiere volver a sentir lo q
+ ue sentía cerca del mar. Y mientras su hermano emprende la búsqueda del 
+ límite espiritual\, ella comienza a buscar sus propios límites…\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A puerta fría
+DTSTART;VALUE=DATE-TIME:20121213T173000
+DTEND;VALUE=DATE-TIME:20121213T184600
+UID:1212133017_1_dore
+DESCRIPTION:Sala 1 - A puerta fría (Xavi Puebla\, 2012). Int.: Nick Nolte
+ \, María Valverde\, Antonio Dechent. España. 76’\n“¿Cuándo empezó
+  a joderse todo?”\, se pregunta Salva en el hotel donde se celebra la fe
+ ria más importante del sector. De vendedor estrella\, a un paso del despi
+ do si en dos días no cierra al menos doscientas unidades. Sentado junto a
+  él\, Carmelo\, su antiguo jefe. Ambos contemplan atónitos el relevo gen
+ eracional y la deslealtad de un sector que se muestra indiferente con aque
+ llos que fueron imprescindibles.\n\n\nFuente: http://www.mecd.gob.es/cultu
  ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
  ion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20121213T173000
-DTEND;VALUE=DATE-TIME:20121213T184600
-UID:1212133017_1_dore
-DESCRIPTION:Sala 1 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Eva Perón
 DTSTART;VALUE=DATE-TIME:20121213T191500
 DTEND;VALUE=DATE-TIME:20121213T211500
 UID:1212131519_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/P
- rograDore108-doc.doc
+DESCRIPTION:Sala 1 - Eva Perón (Juan Carlos Desanzo\, 1996). Int.: Esther
+  Goris Víctor Laplace Christina Banegas. Argentina. Video. 120’\n\n\nFu
+ ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
+ ura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Eloisa está debajo de un almendro
 DTSTART;VALUE=DATE-TIME:20121213T200000
 DTEND;VALUE=DATE-TIME:20121213T211600
 UID:1212130020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/P
- rograDore108-doc.doc
+DESCRIPTION:Sala 2 - Eloisa está debajo de un almendro (Rafael Gil\, 1943
+ ). Int.:\nAmparo Rivelles\, Rafael Durán\, Alberto Romea. España. 76’\
+ n“Eloísa está debajo de un almendro deriva\, desde la base de la comed
+ ia\, en un relato gótico con una mansión de aspecto fantasmal que cumple
+  con todos los tópicos del kitsch de inspiración romántica. La películ
+ a se aleja del argumento principal de la obra de Jardiel para incidir en s
+ us aspectos más oscuros\, que incluyen la referencia a una tragedia del p
+ asado y una siniestra mujer enloquecida que pasa su tiempo en una habitaci
+ ón de la mansión de diseño casi expresionista” (Vicente J. Benet) Pre
+ sentación del libro El cine español. Una historia cultural\, editado por
+  Paidós\, a cargo de su autor Vicente J. Benet.\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Anni facili
 DTSTART;VALUE=DATE-TIME:20121213T214000
 DTEND;VALUE=DATE-TIME:20121213T232800
 UID:1212134021_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
+DESCRIPTION:Sala 1 - Anni facili (Luigi Zampa\, 1953). Int.: Nino Taranto\
+ , Gino Buzzanca\, Alda Mangini. Italia. VOSE*. 108’\n“La historia de A
+ nni facili demuestra una vez más cómo un simple ímpetu cívico –que n
+ o revolucionario- son raros en Italia como sin embargo está arraigada la 
+ idea de que algunas partes\, situaciones o personas de nuestra sociedad so
+ n sagradas e intocables” (Alberto Moravia) Copia cortesía de Fondazion
+ e Cineteca Nazionale.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/Pr
+ ograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Marianela
 DTSTART;VALUE=DATE-TIME:20121214T173000
 DTEND;VALUE=DATE-TIME:20121214T185800
 UID:1212143017_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 012/PrograDore108-doc.doc
+DESCRIPTION:Sala 1 - Marianela (Benito Perojo\, 1940). Int.: María Mercad
+ er\, Mary Carrillo\, Julio Peña. España. 88’\nBasada en la obra de Pé
+ rez Galdós. Marianela es una muchacha muy humilde\, llena de bondad e ino
+ cencia que lo poco que cae en sus manos se lo entrega a Felipe\, un buen a
+ migo suyo\, para que pueda ir a estudiar a Madrid. Se martiriza pensando q
+ ue Pablo\, el joven al que sirve de lazarillo\, pueda dejar de quererla po
+ r su aspecto cuando recupere la vista..."Perojo destaca en la búsqueda de
+  una transparencia narrativa que contrasta con la pesada retórica del cin
+ e español de la época” (Francisco Llinás)\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S S S S
+SUMMARY:Santa sangre
 DTSTART;VALUE=DATE-TIME:20121214T193000
 DTEND;VALUE=DATE-TIME:20121214T205800
 UID:1212143019_1_dore
-DESCRIPTION:Sala 1 - S S S S S S S\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2012/PrograDore108-doc.doc
+DESCRIPTION:Sala 1 - Santa sangre (Santa sangre\, Alejandro Jodorowsky\, 1
+ 989). Int.: Axel Jodorowsky\, Blanca Guerra\, Guy Stocwell. México/Italia
+ . VOSE.123’ “Un artista siempre se basa en lo que ha vivido. Los perso
+ najes son imaginarios\, pero siempre se hace referencia a cosas reales. O 
+ sea\, que mi padre empezó a colgarse del pelo en el circo en el que traba
+ jaba\, y era el único hombre que lo hacía. Santa sangre y su mundo de ci
+ rco tienen mucho que ver con mi infancia: conocí ese mundo de cerca. Lo q
+ ue se imagina uno es realidad pura después” (Alejandro Jodorowsky). Pre
+ sentación del libro Alejandro Jodorowsky\, editado por Cátedra\, a cargo
+  de su autor\, Diego Moldes y José Luis Sánchez Noriega.\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
+ /mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Evita capitana
 DTSTART;VALUE=DATE-TIME:20121214T200000
 DTEND;VALUE=DATE-TIME:20121214T213900
 UID:1212140020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/P
- rograDore108-doc.doc
+DESCRIPTION:Sala 2 - Evita capitana (Nicolás Malowicki\, 2000) Documental
+ . Argentina. 47’. Evita\, la otra mirada (María Teresa Mazzorotolo\, 20
+ 05). Documental. Argentina. Video. 52’. Total programa 99’\nEva capita
+ na: Mezcla de ficción y documental\, la acción se sitúa en la final del
+  campeonato de fútbol de 1951\, donde Banfield enfrentaba al entonces imp
+ onente Racing Club. Evita\, como abanderada de los humildes\, se pone del 
+ lado de Banfield\, pero el poder está a favor de Racing. Evita…: La pel
+ ícula no es una biografía sobre Evita\, sino un álbum de imágenes que 
+ cobra vida y retrata la historia de la sociedad argentina. A partir de la 
+ obra fotográfica de Alfredo Mazzorotolo\, fotógrafo personal de Eva Duar
+ te y Juan Domingo Perón\, se da testimonio de una inmensa variedad de sit
+ uaciones que jalonaron su actividad política y social.\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Un garibaldino al convento
 DTSTART;VALUE=DATE-TIME:20121214T221000
 DTEND;VALUE=DATE-TIME:20121214T233700
 UID:1212141022_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 12/PrograDore108-doc.doc
+DESCRIPTION:Sala 1 - Un garibaldino al convento (Recuerdo de amor\, Vittor
+ io De Sica\, 1942). Int.: Carla del Poggio\, María Mercader\, Leonardo Co
+ rtese. VOSE*. 87’\nCopia cortesía Fondazione Cineteca Nazionale.\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Back to the Future
 DTSTART;VALUE=DATE-TIME:20121215T173000
 DTEND;VALUE=DATE-TIME:20121215T192600
 UID:1212153017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/P
- rograDore108-doc.doc
+DESCRIPTION:Sala 1 - Back to the Future (Regreso al futuro\, Robert Zemeck
+ is\, 1985). Int.: Michael J. Fox\, Christopher Lloyd\, Crispin Glover. EE 
+ UU. VE. 116’\nMarty McFly\, un joven estudiante de Hill Valley High\, es
+  amigo de un excéntrico científico que ha inventado una máquina del tie
+ mpo con la sorprendente forma de un coche DeLorean. Durante la prueba son 
+ sorprendidos por unos terroristas árabes y es Marty quien se traslada al 
+ año 1955. En esa dimensión\, conoce a una joven pareja\, Lorraine Baines
+  y George McFly\, que\, en el futuro\, serán sus padres. La situación se
+  complica cuando es su propia madre quien se enamora de él. Entrada libre
+  para menores de 14 años.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 12/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:La romana
 DTSTART;VALUE=DATE-TIME:20121215T195000
 DTEND;VALUE=DATE-TIME:20121215T212400
 UID:1212155019_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121215T200000
-DTEND;VALUE=DATE-TIME:20121215T211500
-UID:1212150020_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20121215T215000
-DTEND;VALUE=DATE-TIME:20121215T232500
-UID:1212155021_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 12/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20121216T173000
-DTEND;VALUE=DATE-TIME:20121216T193000
-UID:1212163017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/P
- rograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20121216T195000
-DTEND;VALUE=DATE-TIME:20121216T211500
-UID:1212165019_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 12/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121216T200000
-DTEND;VALUE=DATE-TIME:20121216T211500
-UID:1212160020_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121216T214000
-DTEND;VALUE=DATE-TIME:20121216T234900
-UID:1212164021_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20121218T173000
-DTEND;VALUE=DATE-TIME:20121218T190800
-UID:1212183017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/P
- rograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20121218T190000
-DTEND;VALUE=DATE-TIME:20121218T201900
-UID:1212180019_2_dore
-DESCRIPTION:Sala 2 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121218T193000
-DTEND;VALUE=DATE-TIME:20121218T212000
-UID:1212183019_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121218T214000
-DTEND;VALUE=DATE-TIME:20121218T234100
-UID:1212184021_1_dore
-DESCRIPTION:Sala 1 - S S \n S S S \nS S\n\n\nFuente: http://www.mecd.gob.e
- s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
- ogramacion/2012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20121219T173000
-DTEND;VALUE=DATE-TIME:20121219T192600
-UID:1212193017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/P
- rograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121219T194500
-DTEND;VALUE=DATE-TIME:20121219T212500
-UID:1212194519_1_dore
-DESCRIPTION:Sala 1 - S S \nS\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121219T200000
-DTEND;VALUE=DATE-TIME:20121219T212400
-UID:1212190020_2_dore
-DESCRIPTION:Sala 2 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20121219T214500
-DTEND;VALUE=DATE-TIME:20121219T232700
-UID:1212194521_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121220T173000
-DTEND;VALUE=DATE-TIME:20121220T190200
-UID:1212203017_1_dore
-DESCRIPTION:Sala 1 - S S \nS\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121220T193000
-DTEND;VALUE=DATE-TIME:20121220T205200
-UID:1212203019_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121220T200000
-DTEND;VALUE=DATE-TIME:20121220T213000
-UID:1212200020_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20121220T214000
-DTEND;VALUE=DATE-TIME:20121220T232600
-UID:1212204021_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 12/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121221T173000
-DTEND;VALUE=DATE-TIME:20121221T190700
-UID:1212213017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121221T193000
-DTEND;VALUE=DATE-TIME:20121221T210400
-UID:1212213019_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20121221T200000
-DTEND;VALUE=DATE-TIME:20121221T213400
-UID:1212210020_2_dore
-DESCRIPTION:Sala 2 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2012/PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121221T213000
-DTEND;VALUE=DATE-TIME:20121221T231000
-UID:1212213021_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121222T194000
-DTEND;VALUE=DATE-TIME:20121222T210400
-UID:1212224019_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20121222T200000
-DTEND;VALUE=DATE-TIME:20121222T221100
-UID:1212220020_2_dore
-DESCRIPTION:Sala 2 - S S S \n S S S S S S \n S S S\n\n\nFuente: http://www
+DESCRIPTION:Sala 1 - La romana (La romana\, Luigi Zampa\, 1954). Int.: Gin
+ a Lollobrigida \, Franco Fabrizi \, Raymond Pellegrin. Italia. VOSE*. 94
+ ’\n“El film ofrece con habilidad el retrato de un aprendizaje sentimen
+ tal alimentado por la turbulencia sexual\, las insatisfacciones cotidianas
+ \, el sucio clima político y el retrato en negro de la burguesía romana.
+  El film es como la novela de Moravia\, un cuento moral no moralista\, sob
+ re la degradación y el arribismo en una sociedad corrupta\, y un document
+ o sobre la Italia del fascismo”. (Jose María Latorre) Copia restaurada 
+ en 2009 cortesia de Fondazione Cineteca Nazionale.\n\n\nFuente: http://www
  .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
  ine-dore/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121222T214000
-DTEND;VALUE=DATE-TIME:20121222T233000
-UID:1212224021_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
+SUMMARY:Traces of a Diary / Fragmentos de um diário
+DTSTART;VALUE=DATE-TIME:20121215T200000
+DTEND;VALUE=DATE-TIME:20121215T211500
+UID:1212150020_2_dore
+DESCRIPTION:Sala 2 - Traces of a Diary / Fragmentos de um diário (André 
+ Príncipe\, Marco Martins\, 2010). Documental. Portugal. VOSE*. Video. 75'
+ \nNotas cinematográficas sobre el trabajo de algunos de los directores de
+  fotografía contemporáneos más importantes de Japón. A través de una 
+ serie de encuentros con los profesionales\, los directores reflexionan sob
+ re la naturaleza de la creación de imágenes y la narración de historias
+ \, y sobre el proceso de elaboración del diario. Filmando con dos cámara
+ s de Krasnogorsk 3 de 16 mm y motor de cuerda\, Martins y Príncipe otorga
+ n un mayor valor a la crudeza de la espontaneidad y la contingencia que al
+  tratamiento planificado.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/201
+ 2/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121223T173000
-DTEND;VALUE=DATE-TIME:20121223T192100
-UID:1212233017_1_dore
-DESCRIPTION:Sala 1 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2012/PrograDore108-doc.doc
+SUMMARY:They Drive by Night
+DTSTART;VALUE=DATE-TIME:20121215T215000
+DTEND;VALUE=DATE-TIME:20121215T232500
+UID:1212155021_1_dore
+DESCRIPTION:Sala 1 - They Drive by Night (La pasion ciega\, Raoul Walsh\, 
+ 1940). Int.: George Raft\, Ann Sheridan\, Ida Lupino\, Humphrey Bogart. EE
+  UU. VOSE. 95’\nUna mujer\, Lana Carlsen comete un asesinato y ve cómo 
+ el hombre al que ama\, Joe Fabrini es inculpado por él. “La pasión cie
+ ga arroja una mirada amarga\, sombría\, siempre negra\, sobre unos prolet
+ arios que desempeñan un oficio arriesgado en un país lleno de usureros\,
+  explotadores\, trabajadores en paro y aprovechados\, a la que incorpora u
+ n toque de melodrama pasional a lo James M. Cain” (José Mª. Latorre).\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121223T194000
-DTEND;VALUE=DATE-TIME:20121223T213500
-UID:1212234019_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2012/PrograDore108-doc.doc
+SUMMARY:Eva Perón
+DTSTART;VALUE=DATE-TIME:20121216T173000
+DTEND;VALUE=DATE-TIME:20121216T193000
+UID:1212163017_1_dore
+DESCRIPTION:Sala 1 - Eva Perón (Juan Carlos Desanzo\, 1996). Int.: Esther
+  Goris Víctor Laplace Christina Banegas. Argentina. Video. 120’\nLa pel
+ ícula narra la vida de Eva Perón tomando como eje del relato los sucesos
+  históricos de 1951\, especialmente su propuesta como candidata a Vicepre
+ sidente de la Nación por parte de la CGT y la renuncia a la misma una sem
+ ana después.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
+ ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore
+ 108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20121223T200000
-DTEND;VALUE=DATE-TIME:20121223T214000
-UID:1212230020_2_dore
-DESCRIPTION:Sala 2 - S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2012/PrograDore108-doc.doc
+SUMMARY:L’Arte di arrangiarsi
+DTSTART;VALUE=DATE-TIME:20121216T195000
+DTEND;VALUE=DATE-TIME:20121216T211500
+UID:1212165019_1_dore
+DESCRIPTION:Sala 1 - L’Arte di arrangiarsi (Luigi Zampa\, 1954). Int.: A
+ lberto Sordi\, Marco Guglielmi\, Franco Coop. Italia. VOSE*. 85’\n“Es 
+ la historia (historia de la costumbre\, se entiende) de treinta años de v
+ ida italiana vista de reflejo\, a través los altibajos de un pícaro\, un
+ o de tantos pícaros de los que ha estado y todavía está llena nuestra v
+ ida pública.” (Luigi Zampa) Copia cortesía de Fondazione Cineteca Nazi
+ onale.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
+ ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc
+ .doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20121226T173000
-DTEND;VALUE=DATE-TIME:20121226T203200
-UID:1212263017_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+SUMMARY:Eva de la Argentina
+DTSTART;VALUE=DATE-TIME:20121216T200000
+DTEND;VALUE=DATE-TIME:20121216T211500
+UID:1212160020_2_dore
+DESCRIPTION:Sala 2 - Eva de la Argentina (María Seoane\, 2011). Animació
+ n. Argentina. Video. 75’\nEva de la Argentina narra desde la perspectiva
+  del periodista Rodolfo Walsh la historia de Eva Perón. La obsesión de e
+ ste escritor y periodista en la reconstrucción de la historia de Evita es
+  al mismo tiempo la reconstrucción de su propia vida y muerte y del desti
+ no de los argentinos. Considerada una santa para los humildes y un mito pa
+ ra el mundo\, Eva de la Argentina es la historia de una heroína del siglo
+  XX que murió con la promesa de volver y ser millones.\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women in Love
+DTSTART;VALUE=DATE-TIME:20121216T214000
+DTEND;VALUE=DATE-TIME:20121216T234900
+UID:1212164021_1_dore
+DESCRIPTION:Sala 1 - Women in Love (Mujeres enamoradas\, Ken Russell\, 196
+ 9). Int.: Alan Bates\, Oliver Reed\, Glenda Jackson. Reino Unido. VOSE*. 1
+ 29’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.
+ doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Esperando septiembre
+DTSTART;VALUE=DATE-TIME:20121218T173000
+DTEND;VALUE=DATE-TIME:20121218T190800
+UID:1212183017_1_dore
+DESCRIPTION:Sala 1 - Esperando septiembre (Tina Olivares\, 2012). Int.: Fe
+ le Martínez\,\nNatalia Erice\, David Tenreiro. España. 98’\nEn plena c
+ risis económica\, cinco amigos pasan un caluroso verano en Madrid esperan
+ do que les vaya mejor en septiembre\, mes en el que se reactiva la ciudad 
+ y las ofertas de trabajo. El hallazgo en un solar de una bolsa con 20 mill
+ ones de pesetas en billetes de las antiguas pesetas cambiará el curso de 
+ los acontecimientos.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/Pro
+ graDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La mano azul
+DTSTART;VALUE=DATE-TIME:20121218T190000
+DTEND;VALUE=DATE-TIME:20121218T201900
+UID:1212180019_2_dore
+DESCRIPTION:Sala 2 - La mano azul (Floreal Peleato\, 2009). Documental. Es
+ paña. Video. 70’. Elegía del trópico (F. Peleato\, 2011). Documental.
+  España/Colombia. Video. 79’\nLa mano azul describe el proceso creativo
+  del pintor Mathieu Sodore\, que reside en Lisboa\, mientras realiza une s
+ erie de cuadros de gran formato\, ‘La música callada del cantaor’\, i
+ nspirados en palos flamencos y que muestran rostros parciales. Elegía...:
+  Ramón Vinyes (1882-1952) fue dramaturgo\, periodista\, librero\, profeso
+ r y mentor de jóvenes artistas\, como Gabriel García Márquez\, quien lo
+  describió en Cien años de soledad: "El sabio catalán era un hombre atu
+ rdido por dos nostalgias enfrentadas como espejos". Sesión presentada por
+  el autor. Entre las dos películas habrá un coloquio con el público.\n\
+ n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
+ -cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La casa del sorriso
+DTSTART;VALUE=DATE-TIME:20121218T193000
+DTEND;VALUE=DATE-TIME:20121218T212000
+UID:1212183019_1_dore
+DESCRIPTION:Sala 1 - La casa del sorriso (La casa de la sonrisa\, Marco Fe
+ rreri\, 1990). Int.: Ingrid Thulin\, Dado Ruspoli\, María Mercader. Itali
+ a. VOSE. 110’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDo
+ re108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:O que há de novo no amor?
+DTSTART;VALUE=DATE-TIME:20121218T214000
+DTEND;VALUE=DATE-TIME:20121218T234100
+UID:1212184021_1_dore
+DESCRIPTION:Sala 1 - O que há de novo no amor? (Hugo Alves\, Mónica Sant
+ ana Baptista\,\nHugo Martins\, Tiago Nunes\, Rui Alexandre Santos\, Patric
+ ia Raposo\, 2011). Int.: Joana Santos\, João Cajuda\, David Cabecinha. Po
+ rtugal. VOSE*. Digital. 121’\nSeis amigos se juntan todas las noches en 
+ un bar para tocar música. En la música se sienten unidos\, pero en el d
+ ía a día\, están perdidos y aislados… Rita dejó a Ricardo y se unió
+  a Rafael\, pero nada es lo que parecía\; João no se atreve a separarse 
+ de su novia\; Marcos lucha por conquistar a un chico que no le mira\, Samu
+ el ha desaparecido\, Inês utiliza a los hombres y ahora ha puesto sus int
+ enciones en un compañero de la banda… Todo su mundo empieza a desmembra
+ rse.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
+ d/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.d
+ oc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Raven
+DTSTART;VALUE=DATE-TIME:20121219T173000
+DTEND;VALUE=DATE-TIME:20121219T192600
+UID:1212193017_1_dore
+DESCRIPTION:Sala 1 - The Raven (El enigma del cuervo\, James McTeigue\, 20
+ 12). Int.: John Cusack\, Luke Evans\, Alice Eve. EE UU/ España/ Hungría.
+  Versión por confirmar. 116’\nUna madre y una hija son brutalmente ases
+ inadas en Baltimore\, y el detective Emmett Fields descubre que el crimen 
+ se parece enormemente a uno de ficción publicado en el periódico local\,
+  cuyo autor es Edgar Allan Poe. La policía interroga al escritor\, pero e
+ n ese mismo momento se comete otro horrible asesinato que también se insp
+ ira en una de las historias de Poe…\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comédie de l´innocence
+DTSTART;VALUE=DATE-TIME:20121219T194500
+DTEND;VALUE=DATE-TIME:20121219T212500
+UID:1212194519_1_dore
+DESCRIPTION:Sala 1 - Comédie de l´innocence (La comedia de la inocencia\
+ , Raúl Ruiz\, 2000). Int. : Isabelle Huppert\, Jeanne Balibar\, Charles 
+ Berling. Francia. VOSE*. 100’\nSegunda proyección y nota día 27.\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Whore
+DTSTART;VALUE=DATE-TIME:20121219T200000
+DTEND;VALUE=DATE-TIME:20121219T212400
+UID:1212190020_2_dore
+DESCRIPTION:Sala 2 - Whore (Puta\, Ken Russell\, 1981). Int.: Theresa Russ
+ ell\, Benjamin Mouton\, Antonio Fargas. Reino Unido. VOSE. 84’\nBasada e
+ n Bondage\, una obra teatral escrita por David Hines\, un taxista nocturno
+  londinense\, que recopiló historias verídicas contadas por prostitutas 
+ que se subían a su coche tras terminar su jornada laboral. Puta habla de 
+ una vida solitaria\, llena de peligros y tentaciones y abocada a una viole
+ ncia que no podrán evitar. Segunda proyección día 29.\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Il vigile
+DTSTART;VALUE=DATE-TIME:20121219T214500
+DTEND;VALUE=DATE-TIME:20121219T232700
+UID:1212194521_1_dore
+DESCRIPTION:Sala 1 - Il vigile (El alcalde\, el guardia y la jirafita\, Lu
+ igi Zampa\, 1960). Int.: Alberto Sordi\, Marisa Merlini\, Mara Berni. Ita
+ lia. VOSE*. 102’\n“Los apuros sufridos por el infeliz protagonista a p
+ artir del día en que alcanza su mayor ilusión: ser nombrado policía de 
+ tráfico\, cuando se verá materialmente desbordado para controlar la circ
+ ulación rodada en la gran ciudad. Uno de los mayores éxitos personales d
+ el inolvidable Alberto Sordi”. (Carlos Aguilar). Copia cortesía de Fond
+ azione Cineteca Nazionale.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
  d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
  12/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20121226T200000
-DTEND;VALUE=DATE-TIME:20121226T211400
-UID:1212260020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/P
- rograDore108-doc.doc
+SUMMARY:Salamandras y salamandros
+DTSTART;VALUE=DATE-TIME:20121220T173000
+DTEND;VALUE=DATE-TIME:20121220T190200
+UID:1212203017_1_dore
+DESCRIPTION:Sala 1 - Salamandras y salamandros (Ramón Margareto\, 2012). 
+ Documental. España. Digital. 92’\nSalamandras y salamandros pretende se
+ r un tributo a las escuelas de artes plásticas. En la película participa
+ n 60 pintores de nacionalidades diferentes\, con edades comprendidas entre
+  los 4 y los 28 años. Explican en el largometraje cuál es el sentido del
+  arte para ellos y muestran su obra a cámara. En total 300 pinturas que s
+ erán expuestas en galerías de arte de forma itinerante.\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20121226T210000
-DTEND;VALUE=DATE-TIME:20121226T224500
-UID:1212260021_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 12/PrograDore108-doc.doc
+SUMMARY:On Dangerous Ground
+DTSTART;VALUE=DATE-TIME:20121220T193000
+DTEND;VALUE=DATE-TIME:20121220T205200
+UID:1212203019_1_dore
+DESCRIPTION:Sala 1 - On Dangerous Ground (La casa en la sombra\, Nicholas 
+ Ray\, 1952) Int.: Ida Lupino\, Robert Ryan\, Ward Bond. EE UU. VOSE*. 82
+ ’\n“Me gusta la historia de un hombre cuyo trabajo como miembro de una
+  patrulla antiviolencia consiste en atajar o prevenir la violencia\, que l
+ leva dentro\, sin embargo\, esa misma violencia dentro de sí”. (Nichola
+ s Ray)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
+ ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc
+ .doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S S S
-DTSTART;VALUE=DATE-TIME:20121226T213000
-DTEND;VALUE=DATE-TIME:20121226T222000
-UID:1212263021_2_dore
-DESCRIPTION:Sala 2 - S S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultu
+SUMMARY:Guerra civil
+DTSTART;VALUE=DATE-TIME:20121220T200000
+DTEND;VALUE=DATE-TIME:20121220T213000
+UID:1212200020_2_dore
+DESCRIPTION:Sala 2 - Guerra civil (Pedro Caldas\, 2010). Int.: Catarina Wa
+ ll\, Francisco Belard\, Maria Leite. Portugal. VOSE*. 90’\nVerano de 198
+ 2\, una playa del sur de Portugal. Rui y sus padres viven encerrados en su
+ s mundos\, ciegos ante los defectos que les caracterizan como familia y le
+ s condenan al malestar de la supervivencia. Rui tiene exámenes pronto\, p
+ ero solo le interesa la música y la exploración de mundos imaginarios qu
+ e constantemente plasma en sus dibujos. Helena es incapaz de salvar la dis
+ tancia que le separa del hijo. Alberto llega finalmente e intenta una apro
+ ximación desastrosa al hijo. El verano está tocando a su fin…\n\n\nFue
+ nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
+ ra/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gli anni ruggenti
+DTSTART;VALUE=DATE-TIME:20121220T214000
+DTEND;VALUE=DATE-TIME:20121220T232600
+UID:1212204021_1_dore
+DESCRIPTION:Sala 1 - Gli anni ruggenti (Luigi Zampa\, 1962). Int.: Nino Ma
+ nfredi\, Gino Cervi\, Salvo Randone. Italia. VOSE*. 106’\n“Una especie
+  de comedia de los errores que nos muestra a un Manfredi corredor de bolsa
+  confundido durante la visita a un pueblo con un importante inspector del 
+ régimen fascista. Pero no hay sólo caricaturas y comedia\, fruto de la s
+ inergia entre los grandes guionistas y los grandes actores italiano. A un 
+ debido punto\, la risa desaparece.” (Alberto Pezzota) Copia cortesía d
+ e Fondazione Cineteca Nazionale.\n\n\nFuente: http://www.mecd.gob.es/cultu
  ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
  ion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20121227T173000
-DTEND;VALUE=DATE-TIME:20121227T191300
-UID:1212273017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+SUMMARY:Lobos de Arga
+DTSTART;VALUE=DATE-TIME:20121221T173000
+DTEND;VALUE=DATE-TIME:20121221T190700
+UID:1212213017_1_dore
+DESCRIPTION:Sala 1 - Lobos de Arga (Juan Martínez Moreno\, 2012). Int.: G
+ orka Otxoa\, Carlos Areces\, Secun de la Rosa. España. 97’\n1910\, en A
+ rga\, un pequeño pueblo de Galicia\, una terrible maldición cae sobre la
+  malvada marquesa de Mariño y su hijo\, convirtiéndole en hombre lobo en
+  su décimo cumpleaños. Cien años después\, Tomás\, escritor fracasado
+  y último descendiente de los Mariño\, regresa al pueblo. Los vecinos pi
+ ensan sacrificarle en una oscura ceremonia para acabar con la amenaza del 
+ hombre lobo…\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDor
+ e108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El muerto y ser feliz
+DTSTART;VALUE=DATE-TIME:20121221T193000
+DTEND;VALUE=DATE-TIME:20121221T210400
+UID:1212213019_1_dore
+DESCRIPTION:Sala 1 - El muerto y ser feliz (Javier Rebollo\, 2010). Int.: 
+ José Sacristán\, Roxana Blanco. España. Digital. 94’\nBuenos Aires. E
+ n la última planta de un hospital un español que ha echado media vida en
+  Argentina se da cuenta de que se muere. Este viejo asesino a sueldo -seco
+  y divertido\, tierno- se escapa con un feliz cargamento de morfina\, y em
+ prende un viaje hacia el norte\, a ninguna parte. Una chica que encuentra 
+ en la carretera será su fiel escudera a lo largo de dos mil kilómetros d
+ e comedia negra.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograD
+ ore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I nostri sogni
+DTSTART;VALUE=DATE-TIME:20121221T200000
+DTEND;VALUE=DATE-TIME:20121221T213400
+UID:1212210020_2_dore
+DESCRIPTION:Sala 2 - I nostri sogni (Vittorio Cottafavi\, 1943). Int.: Vit
+ torio de Sica\, María Mercader\, Paolo Stoppa. Italia. VOSE*.70’ Copia 
+ cortesía de Fondazione Cineteca Nazionale.\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Vingança de uma Mulher
+DTSTART;VALUE=DATE-TIME:20121221T213000
+DTEND;VALUE=DATE-TIME:20121221T231000
+UID:1212213021_1_dore
+DESCRIPTION:Sala 1 - A Vingança de uma Mulher (Rita Azevedo Gomes\, 2011)
+ . Int.: Rita Durão\, Fernando Rodrigues\, Hugo Tourita. Portugal. Digital
+ . VOSE*. 100’\nAdaptación libre y cinematográfica de uno de los cuento
+ s más famosos del francés Barbey d´Aureville (1808-1889)\, incluido en 
+ el libro Les Diaboliques. Roberto es uno de esos hombres para los que la s
+ imulación es todo un arte. Para unos\, se trata de un caballero refinado\
+ ; para otros  un libertino.En cualquier caso\, Roberto es un hombre  sum
+ ido en el más profundo de los aburrimientos\, ya que ha agotado y satisfe
+ cho todos los placeres de la vida. Hasta que conoce a una cortesana que le
+  introduce en una historia de amor verdadero\, pero también de pasados im
+ perfectos.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108
+ -doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crimes of Passion
+DTSTART;VALUE=DATE-TIME:20121222T194000
+DTEND;VALUE=DATE-TIME:20121222T210400
+UID:1212224019_1_dore
+DESCRIPTION:Sala 1 - Crimes of Passion (La pasión de China Blue\, Ken Rus
+ sell\, 1984). Int.: Kathleen Turner\, Anthony Perkins\, John Laughlin. Rei
+ no Unido. VOSE*. 84’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
  s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/P
  rograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20121227T193000
-DTEND;VALUE=DATE-TIME:20121227T211800
-UID:1212273019_1_dore
-DESCRIPTION:Sala 1 - S S S S S \n S S S\n\n\nFuente: http://www.mecd.gob.e
- s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
- ogramacion/2012/PrograDore108-doc.doc
+SUMMARY:Private Hell 36
+DTSTART;VALUE=DATE-TIME:20121222T200000
+DTEND;VALUE=DATE-TIME:20121222T221100
+UID:1212220020_2_dore
+DESCRIPTION:Sala 2 - Private Hell 36 (Don Siegel\, 1954). Int.: Ida Lupino
+ \, Steve\nCochran\, Howard Duff. EE UU. VOSE*. 81'. The Sixteen Millimeter
+  Shrine (Mitchel Leisen\, 1959). Int.: Ida Lupino\, Martin Balsam. EE UU. 
+ Video. VOSE*. 25’. The Mask (Ida Lupino\, 1964). Int.: Robert Keith\, Mi
+ lton Selzer. EE UU. Video. VOSE*. 25’. Total programa: 131’\nPrivate..
+ .: “Una descripción realista\, amarga\, casi sórdida\, de la vida coti
+ diana de dos policías que prefigura la tonalidad de algunos filmes polic
+ íacos de los años setenta\; y el retrato de una mujer que trata de mante
+ ner el tipo y sacar algo de dinero utilizando unas dotes de seducción en 
+ decadencia y soñando con unos diamantes que sabe que no pueden ser para e
+ lla” (Ricardo Aldarondo). The Sixteen..: Episodio de The Twilight Zone. 
+ Un actriz de Hollywood olvidada pasa su vida viendo sus antiguas película
+ s hasta que e proponen un nuevo papel. The mask: Episodio de The Twilight 
+ Zone.En Nueva Orleans\, durante el Mardi Gras\, un anciano moribundo recib
+ e la visita de su familia... Segunda proyección The Sixteen… y The Mask
+  día 22.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-
+ doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121227T200000
-DTEND;VALUE=DATE-TIME:20121227T214000
-UID:1212270020_2_dore
-DESCRIPTION:Sala 2 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2012/PrograDore108-doc.doc
+SUMMARY:La casa del sorriso
+DTSTART;VALUE=DATE-TIME:20121222T214000
+DTEND;VALUE=DATE-TIME:20121222T233000
+UID:1212224021_1_dore
+DESCRIPTION:Sala 1 - La casa del sorriso (La casa de la sonrisa\, Marco Fe
+ rreri\, 1990). Int.: Ingrid Thulin\, Dado Ruspoli\, Vincenzo Cannavale. It
+ alia. VOSE. 110’\n“Treinta años después de El cochecito\, Ferreri re
+ toma el mismo tema de las exigencias de la tercera edad\, de cómo la ause
+ ncia de trabajo no puede convertirse en en sinónimo de la vacuidad de la 
+ existencia. La casa de la sonrisa nos trae a un Ferreri caústico\, parad
+ ójico\, agitador de ideas\, un Ferreri que expresa sus angustias y se div
+ ierte desnudando a las sociedades policiales que se empecinan en esconder 
+ el juego”. (Jean A. Gili)\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121227T214500
-DTEND;VALUE=DATE-TIME:20121227T233600
-UID:1212274521_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
+SUMMARY:Tommy
+DTSTART;VALUE=DATE-TIME:20121223T173000
+DTEND;VALUE=DATE-TIME:20121223T192100
+UID:1212233017_1_dore
+DESCRIPTION:Sala 1 - Tommy (Tommy\, Ken Russell\, 1975). Int.: Oliver Reed
+ \, Ann-Margret\, Roger Daltrey\, Elton John\, Tina Turner. Reino Unido. Di
+ gital. VOSE*. 111’\nUn niño queda ciego\, sordo y mudo como consecuenci
+ a del trauma sufrido al contemplar el asesinato de su padre a manos del am
+ ante de su madre. Con el paso del tiempo se convierte en estrella mundial 
+ del pinball. Según la revista Times “nunca hubo un musical como Tommy. 
+ Una rara\, loca\, maravillosamente excesiva versión de la ópera rock de 
+ los Who”. Segunda proyección día 27.\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20121228T173000
-DTEND;VALUE=DATE-TIME:20121228T190300
-UID:1212283017_1_dore
-DESCRIPTION:Sala 1 - S \n S S \n S\n\n\nFuente: http://www.mecd.gob.es/cul
- tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2012/PrograDore108-doc.doc
+SUMMARY:Thunderbolt and Lightfoot
+DTSTART;VALUE=DATE-TIME:20121223T194000
+DTEND;VALUE=DATE-TIME:20121223T213500
+UID:1212234019_1_dore
+DESCRIPTION:Sala 1 - Thunderbolt and Lightfoot (Un botín de 500.000 dóla
+ res\, M. Cimino\, 1974). Int.: Clint Eastwood\, Jeff Bridges\, George Kenn
+ edy. EE UU. VOSE. 115’\n“La admitida relación periférica entre la im
+ agen y la realidad de América\, entre pasado y presente\, conecta la pel
+ ícula al western y al trabajo sucesivo de Cimino. Además\, la declaraci
+ ón de Lightfoot de que son ‘héroes’ cristaliza el espíritu de las p
+ elículas de los años 70\, conectando los géneros de la película de ami
+ gos\, la road-movie y las películas de gangsters.” (Robin Wood) Segunda
+  proyección enero.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
+ ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/Prog
+ raDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20121228T193000
-DTEND;VALUE=DATE-TIME:20121228T215500
-UID:1212283019_2_dore
-DESCRIPTION:Sala 2 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2012/PrograDore108-doc.doc
+SUMMARY:Bisturi\, la mafia bianca
+DTSTART;VALUE=DATE-TIME:20121223T200000
+DTEND;VALUE=DATE-TIME:20121223T214000
+UID:1212230020_2_dore
+DESCRIPTION:Sala 2 - Bisturi\, la mafia bianca (Asesinato en el quirófano
+ \, Luigi Zampa\, 1973). Int.: Enrico María Salerno\, Gabriele Ferzetti\, 
+ Senta Berger. Italia. Beta digital. VOSE*. 100’\n“¿Por qué Italia no
+  tiene ningún premio Nobel en medicina? Porque aquí los ‘barones’ op
+ eran día y noche\, incluso cuando no es necesario. ¿Qué cómo lo sé? P
+ or los casos que he ido recogiendo para hacer esta película. No he oído 
+ más que a gente diciendo ‘Querían operarme aunque yo intentase evitar 
+ ese peligro” (Luigi Zampa) Segunda proyección enero.\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121228T194500
-DTEND;VALUE=DATE-TIME:20121228T232400
-UID:1212284519_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
+SUMMARY:The Deer Hunter
+DTSTART;VALUE=DATE-TIME:20121226T173000
+DTEND;VALUE=DATE-TIME:20121226T203200
+UID:1212263017_1_dore
+DESCRIPTION:Sala 1 - The Deer Hunter (El cazador\, M. Cimino\, 1978). Int.
+ : Robert de Niro\, Christopher Walken\, Meryl Streep. EE UU. VOSE. 182’\
+ n“La imagen de Vietnam y de los vietnamitas articulada en El cazador for
+ ma claramente parte de un extenso proceso orgánico que impregna cada secu
+ encia de la película. Más importante\, en el contexto de las posiciones 
+ criticas en relación a las secuencias vietnamitas de la película\, es qu
+ e la imagen de Vietnam se revela en una profundamente exacta y profundamen
+ te moral visión histórica\, psicológica\, política y sociológica de l
+ as consecuencias del imperialismo en una cultura y en un pueblo.” (Frank
+  Burke)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-do
+ c.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121229T173000
-DTEND;VALUE=DATE-TIME:20121229T192900
-UID:1212293017_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2012/PrograDore108-doc.doc
+SUMMARY:El Noveno Día de la Creación
+DTSTART;VALUE=DATE-TIME:20121226T200000
+DTEND;VALUE=DATE-TIME:20121226T211400
+UID:1212260020_2_dore
+DESCRIPTION:Sala 2 - El Noveno Día de la Creación (César Urbina Vitoria
+ \, 2011). Documental. España. 45’. Guillermo Oyágüez Montero (Antonio
+  Gómez-Olea\, 2012). España. Video. 29’. Total programa: 74’\nEl nov
+ eno…: Durante siete largos años\, un joven artista llamado Jesús Mateo
+ \, se enfrentó a una titánica obra\, llenar de vida los muros de una ant
+ igua iglesia desacralizada. Guillermo…: Trata sobre cómo prepara una ex
+ posición este pintor que no cree en los genios\, sino en la capacidad de 
+ tomarse infinitas molestias\, desarrollando sus habilidades lo mejor que p
+ uede.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.
+ doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20121229T195000
-DTEND;VALUE=DATE-TIME:20121229T220400
-UID:1212295019_1_dore
-DESCRIPTION:Sala 1 - S S S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cu
+SUMMARY:Din dragoste cu cele mai bune intentii / Best Intentions
+DTSTART;VALUE=DATE-TIME:20121226T210000
+DTEND;VALUE=DATE-TIME:20121226T224500
+UID:1212260021_1_dore
+DESCRIPTION:Sala 1 - Din dragoste cu cele mai bune intentii / Best Intenti
+ ons (Adrian Sitaru\, 2011). Int.: Bogdan Dumitrache\, Natasa Raab\, Aline 
+ Grigore. Rumania / Hungría / Francia. Beta digital. VOSI/E*. 105’\nPrem
+ io al Mejor Director y Mejor Actor en el Festival de Locarno 2011. Best In
+ tentions cuenta la historia de Alex\, un joven de éxito que empieza a viv
+ ir una pesadilla cuando su madre sufre un derrame y es llevada a un hospit
+ al de provincia. En su intento por estarle lo más cerca posible\, Alex co
+ mprobará que el camino hacia los infiernos está lleno de buenas intencio
+ nes. Inauguración de la muestra.\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sixteen Millimeter Shrine
+DTSTART;VALUE=DATE-TIME:20121226T213000
+DTEND;VALUE=DATE-TIME:20121226T222000
+UID:1212263021_2_dore
+DESCRIPTION:Sala 2 - The Sixteen Millimeter Shrine (Mitchel Leisen\, 1959)
+ . Int.: Ida Lupino\, Martin Balsam. EE UU. Digital. VOSE*. 25’. The Mask
+  (Ida Lupino\, 1964). Int.: Robert Keith\, Milton Selzer. EE UU. Digital. 
+ VOSE*. 25’. Total programa: 50’\n\n\nFuente: http://www.mecd.gob.es/cu
  ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
  macion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121229T203000
-DTEND;VALUE=DATE-TIME:20121229T215400
-UID:1212293020_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012
- /PrograDore108-doc.doc
+SUMMARY:El cazador de dragones
+DTSTART;VALUE=DATE-TIME:20121227T173000
+DTEND;VALUE=DATE-TIME:20121227T191300
+UID:1212273017_1_dore
+DESCRIPTION:Sala 1 - El cazador de dragones (Patxi Barko\, 2010). Int.: As
+ ier Hormaza\,\nItziar Ituño\, Roberto Tananta. España. 103’\nGorka lle
+ va tiempo dando largas a las insistentes preguntas que le viene haciendo A
+ itor\, su hijo menor\, acerca de su pasado. Pero\, ¿cómo explicar a un n
+ iño que su padre mataba por solidaridad? Gorka\, militante de ETA políti
+ co militar hasta su autodisolución a principios de los ochenta\, termina 
+ incorporado junto a otros muchos internacionalistas a la lucha que se desa
+ rrolló a lo largo de esa década en América Central.\n\n\nFuente: http:/
+ /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
+ fe/cine-dore/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121229T222000
-DTEND;VALUE=DATE-TIME:20121229T235400
-UID:1212292022_1_dore
-DESCRIPTION:Sala 1 - S S \nS S S \n S S\n\n\nFuente: http://www.mecd.gob.e
- s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
- ogramacion/2012/PrograDore108-doc.doc
+SUMMARY:Toată lumea din familia noastră / Everybody in Our Family
+DTSTART;VALUE=DATE-TIME:20121227T193000
+DTEND;VALUE=DATE-TIME:20121227T211800
+UID:1212273019_1_dore
+DESCRIPTION:Sala 1 - Toată lumea din familia noastră / Everybody in Our 
+ Family (Radu Jude\, 2012). Int.: Serban Pavlu\, Sofia Nicolaescu\, Mihaela
+  Sîrbu. Rumanía / Paises Bajos. Beta digital. VOSI/E*. 108’\nMarius se
+  despierta en su apartamento\, después de una mala noche. De allí va a c
+ asa de sus padres\, con los que no tiene una gran armonía. Después\, acu
+ dirá a buscar a Sofia\, su hija\, que vive con su ex mujer\, su ex suegra
+  y el novio de su ex mujer. La intención de Marius es llevar a Sofia al m
+ ar. Pero los planes a veces chocan con las relaciones entre las personas
+ … Segunda proyección enero.\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20121230T173000
-DTEND;VALUE=DATE-TIME:20121230T191900
-UID:1212303017_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2012/PrograDore108-doc.doc
+SUMMARY:Comédie de l´innocence
+DTSTART;VALUE=DATE-TIME:20121227T200000
+DTEND;VALUE=DATE-TIME:20121227T214000
+UID:1212270020_2_dore
+DESCRIPTION:Sala 2 - Comédie de l´innocence (La comedia de la inocencia\
+ , Raúl Ruiz\, 2000). Int. : Isabelle Huppert\, Jeanne Balibar\, Charles 
+ Berling. Francia. VOSE*. 100’\n“En Raúl Ruiz\, el mundo siempre comie
+ nza por ser puesto en cuestión\, antes de convertirse en un objeto fantas
+ magórico o de superstición. La locura mostrada en Comédie de l’innoce
+ nce no sigue otra lógica: estatuas primitivas\, esculturas clásicas\, cu
+ adros figurativos o abstractos\, los objetos artísticos que pueblan la pe
+ lícula tiene todos una relación con lo sagrado.” (Julien Suaudeau)\n\n
+ \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
+ cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20121230T194500
-DTEND;VALUE=DATE-TIME:20121230T212900
-UID:1212304519_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
+SUMMARY:Tommy
+DTSTART;VALUE=DATE-TIME:20121227T214500
+DTEND;VALUE=DATE-TIME:20121227T233600
+UID:1212274521_1_dore
+DESCRIPTION:Sala 1 - Tommy (Tommy\, Ken Russell\, 1975). Int.: Oliver Reed
+ \, Ann-Margret\, Roger Daltrey\, Elton John\, Tina Turner. Reino Unido. Di
+ gital. VOSE*. 111’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/Pro
+ graDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jac-byul-deul / Farewell
+DTSTART;VALUE=DATE-TIME:20121228T173000
+DTEND;VALUE=DATE-TIME:20121228T190300
+UID:1212283017_1_dore
+DESCRIPTION:Sala 1 - Jac-byul-deul / Farewell (Kim Baek-jun\, 2010). Int.:
+  Jeong\nTaek-hyeon\, Lee Ju-seung. Corea del Sur. Digital. VOSE*. 93’\nM
+ yung-hee de quince años y su hermano de nueve años están solos en la ci
+ udad. Su madre se fue a Yeonbyeon hace tres meses\, prometiendo volver con
+  su padre\, pero desde entonces no han sabido nada de ella. A diario\, los
+  dos hermanos van al aeropuerto esperando el regreso de sus padres\, que n
+ unca llegan. Ahí es donde encuentra a Yong-kyu\, un joven adicto al pegam
+ ento…\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-do
+ c.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Undeva la Palilula
+DTSTART;VALUE=DATE-TIME:20121228T193000
+DTEND;VALUE=DATE-TIME:20121228T215500
+UID:1212283019_2_dore
+DESCRIPTION:Sala 2 - Undeva la Palilula (En algún lugar de Palilula\, Sil
+ viu Purcărete 2012).Int.: Áron Dimény\, George Mihãita\, Constantin Ch
+ iriac. Rumanía. Blu-ray. VOSI/E*. 145’\nRumania\, años 60. Serafim es 
+ un joven médico destinado al hospital de Palilula\, una pequeña localida
+ d de una remota comarca rural\, tras la muerte del pediatra titular del ce
+ ntro\, el señor Pantelică. En el hospital los pacientes están sanos com
+ o robles y uno de sus pasatiempos favoritos es ayudar en las autopsias que
+  tienen lugar en el depósito de cadáveres. El resto de los habitantes de
+  Palilula oscilan entre la cordialidad y la debilidad mental\, y permanece
+ n aislados de la realidad…\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heaven’s Gate
+DTSTART;VALUE=DATE-TIME:20121228T194500
+DTEND;VALUE=DATE-TIME:20121228T232400
+UID:1212284519_1_dore
+DESCRIPTION:Sala 1 - Heaven’s Gate (La puerta del cielo\, M. Cimino\, 19
+ 80). Int.: Kris Kristofferson\, Christopher Walken\, Isabelle Huppert. EE 
+ UU. VOSE. 219’\nVersión íntegra. “La Puerta del Cielo aborda un mate
+ rial en apariencia atípico y muy poco habitual respecto al género en que
+  supuestamente se inscribe\, en concreto la guerra desatada entre ganadero
+ s e inmigrantes en Johnson County (Wyoming) en la década de 1890. Pero de
+ l mismo modo en que El Cazador asumía sin complejos el punto de vista par
+ cial de sus protagonistas\, esta vez Cimino salta al otro lado y observa e
+ l campo de batalla desde la perspectiva opuesta sin que nada varíe. Lo qu
+ e importa\, es el modo en que la historia se convierte en mito y\, por tan
+ to\, los elementos emocionales y narrativos que se ponen en juego para con
+ seguirlo.” (Carlos Losilla)\n\n\nFuente: http://www.mecd.gob.es/cultura-
  mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
  /2012/PrograDore108-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:Back to the Future 3
+DTSTART;VALUE=DATE-TIME:20121229T173000
+DTEND;VALUE=DATE-TIME:20121229T192900
+UID:1212293017_1_dore
+DESCRIPTION:Sala 1 - Back to the Future 3 (Regreso al futuro 3\, Robert Ze
+ meckis\, 1990). Int.: Michael J. Fox\, Christopher Lloyd\, Mary Steenburge
+ n. EE UU. VE. 119’\nDoc tiene el coche-máquina del tiempo averiado\, y 
+ está prisionero en la época del salvaje oeste. Por su parte\, Marty McFl
+ y está en 1955 y acaba de encontrar una carta escrita por Doc en 1885. En
+  ella\, Doc le pide que arregle el coche\, pero que no vaya a rescatarlo p
+ ues se encuentra muy bien en el pasado. Sin embargo el muchacho irá en su
+  búsqueda cuando descubre una vieja tumba en la que lee que su amigo muri
+ ó en 1885.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
+ ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore10
+ 8-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Year of the Dragon
+DTSTART;VALUE=DATE-TIME:20121229T195000
+DTEND;VALUE=DATE-TIME:20121229T220400
+UID:1212295019_1_dore
+DESCRIPTION:Sala 1 - Year of the Dragon (Manhattan Sur\, M. Cimino\, 1985)
+ . Int.: Mickey Rourke\, John Lone. EE UU. VOSE*. 134’\n“En cada escena
+  de Manhattan Sur\, hay en el medio un espacio de calma y descanso. Como l
+ a voluntad de hacer la paz o la tregua dentro de la idea fija. Cada vez\, 
+ sin embargo\, (el personaje) Stanley White recupera y parte de nuevo con m
+ ayor violencia. Como si esos momentos de paz fuesen una trampa del diablo 
+ para hacerle olvidar su misión. Tanto que\, formalmente\, bajo el fuego p
+ irotécnico de la acción imparable\, germina la monotonía de lo que Cimi
+ no convirtió en un truco narrativo de acuerdo con la monotonía del héro
+ e”. (Serge Daney)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
+ ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/Prog
+ raDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Whore
+DTSTART;VALUE=DATE-TIME:20121229T203000
+DTEND;VALUE=DATE-TIME:20121229T215400
+UID:1212293020_2_dore
+DESCRIPTION:Sala 2 - Whore (Puta\, Ken Russell\, 1981). Int.: Theresa Russ
+ ell\, Benjamin Mouton\, Antonio Fargas. Reino Unido. VOSE. 84’\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eu cand vreau sa fluier\, fluier
+DTSTART;VALUE=DATE-TIME:20121229T222000
+DTEND;VALUE=DATE-TIME:20121229T235400
+UID:1212292022_1_dore
+DESCRIPTION:Sala 1 - Eu cand vreau sa fluier\, fluier (Si quiero silbar\, 
+ silbo\, Florin\nSerban\, 2010). Int.: Ada Condeescu\, George Pistereanu. R
+ umania / Suecia. 2010. VOSE. 94’\nCuando faltan dos semanas para que Sil
+ viu salga de un centro de detención de menores\, recibe la visita de su h
+ ermano pequeño\, que le cuenta que su madre\, que acaba de llegar de Ital
+ ia\, quiere llevárselo con ella. Silviu tiene razones para tratar de impe
+ dirlo por todos los medios. Mientras tanto\, se enamora de una chica de un
+  grupo de estudiantes de sociología que va al centro a hacer prácticas.\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Devils
+DTSTART;VALUE=DATE-TIME:20121230T173000
+DTEND;VALUE=DATE-TIME:20121230T191900
+UID:1212303017_1_dore
+DESCRIPTION:Sala 1 - The Devils (Los demonios\, Ken Russell\, 1971). Int.:
+  Vanessa Redgrave\, Oliver Reed\, Dudley Sutton. Reino Unido. VOSE. 109’
+ \nBasada en Los demonios de Loudun de Aldous Huxley. “La película es 
+ ‘ambiciosa’\, una advertencia profética contra los efectos de la igno
+ rancia. Las imágenes de Russell son psicológicamente poderosas. El direc
+ tor encuentra necesario enfrentarse la idea de la muerte y la decadencia\;
+  en Los demonios\, la sensualidad de Grandier es ‘un arma contra la muer
+ te’. La película está llena de energía\, pasión e imaginación.” (
+ Stephen Farber)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDo
+ re108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Desperate Hours
+DTSTART;VALUE=DATE-TIME:20121230T194500
+DTEND;VALUE=DATE-TIME:20121230T212900
+UID:1212304519_1_dore
+DESCRIPTION:Sala 1 - Desperate Hours (37 horas desesperadas\, M. Cimino\, 
+ 1990). Int.: Mickey Rourke\, Anthony Hopkins\, Mimi Rogers. EE UU. VOSE. 1
+ 04’\n* ž   ¢ Æ hD ጁ   ¢ Æ $IfgdT é $1$IfgdT $IfgdT ＀ഀè é
+  ù ú o é ᄀø ú h h h h ' h h h h CJ h h gdT h% há CJ OJQJ^J' há h
+ á RGTGUGVGWG^GjGrGŽGðGùG±I²IîÚÇ´›Š›vcSc:0 há há há “]
+ ”]•] ]ï]ö]û]ü] ^#^$^%^<^B^ù^ú^ 摧 $ hµx ' hµx q 摧䢋 h‹H
+  h‹H hµx $ hµx 0 hµx þ„-…—…Ü†÷†ø† ‡Ùˆ ‡ ‰ 
+ 摧୔é{欀橤 gdT gdT gd@yj $ hµx ' hµx =ž>ž©žªž Ÿ $ hµx `Ÿa
+ ŸrŸ€ŸðŸøŸùŸúŸ 摧୔é{欀卤 摧元 摧柒V{欀 ”±•
+ ±š±›±¥±¦±¬±±Ê±ã± gde ¿ Ä>Ä?ÄýÄ Å Å ਀ÖÆØÆë
+ Æ5ÇIÇOÇ÷ÈûÈüÈýÈÿÈ gdšU² nes de los paisajes occidentales s
+ on abrumadoras\, tenemos la sensación de que este espacio se extiende has
+ ta el fin del universo. El espacio es el tema de América. Pero le prestam
+ os poca atención\, la mayoría de las veces no nos damos cuenta. En 37 ho
+ ras desesperadas ninguno de los personajes presta atención a lo que lo ro
+ dea. Nadie repara en el espacio\, en la belleza del cielo\, la belleza de 
+ las montañas. El único personaje que se da cuenta de la belleza de la zo
+ na es\, irónicamente\, el más simple\, el más infantil\, más inocente.
+ ” (Michael Cimino)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/Pro
+ graDore108-doc.doc
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Loverboy\,
 DTSTART;VALUE=DATE-TIME:20121230T200000
 DTEND;VALUE=DATE-TIME:20121230T213400
 UID:1212300020_2_dore
-DESCRIPTION:Sala 2 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2012/PrograDore108-doc.doc
+DESCRIPTION:Sala 2 - Loverboy\, (Cătălin Mitulescu\, 2011). Int.: George
+  Pistereanu\, Ada Condeescu\, Ion Besoiu. Rumanía / Suecia / Serbia. VOSI
+ /E*. 94’\ngdCQ s son bronceadas. El primer amor nunca se ha sentido más
+  peligroso.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
+ ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2012/PrograDore10
+ 8-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

@@ -4,993 +4,1471 @@ PRODID:-//Cine Doré//github.com santos82 doredb//ES
 X-WR-CALNAME:Cine Dore
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:Sommarlek
 DTSTART;VALUE=DATE-TIME:20080102T173000
 DTEND;VALUE=DATE-TIME:20080102T190500
 UID:0801023017_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Sommarlek (Juegos de verano\, Ingmar Bergman\, 1951).
+  Int.: Maj-Britt Nilsson\, Birger Malmsten\, Alf Kjellin. Suecia. VOSE. 95
+ '\n"Fue la primera vez que me vi independiente\, con un estilo propio\, ha
+ ciendo una película mía\, que nadie podría remedar. De repente supe que
+  estaba poniendo la cámara en el lugar preciso\, con el resultado adecuad
+ o y que todo lo demás salía solo" (Ingmar Bergman).\n\n\nFuente: http://
+ www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
+ e/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Criss Cross
 DTSTART;VALUE=DATE-TIME:20080102T193000
 DTEND;VALUE=DATE-TIME:20080102T205800
 UID:0801023019_1_dore
-DESCRIPTION:Sala 1 - S S S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Criss Cross (El abrazo de la muerte\, Robert Siodmak\
+ , 1949). Int.: Burt Lancaster\, Yvonne de Carlo\, Dan Duryea. EE UU. VOSE.
+  88'\n"Un relato de traiciones y obsesiones del mayor estilista del cine n
+ egro\, Siodmak. De nuevo Lancaster es el incauto\, un guarda de seguridad 
+ aún enamorado de su ex mujer\, que se ha liado con un gángster. (...) Y 
+ como siempre en Siodmak el suspense se mantiene constante gracias al ritmo
+ \, a la precisión y visual y a una caracterización excelente" (Geoff And
+ rews). Segunda proyección día 4.\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Lamiel
 DTSTART;VALUE=DATE-TIME:20080102T200000
 DTEND;VALUE=DATE-TIME:20080102T212700
 UID:0801020020_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
+DESCRIPTION:Sala 2 - Lamiel (Lamiel\, Jean Aurel\, 1967). Int.: Anna Karin
+ a\, Michel Bouquet\, Jean-Claude Brialy. Francia. VOSE. 87'\nUn perverso m
+ édico rural transforma a una campesina en mujer galante\, con tanto éxit
+ o que ésta encuentra un marido aristócrata.\n\n\nFuente: http://www.mecd
+ .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
+ ore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Deutschland im Herbst
 DTSTART;VALUE=DATE-TIME:20080102T220000
 DTEND;VALUE=DATE-TIME:20080103T000200
 UID:0801020022_1_dore
-DESCRIPTION:Sala 1 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Deutschland im Herbst (Alemania en otoño\, VV AA\, 1
+ 978). Documental. Alemania. VOSE. 122'\n"La película conclusiva sobre los
+  'años de plomo' en la RFA es Alemania en otoño\, film colectivo de epis
+ odios.(...). Mezclando partes documentales (los entierros de Schleyer y de
+  los terroristas filmados por Kluge y Schlöndorff) y de ficción\, que in
+ tegran tanto una conversación entre Fassbinder\, su amante y su madre com
+ o una escenificación censurada de Antígona a partir de un texto de Böll
+  o la parábola de la profesora de historia rodada por Kluge\, Alemania en
+  otoño significa un esfuerzo colectivo que\, en cierto modo\, inicia el c
+ omienzo del fin del NCA" (José Enrique Monterde).\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:Sommaren med Monika
 DTSTART;VALUE=DATE-TIME:20080103T173000
 DTEND;VALUE=DATE-TIME:20080103T190600
 UID:0801033017_1_dore
-DESCRIPTION:Sala 1 - S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Sommaren med Monika (Un verano con Mónica\, Ingmar B
+ ergman\, 1953). Int.: Harriet Andersson\, Lars Ekborg\, Dagmar Ebbesen. Su
+ ecia. VOSE. 96'\n"'Amar a placer\, amar a morir...' Un verano con Mónica 
+ es la primera película baudeleriana. Sólo Bergman puede filmar a los hom
+ bres tal y como las mujeres los aman\, pero los odian\, y a las mujeres ta
+ l y como los hombres las odian\, pero las aman. (...) Pero hay más. Para 
+ Mónica\, como para Michael O'Hara\, la cuestión es envejecer con gracia.
+  Como la vejez es fealdad\, suerte tenemos\, murmura Bergman\, de que exis
+ ta la cámara para conservar la belleza" (Jean-Luc Godard).\n\n\nFuente: h
+ ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
+ e/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:The Elephant Man
 DTSTART;VALUE=DATE-TIME:20080103T193000
 DTEND;VALUE=DATE-TIME:20080103T213200
 UID:0801033019_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
+DESCRIPTION:Sala 1 - The Elephant Man (El hombre elefante\, David Lynch\, 
+ 1980). Fotografía: Freddie Francis. Int.: John Hurt\, Anne Bancroft\, Ant
+ hony Hopkins. GB / EE UU. VOSE. 122'\n"El blanco y negro te saca del mundo
+  real. Te hace retroceder en el tiempo\, a la época de la Revolución Ind
+ ustrial (...) The Elephant Man ocurre cuando empieza la industrialización
+ . El comienzo de la era de los Eraserheads. Yo esperaba que los victoriano
+ s tuvieran mucha maquinaria. No había mucha\, pero hacía mucho ruido y s
+ oltaba mucho humo" (David Lynch).\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Casas gemelas
 DTSTART;VALUE=DATE-TIME:20080103T200000
 DTEND;VALUE=DATE-TIME:20080103T221800
 UID:0801030020_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
+DESCRIPTION:Sala 2 - Casas gemelas (Enrique Retuerto\, 1975). 22'. Plenilu
+ nio (Imanol Uribe\, 2000). Int.: Miguel Angel Solá\, Adriana Ozores\, Tri
+ nidad Rugero. España. 116'. Total programa: 138'\nEn una pequeña ciudad 
+ de provincias\, una niña aparece asesinada en mitad de un bosque. Obsesio
+ nado por el espantoso suceso\, el inspector de policía a cargo de la inve
+ stigación\, recorre la ciudad buscando una mirada.\n\n\nFuente: http://ww
+ w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
+ cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Kvinnors väntan
 DTSTART;VALUE=DATE-TIME:20080103T220000
 DTEND;VALUE=DATE-TIME:20080103T234700
 UID:0801030022_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Kvinnors väntan (Tres mujeres\, Ingmar Bergman\, 195
+ 2). Int.: Anita Björk\, Eva Dahlbeck\, Maj-Britt Nilsson. Suecia. VOSE*. 
+ 107'\n"Redescubrir Tres mujeres\, el vínculo entre Juegos de verano y Un 
+ verano con Mónica\, es recordar la suave melancolía con la que Bergman s
+ e contemplaba durante los 'años de verano'. Cada episodio de la película
+  tiene un potencial trágico\, pero contra todo pronóstico\, el tono conc
+ luyente es de comprensión y plenitud" (Philip Strick).\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Criss Cross
 DTSTART;VALUE=DATE-TIME:20080104T173000
 DTEND;VALUE=DATE-TIME:20080104T185800
 UID:0801043017_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Criss Cross (El abrazo de la muerte\, Robert Siodmak\
+ , 1949). Int.: Burt Lancaster\, Yvonne de Carlo\, Dan Duryea. EE UU. VOSE.
+  88'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
+ d/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:El callejón de los milagros
 DTSTART;VALUE=DATE-TIME:20080104T193000
 DTEND;VALUE=DATE-TIME:20080104T215000
 UID:0801043019_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - El callejón de los milagros (Jorge Fons\, 1994). Pro
+ ductor: Alfredo Ripstein. Int.: Ernesto\nGómez Cruz\, María Rojo\, Salma
+  Hayek. México. 140'\nEl callejón de los milagros\, en pleno centro de l
+ a ciudad de México\, es el escenario donde se entrecruzan las vidas de va
+ rios personajes\, todos ellos con una historia que contar. Basada en la no
+ vela de Naguib Mahfouz.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/d
+ ms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/
+ PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:La niña de luto
 DTSTART;VALUE=DATE-TIME:20080104T200000
 DTEND;VALUE=DATE-TIME:20080104T212700
 UID:0801040020_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
+DESCRIPTION:Sala 2 - La niña de luto (Manuel Summers\, 1964). Productor: 
+ Francisco Molero. Int.: María José Alfonso\, Alfredo Landa\, Pilar Góme
+ z Ferrer. España. 87'\nUna serie de lutos por los consecutivos fallecimie
+ ntos familiares impiden a Rocío casarse con su impaciente novio.\n\n\nFue
+ nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
+ ra/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:En lektion i kärlek
 DTSTART;VALUE=DATE-TIME:20080104T220000
 DTEND;VALUE=DATE-TIME:20080104T233600
 UID:0801040022_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore49.pdf
+DESCRIPTION:Sala 1 - En lektion i kärlek (Una lección de amor\, Ingmar B
+ ergman\, 1954). Int.: Eva Dahlbeck\, Gunnar Björnstrand\, Harriet Anderss
+ on. Suecia. VOSE. 96'\n"Las lecciones de lírica ganan por la mano a la am
+ argura de los comentarios sobre el matrimonio en una película\, especial 
+ en la obra de Bergman por su libertad y espontaneidad\, su riqueza emocion
+ al\, calidez y generosidad" (Robin Wood).\n\n\nFuente: http://www.mecd.gob
+ .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
+ programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S S
+SUMMARY:Sommarnattens leende
 DTSTART;VALUE=DATE-TIME:20080105T173000
 DTEND;VALUE=DATE-TIME:20080105T191800
 UID:0801053017_1_dore
-DESCRIPTION:Sala 1 - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Sommarnattens leende (Sonrisas de una noche de verano
+ \, Ingmar Bergman\, 1955). Int.: Gunnar Björnstrand\, Eva Dahlbeck\, Jarl
+  Kulle. Suecia. VOSE. 108'\n"Encantadora comedia de costumbres que junta a
+  una serie de parejas\, exparejas y parejas en ciernes y los propone un ju
+ ego de amor en una casa de campo en un fin de semana del verano de 1900. I
+ mplacable con las pretensiones de sus personajes\, pero con una especie de
+  ternura irónica cuando estos se queman en su propio fuego\, es un rondó
+  de amor divertido\, erótico y muy bien interpretado. Bajo la fachada no 
+ hay mucho más\, pero ésta tiene una belleza mágica y temblorosa" (Tom M
+ ilne)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:The Ten Commandments
 DTSTART;VALUE=DATE-TIME:20080105T194000
 DTEND;VALUE=DATE-TIME:20080105T232000
 UID:0801054019_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
+DESCRIPTION:Sala 1 - The Ten Commandments (Los diez mandamientos\, Cecil B
+ . De Mille\, 1956). Int.: Charlton Heston\, Yul Brinner\, Yvonne de Carlo.
+  EE UU. VOSE. 220'\n"La última y más extravagante superproducción de Ce
+ cil B. De Mille es tan vulgar y absurda como cabría esperar\, pero no abu
+ rre en ningún momento. Aunque en cierto modo es inferior a su versión de
+  1923 y los efectos especiles parecen hoy menos verosímiles que en 1956\,
+  el color es impresionante y el tono espectacular de De Mille\, que incluy
+ e una introducción en persona y su propia narración\, nunca decae. Una 
+ épica conducida por una convicción personal que ya no se encuentra en lo
+ s monolitos recientes de Hollywood" (Jonathan Rosenbaum).\n\n\nFuente: htt
+ p://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/
+ mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Una cubana en España
 DTSTART;VALUE=DATE-TIME:20080105T200000
 DTEND;VALUE=DATE-TIME:20080105T213100
 UID:0801050020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore49.pdf
+DESCRIPTION:Sala 2 - Una cubana en España (Luis Herrera Bayón\, 1951). I
+ nt.: Blanquita Amaro\, Mario Cabré\, Marujita Díaz. España. 91'\nLa est
+ rella de revista cubana Blanquita tiene que recurrir a mil enredos para co
+ nseguir casarse con Roberto sin el permiso de su tío Tito.\n\n\nFuente: h
+ ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
+ e/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S S
+SUMMARY:Smultronstället
 DTSTART;VALUE=DATE-TIME:20080108T173000
 DTEND;VALUE=DATE-TIME:20080108T190100
 UID:0801083017_1_dore
-DESCRIPTION:Sala 1 - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Smultronstället (Fresas salvajes\, Ingmar Bergman\, 
+ 1957). Int.: Victor Sjöström\, Gunnar Björnstrand\, Ingrid Thulin. Suec
+ ia. VOSE. 91'\n"La construcción denota una habilidad suprema. Ya no es el
+  clásico juego entre el pasado y el presente\, sino una interpenetración
+  total de pasado y presente sin que uno sea la referencia del otro. Uno po
+ dría invocar a Proust y\, en determinadas escenas\, a Joyce" (Jacques Don
+ iol-Valcroze).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDor
+ e49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Le Charme discret de la bourgeoisie
 DTSTART;VALUE=DATE-TIME:20080108T193000
 DTEND;VALUE=DATE-TIME:20080108T211100
 UID:0801083019_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Le Charme discret de la bourgeoisie (El discreto enca
+ nto de la burguesía\, Luis Buñuel\, 1972). Int.: Fernando Rey\, Stéphan
+ e Audran\, Jean-Pierre Cassel. Francia. VOSE*. 101'\n"La crónica de los f
+ rustrados intentos de seis ricos para sentarse a cenar es la comedia de co
+ stumbres que pretende terminar con todas las comedias de costumbres. Con l
+ a élite de los actores europeos\, Buñuel nos presenta el ingrediente sec
+ reto del poder burgués: el deseo de aplastar el deseo. Cuisine interruptu
+ s (...) Si la realidad es una promesa\, el consumo también\, y se puede v
+ ivir del aire". (Judy Bloch)\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Las tres perfectas casadas
 DTSTART;VALUE=DATE-TIME:20080108T200000
 DTEND;VALUE=DATE-TIME:20080108T213000
 UID:0801080020_2_dore
-DESCRIPTION:Sala 2 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore49.pdf
+DESCRIPTION:Sala 2 - Las tres perfectas casadas (Benito Alazraki\, 1972). 
+ Int.: Mauricio Garcés\, Saby Kamalich\, Luis Dávila. España / México. 
+ 90'\nAntes de suicidarse\, un soltero planea seducir a las mujeres de sus 
+ tres mejores amigos. Basada en una obra de Alejandro Casona\, inspirada a 
+ su vez por Der Tod des Junggesellen\, de Arthur Schniltzer.\n\n\nFuente: h
+ ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
+ e/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:Kvinnodröm
 DTSTART;VALUE=DATE-TIME:20080108T220000
 DTEND;VALUE=DATE-TIME:20080108T232700
 UID:0801080022_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Kvinnodröm (Sueños\, Ingmar Bergman\, 1955). Int.: 
+ Eva Dahlbeck\, Harriet Andersson\, Gunnar Björnstrand. Suecia. VOSE*. 87'
+ \nUna fotógrafa de moda se reencuentra con un antiguo amante casado\, mie
+ ntras que su modelo visita Gotemburgo con un viejo desconocido.\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:Det sjunde inseglet
 DTSTART;VALUE=DATE-TIME:20080109T173000
 DTEND;VALUE=DATE-TIME:20080109T190600
 UID:0801093017_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Det sjunde inseglet (El séptimo sello\, Ingmar Bergm
+ an\, 1957). Int.: Max von Sydow\, Gunnar Björnstrand\, Nils Poppe. Suecia
+ . VOSE. 96'\n"Mi intención era pintar como el pintor medieval\, con el mi
+ smo interés objetivo\, con la misma alegría y ternura. Mis personajes r
+ íen\, lloran\, aullan\, temen\, hablan\, juegan\, sufren y preguntan\, pr
+ eguntan... Temer a la plaga\, al Día del Juicio. Nuestro miedo es a otras
+  cosas pero las palabras son las mismas. La pregunta permanece" (Ingmar Be
+ rgman).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Les Enfants terribles
 DTSTART;VALUE=DATE-TIME:20080109T193000
 DTEND;VALUE=DATE-TIME:20080109T210700
 UID:0801093019_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Les Enfants terribles (Los niños terribles\, Jean-Pi
+ erre Melville\, 1949). Int.: Nicole Stéphane\, Edouard Dhermitte\, Renée
+  Cosima. Francia. VOSE. 97'\n"La historia de un amor obsesivo entre herman
+ o y hermana\, aislados en una habitación. Más un ambiente que una histor
+ ia\, la película se desplaza en sueños al paso de la poesía\, lastrada 
+ con el peso de su carga simbólica pero\, aún así\, eléctrizante a cada
+  momento" (Pacific Film Archive). Segunda proyección día 18.\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:La culpa del otro
 DTSTART;VALUE=DATE-TIME:20080109T200000
 DTEND;VALUE=DATE-TIME:20080109T212900
 UID:0801090020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore49.pdf
+DESCRIPTION:Sala 2 - La culpa del otro (Ignacio F. Iquino\, 1942). Int.: M
+ ercedes Vecino\, Luis Prendes\, Isabel de Pomés. España. 89'\nEl ayuda d
+ e cámara de un marqués es acusado de la muerte de éste. Años más tard
+ e\, el hijo del marqués se enamora de una famosa cantante que resulta ser
+  la hija del criado.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/Pro
+ graDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S S
+SUMMARY:Nicht versöhnt oder Es hilft nur Gewalt wo Gewalt herrscht
 DTSTART;VALUE=DATE-TIME:20080109T220000
 DTEND;VALUE=DATE-TIME:20080109T230000
 UID:0801090022_1_dore
-DESCRIPTION:Sala 1 - S S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Nicht versöhnt oder Es hilft nur Gewalt wo Gewalt he
+ rrscht (No reconciliados o Sólo la violencia ayuda allí donde la violenc
+ ia impera\, Jean-Marie Straub y Danièle Huillet\, 1964). Int.: Heinrich H
+ argesheimer\, Karlheinz Hargesheimer\, Martha Ständer. Alemania. VOSP/E*.
+  60'\n"No reconciliados... concentra una fuerte crítica del fascismo y el
+  militarismo alemán\, un memorial a las víctimas y fragmentos de década
+ s de la historia y la vida cotidiana alemana a través de un sólo día ca
+ lidoscópico" (Barton Byg). Segunda proyección día 18.\n\n\nFuente: http
+ ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
+ c/fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:The Mambo Kings
 DTSTART;VALUE=DATE-TIME:20080110T173000
 DTEND;VALUE=DATE-TIME:20080110T191000
 UID:0801103017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
+DESCRIPTION:Sala 1 - The Mambo Kings (Los reyes del mambo cantan canciones
+  de amor\, Arne Glimcher\, 1992). Int.: Armand Assante\, Antonio Banderas\
+ , Roscoe Lee Browne. EE UU. VOSE. 100'\nDos hermanos cubanos llegan a Nuev
+ oa York en los años cincuenta con la esperanza de beneficiarse como inté
+ rpretes y compositores de la locura por el mambo\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Die Konsequenz
 DTSTART;VALUE=DATE-TIME:20080110T193000
 DTEND;VALUE=DATE-TIME:20080110T210900
 UID:0801103019_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Die Konsequenz (La consecuencia\, Wolfgang Petersen\,
+  1977). Int.: Jürgen Prochnow\, Ernst Hannawald\, Walo Luond. Alemania. V
+ OSE. 99'\n"Seguimiento de las difíciles relaciones entre dos homosexuales
+  de diferente edad\, enfrentados a todo tipo de oposiciones (familiares\, 
+ sociales\, psiquiátricas\, etc.)" (José Enrique Monterde).\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Mecánica nacional
 DTSTART;VALUE=DATE-TIME:20080110T200000
 DTEND;VALUE=DATE-TIME:20080110T213700
 UID:0801100020_2_dore
-DESCRIPTION:Sala 2 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore49.pdf
+DESCRIPTION:Sala 2 - Mecánica nacional (Luis Alcoriza\, 1971). Fotografí
+ a: A. Phillips Jr. Int.: Manolo Fábregas\, Lucha Villa\, Hector Suárez. 
+ México. 97'\n"Película coral y negra\, se desarrolla en torno a una comp
+ etición automovilística. Decenas de personajes concurren a la cita\, en 
+ una romería que tanto tiene de pagana como de religiosa. Su denominador c
+ omún sin embargo\, queda rotundo y claro: el machismo como eje\, la famil
+ ia como esclavitud\, la hipocresía como norma" (Diego Galán).\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
+SUMMARY:Ansiktet
 DTSTART;VALUE=DATE-TIME:20080110T220000
 DTEND;VALUE=DATE-TIME:20080110T234000
 UID:0801100022_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Ansiktet (El rostro\, Ingmar Bergman\, 1958). Int.: M
+ ax von Sydow\, Ingrid Thulin\, Gunnar Björnstrand. Suecia. VOSE. 100'\n"A
+ ctores ambulantes\, doncellas coquetas\, filtros de amor\, un final feliz 
+ y apariciones diabólicas. Bergman se entrega al vértigo de la autocita. 
+ Hace un inventario de sus temas para darlos fin\, recupera a sus personaje
+ s y actores para la reverencia final. Todo está ahí\, pero por detrás l
+ a abstracción trabaja\, el misterio aparece\, la duda corroe. En el centr
+ o de este universo en movimiento\, de esta selva barroca de signos y símb
+ olos encontramos una figura\, el mago Vogler\, el primero de los grandes a
+ utorretratos de Bergman" (Olivier Assayas).\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S S
+SUMMARY:The Shining
 DTSTART;VALUE=DATE-TIME:20080111T173000
 DTEND;VALUE=DATE-TIME:20080111T192900
 UID:0801113017_1_dore
-DESCRIPTION:Sala 1 - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - The Shining (El resplandor\, Stanley Kubrick\, 1980).
+  Int.: Jack Nicholson\, Shelley Duvall\, Barry Nelson. EE UU. VOSE. 119'\n
+ "La película underground más cara del mundo... ¿De verdad dijo Kubrick 
+ que sería la película más terrorífica de todos los tiempos? No tendrí
+ a que haberlo dicho... En un nivel puede ser cierto. Pero El resplandor es
+  una película de terror sólo en el sentido en que lo son todas las pelí
+ culas del Kubrick maduro: porque construyen una visión swiftiana de un or
+ den cósmico inescrutable y de 'la más perniciosa raza de gusanos que jam
+ ás permitió la naturaleza que reptara por la superficie de la tierra'" (
+ Richard T. Jameson).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/Pro
+ graDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:El camino hacia la muerte del viejo Reales
 DTSTART;VALUE=DATE-TIME:20080111T195000
 DTEND;VALUE=DATE-TIME:20080111T211200
 UID:0801115019_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+DESCRIPTION:Sala 1 - El camino hacia la muerte del viejo Reales (Gerardo V
+ allejo\, 1968-71). Documental. Argentina. 82'\n"Se trata del resultado de 
+ tres años de convivencia\, entre 1968 y 1971\, de Vallejo con Don Ramón 
+ Gerardo Reales y sus hijos Angel\, Mariano y Pibe. A través de ellos\, el
+  director expuso cuatro formas que los humildes tenían para responder a u
+ na realidad que siembre les había sido adversa. Frente a la explotación\
+ , la usura y el maltrato\, el Viejo Reales representaba el último refugio
+  de la dignidad del campesino tucumano y\, por extensión\, de todo el pue
+ blo latinoamericano" (Paulo Pécora).\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bella\, la salvaje
+DTSTART;VALUE=DATE-TIME:20080111T200000
+DTEND;VALUE=DATE-TIME:20080111T212900
+UID:0801110020_2_dore
+DESCRIPTION:Sala 2 - Bella\, la salvaje (Raúl Medina\, 1952). Int.: Blanq
+ uita Amaro\, Néstor de Barbosa\, Roberto Rey. Cuba / España. 89’\nLa h
+ istoria de una mujer blanca y hermosa\, jefa de una tribu de nativos\, que
+  salva a dos cazadores perdidos en las selvas africanas. Uno de ellos se e
+ namora de la mujer y decide traerla a Cuba con el fin de hacerla su esposa
+ .\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/a
+ reas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jungfrukällan
+DTSTART;VALUE=DATE-TIME:20080111T220000
+DTEND;VALUE=DATE-TIME:20080111T232900
+UID:0801110022_1_dore
+DESCRIPTION:Sala 1 - Jungfrukällan (El manantial de la doncella\, Ingmar 
+ Bergman\, 1960). Int.: Max von Sydow\, Birgitta Valberg\, Birgitta Petters
+ son. Suecia. VOSE. 89'\n"Es una imitación turística y desastrosa de Kuro
+ sawa. En aquella época mi admiración por el cine japonés era máxima. Y
+ o mismo era casi un samurai" (Ingmar Bergman).\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El negro que tenía el alma blanca
+DTSTART;VALUE=DATE-TIME:20080112T173000
+DTEND;VALUE=DATE-TIME:20080112T183500
+UID:0801123017_1_dore
+DESCRIPTION:Sala 1 - El negro que tenía el alma blanca (Benito Perojo\, 1
+ 934). Int.: Antoñita Colomé\, Marino Barreto\, Angelillo. España. 65'\n
+ "La modificación principal de la versión sonora de la novela radica en q
+ ue Perojo hizo de ella una versión fundamentalmente musical\, con muchas 
+ resonancias de Lubitsch\, de René Clair y del cine musical norteamericano
+ ". (Romà Gubern).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/Progr
+ aDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Artisten in der Zirkuskuppel: ratlos
+DTSTART;VALUE=DATE-TIME:20080112T193000
+DTEND;VALUE=DATE-TIME:20080112T211400
+UID:0801123019_1_dore
+DESCRIPTION:Sala 1 - Die Artisten in der Zirkuskuppel: ratlos (Artistas ba
+ jo la lona del circo: perplejos\, Alexander Kluge\, 1968). Int.: Alexandra
+  Kluge\, Hannelore Hoger\, Herr Hollenbeck. Alemania. VOSE. 104'\n"Leni Pe
+ ickert participa en las atracciones de un circo en el que los artistas mue
+ stran las atrocidades de la guerra y del Tercer Reich. El tono marcadament
+ e anti-ilusionista del relato está constantemente marcado por la utilizac
+ ión de una voz en off\, por el uso de imágenes documentales que actúan 
+ a modo de collages\, por un trabajo de interpretación antinaturalista con
+  los actores dirigiéndose al público y por un claro trabajo de separaci
+ ón entre el sonido y la imagen" (Àngel Quintana). Segunda proyección d
+ ía 16.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosas de otoño
+DTSTART;VALUE=DATE-TIME:20080112T200000
+DTEND;VALUE=DATE-TIME:20080112T210400
+UID:0801120020_2_dore
+DESCRIPTION:Sala 2 - Rosas de otoño (Juan de Orduña\, 1943). Int.: Maria
+  Fernanda Ladrón de Guevara \, Mariano Asquerino\, Fernando Fernán Góme
+ z. España. 64'\nIsabel intenta salvar a su marido\, víctima de una estaf
+ a. Basada en una obra teatral de Jacinto Benavente.\n\n\nFuente: http://ww
+ w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
+ cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Djävulens öga
+DTSTART;VALUE=DATE-TIME:20080112T220000
+DTEND;VALUE=DATE-TIME:20080112T232700
+UID:0801120022_1_dore
+DESCRIPTION:Sala 1 - Djävulens öga (El ojo del diablo\, Ingmar Bergman\,
+  1960). Int.: Jarl Kulle\, Bibi Andersson\, Stig Järrel. Suecia. VOSE. Su
+ ecia. 87'\n"Una película atípica y poco vista de Bergman\, una farsa de 
+ tintes gruesos en la que don Juan es enviado por el diablo para que seduzc
+ a al emblema de la respetabilidad: la hija de un pastor rural. " (Dave Keh
+ r).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La hija de Juan Simón
+DTSTART;VALUE=DATE-TIME:20080113T173000
+DTEND;VALUE=DATE-TIME:20080113T184000
+UID:0801133017_1_dore
+DESCRIPTION:Sala 1 - La hija de Juan Simón (José Luis Sáenz de Heredia\
+ , 1935). Int.: Angel Sampedro "Angelillo"\, Pilar Muñoz\, Carmen Amaya. E
+ spaña. 70'\nLa hija del entrenador Juan Simón se enamora de un muchacho 
+ millonario sin saber que se trata de su hermanastro.\n\n\nFuente: http://w
+ ww.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe
+ /cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:För att inte tala om alla dessa kvinnor
+DTSTART;VALUE=DATE-TIME:20080113T193000
+DTEND;VALUE=DATE-TIME:20080113T205000
+UID:0801133019_1_dore
+DESCRIPTION:Sala 1 - För att inte tala om alla dessa kvinnor (Esas mujere
+ s...\, Ingmar Bergman\, 1964). Int.: Jarl Kulle\, Bibi Andersson\, Harriet
+  Andersson. Suecia. VOSE: 80'\n"Una rareza en el cine contemporáneo: un B
+ ergman infravalorado. Esta comedia en color cuenta las desventuras del un 
+ crítico musical que visita a un música sobre el que escribe un libro. Co
+ mo Fuego pálido\, de Nabokov\, es la venganza de Bergman contra los crít
+ icos" (Jonathan Rosenbaum).\n\n\nFuente: http://www.mecd.gob.es/cultura-me
  cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
  008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080111T200000
-DTEND;VALUE=DATE-TIME:20080111T212900
-UID:0801110020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore49.pdf
+SUMMARY:Noche fantástica
+DTSTART;VALUE=DATE-TIME:20080113T200000
+DTEND;VALUE=DATE-TIME:20080113T210200
+UID:0801130020_2_dore
+DESCRIPTION:Sala 2 - Noche fantástica (Luis Marquina\, 1943). Int.: Paola
+  Bárbara\, Isabel de Pomés\, Fernando Fernán Gómez. España. 62'\nEn u
+ na parada obligada por un accidente ferroviario\, Pablo descubre a una muj
+ er que ha visto en un retrato.\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20080111T220000
-DTEND;VALUE=DATE-TIME:20080111T232900
-UID:0801110022_1_dore
-DESCRIPTION:Sala 1 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+SUMMARY:Le Genou de Claire
+DTSTART;VALUE=DATE-TIME:20080113T220000
+DTEND;VALUE=DATE-TIME:20080113T234500
+UID:0801130022_1_dore
+DESCRIPTION:Sala 1 - Le Genou de Claire (La rodilla de Clara\, Eric Rohmer
+ \, 1970). Int.: Jean-Claude Brialy\, Aurora Cornu\, Beatrice Romand. Franc
+ ia. VOSE. 105'\n"No por accidente la mirada de Jerome se posa en la rodill
+ a de Clara y la convierte en el objeto deseado. Como Pascal Bonitzer apunt
+ a\, la rodilla está a medio camino entre el pie (lugar del fetiche) y el 
+ sexo de la chica (como buen burgués no puede ser pillado mirando bajo la 
+ falda). Así la mirada cae en una zona 'neutral'. La mayoría de las pelí
+ culas que conforman los Cuentos morales tratan de hombres que evitan el se
+ xo y de las estratagemas que adoptan para eludir la tentación. Si hay una
+  moral en el cine de Rohmer está en dónde se elige mirar y las consecuen
+ cias de ello" (Rolando Caputo). Segunda proyección día 16.\n\n\nFuente: 
+ http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
+ ne/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skammen
+DTSTART;VALUE=DATE-TIME:20080115T173000
+DTEND;VALUE=DATE-TIME:20080115T191300
+UID:0801153017_1_dore
+DESCRIPTION:Sala 1 - Skammen (La vergüenza\, Ingmar Bergman\, 1968). Int.
+ : Liv Ullmann\, Max von Sydow\, Gunnar Björnstrand. Suecia. VOSE. 103'\n"
+ Cuando cesa la violencia exterior y empieza la interior\, La vergüenza se
+  convierte en una buena película. Cuando la sociedad no funciona\, los pe
+ rsonajes pierden la referencia. El hombre débil se hace odioso. La mujer\
+ , hasta ahora la más fuerte\, se derrumba. Todo se convierte en una pesad
+ illa. En la pesadilla me sentía como en casa. En la realidad de la guerra
+  estaba perdido" (Ingmar Bergman).\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Tod der Maria Malibran
+DTSTART;VALUE=DATE-TIME:20080115T193000
+DTEND;VALUE=DATE-TIME:20080115T211800
+UID:0801153019_1_dore
+DESCRIPTION:Sala 1 - Der Tod der Maria Malibran (La muerte de María Malib
+ rán\, Werner Schroeter\, 1971-72). Int.: Magdalena Montezuma\, Christine 
+ Kaufmann\, Candy Darling. Alemania. VOSE. 108'\n"El drama de fondo es el d
+ e la célebre prima donna española del siglo XIX\, María Malibrán\, que
+  murió a los veintiocho años mientras cantaba en una velada musical. Un 
+ drama que no se encarna narrativamente\, sino en las ondas musicales que e
+ stremecen los rostros. Un film que está más cerca de Murnau o Stiller qu
+ e de los contemporáneos de Schroeter" (Gonzalo de Lucas). Presentación d
+ el libro Paisajes y figuras: perplejos\, con la asistencia de José Antoni
+ o Hurtado y de los editores\, Carlos Losilla y José Enrique Monterde. Seg
+ unda proyección día 19.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/200
+ 8/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Una chica de opereta
+DTSTART;VALUE=DATE-TIME:20080115T200000
+DTEND;VALUE=DATE-TIME:20080115T212000
+UID:0801150020_2_dore
+DESCRIPTION:Sala 2 - Una chica de opereta (Ramón Quadreny\, 1943). Int.: 
+ Josita Hernán\, Luis Prendes\, Fernando Fernán Gómez. España. 80'\nSil
+ via desea vengar las ofensas que recibió su padre y se disfraza para abof
+ etear al culpable. Pero se equivoca y abofetea a un cantante que acaba con
+ tratándola.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore4
+ 9.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lawless Breed
+DTSTART;VALUE=DATE-TIME:20080115T223000
+DTEND;VALUE=DATE-TIME:20080115T235300
+UID:0801153022_1_dore
+DESCRIPTION:Sala 1 - The Lawless Breed (Historia de un condenado\, Raoul W
+ alsh\, 1952). Guión: Bernard Gordon. Int.: Rock Hudson\, Julie Adams\, Ma
+ ry Castle. EE UU. VOSE. 83'\n"Walsh desarrolla dos ideas. La primera\, un 
+ hombre perseguido por la fatalidad\, atrapado en un engranaje que no puede
+  detener. (...) En segundo lugar\, un hombre que llega a comprender la act
+ itud brutal de su padre hacia él". (Olivier Gamble). Segunda proyección 
+ día 19.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pd
+ f
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Genou de Claire
+DTSTART;VALUE=DATE-TIME:20080116T173000
+DTEND;VALUE=DATE-TIME:20080116T191500
+UID:0801163017_1_dore
+DESCRIPTION:Sala 1 - Le Genou de Claire (La rodilla de Clara\, Eric Rohmer
+ \, 1970). Int.: Jean-Claude Brialy\, Aurora Cornu\, Beatrice Romand. Franc
+ ia. VOSE. 105'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDor
+ e49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vargtimmen
+DTSTART;VALUE=DATE-TIME:20080116T194000
+DTEND;VALUE=DATE-TIME:20080116T211000
+UID:0801164019_1_dore
+DESCRIPTION:Sala 1 - Vargtimmen (La hora del lobo\, Ingmar Bergman\, 1968)
+ . Int.: Max von Sydow\, Liv Ullmann\,\nIngrid Thulin. Suecia. VOSE. 90'\n"
+ Una brillante fantasía gótica sobre un artista que ha desaparecido\, dej
+ ando sólo un diario. Por el diario retrocedemos a un clásico relato de u
+ n héroe de Bergman\, atormentado por la oscuridad\, los demonios y las cr
+ iaturas de su imaginación hasta que es destruido por ellos" (Tom Milne).\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El hombre que las enamora
+DTSTART;VALUE=DATE-TIME:20080116T200000
+DTEND;VALUE=DATE-TIME:20080116T212600
+UID:0801160020_2_dore
+DESCRIPTION:Sala 2 - El hombre que las enamora (José Mª Castellví\, 194
+ 4). Int.: Armando Calvo\, Luchy Soto\, Alberto Romea. España. 86'\nFernan
+ do finge casarse con María Elena\, la chica que le gustaría como nuera\,
+  para que su hijo Eduardo tenga celos y por fin se declare.\n\n\nFuente: h
+ ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
+ e/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Artisten in der Zirkuskuppel: ratlos
+DTSTART;VALUE=DATE-TIME:20080116T223000
+DTEND;VALUE=DATE-TIME:20080117T001400
+UID:0801163022_1_dore
+DESCRIPTION:Sala 1 - Die Artisten in der Zirkuskuppel: ratlos (Artistas ba
+ jo la lona del circo: perplejos\, Alexander Kluge\, 1968). Int.: Alexandra
+  Kluge\, Hannelore Hoger\, Herr Hollenbeck. Alemania. VOSE. 104'\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breakfast at Tiffany
+DTSTART;VALUE=DATE-TIME:20080117T173000
+DTEND;VALUE=DATE-TIME:20080117T192500
+UID:0801173017_1_dore
+DESCRIPTION:Sala 1 - Breakfast at Tiffany (Desayuno con diamantes\, Blake 
+ Edwards\, 1961). Int.: Audrey Hepburn\,\nGeorge Peppard\, José Luis de Vi
+ lallonga. EE UU. VOSE. 115'\n"El guionista George Axelrod embutió toda la
+  pansexualidad del original en la piel del agenérico 'Gato' de Holly. Da 
+ igual. El retrato nostálgico de un Nueva York en estado de gracia es\, co
+ mo la mayoría de películas de Edwards\, una narración fragmentada pero 
+ anclada en la química cinematográfica de las relaciones sociales en una 
+ época mod que jugaba con los géneros y con la poca importancia que los i
+ ndividuos daban a sus roles sexuales asignados" (Eric Henderson). Segunda 
+ proyección día 22.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/Pro
+ graDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mahlzeiten
+DTSTART;VALUE=DATE-TIME:20080117T194500
+DTEND;VALUE=DATE-TIME:20080117T211500
+UID:0801174519_1_dore
+DESCRIPTION:Sala 1 - Mahlzeiten (Almuerzos\, Edgar Reitz\, 1967). Int.: He
+ idi Stroh\, Georg Hauke\, Nina Frank. Alemania. VOSE*. 90'\n"Mahlzeiten 
+ –debut en el largometraje de Edgar Reitz\, fogueado con numerosos cortos
+  y documentales previos\, como la mayor parte de sus compañeros del NCA
+ – narra las desventuras de una pareja de estudiantes (de fotografía y m
+ edicina) que se casan y tienen tres hijos\, para acabar desembocando en el
+  suicidio del marido" (José Enrique Monterde). Segunda proyección día 1
+ 9.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
+ areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cuernos de espuma / Shampoo Horns
+DTSTART;VALUE=DATE-TIME:20080117T200000
+DTEND;VALUE=DATE-TIME:20080117T213100
+UID:0801170020_2_dore
+DESCRIPTION:Sala 2 - Cuernos de espuma / Shampoo Horns (Manuel Toledano\, 
+ 1996). Int.: Jonathan Lawrence\, Michael Alig\, James Saint James. España
+ . VOISE. 91'\nJonathan es un joven introvertido que se siente atraído por
+  Mark\, quien se prostituye a cambio de cocaína. A partir de este plantea
+ miento se inicia un recorrido por la vida nocturna neoyorquina.\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diferente
+DTSTART;VALUE=DATE-TIME:20080117T220000
+DTEND;VALUE=DATE-TIME:20080117T233100
+UID:0801170022_1_dore
+DESCRIPTION:Sala 1 - Diferente (Luis M. Delgado\, 1961). Int.: Alfredo Ala
+ ria\, Manuel Monroy\, Sandra Le Brocq. España. 91'\nUn joven de familia b
+ urguesa se siente diferente debido a su inconfesada homosexualidad y choca
+  con la mentalidad de amigos y familia.\n\n\nFuente: http://www.mecd.gob.e
+ s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
+ ogramacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Im Lauf der Zeit
+DTSTART;VALUE=DATE-TIME:20080118T173000
+DTEND;VALUE=DATE-TIME:20080118T202500
+UID:0801183017_1_dore
+DESCRIPTION:Sala 1 - Im Lauf der Zeit (En el curso del tiempo\, Wim Wender
+ s\, 1975). Int.: Rudiger Vögler\, Hans Zischler\, Lisa Kreuzer. Alemania.
+  VOSE*. 175'\n"Wenders afirma que la estructura narrativa que más convien
+ e al cine es el viaje. Éste construye\, en el caso del cine de Wenders\, 
+ el relato\, y sus historias se nutren enseguida de los avatares e incertid
+ umbres del desplazamiento. Podríamos arriesgarnos a decir que algunas de 
+ sus películas\, en concreto Alicia en las ciudades o En el curso del tiem
+ po más que sobre viajes\, son viajes\, puro movimiento en el tiempo. Y si
+  hay un correlato fílmico de la idea de movimiento\, ése es el travellin
+ g\, un elemento expresivo fundamental en su cine". (José Antonio Hurtado)
+ . Segunda proyección día 20.\n\n\nFuente: http://www.mecd.gob.es/cultura
+ -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
+ n/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nicht versöhnt oder Es hilft nur Gewalt wo Gewalt herrscht
+DTSTART;VALUE=DATE-TIME:20080118T204500
+DTEND;VALUE=DATE-TIME:20080118T214500
+UID:0801184520_1_dore
+DESCRIPTION:Sala 1 - Nicht versöhnt oder Es hilft nur Gewalt wo Gewalt he
+ rrscht (No reconciliados o Sólo la violencia ayuda allí donde la violenc
+ ia impera \, Jean-Marie Straub y Danièle Huillet\, 1964). Int.: Heinrich 
+ Hargesheimer\, Karlheinz Hargesheimer\, Martha Ständer. Alemania. VOSP/E*
+ . 60'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-me
+ cd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dos cuentos para dos
+DTSTART;VALUE=DATE-TIME:20080118T200000
+DTEND;VALUE=DATE-TIME:20080118T212600
+UID:0801180020_2_dore
+DESCRIPTION:Sala 2 - Dos cuentos para dos (Luis Lucia\, 1947). Int.: Tony 
+ Leblanc\, Carlota Bilbao\, Eduardo Fajardo.\nEspaña. 86'\nJorge\, novio d
+ e la manicura Berta\, hereda 15 millones y compra un palacio para ella. En
+  una peletería conoce a Isabel\, sosias de su novia\, y empiezan así una
+  serie de equívocos.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/Pr
+ ograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Enfants terribles
+DTSTART;VALUE=DATE-TIME:20080118T220000
+DTEND;VALUE=DATE-TIME:20080118T233700
+UID:0801180022_1_dore
+DESCRIPTION:Sala 1 - Les Enfants terribles (Los niños terribles\, Jean-Pi
+ erre Melville\, 1949). Int.: Nicole Stéphane\, Edouard Dhermitte\, Renée
+  Cosima. Francia. VOSE. 97'\n\n\nFuente: http://www.mecd.gob.es/cultura-me
+ cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
+ 008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lawless Breed
+DTSTART;VALUE=DATE-TIME:20080119T173000
+DTEND;VALUE=DATE-TIME:20080119T185300
+UID:0801193017_1_dore
+DESCRIPTION:Sala 1 - The Lawless Breed (Historia de un condenado\, Raoul W
+ alsh\, 1952). Guión: Bernard Gordon.\nInt.: Rock Hudson\, Julie Adams\, M
+ ary Castle. EE UU. VOSE. 83'\n\n\nFuente: http://www.mecd.gob.es/cultura-m
  ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
  2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080112T173000
-DTEND;VALUE=DATE-TIME:20080112T183500
-UID:0801123017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore49.pdf
+SUMMARY:Der Tod der Maria Malibran
+DTSTART;VALUE=DATE-TIME:20080119T193000
+DTEND;VALUE=DATE-TIME:20080119T211800
+UID:0801193019_1_dore
+DESCRIPTION:Sala 1 - Der Tod der Maria Malibran (La muerte de María Malib
+ rán\, Werner Schroeter\, 1971-72).\nInt.: Magdalena Montezuma\, Christine
+  Kaufmann\, Candy Darling. Alemania. VOSE. 108'\n\n\nFuente: http://www.me
+ cd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine
+ -dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080112T193000
-DTEND;VALUE=DATE-TIME:20080112T211400
-UID:0801123019_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore49.pdf
+SUMMARY:La chica del gato
+DTSTART;VALUE=DATE-TIME:20080119T200000
+DTEND;VALUE=DATE-TIME:20080119T212000
+UID:0801190020_2_dore
+DESCRIPTION:Sala 2 - La chica del gato (Ramón Quadreny\, 1943). Int.: Jos
+ ita Hernán\, Juan Espantaleón\, Fernando\nFernán Gómez. España. 80'\n
+ Adpatación de una obra de Arniches. La huérfana Guadalupe se niega a del
+ inquir y huye con su gato. Es acogida por la caritativa Nena.\n\n\nFuente:
+  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
+ ine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080112T200000
-DTEND;VALUE=DATE-TIME:20080112T210400
-UID:0801120020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore49.pdf
+SUMMARY:Mahlzeiten
+DTSTART;VALUE=DATE-TIME:20080119T220000
+DTEND;VALUE=DATE-TIME:20080119T233000
+UID:0801190022_1_dore
+DESCRIPTION:Sala 1 - Mahlzeiten (Almuerzos\, Edgar Reitz\, 1967). Int.: He
+ idi Stroh\, Georg Hauke\, Nina Frank. Alemania. VOSE*. 90'\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
+ /mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20080112T220000
-DTEND;VALUE=DATE-TIME:20080112T232700
-UID:0801120022_1_dore
-DESCRIPTION:Sala 1 - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2008/PrograDore49.pdf
+SUMMARY:¡Centinela\, alerta!
+DTSTART;VALUE=DATE-TIME:20080120T173000
+DTEND;VALUE=DATE-TIME:20080120T184600
+UID:0801203017_1_dore
+DESCRIPTION:Sala 1 - ¡Centinela\, alerta! (Jean Grémillon\, 1936). Int.:
+  Ana Maria Custodio\, 'Angelillo'\, Luis Heredia.\nEspaña. 76'\nDos solda
+ dos ayudan a una chica embarazada de un señorito madrileño. Uno de ellos
+  se enamora de ella.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/Pro
+ graDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20080113T173000
-DTEND;VALUE=DATE-TIME:20080113T184000
-UID:0801133017_1_dore
-DESCRIPTION:Sala 1 - S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2008/PrograDore49.pdf
+SUMMARY:Im Lauf der Zeit
+DTSTART;VALUE=DATE-TIME:20080120T190500
+DTEND;VALUE=DATE-TIME:20080120T220000
+UID:0801200519_1_dore
+DESCRIPTION:Sala 1 - Im Lauf der Zeit (En el curso del tiempo\, Wim Wender
+ s\, 1975). Int.: Rudiger Vögler\, Hans Zischler\, Lisa Kreuzer. Alemania.
+  VOSE*. 175'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore4
+ 9.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080113T193000
-DTEND;VALUE=DATE-TIME:20080113T205000
-UID:0801133019_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+SUMMARY:Hierba salvaje
+DTSTART;VALUE=DATE-TIME:20080120T200000
+DTEND;VALUE=DATE-TIME:20080120T213600
+UID:0801200020_2_dore
+DESCRIPTION:Sala 2 - Hierba salvaje (Luis M. Delgado\, 1978). Int.: Sonia 
+ Petrova\, Miguel Ayones\, Josele Román.\nEspaña. 96’\nUn marginado se 
+ enamora de la mujer de un antiguo compañero y trama su muerte.\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ensayo de un crimen
+DTSTART;VALUE=DATE-TIME:20080120T221500
+DTEND;VALUE=DATE-TIME:20080120T234500
+UID:0801201522_1_dore
+DESCRIPTION:Sala 1 - Ensayo de un crimen (Luis Buñuel\, 1955). Int.: Erne
+ sto Alonso\, Miroslava\, Rita Macedo. México. 90'\n"Aunque todas contiene
+ n su ración de humor surrealista\, Ensayo de un crimen es una de las poca
+ s películas de Buñuel que pueden describirse como una comedia. Trata del
+  repetido fracaso de las intenciones letales de su protagonista. Un final 
+ feliz exagerado sólo hace más obvio el pesimismo de Buñuel" (Chicago Ar
+ t Institute.).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDor
+ e49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacional III
+DTSTART;VALUE=DATE-TIME:20080122T173000
+DTEND;VALUE=DATE-TIME:20080122T191300
+UID:0801223017_1_dore
+DESCRIPTION:Sala 1 - Nacional III (Luis G. Berlanga\, 1982). Int.: Luis Es
+ cobar\, Agustín González\, José Luis de Vilallonga. España. 103'\nLos 
+ Leguineche deciden sacar de España la herencia de Chus fingiendo una pere
+ grinación a Lourdes.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/Pr
+ ograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trollflöjten
+DTSTART;VALUE=DATE-TIME:20080122T193000
+DTEND;VALUE=DATE-TIME:20080122T214500
+UID:0801223019_1_dore
+DESCRIPTION:Sala 1 - Trollflöjten (La flauta mágica\, Ingmar Bergman\, 1
+ 975). Int.: Josef Köstlinger\, Irma Urrila\, Håkan Hagegård. Suecia. VO
+ SE. 135'\nAdaptación televisiva de la famosa ópera de Mozart. El prínci
+ pe Tamino se ha enamorado de la princesa Pamina\, quien se encuentra en po
+ der de Sarastro. La madre de la princesa\, la Reina de la Noche\, instiga 
+ para que Tamino rescate a su hija. Segunda proyección día 27.\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bridge of San Luis Rey
+DTSTART;VALUE=DATE-TIME:20080122T200000
+DTEND;VALUE=DATE-TIME:20080122T215900
+UID:0801220020_2_dore
+DESCRIPTION:Sala 2 - The Bridge of San Luis Rey (El puente de San Luis Rey
+ \, Mary McGuekian\, 2004). Efectos visuales: E. R. del Río.Int.: Robert D
+ e Niro\, Harvey Keitel\, Kathy Bates.EE UU. VOSE. 119'\nCinco viajeros\, a
+ parentmente si relación\, quedan unidos por un destino trágico. Narrada 
+ enteramente en flash back\, este drama de época revela las vidas de estas
+  cinco personas que murieron el día que cayó el puente de San Luis Rey.\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breakfast at Tiffany
+DTSTART;VALUE=DATE-TIME:20080122T220500
+DTEND;VALUE=DATE-TIME:20080123T000000
+UID:0801220522_1_dore
+DESCRIPTION:Sala 1 - Breakfast at Tiffany (Desayuno con diamantes\, Blake 
+ Edwards\, 1961). Int.: Audrey Hepburn\, George Peppard\, José Luis de Vil
+ allonga. EE UU. VOSE. 115'\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
  d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
  08/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080113T200000
-DTEND;VALUE=DATE-TIME:20080113T210200
-UID:0801130020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+SUMMARY:Moolaadé
+DTSTART;VALUE=DATE-TIME:20080123T173000
+DTEND;VALUE=DATE-TIME:20080123T193900
+UID:0801233017_1_dore
+DESCRIPTION:Sala 1 - Moolaadé (Moolaadé\, Ousmane Sembene\, 2004). Int.:
+  Fatoumata Coulibaly\, Maďmouna\nHélčne Diarra\, Salimata Traoré. Burk
+ ina Faso / Marruecos / Túnez / Camerún. VOSE. 129'\n"Sembene hacía pel
+ ículas africanas para los africanos. Moolaadé’ es una petición dirigi
+ da a los 38 de los 54 países africanos que aún practican la ablación de
+ l clítoris. Pero es también un fragmento cálido y perspicaz de la vida 
+ en una aldea. Una película apasionada y optimista". (Time Out). Segunda p
+ royección día 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
+ ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/Prog
+ raDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tatowierung
+DTSTART;VALUE=DATE-TIME:20080123T200000
+DTEND;VALUE=DATE-TIME:20080123T212600
+UID:0801230020_1_dore
+DESCRIPTION:Sala 1 - Tatowierung (Tatuaje\, Johannes Schaaf\, 1967). Int.:
+  Helga Anders\, Christof Wacker-Nagel\, Rosemarie Fendel. Alemania. VOSE*.
+  86’\n"El retrato detallado de la situación de la juventud alemana en l
+ os sesenta en general y el estudio particularizado de la figura del inadap
+ tado e incomprendido Benno convierten esta película en el canon de toda u
+ na serie de obras de temática juvenil que constituyen un género propio e
+ n la cinematografía alemana de posguerra" (Marta Muñoz). Segunda proyecc
+ ión día 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
+ ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore
+ 49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Efter repetitionen
+DTSTART;VALUE=DATE-TIME:20080123T203000
+DTEND;VALUE=DATE-TIME:20080123T214500
+UID:0801233020_2_dore
+DESCRIPTION:Sala 2 - Efter repetitionen (Tras el ensayo\, Ingmar Bergman\,
+  1984). Int.: Erland Josephson\, Ingrid Thulin\, Lena Olin. Suecia. VOSE*.
+  75'\n"Una obra austera con tres actores y un escenario. Tras el ensayo es
+  una meditación sobre la vida\, el teatro y sus relaciones. Los soliloqui
+ os y encuentros incendiarios entre los personajes iluminan un mundo que Be
+ rgman a la vez ama y teme: el escenario vacío" (James Quandt).\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Acción mutante
+DTSTART;VALUE=DATE-TIME:20080123T220000
+DTEND;VALUE=DATE-TIME:20080123T233300
+UID:0801230022_1_dore
+DESCRIPTION:Sala 1 - Acción mutante (Álex de la Iglesia\, 1992). Efectos
+  visuales: E. R. del Río. Int.: Antonio Resines\, Alex Angulo \, Frédér
+ ique Feder. España. 93'\nAño 2012. Un grupo de minusválidos quiere acab
+ ar con la sociedad que los margina. Su líder oganiza el secuestro de la h
+ ija de un multimillonario.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 08/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La gitana y el charro
+DTSTART;VALUE=DATE-TIME:20080124T173000
+DTEND;VALUE=DATE-TIME:20080124T190200
+UID:0801243017_1_dore
+DESCRIPTION:Sala 1 - La gitana y el charro (Gilberto Martínez Solares\, 1
+ 961). Int.: Antonio Aguilar\, Lola Flores\, Manuel Capetillo. México. 92'
+ \nEl ranchero mexicano Don Antonio se enamora de María\, una gitana cuyo 
+ grupo ha sido acusado de robar caballos.\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herbstsonate / Höstsonaten
+DTSTART;VALUE=DATE-TIME:20080124T193000
+DTEND;VALUE=DATE-TIME:20080124T210300
+UID:0801243019_1_dore
+DESCRIPTION:Sala 1 - Herbstsonate / Höstsonaten (Sonata de otoño\, Ingma
+ r Bergman\, 1978). Int.: Ingrid Bergman\, Liv Ullmann\, Lena Nyman. Suecia
+ . VOSE. 93'\n"Ha llegado el momento de mirarme al espejo y pregunta: ¿A d
+ ónde voy? ¿Es que Bergman ha empezado a hacer 'películas de Bergman?' C
+ reo que Sonata de otoño es un molesto ejemplo de ello" (Ingmar Bergman).\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La niña de tus ojos
+DTSTART;VALUE=DATE-TIME:20080124T200000
+DTEND;VALUE=DATE-TIME:20080124T220100
+UID:0801240020_2_dore
+DESCRIPTION:Sala 2 - La niña de tus ojos (Fernando Trueba\, 1998). Efecto
+ s visuales: E. R. del Río. Int.: Penélope Cruz\, Antonio Resines\, Jorge
+  Sanz. España. 121'\nHuyendo de la guerra civil\, un grupo de artistas de
+  cine españoles van a rodar una película "de folclore español" a los es
+ tudios de la UFA nazi.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
  s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
  rograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080113T220000
-DTEND;VALUE=DATE-TIME:20080113T234500
-UID:0801130022_1_dore
-DESCRIPTION:Sala 1 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore49.pdf
+SUMMARY:Bitter Moon
+DTSTART;VALUE=DATE-TIME:20080124T220000
+DTEND;VALUE=DATE-TIME:20080125T001900
+UID:0801240022_1_dore
+DESCRIPTION:Sala 1 - Bitter Moon (Lunas de hiel\, Roman Polanski\, 1992). 
+ Dirección artística: Willy Holt. Int.: Peter Coyote\, Hugh Grant\, Emman
+ uelle Seigner. Francia / GB. VOSE. 139'\n"Posiblemente la película más p
+ ersonal y autocrítica de Polanski (...) Una difícil combinación de come
+ dia y tragedia\, pornografía y cáustica antipornografía\, diversión se
+ xual y crueldad mental que no permite que el público encuentre un punto v
+ ista alejado y cómodo para juzgarla" (Jonathan Rosenbaum).\n\n\nFuente: h
+ ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
+ e/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20080115T173000
-DTEND;VALUE=DATE-TIME:20080115T191300
-UID:0801153017_1_dore
-DESCRIPTION:Sala 1 - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura
+SUMMARY:Mi cielo de Andalucía
+DTSTART;VALUE=DATE-TIME:20080125T173000
+DTEND;VALUE=DATE-TIME:20080125T184300
+UID:0801253017_1_dore
+DESCRIPTION:Sala 1 - Mi cielo de Andalucía (Ricardo Urgoiti\, 1942). Int.
+ : Angelillo\, Trini Moreno\, Enrique Diosdado. Argentina. 73'\nEn Andaluc
+ ía\, por culpa de una mujer\, un estudiante engaña a sus padres\, hacié
+ ndoles creer que ha aprobado medicina. Su familia le ha instalado un consu
+ ltorio\, mientras su novia de infancia lo aguarda para casarse.\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Reine Margot
+DTSTART;VALUE=DATE-TIME:20080125T190000
+DTEND;VALUE=DATE-TIME:20080125T214000
+UID:0801250019_1_dore
+DESCRIPTION:Sala 1 - La Reine Margot (La reina Margot\, Patrice Chéreau\,
+  1995). Int.: Isabelle Adjani\, Daniel Auteuil\, Jean-Claude Brialy. Franc
+ ia / Alemania / Italia. VOSE. 160'\n"Centrado en las intrigas que condujer
+ on a la Masacre del Día de San Bartolomé en 1572\, este drama histórico
+  es irónicamente salvaje. Es también visceral\, con un alto contenido go
+ re\, bastante suciedad y una banda sonora percutante". (Geoff Andrews).\n\
+ n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
+ -cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El intruso
+DTSTART;VALUE=DATE-TIME:20080125T210000
+DTEND;VALUE=DATE-TIME:20080125T215600
+UID:0801250021_2_dore
+DESCRIPTION:Sala 2 - El intruso (David Cánovas\, 2005). 7'. Peepshow (Ví
+ ctor Álvarez\, 2004). 8'. De nuevo tú (Marco Fettolini\, 2002). 13'. Fis
+ ura (Isabel Coll\, 2005). 11'. Flores (David Ilundain\, 2003). 17'. Españ
+ a. Total programa: 56'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
+ rograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Præsidenten
+DTSTART;VALUE=DATE-TIME:20080125T220000
+DTEND;VALUE=DATE-TIME:20080125T225600
+UID:0801250022_1_dore
+DESCRIPTION:Sala 1 - Præsidenten (Carl Th. Dreyer\, 1918). Int.: Richard 
+ Christensen\, Christian Engelstoft\, Hallander\nHelleman. Dinamarca. MFRSE
+ *. 100' a 18 f/s. "Lo que admiro especialmente de las películas de Dreyer
+  (...) es su ferocidad respecto al mundo burgués: su noción de justicia 
+ (Presidente\, una de las construcciones narrativas más sorprendentes que 
+ conozco y una de las películas más griffithianas\, es decir\, una de las
+  más hermosas)\, su vanidad (Michael)\, su intolerancia (Dies Irae)\, su 
+ hipocresía angélica (Ordet) y su puritanismo (Gertrud)" (Jean-Marie Stra
+ ub).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
+ d/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mio Dio\, come sono caduta in basso
+DTSTART;VALUE=DATE-TIME:20080126T173000
+DTEND;VALUE=DATE-TIME:20080126T191900
+UID:0801263017_1_dore
+DESCRIPTION:Sala 1 - Mio Dio\, come sono caduta in basso (Dios mío\, cóm
+ o he caído tan bajo\, Luigi Comencini\, 1974). Int.: Laura Antonelli\, Al
+ berto Lionello\, Michele Placido. Italia. VOSE*. 109'\nUna marquesa huérf
+ ana educada por las monjas descubre que el hombre con el que se ha casado 
+ es un hermano. la pareja decide evitar el escándalo y vivir como hermanos
+ . Segunda proyección día 30.\n\n\nFuente: http://www.mecd.gob.es/cultura
  -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
  n/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080115T193000
-DTEND;VALUE=DATE-TIME:20080115T211800
-UID:0801153019_1_dore
-DESCRIPTION:Sala 1 - S S S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cu
+SUMMARY:La Cérémonie
+DTSTART;VALUE=DATE-TIME:20080126T194000
+DTEND;VALUE=DATE-TIME:20080126T213500
+UID:0801264019_1_dore
+DESCRIPTION:Sala 1 - La Cérémonie (La ceremonia\, Claude Chabrol\, 1995)
+ . Int.: Isabelle Huppert\, Sandrine Bonnaire\, Jean-Pierre Cassel. Francia
+ . VOSE. 115'\n"La adaptación de Chabrol de la novela de Rendell se benefi
+ cia del talento de éste para el detalle social y psicológico. El punto f
+ uerte no es el misterio o el suspense\, sino el gusto de Chabrol por la ev
+ ocación de la complacencia burguesa y el odio antiburgués que crea una p
+ alpable sensación de desasosiego que por sí sola justifica el violento f
+ inal" (Geoff Andrews).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
+ rograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tatowierung
+DTSTART;VALUE=DATE-TIME:20080126T200000
+DTEND;VALUE=DATE-TIME:20080126T212600
+UID:0801260020_2_dore
+DESCRIPTION:Sala 2 - Tatowierung (Tatuaje\, Johannes Schaaf\, 1967). Int.:
+  Helga Anders\, Christof Wacker-Nagel\, Rosemarie Fendel. Alemania. VOSE*.
+  86’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
+ ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moolaadé
+DTSTART;VALUE=DATE-TIME:20080126T220000
+DTEND;VALUE=DATE-TIME:20080127T000900
+UID:0801260022_1_dore
+DESCRIPTION:Sala 1 - Moolaadé (Moolaadé\, Ousmane Sembene\, 2004). Int.:
+  Fatoumata Coulibaly\, Maďmouna\nHélčne Diarra\, Salimata Traoré. Sene
+ gal / Francia. VOSE. 129'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/200
+ 8/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlotte's Web
+DTSTART;VALUE=DATE-TIME:20080127T173000
+DTEND;VALUE=DATE-TIME:20080127T190400
+UID:0801273017_1_dore
+DESCRIPTION:Sala 1 - Charlotte's Web (Las aventuras de Wilbur y Carlota\, 
+ Charles Nichols e Iwao Takamoto\,\n1972). Animación. VE. 94'\nWilbur el c
+ erdo teme su previsible final\, en la cocina. Trama un plan con Carlota\, 
+ la araña\, para conseguir que esto no ocurra.\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trollflöjten
+DTSTART;VALUE=DATE-TIME:20080127T193000
+DTEND;VALUE=DATE-TIME:20080127T214500
+UID:0801273019_1_dore
+DESCRIPTION:Sala 1 - Trollflöjten (La flauta mágica\, Ingmar Bergman\, 1
+ 975). Int.: Josef Köstlinger\, Irma Urrila\, Håkan Hagegård. Suecia. VO
+ SE. 135'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
+ -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pd
+ f
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suspiros de Triana
+DTSTART;VALUE=DATE-TIME:20080127T200000
+DTEND;VALUE=DATE-TIME:20080127T212500
+UID:0801270020_2_dore
+DESCRIPTION:Sala 2 - Suspiros de Triana (Ramón Torrado\, 1955). Int.: Paq
+ uita Rico\, Angelillo\, Antonio Riquelme.\nEspaña. Vídeo. 85'\nSevilla\,
+  años 50. Tras triunfar y sufrir en México\, una cantante regresa con no
+ stalgia a su ciudad natal.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 08/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Angels
+DTSTART;VALUE=DATE-TIME:20080127T220000
+DTEND;VALUE=DATE-TIME:20080127T232600
+UID:0801270022_1_dore
+DESCRIPTION:Sala 1 - The Wild Angels (Los Ángeles del Infierno\, Roger Co
+ rman\, 1966). Guión: Charles B. Griffith. Int.: Peter Fonda\, Nancy Sinat
+ ra\, Bruce Dern. EE UU. VOSE*. 86'\n"Los criticos americanos protestaron c
+ uando esta peli de motoristas producida por Roger Corman fue seleccionada 
+ en el Festival de Venecia\, pero\, bajo el sensacionalismo\, yace una noci
+ ón bastante conservadora y romántica de la amistad adolescente. El guió
+ n es de Charles B. Griffith\, el colaborador preferido de Corman" (Dave Ke
+ hr). Segunda proyección día 29.\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tremolina
+DTSTART;VALUE=DATE-TIME:20080129T173000
+DTEND;VALUE=DATE-TIME:20080129T190000
+UID:0801293017_1_dore
+DESCRIPTION:Sala 1 - Tremolina (Ricardo Núñez\, 1956). Int.: Angelillo\,
+  Lolita Sevilla\, José Isbert. España. 90'\nBasada en la obra Los papiro
+ s\, de los hemanos Quintero. Un cantante de flamenco\, heredero de un tío
+  usurero\, decide gastarse la herencia en montar un gran espectáculo.\n\n
+ \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
+ cultura/cine/mc/fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Das Leben der anderen
+DTSTART;VALUE=DATE-TIME:20080129T193000
+DTEND;VALUE=DATE-TIME:20080129T215000
+UID:0801293019_1_dore
+DESCRIPTION:Sala 1 - Das Leben der anderen (La vida de los otros\, Florian
+  H. von Donnersmarck\, 2007). Int.: Martina Gedeck\, Ulrich Mühe\, Sebast
+ ian Koch. Alemania. VOSE. 140'\nEl capitán Gerd Wiesler es un oficial ext
+ remadamente competente de la Stasi. En 1984 le encomiendan que espíe a la
+  pareja formada por el prestigioso escritor Georg Dreyman y la popular act
+ riz Christa-Maria Sieland.\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 08/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Angels
+DTSTART;VALUE=DATE-TIME:20080129T200000
+DTEND;VALUE=DATE-TIME:20080129T212600
+UID:0801290020_2_dore
+DESCRIPTION:Sala 2 - The Wild Angels (Los Ángeles del Infierno\, Roger Co
+ rman\, 1966). Guión: Charles B. Griffith. Int.: Peter Fonda\, Nancy Sinat
+ ra\, Bruce Dern. EE UU. VOSE*. 86'\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Easy Rider
+DTSTART;VALUE=DATE-TIME:20080129T220000
+DTEND;VALUE=DATE-TIME:20080129T233500
+UID:0801290022_1_dore
+DESCRIPTION:Sala 1 - Easy Rider (En busca de mi destino\, Dennis Hopper\, 
+ 1960).Fotografía: Lazslo Kovacs. Int.:\nPeter Fonda\, Dennis Hopper\, Jac
+ k Nicholson. EE UU. VOSE. 95'\n"En la vieja y querida tradición de las pe
+ lis adolescentes\, Easy Rider fue un éxito entre los jóvenes porque los 
+ adultos no la podían ni ver. Hopper roba de las vanguardias para sugerir 
+ la experiencia del LSD y algunos viajes saben a Kenneth Anger o Maya Deren
+ . La película es una reliquia\, pero es un recuerdo fascinante de cómo e
+ l movimiento hippie se veía a sí mismo" (Dave Kehr).\n\n\nFuente: http:/
+ /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
+ fe/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incognito
+DTSTART;VALUE=DATE-TIME:20080130T173000
+DTEND;VALUE=DATE-TIME:20080130T191600
+UID:0801303017_1_dore
+DESCRIPTION:Sala 1 - Incognito (Incógnito\, John Badham\, 1997). Int.: Ja
+ son Patric\, Irene Jacob\, Ian Richardson. EE UU. VOSE*. 106'\nUn falsific
+ ador de cuadros está a punto de abandonar su profesión cuando recibe un 
+ encargo multimillonario para reproducir un Rembrandt. Tras realizar un tra
+ bajo perfecto será acusado de asesinato y del robo de su propia obra\, si
+ endo su única esperanza una experta en arte.\n\n\nFuente: http://www.mecd
+ .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
+ ore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slaughterhouse Five
+DTSTART;VALUE=DATE-TIME:20080130T194000
+DTEND;VALUE=DATE-TIME:20080130T212000
+UID:0801304019_1_dore
+DESCRIPTION:Sala 1 - Slaughterhouse Five (Matadero 5\, George Roy Hill 197
+ 2). Int.: Michael Sacks\, Ron Leibman\, Sharon Gans. EE UU. VOSE. 100'\n"U
+ na ligera y conservadora adaptación del relato de Kurt Vonnegut sobre un 
+ hombre con el sentido del tiempo dislocado. Tres líneas narrativas se ent
+ remezclan: su pasado bélico\, que incluye el bombardeo de Dresde\, su pre
+ sente en América como ofmalmólogo y su futuro de ciencia ficción en el 
+ planeta Tralfamadore" (Time Out).\n\n\nFuente: http://www.mecd.gob.es/cult
+ ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
+ cion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La condesa María
+DTSTART;VALUE=DATE-TIME:20080130T200000
+DTEND;VALUE=DATE-TIME:20080130T210600
+UID:0801300020_2_dore
+DESCRIPTION:Sala 2 - La condesa María (Gonzalo Delgrás\, 1942). Int.: Li
+ na Yegros\, Margarita Robles\, Rafael Durán España. 66'\nRosario se pres
+ enta en casa de la condesa María con un bebé en los brazos. Dice que el 
+ padre es el hijo de la condesa\, fallecido en Rusia.\n\n\nFuente: http://w
+ ww.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe
+ /cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mio Dio\, come sono caduta in basso
+DTSTART;VALUE=DATE-TIME:20080130T220000
+DTEND;VALUE=DATE-TIME:20080130T234900
+UID:0801300022_1_dore
+DESCRIPTION:Sala 1 - Mio Dio\, come sono caduta in basso (Dios mío\, cóm
+ o he caído tan bajo\, Luigi Comencini\, 1974). Int.: Laura Antonelli\, Al
+ berto Lionello\, Michele Placido. Italia. VOSE*. 109'\n\n\nFuente: http://
+ www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/f
+ e/cine-dore/programacion/2008/PrograDore49.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:B.A.P.S.
+DTSTART;VALUE=DATE-TIME:20080131T173000
+DTEND;VALUE=DATE-TIME:20080131T190200
+UID:0801313017_1_dore
+DESCRIPTION:Sala 1 - B.A.P.S. (Granujas de Beverly Hills\, Robert Townsend
+ \, 1997). Int.: Halle Berry\, Martin\nLandau\, Ian Richardson. VOSE*. 92'\
+ nNisi y Mickey son dos chicas de provincias ambiciosas que trabajan como c
+ amareras con el objetivo de poder conseguir el dinero necesario para abrir
+  el restaurante de sus sueños. Las dos vuelan a California para asistir a
+  un casting para un vídeo musical.\n\n\nFuente: http://www.mecd.gob.es/cu
  ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
  macion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080115T200000
-DTEND;VALUE=DATE-TIME:20080115T212000
-UID:0801150020_2_dore
-DESCRIPTION:Sala 2 - S \nS\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080115T223000
-DTEND;VALUE=DATE-TIME:20080115T235300
-UID:0801153022_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080116T173000
-DTEND;VALUE=DATE-TIME:20080116T191500
-UID:0801163017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080116T194000
-DTEND;VALUE=DATE-TIME:20080116T211000
-UID:0801164019_1_dore
-DESCRIPTION:Sala 1 - S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080116T200000
-DTEND;VALUE=DATE-TIME:20080116T212600
-UID:0801160020_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080116T223000
-DTEND;VALUE=DATE-TIME:20080117T001400
-UID:0801163022_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080117T173000
-DTEND;VALUE=DATE-TIME:20080117T192500
-UID:0801173017_1_dore
-DESCRIPTION:Sala 1 - S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cultu
- ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
- ion/2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080117T194500
-DTEND;VALUE=DATE-TIME:20080117T211500
-UID:0801174519_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20080117T200000
-DTEND;VALUE=DATE-TIME:20080117T213100
-UID:0801170020_2_dore
-DESCRIPTION:Sala 2 - S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-m
- ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
- 2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080117T220000
-DTEND;VALUE=DATE-TIME:20080117T233100
-UID:0801170022_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080118T173000
-DTEND;VALUE=DATE-TIME:20080118T202500
-UID:0801183017_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20080118T204500
-DTEND;VALUE=DATE-TIME:20080118T214500
-UID:0801184520_1_dore
-DESCRIPTION:Sala 1 - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080118T200000
-DTEND;VALUE=DATE-TIME:20080118T212600
-UID:0801180020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080118T220000
-DTEND;VALUE=DATE-TIME:20080118T233700
-UID:0801180022_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080119T173000
-DTEND;VALUE=DATE-TIME:20080119T185300
-UID:0801193017_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080119T193000
-DTEND;VALUE=DATE-TIME:20080119T211800
-UID:0801193019_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080119T200000
-DTEND;VALUE=DATE-TIME:20080119T212000
-UID:0801190020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080119T220000
-DTEND;VALUE=DATE-TIME:20080119T233000
-UID:0801190022_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080120T173000
-DTEND;VALUE=DATE-TIME:20080120T184600
-UID:0801203017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080120T190500
-DTEND;VALUE=DATE-TIME:20080120T220000
-UID:0801200519_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080120T200000
-DTEND;VALUE=DATE-TIME:20080120T213600
-UID:0801200020_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080120T221500
-DTEND;VALUE=DATE-TIME:20080120T234500
-UID:0801201522_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080122T173000
-DTEND;VALUE=DATE-TIME:20080122T191300
-UID:0801223017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080122T193000
-DTEND;VALUE=DATE-TIME:20080122T214500
-UID:0801223019_1_dore
-DESCRIPTION:Sala 1 - S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20080122T200000
-DTEND;VALUE=DATE-TIME:20080122T215900
-UID:0801220020_2_dore
-DESCRIPTION:Sala 2 - S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080122T220500
-DTEND;VALUE=DATE-TIME:20080123T000000
-UID:0801220522_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080123T173000
-DTEND;VALUE=DATE-TIME:20080123T193900
-UID:0801233017_1_dore
-DESCRIPTION:Sala 1 - S S \n S S \n S S\n\n\nFuente: http://www.mecd.gob.es
- /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
- gramacion/2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080123T200000
-DTEND;VALUE=DATE-TIME:20080123T212600
-UID:0801230020_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080123T203000
-DTEND;VALUE=DATE-TIME:20080123T214500
-UID:0801233020_2_dore
-DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080123T220000
-DTEND;VALUE=DATE-TIME:20080123T233300
-UID:0801230022_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080124T173000
-DTEND;VALUE=DATE-TIME:20080124T190200
-UID:0801243017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S
-DTSTART;VALUE=DATE-TIME:20080124T193000
-DTEND;VALUE=DATE-TIME:20080124T210300
-UID:0801243019_1_dore
-DESCRIPTION:Sala 1 - S S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080124T200000
-DTEND;VALUE=DATE-TIME:20080124T220100
-UID:0801240020_2_dore
-DESCRIPTION:Sala 2 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080124T220000
-DTEND;VALUE=DATE-TIME:20080125T001900
-UID:0801240022_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080125T173000
-DTEND;VALUE=DATE-TIME:20080125T184300
-UID:0801253017_1_dore
-DESCRIPTION:Sala 1 - S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080125T190000
-DTEND;VALUE=DATE-TIME:20080125T214000
-UID:0801250019_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080125T210000
-DTEND;VALUE=DATE-TIME:20080125T215600
-UID:0801250021_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080125T220000
-DTEND;VALUE=DATE-TIME:20080125T225600
-UID:0801250022_1_dore
-DESCRIPTION:Sala 1 - S \n S S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080126T173000
-DTEND;VALUE=DATE-TIME:20080126T191900
-UID:0801263017_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080126T194000
-DTEND;VALUE=DATE-TIME:20080126T213500
-UID:0801264019_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080126T200000
-DTEND;VALUE=DATE-TIME:20080126T212600
-UID:0801260020_2_dore
-DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080126T220000
-DTEND;VALUE=DATE-TIME:20080127T000900
-UID:0801260022_1_dore
-DESCRIPTION:Sala 1 - S S \n S S S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080127T173000
-DTEND;VALUE=DATE-TIME:20080127T190400
-UID:0801273017_1_dore
-DESCRIPTION:Sala 1 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080127T193000
-DTEND;VALUE=DATE-TIME:20080127T214500
-UID:0801273019_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080127T200000
-DTEND;VALUE=DATE-TIME:20080127T212500
-UID:0801270020_2_dore
-DESCRIPTION:Sala 2 - S S \n \nS\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080127T220000
-DTEND;VALUE=DATE-TIME:20080127T232600
-UID:0801270022_1_dore
-DESCRIPTION:Sala 1 - S S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080129T173000
-DTEND;VALUE=DATE-TIME:20080129T190000
-UID:0801293017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080129T193000
-DTEND;VALUE=DATE-TIME:20080129T215000
-UID:0801293019_1_dore
-DESCRIPTION:Sala 1 - S S S \n S S\n\n\nFuente: http://www.mecd.gob.es/cult
- ura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programa
- cion/2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
-DTSTART;VALUE=DATE-TIME:20080129T200000
-DTEND;VALUE=DATE-TIME:20080129T212600
-UID:0801290020_2_dore
-DESCRIPTION:Sala 2 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080129T220000
-DTEND;VALUE=DATE-TIME:20080129T233500
-UID:0801290022_1_dore
-DESCRIPTION:Sala 1 - S \n S \n S\n\n\nFuente: http://www.mecd.gob.es/cultu
- ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
- ion/2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080130T173000
-DTEND;VALUE=DATE-TIME:20080130T191600
-UID:0801303017_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S S S
-DTSTART;VALUE=DATE-TIME:20080130T194000
-DTEND;VALUE=DATE-TIME:20080130T212000
-UID:0801304019_1_dore
-DESCRIPTION:Sala 1 - S S S S S\n\n\nFuente: http://www.mecd.gob.es/cultura
- -mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacio
- n/2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S
-DTSTART;VALUE=DATE-TIME:20080130T200000
-DTEND;VALUE=DATE-TIME:20080130T210600
-UID:0801300020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080130T220000
-DTEND;VALUE=DATE-TIME:20080130T234900
-UID:0801300022_1_dore
-DESCRIPTION:Sala 1 - S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
- dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008
- /PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S
-DTSTART;VALUE=DATE-TIME:20080131T173000
-DTEND;VALUE=DATE-TIME:20080131T190200
-UID:0801313017_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore49.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S S S
+SUMMARY:Die Ehe der Maria Braun
 DTSTART;VALUE=DATE-TIME:20080131T193000
 DTEND;VALUE=DATE-TIME:20080131T212800
 UID:0801313019_1_dore
-DESCRIPTION:Sala 1 - S S S\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
- d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
- 08/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Die Ehe der Maria Braun (El matrimonio de María Brau
+ n\, Rainer Werner Fassbinder\, 1979). Int.: Hanna Schygulla\, Klaus Löwit
+ sch\,Gisela Uhlen. Alemania. VOSE. 118'\n"El matrimonio de Maria Braun es 
+ la película más reconocida de Fassbinder y probablemente la que ejemplif
+ ique con mayor claridad el combinado de narración clásica y cine moderno
+  de autor\, melodrama parabólico y estructura narrativa en rizoma que bus
+ ca de forma persistente su autor" (Domènec Font).\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S
+SUMMARY:Muera Zapata... Viva Zapata
 DTSTART;VALUE=DATE-TIME:20080131T200000
 DTEND;VALUE=DATE-TIME:20080131T213500
 UID:0801310020_2_dore
-DESCRIPTION:Sala 2 - S\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/P
- rograDore49.pdf
+DESCRIPTION:Sala 2 - Muera Zapata... Viva Zapata (Felipe Cazals\, 1970). I
+ nt.: Antonio Aguilar\, Jaime Fernández\, Mario Almada. México. 95'\nEsta
+  es la historia de un hombre\, Emiliano Zapata\, y de la Revolución Mexic
+ ana. La historia de la mujer que fue su compañera y la de los hombres que
+  lucharon con él.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/me
+ cd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2008/Progr
+ aDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S S
+SUMMARY:Round Midnight
 DTSTART;VALUE=DATE-TIME:20080131T220000
 DTEND;VALUE=DATE-TIME:20080201T000500
 UID:0801310022_1_dore
-DESCRIPTION:Sala 1 - S S \n S\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2008/PrograDore49.pdf
+DESCRIPTION:Sala 1 - Round Midnight (Alrededor de la medianoche\, Bertrand
+  Tavernier\, 1985). Int.: Dexter Gordon\, Francois Cluzet\, Lonette McKee.
+  Francia / EE UU. VOSE. 125'\nUn tributo al pianista de jazz Bud Powell a 
+ través de la historia de un saxofonista americano que vive y toca en el P
+ arís de los años cincuenta\, adornado con la participación de grandes i
+ ntérpretes de jazz (Herbie Hancock\, Bobby Hutcherson\, Wayne Shorter\, R
+ on Carter\, Freddie Hubbard...). </pre> </body> </html>\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2008/PrograDore49.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR
