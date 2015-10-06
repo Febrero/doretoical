@@ -590,14 +590,14 @@ SUMMARY:Luna de verano
 DTSTART;VALUE=DATE-TIME:20130412T193000
 DTEND;VALUE=DATE-TIME:20130412T205700
 UID:1304123019_2_dore
-DESCRIPTION:Sala 2 - Luna de verano (Pedro Lazaga 1958). Int.: Fernando\nF
- ernán-Gómez\, Analía Gadé\, Tony Leblanc. España. 87’\n“Dos chica
- s francesas llegan a España a matricularse en un cursillo de verano. Una 
- piensa que los españoles son unos héroes\, la otra unos locos. Protagoni
- zada por la pareja entonces de moda\, Analía Gadé y Fernando Fernán-Gó
- mez\, es una comedia muy representativa del momento.” (Carlos Aguilar)\n
- \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
- s-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore112-doc.doc
+DESCRIPTION:Sala 2 - Luna de verano  (Pedro Lazaga 1958). Int.: Fernando\n
+ Fernán-Gómez\, Analía Gadé\, Tony Leblanc. España. 87’\n“Dos chic
+ as francesas llegan a España a matricularse en un cursillo de verano. Una
+  piensa que los españoles son unos héroes\, la otra unos locos. Protagon
+ izada por la pareja entonces de moda\, Analía Gadé y Fernando Fernán-G
+ ómez\, es una comedia muy representativa del momento.” (Carlos Aguilar)
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore112-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1378,9 +1378,9 @@ DTSTART;VALUE=DATE-TIME:20130426T195000
 DTEND;VALUE=DATE-TIME:20130426T212300
 UID:1304265019_1_dore
 DESCRIPTION:Sala 1 - Atletu (Rasselas Lakew\, 2009). Int.: Rasselas Lakew\
- , Dag Malmberg. Etiopía/EE UU. Vídeo. VOSE. 93’\n\n\nFuente: http://ww
- w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
- cine-dore/programacion/2013/PrograDore112-doc.doc
+ , Dag Malmberg. Etiopía/EE UU. Vídeo. VOSE. 93’\nVer nota día 23.\n\n
+ \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
+ cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDore112-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1389,8 +1389,8 @@ DTSTART;VALUE=DATE-TIME:20130426T214500
 DTEND;VALUE=DATE-TIME:20130426T234800
 UID:1304264521_1_dore
 DESCRIPTION:Sala 1 - The Man Who Shot Liberty Valance (El hombre que mató
-  a Liberty\nValance\, John Ford\, 1962). Int.: James Stewart\, John Wayne\
- , Vera Miles. EE UU. VOSE. 123’\n“Ver a Wayne asistiendo en primera o 
+  a Liberty Valance\, John Ford\, 1962). Int.: James Stewart\, John Wayne\,
+  Vera Miles. EE UU. VOSE. 123’\n“Ver a Wayne asistiendo en primera o 
  última fila a la evidencia de cómo se desmorona su proyecto de vida es v
  er un ejemplo doloroso de cómo los individuos de cada generación deben p
  resenciar el derrumbamiento de todas sus certezas y la desaparición de mo
@@ -1566,10 +1566,10 @@ SUMMARY:Triomf
 DTSTART;VALUE=DATE-TIME:20130430T194500
 DTEND;VALUE=DATE-TIME:20130430T214800
 UID:1304304519_2_dore
-DESCRIPTION:Sala 2 - Triomf (Michael Raeburn\, 2008). Int.: Lionel Newton\
- , Obed\nBaloyi. Sudáfrica. Vídeo. VOSE. 123’\n\n\nFuente: http://www.m
- ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
- e-dore/programacion/2013/PrograDore112-doc.doc
+DESCRIPTION:Sala 2 - Triomf (Michael Raeburn\, 2008). Int.:  Lionel Newton
+ \, Obed\nBaloyi. Sudáfrica. Vídeo. VOSE. 123’\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2013/PrograDore112-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR

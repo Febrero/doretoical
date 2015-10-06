@@ -932,9 +932,9 @@ DTEND;VALUE=DATE-TIME:20130118T234100
 UID:1301184021_1_dore
 DESCRIPTION:Sala 1 - Les Nuits Fauves (Las noches salvajes\, Cyril Collard
  \, 1992). Int. : Cyril Collard\, Romane Bohringer\, Maria Schneider. Fran
- cia. VOSE. 121’\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
- d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/Progra
- Dore109-doc.doc
+ cia. VOSE. 121’\nSegunda proyección y nota día 31.\n\n\nFuente: http:/
+ /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
+ fe/cine-dore/programacion/2013/PrograDore109-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -942,8 +942,8 @@ SUMMARY:The Four Feathers
 DTSTART;VALUE=DATE-TIME:20130119T173000
 DTEND;VALUE=DATE-TIME:20130119T193600
 UID:1301193017_1_dore
-DESCRIPTION:Sala 1 - The Four Feathers (Las cuatro plumas\, Zoltan Korda\,
-  1939).\nInt.: Ralph Rochardson\, C. Audrey Smith\, John Clements\, June D
+DESCRIPTION:Sala 1 - The Four Feathers  (Las cuatro plumas\, Zoltan Korda\
+ , 1939). Int.: Ralph Rochardson\, C. Audrey Smith\, John Clements\, June D
  uprez. Reino Unido.VE. 126’\n“La mirada del guionista Sheriff\, muy de
  sviada de la novela\, orientó el film a una constatación de que el prota
  gonista triunfaba ante sí mismo y ante los demás sin necesidad de sujeta
@@ -1141,20 +1141,20 @@ SUMMARY:Uma abelha na chuva
 DTSTART;VALUE=DATE-TIME:20130123T194000
 DTEND;VALUE=DATE-TIME:20130123T204600
 UID:1301234019_1_dore
-DESCRIPTION:Sala 1 - Uma abelha na chuva (Fernando Lopes\, 1972). Int.: Ru
- y Furtado\,\nZita Duarte\, João Guedes. Portugal. VOSE*. 66’\n“Con un
-  trabajo sobre el tiempo (a través de un montaje laborioso y milimétrico
- )\, una fotografía en blanco y negro que sabe ser mordaz\, nebulosa\, dif
- usa\, opresora\; una atención ejemplar al sonido (con una banda de ruidos
-  muy elaborada)\, actores que pasan del riguroso detalle simbólico psicol
- ógico al sonambulismo a veces dentro de la misma escena\, Uma Abelha na C
- huva es uno de esos momentos casi míticos de viaje accidentado que el cin
- e portugués ha llevado en las últimas dos décadas.” (Jorge Leitão Ra
- mos) Presentación a cargo de Maria João Seixas Santos\, Directora de la 
- Cinemateca Portuguesa\, colaboradora y mujer del realizador. Segunda proye
- cción día 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
- cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDo
- re109-doc.doc
+DESCRIPTION:Sala 1 - Uma abelha na chuva  (Fernando Lopes\, 1972). Int.: R
+ uy Furtado\,\nZita Duarte\, João Guedes. Portugal. VOSE*. 66’\n“Con u
+ n trabajo sobre el tiempo (a través de un montaje laborioso y milimétric
+ o)\, una fotografía en blanco y negro que sabe ser mordaz\, nebulosa\, di
+ fusa\, opresora\; una atención ejemplar al sonido (con una banda de ruido
+ s muy elaborada)\, actores que pasan del riguroso detalle simbólico psico
+ lógico al sonambulismo a veces dentro de la misma escena\, Uma Abelha na 
+ Chuva es uno de esos momentos casi míticos de viaje accidentado que el ci
+ ne portugués ha llevado en las últimas dos décadas.” (Jorge Leitão R
+ amos) Presentación a cargo de Maria João Seixas Santos\, Directora de la
+  Cinemateca Portuguesa\, colaboradora y mujer del realizador. Segunda proy
+ ección día 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograD
+ ore109-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1357,10 +1357,10 @@ SUMMARY:Uma abelha na chuva
 DTSTART;VALUE=DATE-TIME:20130126T200000
 DTEND;VALUE=DATE-TIME:20130126T210600
 UID:1301260020_2_dore
-DESCRIPTION:Sala 2 - Uma abelha na chuva (Fernando Lopes\, 1972). Int.: Ru
- y Furtado\, Zita Duarte\, João Guedes. Portugal. VOSE*. 66’\n\n\nFuente
- : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
- cine/mc/fe/cine-dore/programacion/2013/PrograDore109-doc.doc
+DESCRIPTION:Sala 2 - Uma abelha na chuva  (Fernando Lopes\, 1972). Int.: R
+ uy Furtado\, Zita Duarte\, João Guedes. Portugal. VOSE*. 66’\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2013/PrograDore109-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
@@ -1540,15 +1540,15 @@ SUMMARY:Agustina de Aragón
 DTSTART;VALUE=DATE-TIME:20130130T193000
 DTEND;VALUE=DATE-TIME:20130130T213900
 UID:1301303019_2_dore
-DESCRIPTION:Sala 2 - Agustina de Aragón (Juan de Orduña\, 1950). Int.: A
- urora Bautista\, Fernando Rey\, Virgilio Teixeira. España. 129’\n“En 
- la órbita de la interpretación hay que resaltar con entero elogio la lab
- or de Aurora Bautista\, atinadísima en el empleo de los diversos medios d
- e expresión: miradas\, gestos\, ademanes y en la voz\, que adquiere segú
- n situaciones\, tonalidades de naturalidad\, de susurro o de grito” (Lui
- s Gómez Mesa)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
- ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograDor
- e109-doc.doc
+DESCRIPTION:Sala 2 - Agustina de Aragón  (Juan de Orduña\, 1950). Int.: 
+ Aurora Bautista\, Fernando Rey\, Virgilio Teixeira. España. 129’\n“En
+  la órbita de la interpretación hay que resaltar con entero elogio la la
+ bor de Aurora Bautista\, atinadísima en el empleo de los diversos medios 
+ de expresión: miradas\, gestos\, ademanes y en la voz\, que adquiere seg
+ ún situaciones\, tonalidades de naturalidad\, de susurro o de grito” (L
+ uis Gómez Mesa)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2013/PrograD
+ ore109-doc.doc
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT

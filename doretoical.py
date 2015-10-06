@@ -99,24 +99,25 @@ def _getYaml(url,_chance=1):
 	bash=''
 	cmd=''
 	s_yaml=''
+	awk=" | awk -f dore.awk -v url=\"" + url + "\""
 	try:
 		if url.endswith('.pdf'):
 			cmd='pdftotext'
-			bash="curl -L -s \"" + url + "\" | pdftotext -htmlmeta - - | awk -f dore.awk -v url=\"" + url + "\""
+			bash="curl -L -s \"" + url + "\" | pdftotext -htmlmeta - -"+awk
 		elif url.endswith('.docx'):
 			cmd='abiword'
-			bash="curl -L -s \"" + url + "\" | abiword --to=txt --to-name=fd://1 fd://0 | sed -e 's/\s\+/ /g' -e 's/^ | $//g' | awk -f dore.awk -v url=\"" + url + "\""
+			bash="curl -L -s \"" + url + "\" | abiword --to=txt --to-name=fd://1 fd://0"+awk
 		elif url.endswith('.doc'):
 			if _chance==1:
 				cmd='catdoc'
 				#bash="curl -L -s \"" + url + "\" | catdoc | iconv -c -f utf-8 -t ascii | strings | awk -f dore.awk"
-				bash="curl -L -s \"" + url + "\" | catdoc | sed -e 's/\s\+/ /g' -e 's/^ | $//g' | awk -f dore.awk -v url=\"" + url + "\""
+				bash="curl -L -s \"" + url + "\" | catdoc | sed -e 's/^ \+\| \+$//g'"+awk
 			elif _chance==2:
 				cmd='abiword'
-				bash="curl -L -s \"" + url + "\" | abiword --to=txt --to-name=fd://1 fd://0 | sed -e 's/\s\+/ /g' -e 's/^ | $//g' | awk -f dore.awk -v url=\"" + url + "\""
+				bash="curl -L -s \"" + url + "\" | abiword --to=txt --to-name=fd://1 fd://0"+awk
 			elif _chance==3:
 				cmd='antiword'
-				bash="curl -L -s \"" + url + "\" | antiword - | sed -e 's/^\s*\||\|\s*$//g' -e 's/\s\+/ /g' -e 's/^ | $//g' | awk -f dore.awk -v url=\"" + url + "\""
+				bash="curl -L -s \"" + url + "\" | antiword - | sed -e 's/^\s*\||\|\s*$//g'"+awk
 		f = os.popen(bash)
 		s_yaml=f.read()
 		f.close()
@@ -219,5 +220,5 @@ if __name__ == "__main__":
 			run(int(sys.argv[1]))
 		else:
 			_fillCal(sys.argv[1])
-	#join()
+	join()
 
