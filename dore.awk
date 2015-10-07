@@ -44,11 +44,10 @@ function escape(s) {
 }
 function item() {
 	if (buscadia==1) return
-	#print NR,hora,sala,minutos
 	if (hora!=0 && sala!=0 && nota!="" && minutos>0) {
+		gsub(/[ \t]+/, " ", nota);
 		gsub(/^\s+|\s+$/, "", nota);
-		sub(/^Sala ([0-9]+|Verano) */, "", nota);
-		gsub(/^\s+|\s+$/, "", nota);
+		sub(/^Sala ([0-9]+|Verano)\s*/, "", nota);
 		gsub(/^\s*\n\s*/, "\n", nota);
 		if (split(nota,a,separador)>0) {
 			titulo=gensub(/^([^\(]+) *\(.*/, "\\1", "", a[1]);
