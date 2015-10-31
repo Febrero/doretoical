@@ -20,10 +20,14 @@ if os.path.isfile(CALDIR+actual+".ics"):
 		l = Calendar.from_ical(catlast.read())
 		catactual = open(CALDIR+actual+".ics",'rb')
 		a = Calendar.from_ical(catactual.read())
-        for c in a.subcomponents:
-            if c.name == 'VEVENT':
-                l.add_component(c)
-        catlast.close()
+		for c in a.subcomponents:
+			if c.name == 'VEVENT':
+				l.add_component(c)
+		catlast.close()
+		catactual.close()
+		fl = open(CALDIR+last+".ics", 'wb')
+		fl.write(l.to_ical())
+		fl.close()
 
 if os.path.isfile(YMLDIR+actual+".yaml"):
 	if not os.path.isfile(YMLDIR+siguiente+".yaml"):
