@@ -8,8 +8,8 @@ YMLDIR='yaml/'
 last='last'
 
 ahora=datetime.datetime.now()
-actual=str(ahora.year)+"-"+str(ahora.month)
-siguiente=str(ahora.year)+"-"+str(ahora.month+1)
+actual=str(ahora.year)+"-"+str(ahora.month).zfill(2)
+siguiente=str(ahora.year)+"-"+str(ahora.month+1).zfill(2)
 
 if os.path.isfile(CALDIR+actual+".ics"):
 	if not os.path.isfile(CALDIR+siguiente+".ics"):
