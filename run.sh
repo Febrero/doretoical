@@ -8,5 +8,10 @@ if [ $? -ne 0 ]; then
 	exit 1
 fi
 
-wput -q -nc -u dore.ics ftp://back.host22.com/public_html/
+python last.py
 
+if [ $? -ne 0 ]; then
+        exit 1
+fi
+
+exit 0
