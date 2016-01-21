@@ -4,137 +4,281 @@ PRODID:-//Cine Doré//github.com santos82 doredb//ES
 X-WR-CALNAME:Cine Dore
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:A cambio de nada
-DTSTART;VALUE=DATE-TIME:20151201T173000
-DTEND;VALUE=DATE-TIME:20151201T190300
-UID:1512013017_2_dore
-DESCRIPTION:Sala 2 - A cambio de nada (Daniel Guzmán\, 2015). Int.:Fernan
- do Albizu\, Iris Alpáñez\, Beatriz Argüello. España. B-R. 93'\nDarío\
- , un chico de dieciséis años\, disfruta de la vida junto a Luismi\, su v
- ecino y amigo del alma. Mantienen una amistad incondicional\, se conocen d
- esde que tienen uso de razón y juntos han descubierto todo lo que saben d
- e la vida. Darío sufre la separación de sus padres y se escapa de casa\,
-  huyendo de su infierno familiar. Comienza a trabajar en el taller de Cara
- limpia\, un viejo delincuente con envoltura de triunfador\, que le enseña
-  el oficio y los beneficios de la vida. Darío conoce además a Antonia\, 
- una anciana que recoge muebles abandonados con su motocarro. Junto a ella 
- descubre otra forma de ver la vida. Luismi\, Caralimpia y Antonia se convi
- erten en su nueva familia en un verano que les cambiará la vida. Entrada 
- gratuita hasta completar el aforo.\n\n\nFuente: http://www.mecd.gob.es/cul
+SUMMARY:The Wizard of Oz
+DTSTART;VALUE=DATE-TIME:20160102T173000
+DTEND;VALUE=DATE-TIME:20160102T191100
+UID:1601023017_1_dore
+DESCRIPTION:Sala 1 - The Wizard of Oz (El mago de Oz\, Victor Fleming\, 19
+ 39). Int.:Judy Garland\, Frank Ray Bolger. EE UU. 35mm. VOSE*. 101'\nEntra
+ da libre para menores de 14 años.\n\n\nFuente: http://www.mecd.gob.es/cul
  tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
- acion/2015/1215-Programa.pdf
+ acion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ascenseur pour l'échafaud
-DTSTART;VALUE=DATE-TIME:20151201T192000
-DTEND;VALUE=DATE-TIME:20151201T204800
-UID:1512012019_2_dore
-DESCRIPTION:Sala 2 - Ascenseur pour l'échafaud (Ascensor para el cadalso\
- , Louis Malle\, 1957). Int.:Maurice Ronet\, Jeanne Moreau\, Georges Poujou
- ly. Francia. B-R. VOSE. 88'\n"Una brillante película\, repleta de realism
- o noir\, de la incertidumbre del absurdo y de la confusión de identidades
-  heredada de Higsmith\, una película imbuida de la poesía de la desesper
- ación romántica\, principalmente expresada a la cámara por Jeanne Morea
- u - una especie cautivadora de corista fatal\, con sombras sensuales oscur
- as bajo los ojos." (Peter Bradshaw)\n\n\nFuente: http://www.mecd.gob.es/cu
- ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
- macion/2015/1215-Programa.pdf
+SUMMARY:Affaires publiques
+DTSTART;VALUE=DATE-TIME:20160102T193000
+DTEND;VALUE=DATE-TIME:20160102T213400
+UID:1601023019_1_dore
+DESCRIPTION:Sala 1 - Affaires publiques (Robert Bresson\, 1934). Int.:Marc
+ el Dalio\, Beby\, André Servilanges. Francia. 35mm. VOSE*. 24'. Les Anges
+  du péché (Robert Bresson\, 1943). Int.: Irène Joachim\, Renée Faure\,
+  Jany Holt. Francia. 35mm. VOSE*. 100'. Total programa: 124'\nAffaires pub
+ liques: "Algunos pensaban que yo no deseaba volver a ver esta primera pel
+ ícula rodada sin experiencia. Al contrario\, le guardaba bastante amor y 
+ un poco de curiosidad. He tenido la sorpresa de eencontrar en él algo de 
+ la manera que tengo hoy de atrapar las cosas\, de mostrarlas juntas\, la m
+ anera en que los planos se suceden." (Robert Bresson). Les Anges du péch
+ é: "Sin sensiblería\, sin vulgaridad\, sin pretensiones -pero con tacto\
+ , con pudor también. Y desde luego\, nada de encargos ni de travesuras. 
+ ¡Una lección para los que van de genios! ¿Los intérpretes? Imposibles 
+ de doblar. ¿Y la técnica¿ Quisiera elogiarla por una vez\, ya que\, en 
+ esta película\, se perciben tanto como las vigas de una casa. Y sobre los
+  planos ... ¡no hay búsqueda\, hay hallazgos!" (Robert Bresson) Segunda 
+ proyección Affaires.. día 13. Segunda proyección Les Anges... día 20.\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aferim!
+DTSTART;VALUE=DATE-TIME:20160102T220000
+DTEND;VALUE=DATE-TIME:20160102T234800
+UID:1601020022_1_dore
+DESCRIPTION:Sala 1 - Aferim! (Radu Jude\, 2015). Int.:Mihai Calin\, Teodor
+  Corban\, Toma Cuzin. Rumanía. B-R. VOSE*. 108'\n"La película contiene m
+ uchas aventuras y encuentros con personajes pintorescos que pintan al mism
+ o tiempo un retrato de la Rumanía del siglo XIX y de la Europa de nuestro
+ s días\, aún inmensamente fragmentada a pesar de décadas de esfuerzos u
+ nificadores. Una conversación con un personaje que describe\, en un monó
+ logo plagado de prejuicios\, las características de los países vecinos y
+  la personalidad de sus habitantes\, hará al público reír y con suerte 
+ reflexionar sobre lo que ha cambiado en los últimos 180 años en lo que r
+ especta a cómo vemos a los que nos rodean." (Stefan Dobroiu)\n\n\nFuente:
+  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
+ ine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Dames du Bois de Boulogne
+DTSTART;VALUE=DATE-TIME:20160103T173000
+DTEND;VALUE=DATE-TIME:20160103T185500
+UID:1601033017_1_dore
+DESCRIPTION:Sala 1 - Les Dames du Bois de Boulogne (Robert Bresson\, 1945)
+ . Int.: Maria Casarès\, ElinaLabourdette\, Paul Bernard. Francia. 35mm. V
+ OSE*. 85'\n“En Les Dames ... no queda gran cosa de la novela de Diderot 
+ pero el espectador encontrará sin dificultad la semilla de las obras post
+ eriores de Bresson: esa primacía del sonido sobre la imagen\, el arte de 
+ la elipse y la interpretación distanciada de los actores que resuena siem
+ pre con la misma extrañeza.” (François Jost) Segunda proyección día 
+ 26.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Autoportretul unei fete cuminți / The Self-Portrait of a Dutiful 
+ Daughter
+DTSTART;VALUE=DATE-TIME:20160103T193000
+DTEND;VALUE=DATE-TIME:20160103T205100
+UID:1601033019_1_dore
+DESCRIPTION:Sala 1 - Autoportretul unei fete cuminți / The Self-Portrait 
+ of a Dutiful Daughter (Ana Lungu\, 2015). Int.:Elena Popa\, Emilian Oprea\
+ , Andrei Enache. Rumanía. B-R. VOSE*. 81'\n"El sujeto del autorretrato de
+ l título es Cristiana\, una joven que intenta disfrutar de su recién adq
+ uirida libertad tras la mudanza de sus padres del apartamento que compart
+ ían. Sola en las habitaciones vacías\, Cristiana tiene que llenar el esp
+ acio conquistado. Está contenta de poder ser por fin ella misma\, pero en
+  realidad no tiene ni idea de quién es. El guión escrito por Lungu consi
+ gue construir una prisión imaginaria compuesta de paredes invisibles\, su
+ brayando el conformismo de Cristiana." (Stefan Dobroiu)\n\n\nFuente: http:
+ //www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc
+ /fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Missing
+DTSTART;VALUE=DATE-TIME:20160103T211500
+DTEND;VALUE=DATE-TIME:20160103T231500
+UID:1601031521_1_dore
+DESCRIPTION:Sala 1 - Missing (Desaparecido\, Costa-Gavras\, 1981). Int.:Ja
+ ck Lemmon\, Sissy Spacek\, Melanie Mayron. EE UU. 35mm. VOSE. 120'\n"Esta 
+ es la historia de una desaparición y de una usurpación. La narración de
+  cómo se encuentra el cadáver de un hombre\, un pequeño símbolo\, y de
+  cómo se pierde\, se aleja -en el tiempo\, en la memoria\, en las imágen
+ es-el cadáver de otra historia: la de un Chile\, al parecer irremisibleme
+ nte 'desaparecido' entre los cadáveres de sus propios habitantes." (Felip
+ e Vega) Segunda proyección día 19.\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wizard of Oz
+DTSTART;VALUE=DATE-TIME:20160105T173000
+DTEND;VALUE=DATE-TIME:20160105T191100
+UID:1601053017_1_dore
+DESCRIPTION:Sala 1 - The Wizard of Oz (El mago de Oz\, Victor Fleming\, 19
+ 39). Int.:Judy Garland\, Frank 1 Morgan\, Ray Bolger. EE UU. 35mm. VOSE*. 
+ 101'\n“El film\, adaptación de un cuento infantil muy popular en Améri
+ ca\, constituyó un éxito fabuloso. Hoy puede resultar un tanto camp\, pe
+ ro en su momento se consideró incluso estéticamente revolucionario. El p
+ aso del blanco y negro al color\, la utilización de los decorados trompe 
+ l’oeil\, la estilización en la interpretación fueron tantos que jugaro
+ n a su favor. Pero jugaron\, sobre todo\, las excelentes canciones de que 
+ el film estaba sembrado y una de las cuales\, Over the Rainbow\, se haría
+  indisociable de su creadora\, que la utilizaría como sintonía de sus ac
+ tuaciones personales hasta el final de su vida.” (C. Santos Fontenla) En
+ trada libre para menores de 14 años.\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanna K
+DTSTART;VALUE=DATE-TIME:20160105T194500
+DTEND;VALUE=DATE-TIME:20160105T213300
+UID:1601054519_1_dore
+DESCRIPTION:Sala 1 - Hanna K (Costa-Gavras\, 1983). Int.: Gabriel Byrne\, 
+ Jean Yanne\, Jill Clayburgh. Francia. 35mm. VOISF/E*. 108'\n"No se trata d
+ e una mujer fuerte\, ni tampoco completamente emancipada\, ni intelectual.
+  Vive simplemente una situación moderna intentando seguir sus deseos. Est
+ oy segura de que a la gente no le gustará que no quiera divorciarse. No e
+ s ningún acto de valentía por su parte. Es interesante\, porque Hanna ti
+ ene un carácter débil y a la vez quiere luchar. No es una intelectual qu
+ e toma decisiones\, es una apasionada\, que se relaciona mal con los hombr
+ es. Es eso lo que me gusta de ella: todas esas contradicciones." (J. Clayb
+ urgh) Segunda proyección día 22.\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Itim
+DTSTART;VALUE=DATE-TIME:20160107T173000
+DTEND;VALUE=DATE-TIME:20160107T191500
+UID:1601073017_1_dore
+DESCRIPTION:Sala 1 - Itim (Mike de Leon\, 1976). Int.:Hilda Koronel\, Char
+ o Santos-Consio\, Tommy Abuel. Filipinas. B-R. VOSE. 105'\nLa historia se 
+ centra en Jun\, un fotógrafo cuya familia posee una finca en el campo. Du
+ rante la Semana Santa visita a su padre. Mientras toma fotografías en la 
+ pequeña ciudad\, se cruza con una procesión y comienza a espiar a una jo
+ ven llamada Teresa\, que vaga por las calles. Más tarde\, la encuentra a 
+ la mujer y descubre que sus vidas están unidas por el pasado de su padre.
+  Jun siente que Teresa está poseída por el espíritu de Rosa\, su herman
+ a muerta.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-
+ 2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journal d'un curé de campagne
+DTSTART;VALUE=DATE-TIME:20160107T194000
+DTEND;VALUE=DATE-TIME:20160107T213500
+UID:1601074019_1_dore
+DESCRIPTION:Sala 1 - Journal d'un curé de campagne (Robert Bresson\, 1950
+ ). Int.:Claude Laydu\, André Guibert\, Nicole Ladmiral. Francia. 35mm. VO
+ SE*. 115'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-
+ 2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aquellas palabras
+DTSTART;VALUE=DATE-TIME:20160107T200000
+DTEND;VALUE=DATE-TIME:20160107T211600
+UID:1601070020_2_dore
+DESCRIPTION:Sala 2 - Aquellas palabras (Luis Arroyo\, 1948). Int.:José Ma
+ ría Seoane\, Ana Mariscal\, Isabel de Pomés.\nEspaña. HDCam. 76'\nEl pa
+ dre Carlos\, sacerdote vasco decide marchar voluntariamente como misionero
+  a un pueblo perdido en Filipinas. Desde el primer momento\, su máxima as
+ piración será reconstruir una antigua misión\, aunque para ello deberá
+  enfrentarse a numerosas dificultades. Copia digital a partir de una copia
+  en 16mm conservada en Filmoteca Española\, financiada por el Instituto C
+ ervantes de Manila. Presentación a cargo de Carlos Madrid Álvarez-Piñer
+ \, director del Instituto Cervantes de Manila y de Mercedes de la Fuente\,
+  Jefa de Área de Fondos Fílmicos de Filmoteca Española.\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
+ /mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un etaj mai jos /One Floor Below
+DTSTART;VALUE=DATE-TIME:20160107T220000
+DTEND;VALUE=DATE-TIME:20160107T233300
+UID:1601070022_1_dore
+DESCRIPTION:Sala 1 - Un etaj mai jos /One Floor Below (Radu Muntean\, 2015
+ ). Int.:Teodor Corban\, lian Postelnicu\, Oxana Moravec. Rumanía / Franci
+ a / Suiza / Alemania. B-R. VOSE. 93'\nTras haber sido el único testigo de
+  una discusión domestica que degeneró en asesinato\, Patrascu se encuent
+ ra frente a vecinos muy cercanos. Uno de ellos es el asesino. El otro es s
+ u propia conciencia. "Dotado de una gran destreza para el encuadre\, coloc
+ ando de maravilla a sus actores en espacios estrechos y jugando con los bo
+ rdes de la imagen y los recursos del fuera de campo\, Radu Muntean escruta
+  la mínima inflexión del rostro cada vez más pensativo e incomodado de 
+ su personaje principal." (Fabien Lemercier)\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ave Maria
-DTSTART;VALUE=DATE-TIME:20151201T211000
-DTEND;VALUE=DATE-TIME:20151201T224000
-UID:1512011021_2_dore
-DESCRIPTION:Sala 2 - Ave Maria (Basil Khalil\, 2015). Int.:Huda Al Imam\, 
+DTSTART;VALUE=DATE-TIME:20160108T173000
+DTEND;VALUE=DATE-TIME:20160108T190000
+UID:1601083017_1_dore
+DESCRIPTION:Sala 1 - Ave Maria (Basil Khalil\, 2015). Int.:Huda Al Imam\, 
  Ruth Farhi\, Maya Koren. Palestina/Francia/Alemania. AD. VOSE. 15'. The Wa
  nted 18 (Los 18 buscados\, Amer Shomali\, Paul Cowan\, 2014). Animación. 
- Palestina/Canadá/Francia. B-R. VOSE. 75'. Total programa: 90'\nAve Maria:
-  Ave María llega de la selección oficial de Cannes para hablar en clave 
- de comedia “sobre la desconfianza y la cooperación entre dos grupos muy
-  distintos”\, como dice su director\, cuando cinco monjas de Cisjordania
-  ven interrumpida su rutina diaria de silencio… The Wanted 18: Del galar
- donado documental animado Los 18 buscados dice su director\, Amer Shomali:
-  “Acostumbro a decir que simpatizar con una vaca es más fácil que simp
- atizar con la población palestina... Quizás ellas pueden decirnos mejor 
- cómo se siente una viviendo bajo la ocupación.” Inauguración de la Mu
- estra.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-m
- ecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Programa.pdf
+ Palestina/Canadá/Francia. B-R. VOSE. 75'. Total programa: 90'\nThe Wanted
+  18: Del galardonado documental animado Los 18 buscados dice su director\,
+  Amer Shomali: “Acostumbro a decir que simpatizar con una vaca es más f
+ ácil que simpatizar con la población palestina... Quizás ellas pueden d
+ ecirnos mejor cómo se siente una viviendo bajo la ocupación.”\n\n\nFue
+ nte: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultu
+ ra/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anacleto: Agente secreto
-DTSTART;VALUE=DATE-TIME:20151202T173000
-DTEND;VALUE=DATE-TIME:20151202T185700
-UID:1512023017_2_dore
-DESCRIPTION:Sala 2 - Anacleto: Agente secreto (Javier Ruiz Caldera\, 2015)
- . Int.:Imanol Arias\, Carlos Areces\, Quim Gutiérrez. España. B-R. 87'\n
- "Una comedia descacharrante a la vez que melancólica y brutal\; sangrient
- a y tierna\; elegante y cutre\; heroica y\, hemos llegado\, miserable. Sin
-  duda\, un delirante contrasentido cargado de sentido. Anacleto\, ya saben
- \, nunca falla." (Luis Martínez) Entrada gratuita hasta completar el afor
- o.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
- areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Programa.pdf
+SUMMARY:Never Weaken
+DTSTART;VALUE=DATE-TIME:20160108T193000
+DTEND;VALUE=DATE-TIME:20160108T204700
+UID:1601083019_1_dore
+DESCRIPTION:Sala 1 - Never Weaken (La ascensión a los cielos\, Fred Newme
+ yer\, 1921). Int.:Harold Lloyd\, Mildred Davis\, Roy Brooks. EE UU. 35mm. 
+ MRISE*. 31' a 20 fps.. A Sailor-Made Man (Marinero de agua dulce\, Fred Ne
+ wmeyer\, 1921). Int.:Harold Lloyd\, Mildred Davis\, Noah Young. EE UU. 35m
+ m. MRISE*. 46' a 20 fps.. Total programa: 77'\nNever Weaken: Nuestro héro
+ e se encapricha de una muchacha de la oficina de al lado. Pero cuando oye 
+ que su amada se casa con otro\, decide suicidarse y lo intenta en sucesiva
+ s tentativas emocionantes y fracasadas. A Sailor-Made Man: Al principio pr
+ evista como una comedia de dos bobinas\, A Sailor-Made Man resultó tan po
+ pular en los visionados previos que se alargó a cuatro boninas convirtié
+ ndose involuntariamente en el primer largometraje de Lloyd. Copia cortesí
+ a de The Harold Lloyd Estate y Harold Lloyd Entertainment. Acompañamiento
+  musical al piano de Marcos Ortiz.\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Darjeeling Limited
-DTSTART;VALUE=DATE-TIME:20151202T191500
-DTEND;VALUE=DATE-TIME:20151202T204600
-UID:1512021519_2_dore
-DESCRIPTION:Sala 2 - The Darjeeling Limited (Viaje a Darjeeling\, Wes Ande
- rson\, 2007). Int.:Jason Schwartzman\, Owen Wilson\, Adrien Brody. EE UU. 
- 35mm. VOSE. 91'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
- cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Pro
- grama.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fi al waqt al dae’a
-DTSTART;VALUE=DATE-TIME:20151202T212000
-DTEND;VALUE=DATE-TIME:20151202T224300
-UID:1512022021_2_dore
-DESCRIPTION:Sala 2 - Fi al waqt al dae’a (En prórroga\, Rami Yasin\, 20
- 14). Int.:Makram J Khouri\, Rami Yasin.\nJordania. AD. VOSE. 13'. Roshmia 
- (Salim Abu Jabal\, 2014). Documental. Palestina/Líbano/Qatar/Siria/Emirat
- os Árabes Unidos. B-R. VOSI/E*. 70'. Total programa: 83'\nFi al waqt al d
- ae’a: Un cortometraje sobre un padre y su hijo y cómo los secretos “n
- os hacen rehenes de nuestras propias vidas sin que lo advirtamos hasta que
-  es demasiado tarde.” (Rami Yasin). Roshmia: “La historia de una vieja
-  generación de refugiados\, forzados a abandonar sus casas una y otra vez
-  y a aguantar todos los imprevistos”\, dice su director\, “Roshmia mue
- stra la mentalidad de bulldozer de un estado destructivo\, no solo de vida
- s humanas\, sino de su propio entorno.”\n\n\nFuente: http://www.mecd.gob
- .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
- programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El cadáver de Anna Fritz
-DTSTART;VALUE=DATE-TIME:20151203T173000
-DTEND;VALUE=DATE-TIME:20151203T184500
-UID:1512033017_2_dore
-DESCRIPTION:Sala 2 - El cadáver de Anna Fritz (Héctor Hernández Vicens\
- , 2015). Int.:Alba Ribas\, Cristian Valencia\, Bernat Saumell. España. B-
- R. 75'\nAnna Fritz\, una joven y famosa actriz de cine\, es hallada muerta
-  en la suite de un hotel. Pau trabaja como celador en el hospital a donde 
- han trasladado el cadáver. Es un chico tímido e introvertido que cada ve
- z que entra en el depósito el cadáver de una chica atractiva\, no puede 
- evitar mirarla. Hace una foto a Anna Fritz y se la envía a dos amigos. Cu
- ando éstos llegan a la morgue\, se quedan fascinados por su gran belleza.
-  Víctimas de sus instintos más primitivos\, se plantean violarla impunem
- ente\, pero no saben en qué clase de infierno se van a precipitar.\n\n\nF
- uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
- tura/cine/mc/fe/cine-dore/programacion/2015/1215-Programa.pdf
+SUMMARY:Brillante porvenir
+DTSTART;VALUE=DATE-TIME:20160108T200000
+DTEND;VALUE=DATE-TIME:20160108T213300
+UID:1601080020_2_dore
+DESCRIPTION:Sala 2 - Brillante porvenir (Román Gubern\, Vicente Aranda\, 
+ 1964). Int.:Germán Cobos\, Serena Vergano\, Josefina Güell. España. 35m
+ m. 93'\nAdaptación libre de El gran Gatsby. "Las bases de Brillante porve
+ nir se encuentran en la corriente neorrealista italiana qu eincluyó defin
+ itivamente el realismo barcelonés del momento." (Rosa Alvares)\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Un condamné à mort s'est échappé
-DTSTART;VALUE=DATE-TIME:20151203T190000
-DTEND;VALUE=DATE-TIME:20151203T204000
-UID:1512030019_2_dore
-DESCRIPTION:Sala 2 - Un condamné à mort s'est échappé (Un condenado a 
+DTSTART;VALUE=DATE-TIME:20160108T213000
+DTEND;VALUE=DATE-TIME:20160108T231000
+UID:1601083021_1_dore
+DESCRIPTION:Sala 1 - Un condamné à mort s'est échappé (Un condenado a 
  muerte se ha escapado\, Robert Bresson\, 1956). Int.:François Leterrier\,
   Charles Le Clainche\, Maurice Beerblock. Francia. 35mm. VOSE*. 100'\n"La 
  adaptación recrea paso a paso el modus operandi del evasor. Este planteam
@@ -146,130 +290,233 @@ DESCRIPTION:Sala 2 - Un condamné à mort s'est échappé (Un condenado a
  mente\, también de lo espectacular. Frente a los grandes ámbitos en los 
  que con frecuencia se escenifica el cine de evasiones\, Un condenado a mue
  rte… 'miniaturiza' la acción como si nos situara ante a un mecanismo de
-  relojería que hay que desmontar." (Rafael Rodríguez Tranche) Presentaci
- ón del libro Del papel al plano. El proceso de la creación cinematográf
- ica\, de Rafael Rodríguez Tranche\, a cargo de su autor y Vicente J. Bene
- t.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
- areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Programa.pdf
+  relojería que hay que desmontar." (Rafael Rodríguez Tranche)\n\n\nFuent
+ e: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura
+ /cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Safety Last
+DTSTART;VALUE=DATE-TIME:20160109T173000
+DTEND;VALUE=DATE-TIME:20160109T191000
+UID:1601093017_1_dore
+DESCRIPTION:Sala 1 - Safety Last (El hombre mosca\, Fred Newmeyer\, Sam Ta
+ ylor\, 1923). Int.:Harold Lloyd\, Mildred Davis\, Bill Strother. EE UU. 35
+ mm. MRISE*. 76' a 21 fps. Safety Last incluye la clásica imagen de Harold
+  Lloyd colgado de las manecillas de un reloj a diez pisos del suelo\, que 
+ lo coronó como el cómico capaz de cualquier cosa para provocar la carcaj
+ ada. La película es también un vehículo para el habitual estudio de Llo
+ yd de la ambición americana. Copia cortesía de The Harold Lloyd Estate y
+  Harold Lloyd Entertainment. Acompañamiento musical al piano de Marcos Or
+ tiz. Entrada libre para menores de 14 años. Segunda proyección día 15\n
+ \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
+ s-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fi al waqt al dae’a
+DTSTART;VALUE=DATE-TIME:20160109T193000
+DTEND;VALUE=DATE-TIME:20160109T205300
+UID:1601093019_1_dore
+DESCRIPTION:Sala 1 - Fi al waqt al dae’a (En prórroga\, Rami Yasin\, 20
+ 14). Int.:Makram J Khouri\, Rami Yasin. Jordania. AD. VOSE. 13'. Roshmia (
+ Salim Abu Jabal\, 2014). Documental. Palestina/Líbano/Qatar/Siria/Emirato
+ s Árabes Unidos. B-R. VOSI/E*. 70'. Total programa: 83'\nRoshmia: “La h
+ istoria de una vieja generación de refugiados\, forzados a abandonar sus 
+ casas una y otra vez y a aguantar todos los imprevistos”\, dice su direc
+ tor\, “Roshmia muestra la mentalidad de bulldozer de un estado destructi
+ vo\, no solo de vidas humanas\, sino de su propio entorno.”\n\n\nFuente:
+  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
+ ine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fata Morgana
+DTSTART;VALUE=DATE-TIME:20160109T200000
+DTEND;VALUE=DATE-TIME:20160109T212700
+UID:1601090020_2_dore
+DESCRIPTION:Sala 2 - Fata Morgana (Vicente Aranda\, 1966). Int.:Teresa Gim
+ pera\, Antonio Ferrandis\, Marianne Benet. España. Betacam. 87'\n"Desde u
+ na modernidad demasiado vanguardista para su tiempo\, en un extraño punto
+  intermedio entre Lewis Carroll y George Orwell (Gonzalo Suárez y su incl
+ asificable narrativa tampoco andan lejos)\, se asienta como fábula a mita
+ d de camino entre el thriller sofisticado/hermético y la ficción de anti
+ cipación." (Joan Bassa y Ramón Freixas)\n\n\nFuente: http://www.mecd.gob
+ .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
+ programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pickpocket
+DTSTART;VALUE=DATE-TIME:20160109T214500
+DTEND;VALUE=DATE-TIME:20160109T230000
+UID:1601094521_1_dore
+DESCRIPTION:Sala 1 - Pickpocket (Robert Bresson\, 1959). Int.:Marika Green
+ \, Martin Lassalle\, Jean Pélégri. Francia. 35mm. VOSE*. 75'\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dr. Jack
+DTSTART;VALUE=DATE-TIME:20160110T173000
+DTEND;VALUE=DATE-TIME:20160110T184500
+UID:1601103017_1_dore
+DESCRIPTION:Sala 1 - Dr. Jack (El doctor Jack\, Fred Newmeyer\, 1922). Int
+ .:Harold Lloyd\, Mildred Davis. EE UU.\n35mm. MRISE*. 58' a 21 fps. Copia 
+ cortesía de The Harold Lloyd Estate y Harold Lloyd Entertainment. Acompa
+ ñamiento musical al piano de Marcos Ortiz. Entrada libre para menores de 
+ 14 años.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-
+ 2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Mafar
-DTSTART;VALUE=DATE-TIME:20151203T213000
-DTEND;VALUE=DATE-TIME:20151203T225400
-UID:1512033021_2_dore
+DTSTART;VALUE=DATE-TIME:20160110T184500
+DTEND;VALUE=DATE-TIME:20160110T200900
+UID:1601104518_2_dore
 DESCRIPTION:Sala 2 - La Mafar (Sin salida\, Mohanad Yaqubi\, 2014). Int.:A
  dham Nuuman\, Salim Daw. Palestina. AD. VOSI/E*. 11'. Sajil Ana Arabi (Esc
  ribe que soy árabe\, Ibtisam Mara’ana Menuhin\, 2014). Documental. Pale
- stina / Israel. AD. VOSI/E*. 73'. Total programa: 84'\nLa Mafar: Parece es
- tar localizado en un andén de metro londinense\, pero pronto vemos que su
- s protagonistas están atrapados en otro lugar… Sajil Ana Arabi: “El p
- oema ‘Rita y el rifle’ [de Mahmud Darwish]\, fue muy influyente en mi 
- vida\, ya que yo también me enamoré del ‘enemigo’. Como artista y co
- mo mujer palestina\, vivo en relación con un hombre judío\, en la misma 
- guerra y conflicto que Darwish una vez vivió”\, dice Ibtisam Mara’ana
-  Menuhin\, la directora del documental sobre el poeta e icono nacional pal
- estino Mahmud Darwish.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1
- 215-Programa.pdf
+ stina / Israel. AD. VOSI/E*. 73'. Total programa: 84'\nSajil Ana Arabi: 
+ “El poema ‘Rita y el rifle’ [de Mahmud Darwish]\, fue muy influyente
+  en mi vida\, ya que yo también me enamoré del ‘enemigo’. Como artis
+ ta y como mujer palestina\, vivo en relación con un hombre judío\, en la
+  misma guerra y conflicto que Darwish una vez vivió”\, dice Ibtisam Mar
+ a’ana Menuhin\, la directora del documental sobre el poeta e icono nacio
+ nal palestino Mahmud Darwish.\n\n\nFuente: http://www.mecd.gob.es/cultura-
+ mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
+ /2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serafin Geronimo: Ang Kriminal Ng Baryo Concepcion/Serafin Geronim
+ o: The Criminal Of Barrio Concepcion
+DTSTART;VALUE=DATE-TIME:20160110T190000
+DTEND;VALUE=DATE-TIME:20160110T211200
+UID:1601100019_1_dore
+DESCRIPTION:Sala 1 - Serafin Geronimo: Ang Kriminal Ng Baryo Concepcion/Se
+ rafin Geronimo: The Criminal Of Barrio Concepcion (Lav Diaz\, 1998). Int.:
+ Angel Aquino\, Raymond Bagatsing\, Tonton Gutierrez. Filipinas. B-R. VOSE.
+  132'\nUn hombre se le aparece a una reportera y afirma que es el secuestr
+ ador famoso que tiene el mundo en vilo y le promete entregarse si a cambio
+  escucha su historia. Aunque ella recele de la oferta\, comienza a obsesio
+ narse cada vez más con su historia.\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las crueles/El cadáver exquisito
+DTSTART;VALUE=DATE-TIME:20160110T213000
+DTEND;VALUE=DATE-TIME:20160110T230900
+UID:1601103021_1_dore
+DESCRIPTION:Sala 1 - Las crueles/El cadáver exquisito (Vicente Aranda\, 1
+ 969). Int.:Teresa Gimpera\, Carlos Estrada\, Capucine. España. 35mm. 99'\
+ nVersión sin censurar con el título de El cadáver exquisito. "Aranda de
+ clara abiertamente su deseo de convertir Las crueles en una 'lucha de sexo
+ s' de la que salen triunfadoras las mujeres. El protagonista pasa de víct
+ ima a culpable\, pierde el favor del público y se presenta tal como es: e
+ goista y vanidoso. Aranda define la películña como 'lo fantástico dentr
+ o de lo posible'\, en el que juega a combinar varios ingredientes\, desde 
+ el suspense estilo Hitchcock a elementos surrealistas y puramente literari
+ os." (Belén Frías y Rosa Alvares)\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Procès de Jeanne d'Arc
+DTSTART;VALUE=DATE-TIME:20160112T173000
+DTEND;VALUE=DATE-TIME:20160112T183300
+UID:1601123017_1_dore
+DESCRIPTION:Sala 1 - Procès de Jeanne d'Arc (El proceso de Juana de Arco\
+ , Robert Bresson\, 1962). Int.:Florence Delay\, Jean-Claude Fourneau\, Rog
+ er Honorat. Francia. 35mm. VOSE*. 63'\n\n\nFuente: http://www.mecd.gob.es/
+ cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
+ ramacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estambul 65
+DTSTART;VALUE=DATE-TIME:20160112T190000
+DTEND;VALUE=DATE-TIME:20160112T211300
+UID:1601120019_1_dore
+DESCRIPTION:Sala 1 - Estambul 65 (Antonio Isasi Isasmendi\, 1965). Int.: H
+ orst Buchholz\, Sylva Koscina\, Mario\nAdorf. España / Francia / Italia. 
+ 35mm. VE. 109'. Un puente sobre el Bósforo (Antonio Isasi-Isasmendi\, 196
+ 5). Documental. España. DCP. 12'. Paseo por la vieja Constantinopla (Llu
+ ís Josep Comerón\, 1967). Documental. España. DCP. 12'. Total programa:
+  133'\nTras la película se proyectarán dos escenas censuradas. Estambul 
+ 65: Copia nueva. Proyección homenaje por los 50 años del estreno de la p
+ elícula. "Film de acción y espionaje en plena euforia de la serie Bond y
+  con sus mismos ingredientes\, sólo que multiplicando el dinamismo del ri
+ tmo y añadiendo una pizquita de ‘autoironía’. En su momento fue un h
+ it mundial.” (Carlos Aguilar). Un puente… y Paseo por la…: Documenta
+ les prácticamente inéditos realizados a partir de descartes de Estambul 
+ 65. Presentación a cargo de Antonio Isasi-Isasmendi y de Fernando Méndez
+ -Leite.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.
+ pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kakabakaba Ka Ba? / Does Your Heart Beat Faster?
+DTSTART;VALUE=DATE-TIME:20160112T200000
+DTEND;VALUE=DATE-TIME:20160112T214400
+UID:1601120020_2_dore
+DESCRIPTION:Sala 2 - Kakabakaba Ka Ba? / Does Your Heart Beat Faster? (Mik
+ e de Leon\, 1980). Int.:Charo Santos-Consio\, Christopher De Leon\, Jay Il
+ agan. Filipinas. B-R. VOSE. 104'\nLa película gira en torno a dos parejas
+  que se encuentran en un conflicto con los dos gigantes comerciales extran
+ jeros que controlan la economía filipina\, los japoneses y los chinos\, a
+ demás de la Iglesia Católica\, que tiene una soga al cuello de la socied
+ ad filipina. La película reflexiona sobre la economía filipina y su soci
+ edad\, principalmente controlada por otras potencias centradas en sus prop
+ ios beneficios\, aunque para ello se sumerjan en actividades ilegales.\n\n
+ \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
+ cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ave Maria
-DTSTART;VALUE=DATE-TIME:20151204T173000
-DTEND;VALUE=DATE-TIME:20151204T185100
-UID:1512043017_2_dore
-DESCRIPTION:Sala 2 - Ave Maria (Basil Khalil\, 2015). Int.:Huda Al Imam\, 
+DTSTART;VALUE=DATE-TIME:20160112T220000
+DTEND;VALUE=DATE-TIME:20160112T232100
+UID:1601120022_1_dore
+DESCRIPTION:Sala 1 - Ave Maria (Basil Khalil\, 2015). Int.:Huda Al Imam\, 
  Ruth Farhi\, Maya Koren. Palestina/Francia/Alemania. AD. VOSE. 15'. The Li
  ving of the Pigeons (La vida de las palomas\, Baha' AbuShanab\, 2015). Doc
  umental. Palestina. AD. VOSE. 17'. Ismail (Ismael\, Nora Alsharif\, 2013).
   Int.:Khalid Al Ghuwairy\, Nizar Idrees. Jordania/Palestina/Qatar/Reino Un
  ido. AD. VOSE. 28'. The Goodness Regime (El régimen del bien\, Jumana Man
- na y Sille Storihle\, 2013). Documental. Noruega. AD. VOSI/E*. 21'. Total 
- programa: 81'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
- ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Progr
- ama.pdf
+ na y Sille Storihle\, 2013). Documental. Noruega. AD. VOSE. 21'. Total pro
+ grama: 81'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero
+ -2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Desde que el mundo es mundo
-DTSTART;VALUE=DATE-TIME:20151204T191500
-DTEND;VALUE=DATE-TIME:20151204T205800
-UID:1512041519_2_dore
-DESCRIPTION:Sala 2 - Desde que el mundo es mundo (Günter Schwaiger\, 2015
- ). Documental. Austria/España. B-R.\n103'\nGonzalo es agricultor y vive c
- on su familia en un pequeño pueblo de la Ribera del Duero\, en el norte d
- e Castilla. La antigua y sabia tradición de producir los alimentos que co
- nsume\, desde la matanza del cerdo hasta su propio vino\, le ha venido muy
-  bien en estos tiempos de crisis que se viven en España donde el cierre d
- e fábricas\, el paro y las duras imposiciones de la industria alimenticia
-  obligan a los pequeños pueblos a luchar por sobrevivir. Desde que el mun
- do es mundo es un retrato de la otra\, de la España menos conocida y se e
- ntiende también como homenaje a las cosas sencillas\, a la naturalidad y 
- a la refrescante rebelión de la sabiduría vital.\n\n\nFuente: http://www
- .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
- ine-dore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Dîner de cons
-DTSTART;VALUE=DATE-TIME:20151204T213000
-DTEND;VALUE=DATE-TIME:20151204T225300
-UID:1512043021_2_dore
-DESCRIPTION:Sala 2 - Le Dîner de cons (La cena de los idiotas\, Francis V
- eber\, 1998). Int.:Thierry Lhermitte\, Jacques Villeret\, Francis Huster. 
- B-R. VOSE. 83'\n"Gran guión\, actores excepcionales. Brillante\, una de l
- as mejores comedias del año. Una imaginación sana que reivindica la risa
-  por medio de la palabra\, el gesto y el enredo." (Jesús Ruiz Mantilla)\n
- \n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/area
- s-cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atrapa la bandera
-DTSTART;VALUE=DATE-TIME:20151205T173000
-DTEND;VALUE=DATE-TIME:20151205T190700
-UID:1512053017_2_dore
-DESCRIPTION:Sala 2 - Atrapa la bandera (Enrique Gato\, 2015). Animación. 
- España. B-R. 97'\nRichard Carson\, un ambicioso multimillonario\, quiere 
- apropiarse del satélite terrestre y explotar la fuente de energía limpia
-  y real del futuro\, el Helio 3. Para ello\, deberá borrar de la Historia
-  la gesta de los astronautas del Apolo XI y sus famosos primeros pasos por
-  la Luna\, algo que el 40% de la población mundial cree que es mentira. Y
-  el único capaz de impedir que se salga con la suya es un simpático y de
- cidido surfero de 12 años\, Mike Goldwing. Entrada libre para menores de 
- 14 años.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
- a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Programa.
- pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El apóstata
-DTSTART;VALUE=DATE-TIME:20151205T193000
-DTEND;VALUE=DATE-TIME:20151205T205000
-UID:1512053019_2_dore
-DESCRIPTION:Sala 2 - El apóstata (Federico Veiroj\, 2015). Int.:Bárbara 
- Lennie\, Álvaro Ogalla\, Marta Larralde. España. B-R. 80'\n"Lo que le si
- gue es la descripción de una pesadilla presumiblemente amable\, delicadam
- ente kafkiana y necesariamente triste. Digamos que la idea es convertir El
-  proceso en un cuento de crecimiento. Por momentos\, El apóstata posee la
-  textura de un cuento de ciencia-ficción situado en un lugar familiarment
- e extraño (o extrañamente familiar\, como se quiera)\; otra veces\, esta
- mos antes un comedia sin risa\, o un drama sin llanto\, o una sueño sucio
-  y burocrático\, o una invasión de un territorio nuevo. Y sin mapas. As
- í\, a tientas\, Veiroj se las ingenia para apostatar de cualquier lugar c
- omún. Sin duda\, brillante. Enfermizamente luminosa. Y triste." (Luis Mar
- tínez)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
- mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Programa.pd
- f
+SUMMARY:La novia ensangrentada
+DTSTART;VALUE=DATE-TIME:20160113T173000
+DTEND;VALUE=DATE-TIME:20160113T190400
+UID:1601133017_1_dore
+DESCRIPTION:Sala 1 - La novia ensangrentada (Vicente Aranda\, 1972). Int.:
+ Maribel Martín\, Simón Andreu\,\nAlexandra Bastedo. España. 35mm. VISE*
+ . 94'\nAdaptación de Camilla\, de Sheridan Le Fanu. Versión internaciona
+ l. "La novia ensangrentada no es otra cosa que una venganza femenina contr
+ a los hombres\, el mismo tema de Las crueles que aquí se desarrolla de mo
+ do más violento." (Belén Frías y Rosa Alvares)\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Flee
-DTSTART;VALUE=DATE-TIME:20151205T211000
-DTEND;VALUE=DATE-TIME:20151205T225600
-UID:1512051021_2_dore
-DESCRIPTION:Sala 2 - Flee (Huir\, Ahmad Habash\, 2006). Animación. Palest
+DTSTART;VALUE=DATE-TIME:20160113T193000
+DTEND;VALUE=DATE-TIME:20160113T211600
+UID:1601133019_1_dore
+DESCRIPTION:Sala 1 - Flee (Huir\, Ahmad Habash\, 2006). Animación. Palest
  ina. AD. Sin dialogos. 3'. 3000 Layla (3000 noches\, Mai Masri\, 2015). In
  t.:Maisa Abd Elhadi\, Hussein Nakhleh. Palestina/Francia/Jordania/Líbano.
   B-R. VOSE. 103'. Total programa: 106'\n3000 Layla: Una historia de matern
@@ -280,906 +527,1074 @@ DESCRIPTION:Sala 2 - Flee (Huir\, Ahmad Habash\, 2006). Animación. Palest
  palestino y el levantamiento de asentamientos ilegales están al alza\, y 
  no contamos con un respaldo internacional serio: no nos queda otra opción
   que resistir esta ocupación con coraje y el convencimiento de que un dí
- a seremos libres.” (Mai Masri)\n\n\nFuente: http://www.mecd.gob.es/cultu
+ a seremos libres.” (Mai Masri) Con la presencia de Rami Arda\, decorador
+  de la película.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
+ d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/Progra
+ maEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Affaires publiques
+DTSTART;VALUE=DATE-TIME:20160113T200000
+DTEND;VALUE=DATE-TIME:20160113T212700
+UID:1601130020_2_dore
+DESCRIPTION:Sala 2 - Affaires publiques (Robert Bresson\, 1934). Int.:Marc
+ el Dalio\, Beby\, Andrée Servilanges. Francia. 35mm. VOSE*. 24'. Robert B
+ resson\, ni vu ni connu (François Weyergans\, 1994). Documental. Francia.
+  BSP. VOSE*. 63'. Total programa: 87'\nRobert Bresson\, ni vu ni connu: Ca
+ pítulo de la serie Cinéastes de notre temps. En 1965\, después de haber
+  realizado seis películas en veinte años\, Robert Bresson prepara Al aza
+ r\, Balthazar. Discreto\, nunca concedió una entrevista filmada pero acep
+ ta responder a las preguntas de François Weyergans. Treinta años más ta
+ rde\, Weyergans\, ya un escritor reconocido\, vuelve sobre la película\, 
+ remontándola.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/c
+ ultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaE
+ nero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dr. Jack
+DTSTART;VALUE=DATE-TIME:20160113T220000
+DTEND;VALUE=DATE-TIME:20160113T232700
+UID:1601130022_1_dore
+DESCRIPTION:Sala 1 - Dr. Jack (El doctor Jack\, Fred Newmeyer\, 1922). Int
+ .:Harold Lloyd\, Mildred Davis. EE UU. 35mm. MRISE*. 58' a 21 fps. Harold 
+ Lloyd interpreta al Dr. Jackson\, un doctor provinciano amigo de todos y a
+ nsioso por ayudar. Su método se basa en la psicología\, la alegría y el
+  entusiasmo\, y no tanto en medicinas. Por ello\, el Dr. Jack acude al res
+ cate del la niña-buena-y-enferma que es deliberadamente coaccionada por u
+ n terrible doctor... Copia cortesía de The Harold Lloyd Estate y Harold L
+ loyd Entertainment. Acompañamiento musical al piano de Marcos Ortiz.\n\n\
+ nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
+ ultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kisapmata
+DTSTART;VALUE=DATE-TIME:20160114T173000
+DTEND;VALUE=DATE-TIME:20160114T190000
+UID:1601143017_1_dore
+DESCRIPTION:Sala 1 - Kisapmata (Mike de Leon\, 1981). Int.:Charo Santos-Co
+ nsio\, Jay Ilagan\, Vic Silayan. Filipinas. B-R. VOSE. 90'\nUna película 
+ totalmente rompedora que supuso el primer tratamiento del incesto en el ci
+ ne filipino. La película\, considerada una de las 10 mejores pelíulas fi
+ lipinas\, trata algunos temas fuertes como incesto\, asesinato\, suicidio 
+ o parricidio y convirtió a De Leon como uno de los grandes directores de 
+ la nueva generación.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
+ /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/Pr
+ ogramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Au hasard Balthazar
+DTSTART;VALUE=DATE-TIME:20160114T192000
+DTEND;VALUE=DATE-TIME:20160114T205400
+UID:1601142019_1_dore
+DESCRIPTION:Sala 1 - Au hasard Balthazar (Al azar\, Baltasar\, Robert Bres
+ son\, 1966). Int.:Anne Wiazemsky\, Walter Green\, François Lafarge. Franc
+ ia/Suecia. 35mm. VOSE*. 94'\n“Bresson introdujo la mayor innovación que
+  se podía\, en ese momento\, introducir en el cine\, a saber\, el pensami
+ ento. Y este pensamiento no era inmediatamente aparente. Lo que los hombre
+ s habían hecho hasta entonces con la poesía\, con la literatura\, Bresso
+ n lo hizo con el cine. Au Hasard Balthazar es quizás la película que mej
+ or corresponde a una creación solitaria\, o sea\, a la creación propiame
+ nte dicha.” (Marguerite Duras)\n\n\nFuente: http://www.mecd.gob.es/cultu
  ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
- ion/2015/1215-Programa.pdf
+ ion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Amama
-DTSTART;VALUE=DATE-TIME:20151209T173000
-DTEND;VALUE=DATE-TIME:20151209T190800
-UID:1512093017_2_dore
-DESCRIPTION:Sala 2 - Amama (Asier Altuna\, 2015). Int.:Iraia Elias\, Kandi
- do Uranga\, Klara Badiola. España. B-R. VOSE. 98'\nUna historia familiar.
-  El conflicto entre lo urbano y lo rural\, entre pasado y presente\, padre
- s e hijos. Dos formas opuestas de entender la existencia\, y una abuela qu
- e observa el mundo desde el más elocuente de los silencios.\n\n\nFuente: 
- http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/ci
- ne/mc/fe/cine-dore/programacion/2015/1215-Programa.pdf
+SUMMARY:La muchacha de las bragas de oro
+DTSTART;VALUE=DATE-TIME:20160114T200000
+DTEND;VALUE=DATE-TIME:20160114T214100
+UID:1601140020_2_dore
+DESCRIPTION:Sala 2 - La muchacha de las bragas de oro (Vicente Aranda\, 19
+ 80). Int.:Victoria Abril\, Lautaro Murúa. España/Venezuela. B-R. 101'\n"
+ El tema de La muchacha de las bragas de oro es la seducción\, una seducci
+ ón nimbada de excitaciones por una jovencita libérrima\, más allá de c
+ ualquier tabú sexual\, como correspondía a la juventud de finales de los
+  años setenta\, probablemente la etapa más audaz que haya vivido España
+ . Esta seducción de la sobrina por su tío\, aparece de forma creciente."
+  (Vicente Aranda)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mec
+ d/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/Progra
+ maEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A glória de fazer cinema en Portugal
-DTSTART;VALUE=DATE-TIME:20151209T193000
-DTEND;VALUE=DATE-TIME:20151209T210000
-UID:1512093019_2_dore
-DESCRIPTION:Sala 2 - A glória de fazer cinema en Portugal (Manuel Mozos\,
-  2015). Documental. Portugal. B-R. VOSE. 15'. João Bénard da Costa - Out
- ros amarão os filmes as coisas que eu amei (Manuel Mozos\, 2014). Documen
- tal. Portugal. B-R. VOSE. 75'. Total programa: 90'\nA glória de fazer cin
- ema en Portugal: El 18 de septiembre de 1929\, el escritor portugués Jos
- é Régio envió una carta a Alberto Serpa expresando su deseo de crear un
- a compañía de producción y empezar a hacer películas. Le pidió poners
- e en contacto con un amigo que tenía una cámara de cine. Durante casi 90
-  años\, nada más se supo sobre el resultado. João Bénard da Costa - Ou
- tros amarão os filmes as coisas que eu amei: Un homenaje al cine con el p
- retexto de la extraordinaria vida de João Bénard da Costa\, director de 
- la Cinemateca Portuguesa durante 18 años\, pero también actor\, aficiona
- do al cine\, escritor inspirado y jugador creativo. Una inusual biografía
- \, que narra la vida del hombre a través de sus amores\, los miedos y las
-  contemplaciones\, impresas en el arte de la pintura\, el cine y la litera
- tura. De la pintura barroca a la literatura de Borges\, Outros amarão as 
- Coisas que eu amei es el diario querido un hombre universal. Presentación
-  a cargo de Gonzalo de Pedro.\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2015/1215-Programa.pdf
+SUMMARY:Betrayed
+DTSTART;VALUE=DATE-TIME:20160114T211500
+DTEND;VALUE=DATE-TIME:20160114T232100
+UID:1601141521_1_dore
+DESCRIPTION:Sala 1 - Betrayed (El sendero de la traición\, Costa-Gavras\,
+  1988). Int.:Debra Winger\, Tom Berenger\, Betsy Blair. EEUU/Japón. 35mm.
+  VOSE. 126'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
+ ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEner
+ o-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Day 79
-DTSTART;VALUE=DATE-TIME:20151209T213000
-DTEND;VALUE=DATE-TIME:20151209T225000
-UID:1512093021_2_dore
-DESCRIPTION:Sala 2 - Day 79 (Día 79\, Sam Al Ja’fari\, 2014). Int.:Sa
- ’eb Al-Botma\, Fadi Ramadan. Palestina. AD. VOSI/E*. 9'. The Unbearable 
- Presence of Asmahan (La insoportable presencia de Asmahan\, Azza ElHassan\
- , 2014). Documental. Austria/Qatar. B-R. VOSE. 71'. Total programa: 80'\nD
- ay 79: Rami está bajo arresto domiciliario israelí. La espera y el abati
- miento caracterizan su vida en esa condición hasta que decide algo. The U
- nbearable Presence of Asmahan: Mientras la vida se complica en el mundo á
- rabe\, la gente empieza a aclamar a la mayor diva de todos los tiempos: As
- mahan\, la princesa siria que emigró a Egipto en la veintena y que se con
- virtió en artista de entretenimiento. Pero Asmahan no es el ángel que to
- do el mundo imagina. “No hay duda sobre ello\, Asmahan no es una mujer f
- ácil de olvidar. Pero también se dice que en momentos conflictivos la ge
- nte tiende a agarrarse a iconos pasados. El pasado\, en cierta forma\, par
- ece más seguro que el presente. ¿Es por eso por lo que la gente se está
-  atando a ella\, deseando que guíe sus caminos?” (Azza El-Hassan)\n\n\n
- Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
- ltura/cine/mc/fe/cine-dore/programacion/2015/1215-Programa.pdf
+DTSTART;VALUE=DATE-TIME:20160115T173000
+DTEND;VALUE=DATE-TIME:20160115T185000
+UID:1601153017_1_dore
+DESCRIPTION:Sala 1 - Day 79 (Día 79\, Sam Al Ja’fari\, 2014). Int.:Sa
+ ’eb Al-Botma\, Fadi Ramadan. Palestina. AD.\nVOSI/E*. 9'. The Unbearable
+  Presence of Asmahan (La insoportable presencia de Asmahan\, Azza ElHassan
+ \, 2014). Documental. Austria/Qatar. B-R. VOSE. 71'. Total programa: 80'\n
+ The Unbearable Presence of Asmahan: Mientras la vida se complica en el mun
+ do árabe\, la gente empieza a aclamar a la mayor diva de todos los tiempo
+ s: Asmahan\, la princesa siria que emigró a Egipto en la veintena y que s
+ e convirtió en artista de entretenimiento. Pero Asmahan no es el ángel q
+ ue todo el mundo imagina. “No hay duda sobre ello\, Asmahan no es una mu
+ jer fácil de olvidar. Pero también se dice que en momentos conflictivos 
+ la gente tiende a agarrarse a iconos pasados. El pasado\, en cierta forma\
+ , parece más seguro que el presente. ¿Es por eso por lo que la gente se 
+ está atando a ella\, deseando que guíe sus caminos?” (Azza El-Hassan)\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cinzas e brasas
-DTSTART;VALUE=DATE-TIME:20151210T173000
-DTEND;VALUE=DATE-TIME:20151210T185100
-UID:1512103017_2_dore
-DESCRIPTION:Sala 2 - Cinzas e brasas (Manuel Mozos\, 2015). Int.:Ana Ribei
- ro\, Gustavo Sumpta. Portugal. B-R. VOSE*. 21'. Ruinas (Manuel Mozos\, 200
- 9). Documental. Portugal. BDG. VOSE*. 60'. Total programa: 81'\nCinzas e b
- rasas: En la edición portuguesa de la novela Campo de sangue la escritora
-  Dulce María Cardoso afirma que 'la belleza puede ser un pretexto para vo
- lverse loco. Belleza la soledad' En este cortometraje\, todos estos 'eleme
- ntos' son destacados: la soledad\, la belleza\, la locura y Dulce María C
- ardoso. El pretexto para que esto suceda es otro reencuentro\, un reencuen
- tro con una pasión insostenible y perturbadora: la que existía entre Dul
- ce María Cardoso y Rui\, sobre quien la escritora escribió su primera no
- vela. Ruinas: Fragmentos de espacios y tiempos\, restos de épocas y lugar
- es en los que solo habitan recuerdos y fantasmas. Las huellas de las cosas
-  que el tiempo\, los elementos\, la naturaleza y la actividad humana han m
- odificado y seguirán modificando. Con el paso del tiempo todo lo que iba 
- a dejar de existir\, llega a ser otra cosa. Lugares que ya no tienen senti
- do\, que ya no son necesarios\, que ya no están de moda Lugares olvidados
- \, obsoletos\, inhóspitos\, vacíos. No importa aquí a explicar por qué
-  fueron creados y existieron\, ni las razones por las que fueron abandonad
- os o se transformaron. Sólo queremos sugerir una idea\, tal vez poética\
- , de algo que fue y es parte de la historia de este país.\n\n\nFuente: ht
- tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
- /mc/fe/cine-dore/programacion/2015/1215-Programa.pdf
+SUMMARY:Safety Last
+DTSTART;VALUE=DATE-TIME:20160115T194000
+DTEND;VALUE=DATE-TIME:20160115T210000
+UID:1601154019_1_dore
+DESCRIPTION:Sala 1 - Safety Last (El hombre mosca\, Fred Newmeyer\, Sam Ta
+ ylor\, 1923). Int.:Harold Lloyd\, Mildred Davis\, Bill Strother. EE UU. 35
+ mm. MRISE*. 76' a 21 fps. Copia cortesía de The Harold Lloyd Estate y Har
+ old Lloyd Entertainment. Acompañamiento musical al piano de Marcos Ortiz.
+ \n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/ar
+ eas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aferim!
-DTSTART;VALUE=DATE-TIME:20151210T191500
-DTEND;VALUE=DATE-TIME:20151210T210300
-UID:1512101519_2_dore
-DESCRIPTION:Sala 2 - Aferim! (Radu Jude\, 2015). Int.:Mihai Calin\, Teodor
-  Corban\, Toma Cuzin. Rumanía. B-R. VOSE*. 108'\n"La película contiene m
- uchas aventuras y encuentros con personajes pintorescos que pintan al mism
- o tiempo un retrato de la Rumanía del siglo XIX y de la Europa de nuestro
- s días\, aún inmensamente fragmentada a pesar de décadas de esfuerzos u
- nificadores. Una conversación con un personaje que describe\, en un monó
- logo plagado de prejuicios\, las características de los países vecinos y
-  la personalidad de sus habitantes\, hará al público reír y con suerte 
- reflexionar sobre lo que ha cambiado en los últimos 180 años en lo que r
- especta a cómo vemos a los que nos rodean." (Stefan Dobroiu) Inauguració
- n de la Muestra a cargo de Roberto Cueto y Ioana Anghei.\n\n\nFuente: http
- ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
- c/fe/cine-dore/programacion/2015/1215-Programa.pdf
+SUMMARY:Fanny Pelopaja
+DTSTART;VALUE=DATE-TIME:20160115T200000
+DTEND;VALUE=DATE-TIME:20160115T214000
+UID:1601150020_2_dore
+DESCRIPTION:Sala 2 - Fanny Pelopaja (Vicente Aranda\, 1984). Int.:Fanny Co
+ ttençon\, Bruno Cremer\, Francisco Algora. España/Francia. 35mm. 100'\n"
+ Fanny Pelopaja no es un thriller de confección\, sino un nuevo capítulo 
+ de esa historia filmada de la guerra entre los hombres y las mujeres que h
+ ace el núcleo central del cine de Aranda. Un cine que conocíamos glacial
+  y que se empieza a descubrir pasional\, habitado por un candente fuego oc
+ ulto a imagen de su sorprendente protagonista\, Fanny Cottençon\, algo as
+ í como la respuesta francesa a Lana Turner." (José Luis Guarner)\n\n\nFu
+ ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
+ ura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mi gran noche
-DTSTART;VALUE=DATE-TIME:20151210T212000
-DTEND;VALUE=DATE-TIME:20151210T225700
-UID:1512102021_2_dore
-DESCRIPTION:Sala 2 - Mi gran noche (Álex de la Iglesia\, 2015). Int.:Pep
- ón Nieto\, Mario Casas\, Raphael. España. B-R. 97'\n"Mucho del universo 
- mitómano de Álex de la Iglesia está presente en Mi gran noche\, su pel
- ícula más coral\, la más caótica y también esperpéntica\, y que gira
-  en torno a la grabación de un programa de televisión de Año Nuevo. En 
- él\, dos figuras\, un representante de la vieja escuela y un joven cantan
- te ídolo de jovencitas\, se disputarán ser el primero en aparecer en pan
- talla tras las uvas. ¿Una metáfora sobre la situación de España? Por a
- hí van los tiros\, pero en clave trash y despendolada marca de la casa. "
-  (Beatriz Martínez)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
- mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/121
- 5-Programa.pdf
+SUMMARY:Mouchette
+DTSTART;VALUE=DATE-TIME:20160115T213000
+DTEND;VALUE=DATE-TIME:20160115T225100
+UID:1601153021_1_dore
+DESCRIPTION:Sala 1 - Mouchette (Robert Bresson\, 1966). Int.:Nadine Nortie
+ r\, Jean-Claude Guilbert\, Marie Cardinal. Francia. 35mm. VOSE*. 81'\n"La 
+ estructura de esta película ya estaba contenido en su anterior obra\, Au 
+ hasard Balthazar\, de la que Mouchette es como una prolongación. Pero mie
+ ntras Balthazar reposaba sobre una complejidad que hacía difícil vislumb
+ rar la reorientación de su obra\, Mouchette retomaba una estructura linea
+ l\, aparentemente más accesible\, para decir más o menos lomismo\, o sea
+ \, una nueva inmersión en el reino de las tinieblas." (João Bénard da C
+ osta) Segunda proyección día 27.\n\n\nFuente: http://www.mecd.gob.es/cul
+ tura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/program
+ acion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Asesinos inocentes
-DTSTART;VALUE=DATE-TIME:20151211T173000
-DTEND;VALUE=DATE-TIME:20151211T190500
-UID:1512113017_2_dore
-DESCRIPTION:Sala 2 - Asesinos inocentes (Gonzalo Bendala\, 2015). Int.:Max
- i Iglesias\, Aura Garrido\, Manolo Solo. España. B-R. 95'\nCuenta la hist
- oria de Francisco Garralda\, un joven universitario que\, viéndose en una
-  situación personal muy comprometida\, recibe una oferta: matar a Espinos
- a\, su profesor de psicología. Lo que convierte el encargo en singular es
-  que el mismo profesor es quien ofrece a su estudiante esta manera de sali
- r del aprieto que le asfixia.\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2015/1215-Programa.pdf
+SUMMARY:Why Worry?
+DTSTART;VALUE=DATE-TIME:20160116T173000
+DTEND;VALUE=DATE-TIME:20160116T185100
+UID:1601163017_1_dore
+DESCRIPTION:Sala 1 - Why Worry? (¡Venga alegría!\, Fred Newmeyer\, Sam T
+ aylor\, 1923). Int.:Harold Lloyd\, Jobyna Ralston\, Johan Aasen. EE UU. 35
+ mm. MRISE*. 67' a 20 fps. Harold interpreta al rico hipocondríaco Harold 
+ van Pelham\, que viaja con su enfermera privada a la isla ficticia de Para
+ diso para vivir felizmente en un clima caliente para recobrar la salud. En
+  Paradiso\, se encuentra en medio de una revolución\, que Harold asume qu
+ e se ha organizado como un entretenimiento para su diversión. Con la ayud
+ a de un gigante llamado Colosso\, Harold aplasta la rebelión y el entusia
+ smo le cura de sus dolencias imaginadas. Why Worry? es incuestionablemente
+  una de las comedias más hilarantes de Lloyd. Copia cortesía de The Haro
+ ld Lloyd Estate y Harold Lloyd Entertainment. Acompañamiento al piano de 
+ Irene Albar. Entrada libre para menores de 14 años. Segunda proyección d
+ ía 29.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.
+ pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Un etaj mai jos /One Floor Below
-DTSTART;VALUE=DATE-TIME:20151211T193000
-DTEND;VALUE=DATE-TIME:20151211T210300
-UID:1512113019_2_dore
-DESCRIPTION:Sala 2 - Un etaj mai jos /One Floor Below (Radu Muntean\, 2015
- ). Int.:Teodor Corban\, lian Postelnicu\, Oxana Moravec. Rumanía / Franci
- a / Suiza / Alemania. B-R. VOSE. 93'\nTras haber sido el único testigo de
-  una discusión domestica que degeneró en asesinato\, Patrascu se encuent
- ra frente a vecinos muy cercanos. Uno de ellos es el asesino. El otro es s
- u propia conciencia. "Dotado de una gran destreza para el encuadre\, coloc
- ando de maravilla a sus actores en espacios estrechos y jugando con los bo
- rdes de la imagen y los recursos del fuera de campo\, Radu Muntean escruta
-  la mínima inflexión del rostro cada vez más pensativo e incomodado de 
- su personaje principal." (Fabien Lemercier)\n\n\nFuente: http://www.mecd.g
- ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
- e/programacion/2015/1215-Programa.pdf
+SUMMARY:Une femme douce
+DTSTART;VALUE=DATE-TIME:20160116T190000
+DTEND;VALUE=DATE-TIME:20160116T202800
+UID:1601160019_1_dore
+DESCRIPTION:Sala 1 - Une femme douce (Robert Bresson\, 1969). Int.:Dominiq
+ ue Sanda\, Jeanne Lobre\, Guy Frangin. Francia. 35mm. VOSE*. 88'\n“La hi
+ storia es banal\, la historia misma es crónica de sucesos\, banal. Mucho 
+ menos banal es el hombre que ante esta muerta se interroga y se encuentra 
+ ante una caja cerrada que nunca dirá nada y de la que nunca se sabrá nad
+ a\, y que no es interpretable. No es\, de ninguna manera\, la historia del
+  suicidio\; eso no tiene interés para mí. Es la confrontación entre la 
+ muerte y la vida.” (Robert Bresson) Segunda proyección día 28.\n\n\nFu
+ ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
+ ura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pasolini\, La verita' nascosta
-DTSTART;VALUE=DATE-TIME:20151211T212000
-DTEND;VALUE=DATE-TIME:20151211T232400
-UID:1512112021_2_dore
-DESCRIPTION:Sala 2 - Pasolini\, La verita' nascosta (Pasolini\, la verdad 
- oculta\, Federico Bruno\, 2013). Documental. Int.:Alberto Testone\, Cosimo
-  Cinieri\, Fiorenza Tessari. Italia. AD. VOSE. 124'\nLa película reconstr
- uye el último año de vida de Pier Paolo Pasolini\, en el que se volcó e
- n escribir el libro Petróleo\, que quedó inconcluso. El hilo de la narra
- ción es la denuncia que hace Pasolini con Petróleo\, con un espíritu cl
- aramente subversivo y crítico con la derecha económica italiana y su est
- rategia de presión criminal. Con la presencia del director\, Federico Bru
- no. Segunda proyección día 16.\n\n\nFuente: http://www.mecd.gob.es/cultu
- ra-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programac
- ion/2015/1215-Programa.pdf
+SUMMARY:El Lute
+DTSTART;VALUE=DATE-TIME:20160116T193000
+DTEND;VALUE=DATE-TIME:20160116T213300
+UID:1601163019_2_dore
+DESCRIPTION:Sala 2 - El Lute (camina o revienta) (Vicente Aranda\, 1987). 
+ Int.:Victoria Abril\, Imanol Arias\, Diana Peñalver. España. 35mm. 123'\
+ n"Aranda ha evitado los aspectos épicos de la historia\, el panfleto cont
+ ra la brutalidad policial\, la diatriba en torno a la injusticia social. h
+ a construido una crónica a partir de las memorias de Eleuterio Sánchez\,
+  en la que viene dada una visión personal -toda reconstitución implica f
+ atalmente una interpretación- de El Lute. Y nos cuenta así una epopeya i
+ rónica de la mala suerte\, una aventura inconcebible de un merchero trafi
+ cante en objetos de latón y ladrón ocasional de gallinas que 'tiene el c
+ enizo'\, que s eve empujado por su entorno y por el destino a un atraco ab
+ surdo\, converitdo en enemigo público número uno y condenado a muerte." 
+ (José Luis Guarner)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/Pro
+ gramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Un día perfecte per volar/Un día perfecto para volar
-DTSTART;VALUE=DATE-TIME:20151212T173000
-DTEND;VALUE=DATE-TIME:20151212T184000
-UID:1512123017_2_dore
-DESCRIPTION:Sala 2 - Un día perfecte per volar/Un día perfecto para vola
- r (Marc Recha\, 2015). Int.:Sergi López\, Roc Recha. España. B-R. VOSE. 
- 70'\nEn el transcurso del intento de desenredar los hilos de una cometa ca
- sera que se han enganchado en unos matorrales\, Sergi López va hablando d
- e muchas cosas con ese niño que se conoce de memoria el cuento y al que e
- l actor\, con un guion previo bien armado y sin muchas concesiones a la im
- provisación\, le va asombrando con un relato lleno de imaginación y plag
- ado de personajes mágicos. Todo un juego de espejos entre los que están 
- y los que no están\, que acaba desdibujando la frontera entre lo soñado 
- y la realidad. Entrada libre para menores de 14 años.\n\n\nFuente: http:/
- /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
- fe/cine-dore/programacion/2015/1215-Programa.pdf
+SUMMARY:Mad City
+DTSTART;VALUE=DATE-TIME:20160116T211500
+DTEND;VALUE=DATE-TIME:20160116T230900
+UID:1601161521_1_dore
+DESCRIPTION:Sala 1 - Mad City (Costa-Gavras\, 1997). Int.:John Travolta\, 
+ Dustin Hoffman\, Alan Alda. EE UU. 35mm. VOSE*. 114'\n\n\nFuente: http://w
+ ww.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe
+ /cine-dore/programacion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lumea e a mea / The World Is Mine
-DTSTART;VALUE=DATE-TIME:20151212T190000
-DTEND;VALUE=DATE-TIME:20151212T205000
-UID:1512120019_2_dore
-DESCRIPTION:Sala 2 - Lumea e a mea / The World Is Mine (Nicolae Constantin
-  Tanase\, 2015). Int.:Ana-Maria Guran\, Iulia Ciochina\, Florin Hritcu. Ru
- manía. B-R. VOSE*. 110'\n"The World Is Mine\, cuyo estreno nacional está
-  programado para este otoño\, suscitará sin duda un debate ya que no sol
- o explora la falta de perspectivas vitales de muchos adolescentes de ciuda
- des pequeñas de Rumanía (o de Europa del Este)\, sino también su distor
- sionada concepción del éxito." (Stefan Dobroiu)\n\n\nFuente: http://www.
- mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
- ne-dore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Atalante
-DTSTART;VALUE=DATE-TIME:20151212T220000
-DTEND;VALUE=DATE-TIME:20151212T232800
-UID:1512120022_2_dore
-DESCRIPTION:Sala 2 - L'Atalante (Jean Vigo\, 1934). Int.:Michel Simon\, Je
- an Dasté\, Dita Parlo. Francia. B-R. VOSE. 88'\n"Sólo un hombre ha conse
- guido hacer de las películas sonoras un conjunto homogéneo\, pero está 
- muerto. Vigo. Él cogió el sonido\, la imagen\, la música y el diálogo 
- y los fusionó -y quiero decir "fusionar"\, no "mezclar". El resultado fue
-  L'Atalante. Cuando ves esta película te das cuenta de por qué el cine e
- stá muriendo a causa de una horrible enfermedad: el naturalismo. Por natu
- ralismo entiendo una imitación servil de la realidad. Ninguna película p
- arece más naturalista que L'Atalante. Pero sólo lo parece\; en realidad 
- es una vidriera de colores." (Henri Langlois)\n\n\nFuente: http://www.mecd
+SUMMARY:Girl Shy
+DTSTART;VALUE=DATE-TIME:20160117T173000
+DTEND;VALUE=DATE-TIME:20160117T192400
+UID:1601173017_1_dore
+DESCRIPTION:Sala 1 - Girl Shy (El Tenorio tímido\, Fred Newmeyer\, Sam Ta
+ ylor\, 1924). Int.:Harold Lloyd\, Jobyna\nRalston. EE UU. 35mm. MRISE*. 89
+ ' a 21 fps. Harold es un tímido y tartamudo aprendiz de sastre que tiene 
+ miedo de chicas. Pasa sus tardes solo escribiendo un libro llamado El secr
+ eto del amor hasta que se decide a pasar a la acción cuando descubre que 
+ la muchacha que ama está a punto de casarse con un bígamo. Lo que sigue 
+ es posiblemente la mayor carrera al rescate del cine mudo. El final de la 
+ película inspiró a Mike Nichols el de El Graduado más de cuarenta años
+  más tarde. Una de las películas más influyentes e importantes de Lloyd
+ . Copia cortesía de The Harold Lloyd Estate y Harold Lloyd Entertainment.
+  Acompañamiento musical al piano de Marcos Ortiz. Entrada libre para meno
+ res de 14 años. Segunda proyección día 19.\n\n\nFuente: http://www.mecd
  .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
- ore/programacion/2015/1215-Programa.pdf
+ ore/programacion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Week-end
-DTSTART;VALUE=DATE-TIME:20151213T173000
-DTEND;VALUE=DATE-TIME:20151213T191400
-UID:1512133017_2_dore
-DESCRIPTION:Sala 2 - Week-end (Jean-Luc Godard\, 1967). Int.:Jean Yanne\, 
- Mireille Darc\, Jean-Pierre Kalfon. Francia. B-R. VOSE. 104'\n"Week-end tr
- ata de la forma de histeria colectiva que se apodera de los habitantes de 
- París poseedores de automóviles desde el viernes por la tarde hasta el l
- unes por la mañana. Todo humanismo es bruscamente sacrificado a la tiran
- ía del dios ocio. A través del símbolo de una pareja de jóvenes burgue
- ses\, he mostrado todas las perversiones y todos los disparates que result
- an de este estado de cosas. El viaje\, que comienza como apoteosis\, acaba
- rá como tragicomedia. He injertado al aspecto sociológico el guión algu
- nas raíces psicológicas\, es decir\, que en el interior de la odisea viv
- ida por los dos personajes intervienen motivos de suspense entre ellos\, e
- n relación a sus propias vidas." (Jean-Luc Godard)\n\n\nFuente: http://ww
+SUMMARY:Amen
+DTSTART;VALUE=DATE-TIME:20160117T193000
+DTEND;VALUE=DATE-TIME:20160117T214400
+UID:1601173019_1_dore
+DESCRIPTION:Sala 1 - Amen (Amén\, Costa-Gavras\, 2002). Int.:Ulrich Tukur
+ \, Mathieu Kassovitz\, Ulrich Mühe. Francia. BDG. VOSE. 134'\n\n\nFuente:
+  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
+ ine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Lute II
+DTSTART;VALUE=DATE-TIME:20160117T200000
+DTEND;VALUE=DATE-TIME:20160117T220400
+UID:1601170020_2_dore
+DESCRIPTION:Sala 2 - El Lute II (Mañana seré libre) (Vicente Aranda\, 19
+ 88). Int.:Jorge Sanz\, Imanol Arias\, Pastora\nVega. España. 35mm. 124'\n
+ "Al igual que Camina o revienta\, Mañana seré libre se distingue por su 
+ oído atento para el lenguaje peculiar de los personajes\, la exactitud an
+ tropológica con que registra lugares y situaciones\, la elegancia flexibl
+ e con que la cámara sigue la acción como si no estuviese allí con una d
+ eliberada voluntad de estilo." (José Luis Guarner)\n\n\nFuente: http://ww
  w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
- cine-dore/programacion/2015/1215-Programa.pdf
+ cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Procès de Jeanne d'Arc
+DTSTART;VALUE=DATE-TIME:20160117T220000
+DTEND;VALUE=DATE-TIME:20160117T230300
+UID:1601170022_1_dore
+DESCRIPTION:Sala 1 - Procès de Jeanne d'Arc (El proceso de Juana de Arco\
+ , Robert Bresson\, 1962). Int.:Florence Delay\, Jean-Claude Fourneau\, Rog
+ er Honorat. Francia. 35mm. VOSE*. 63'\n“Juana es la cifra de una operaci
+ ón misteriosa. Prueba que existe un mundo cerrado para los hombres pero q
+ ue se abre para ella gracias a una ingenua alquimia de sus sentidos. Saca 
+ a la luz la noche profunda en la que nuestros actos se realizan de ordinar
+ io” (Robert Bresson)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
+ s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/P
+ rogramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Missing
+DTSTART;VALUE=DATE-TIME:20160119T173000
+DTEND;VALUE=DATE-TIME:20160119T193000
+UID:1601193017_1_dore
+DESCRIPTION:Sala 1 - Missing (Desaparecido\, Costa-Gavras\, 1981). Int.:Ja
+ ck Lemmon\, Sissy Spacek\, Melanie Mayron. EE UU. 35mm. VOSE. 120'\n\n\nFu
+ ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
+ ura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quatre nuits d'un rêveur
+DTSTART;VALUE=DATE-TIME:20160119T195000
+DTEND;VALUE=DATE-TIME:20160119T211200
+UID:1601195019_1_dore
+DESCRIPTION:Sala 1 - Quatre nuits d'un rêveur (Cuatro noches de un soñad
+ or\, Robert Bresson\, 1971). Int.:Isabelle\nWeingarten\, Guillaume des For
+ êts\, Maurice Monnoyer. Francia/Italia. 35mm. VOSE*. 82'\n"Una adaptació
+ n de Noches blancas\, de Dostoievski\, una exploración del amor romántic
+ o servida en estilo preciso y severo. Bresson revela un inesperado sentido
+  del humor e ironía mundana. La transformación del París nocturno en un
+  paisaje onírico con pulso eléctrico recuerda a Minnelli\, aunque con la
+  economía expresiva de Bresson. Una película hermosa y esencial."(Dave K
+ ehr)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
+ d/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Si te dicen que caí
+DTSTART;VALUE=DATE-TIME:20160119T200000
+DTEND;VALUE=DATE-TIME:20160119T214000
+UID:1601190020_2_dore
+DESCRIPTION:Sala 2 - Si te dicen que caí (Vicente Aranda\, 1989). Int.:Jo
+ rge Sanz\, Victoria Abril\, Antonio Banderas. España. 35mm. 100'\n"La pel
+ ícula recrea así un mundo doloroso y feroz\, derrotado y confuso\, paté
+ ticamente afanado en la supervivencia\, que Aranda contempla con la compas
+ ión de Marsé más una soterrada ironía." (José Luis Guarner)\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girl Shy
+DTSTART;VALUE=DATE-TIME:20160119T213000
+DTEND;VALUE=DATE-TIME:20160119T231000
+UID:1601193021_1_dore
+DESCRIPTION:Sala 1 - Girl Shy (El Tenorio tímido\, Fred Newmeyer\, Sam Ta
+ ylor\, 1924). Int.:Harold Lloyd\, Jobyna Ralston. EE UU. 35mm. MRISE*. 89'
+  a 21 fps. Copia cortesía de The Harold Lloyd Estate y Harold Lloyd Enter
+ tainment. Acompañamiento musical a cargo de Marcos Ortiz.\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
+ /mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Couperet
+DTSTART;VALUE=DATE-TIME:20160120T173000
+DTEND;VALUE=DATE-TIME:20160120T192700
+UID:1601203017_1_dore
+DESCRIPTION:Sala 1 - Le Couperet (Arcadia\, Costa-Gavras\, 2004). Int.:Kar
+ in Viard\, Ulrich Tukur\, José García. Francia. BDG. VOSE*. 117'\n"Arcad
+ ia es una película combativa contra los males del capitalismo\, con lugar
+  para la hipérbole\, la ironía y el humor. A partir de la exageración y
+  comicidad de la anécdota argumental Costa-Gavras denuncia cómo el siste
+ ma capitalista se las arregla para que los parados no apunten contra los v
+ erdaderos culpables de su situación (accionistas\, directivos\, el ¿sist
+ ema?…) sino para que luchen entre ellos." (Eugenio Sánchez)\n\n\nFuente
+ : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
+ cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hot Water
+DTSTART;VALUE=DATE-TIME:20160120T195000
+DTEND;VALUE=DATE-TIME:20160120T214700
+UID:1601205019_1_dore
+DESCRIPTION:Sala 1 - Hot Water (Casado y con suegra\, Fred Newmeyer\, Sam 
+ Taylor\, 1924). Int.:Harold Lloyd\, Jobyna Ralston\, Josephine Crowell. EE
+  UU. 35mm. MRISE*. 61' a 21 fps. "Una hilarante comedia sobre la vida dom
+ éstica que comienza con Harold lleno de paquetes y con un pavo vivo en un
+  tranvía\, seguido de un paseo desastroso con sus suegros en su coche nue
+ vo\, y termina con su suegra provocando una emoción tipo casa encantada."
+  (Josephine Crowell) Copia cortesía de The Harold Lloyd Estate y Harold L
+ loyd Entertainment. Acompañamiento musical al piano de Marcos Ortiz.\n\n\
+ nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
+ ultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amantes
+DTSTART;VALUE=DATE-TIME:20160120T200000
+DTEND;VALUE=DATE-TIME:20160120T214700
+UID:1601200020_2_dore
+DESCRIPTION:Sala 2 - Amantes (Vicente Aranda\, 1991). Int.:Maribel Verdú\
+ , Jorge Sanz\, Victoria Abril. España. 35mm. 107'\n"Aranda vuelve en Aman
+ tes al territorio que hizo su reputación en los comienzos de su carrera\,
+  el melodrama claustrofóbico\, absorbente que documenta una pasión amoro
+ sa extrema\, obsesiva."(José Luis Guarner)\n\n\nFuente: http://www.mecd.g
+ ob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dor
+ e/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Anges du péché
+DTSTART;VALUE=DATE-TIME:20160120T213000
+DTEND;VALUE=DATE-TIME:20160120T231000
+UID:1601203021_1_dore
+DESCRIPTION:Sala 1 - Les Anges du péché (Robert Bresson\, 1943). Int.:Ir
+ ène Joachim\, Renée Faure\, Jany Holt. Francia. 35mm. VOSE*. 100'\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eden à l'Ouest
+DTSTART;VALUE=DATE-TIME:20160121T173000
+DTEND;VALUE=DATE-TIME:20160121T192700
+UID:1601213017_1_dore
+DESCRIPTION:Sala 1 - Eden à l'Ouest (Edén al oeste\, Costa-Gavras\, 2009
+ ). Int.:Ulrich Tukur\, Riccardo Scamarcio\,\nJuliane Köhler. Francia/Grec
+ ia/Italia. 35mm. VOSE. 117'\n"El tema de la inmigración a la Europa del b
+ ienestar de los desposeídos\, extracomunitarios o no\, consta ya de una n
+ utrida filmografía. Esta película\, que invierte un conocido título de 
+ James Dean\, es la aportación a dicho corpus de Costa-Gavras\, veterana f
+ igura de lo que Serge Daney llamaba la ficción de izquierdas." (Antonio W
+ einrichter) Segunda proyección día 24.\n\n\nFuente: http://www.mecd.gob.
+ es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/p
+ rogramacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los últimos de Filipinas
+DTSTART;VALUE=DATE-TIME:20160121T194000
+DTEND;VALUE=DATE-TIME:20160121T211200
+UID:1601214019_1_dore
+DESCRIPTION:Sala 1 - Los últimos de Filipinas (Antonio Román\, 1945). In
+ t.:Fernando Rey\, Guillermo Marín\, Armando Calvo. España. 35mm. 92'\n"L
+ o que Los últimos de Filipinas describe no es el heroísmo de las brillan
+ tes campañas castrenses\, sino el mucho más prosaico de la resistencia a
+  ultranza. Es\, en ese sentido\, una apología del numantinismo y se erige
+  indisimuladamente en un film histórico de carácter metafórico constru
+ ído en torno a la idea temática de la soledad del aislamiento." (Alberto
+  Elena)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.
+ pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El amante bilingüe
+DTSTART;VALUE=DATE-TIME:20160121T200000
+DTEND;VALUE=DATE-TIME:20160121T212600
+UID:1601210020_2_dore
+DESCRIPTION:Sala 2 - El amante bilingüe (Vicente Aranda\, 1993). Int.:Ima
+ nol Arias\, Loles León\, Ornella Muti. España/Italia. 35mm. 86'\n"Aranda
+  se metió en un territorio no habitual y ha recurrido a soluciones y estr
+ ategias para nada habituales. El tema central de esta fábula es el amour 
+ fou\, pura\, casi cristalizada tragedia en Amantes\, pero aquí casi desca
+ rnado esperpento\, alternativamente hilarante y cruel." (José Luis Guarne
+ r)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/
+ areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trollflöjten
+DTSTART;VALUE=DATE-TIME:20160121T213000
+DTEND;VALUE=DATE-TIME:20160121T234500
+UID:1601213021_1_dore
+DESCRIPTION:Sala 1 - Trollflöjten (La flauta mágica\, Ingmar Bergman\, 1
+ 975). Int.:Josef Kostlinger\, Irma Urrila\, Hakan Hagegard. Suecia. 35mm. 
+ VOSE. 135'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
+ ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero
+ -2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lancelot du Lac
+DTSTART;VALUE=DATE-TIME:20160122T173000
+DTEND;VALUE=DATE-TIME:20160122T185300
+UID:1601223017_1_dore
+DESCRIPTION:Sala 1 - Lancelot du Lac (Robert Bresson\, 1974). Int.:Luc Sim
+ on\, Laura Duke Condominas\, Humbert\nBalsan. Francia. 35mm. VOSE*. 83'\n"
+ La película de Bresson juega en el ciclo un papel de comprobación: dado 
+ que el cine de Bresson es de los más puristas desde el punto de vista del
+  montaje\, la composición\, el sonido o la interpretación\, interesaría
+  ver los paralelos con lo que de estos elementos anuncian los cuadros de E
+ l Greco\, según la tesis de Eisenstein\, a través de una película de é
+ poca no remota con respecto al mundo de El Greco\, como es la época de La
+ ncelot y los caballeros de la mesa redonda." (Manuel Asín y Pablo García
+  Canga) Segunda proyección día 27.\n\n\nFuente: http://www.mecd.gob.es/c
+ ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
+ amacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Kid Brother
+DTSTART;VALUE=DATE-TIME:20160122T191500
+DTEND;VALUE=DATE-TIME:20160122T203800
+UID:1601221519_1_dore
+DESCRIPTION:Sala 1 - The Kid Brother (El hermanito\, Harold Lloyd\, 1927).
+  Int.:Walter James\, Jobyna Ralston\, Ted Wilde\, J.A.Howe. EE UU. 35mm. M
+ RISE*. 92' a 22 fps. The Kid Brother es la obra maestra de Harold Lloyd y 
+ la favorita de todas sus películas. Harold es un campesino que es la 'Cen
+ icienta' de la familia Hickory. Tímido\, su ingenio e ingenuidad no es ap
+ reciada por su robustos pero no muy brillantes hermanos. Cuando Mary llega
+  con su espectáculo itinerante\, Harold necesita todos el ingenio y el co
+ raje para derrotar a los bandidos\, seducir a la muchacha de sus sueños y
+  finalmente ganar la aprobación de su padre. Copia cortesía de The Harol
+ d Lloyd Estate y Harold Lloyd Entertainment. Acompañamiento musical al pi
+ ano de Marcos Ortiz. Segunda proyección día 24.\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anclaje
+DTSTART;VALUE=DATE-TIME:20160122T203000
+DTEND;VALUE=DATE-TIME:20160122T215500
+UID:1601223020_2_dore
+DESCRIPTION:Sala 2 - Anclaje (Iván Cerdán Bermudez\, 2005). España. DVD
+ . 11'. Donde nos toca estar (Iván Cerdán Bermudez\, 2015). España. B-R.
+  74'. Total programa: 85'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
+ /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/201
+ 6/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanna K
+DTSTART;VALUE=DATE-TIME:20160122T211000
+DTEND;VALUE=DATE-TIME:20160122T225800
+UID:1601221021_1_dore
+DESCRIPTION:Sala 1 - Hanna K (Costa-Gavras\, 1983). Int.:Gabriel Byrne\, J
+ ean Yanne\, Jill Clayburgh. Francia. 35mm.\nVOISF/E*. 108'\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
+ /mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Freshman
+DTSTART;VALUE=DATE-TIME:20160123T173000
+DTEND;VALUE=DATE-TIME:20160123T191800
+UID:1601233017_1_dore
+DESCRIPTION:Sala 1 - The Freshman (El estudiante novato\, Fred Newmeyer\, 
+ Sam Taylor\, 1925). Int.:Harold Lloyd\,\nJobyna Ralston\, Brooks Benedict.
+  EE UU. 35mm. MRISE*. 86' a 21 fps. Copia cortesía de The Harold Lloyd Es
+ tate y Harold Lloyd Entertainment. Acompañamiento musical al piano de Mar
+ cos Ortiz. Entrada libre para menores de 14 años.\n\n\nFuente: http://www
+ .mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/c
+ ine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betrayed
+DTSTART;VALUE=DATE-TIME:20160123T193000
+DTEND;VALUE=DATE-TIME:20160123T213600
+UID:1601233019_1_dore
+DESCRIPTION:Sala 1 - Betrayed (El sendero de la traición\, Costa-Gavras\,
+  1988). Int.:Debra Winger\, Tom Berenger\, Betsy Blair. EEUU/Japón. 35mm.
+  VOSE. 126'\n"Tras haber denunciado el papel del imperialismo en Estado de
+  sitio o en Missing\, Costa-Gavras abordó su segunda producción hollywoo
+ diense para explorar la presencia del fascismo en el corazón de Estados U
+ nidos." (Esteve Riambau)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016
+ /ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intruso
+DTSTART;VALUE=DATE-TIME:20160123T200000
+DTEND;VALUE=DATE-TIME:20160123T212600
+UID:1601230020_2_dore
+DESCRIPTION:Sala 2 - Intruso (Vicente Aranda\, 1993). Int.:Victoria Abril\
+ , Imanol Arias\, Antonio Valero. España. 35mm. 86'\n"Una película litera
+ lmente de tumba abierta\, que lleva a las últimas consecuencias la media 
+ hora final de Amantes\, hasta ahora la cumbre más intensa y pura del dire
+ ctor. ¿Es Intruso su obra maestra? Muy probablemente. Lo que hace a Intru
+ so particularmente interesante\, es su condición de película irreductibl
+ e\, definitiva\, radical\, una de esas películas que cada día escasean m
+ ás y que sólo un cineasta mayor permitirse." (José Luis Guarner)\n\n\nF
+ uente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cul
+ tura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le diable probablement
+DTSTART;VALUE=DATE-TIME:20160123T220000
+DTEND;VALUE=DATE-TIME:20160123T233600
+UID:1601230022_1_dore
+DESCRIPTION:Sala 1 - Le diable probablement (El diablo probablemente\, Rob
+ ert Bresson\, 1977). Int.:Antoine Monnier\, Tina Irissari\, Henri de Maubl
+ anc. Francia. 35mm. VOSE*. 96'\n“En un film de Bresson se trata menos de
+  mostrar que de ocultar. ¿La ecología\, la iglesia moderna\, la droga\, 
+ la psiquiatría\, el suicidio? No\, el tema de El diablo probablemente no 
+ está ahí. El verdadero tema es la inteligencia\, la gravedad y la bellez
+ a de los adolescentes de hoy y\, especialmente\, de cuatro de ellos de los
+  que podría decirse con Cocteau que ‘el aire que respiran es más liger
+ o que el aire’. No encontraréis esta nobleza en muchos films. El cine e
+ s un arte\, pero no todos los cineastas son artistas\, Bresson sí\, y su 
+ nueva obra maestra El diablo probablemente es un film voluptuoso.” (Fran
+ çois Truffaut)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/
+ cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/Programa
+ Enero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Kid Brother
+DTSTART;VALUE=DATE-TIME:20160124T173000
+DTEND;VALUE=DATE-TIME:20160124T190600
+UID:1601243017_1_dore
+DESCRIPTION:Sala 1 - The Kid Brother (El hermanito\, Harold Lloyd\, 1927).
+  Int.:Walter James\, Jobyna Ralston\, Ted Wilde\, J.A.Howe. EE UU. 35mm. M
+ RISE*. 92' a 22 fps. Copia cortesía de The Harold Lloyd Estate y Harold L
+ loyd Entertainment. Acompañamiento musical al piano de Marcos Ortiz. Entr
+ ada libre para menores de 14 años.\n\n\nFuente: http://www.mecd.gob.es/cu
+ ltura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progra
+ macion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La pasión turca
+DTSTART;VALUE=DATE-TIME:20160124T183000
+DTEND;VALUE=DATE-TIME:20160124T202700
+UID:1601243018_2_dore
+DESCRIPTION:Sala 2 - La pasión turca (Vicente Aranda\, 1994). Int.:Silvia
+  Munt\, Ana Belén\, Georges Carraface. España. 35mm. 117'\n"El cambio fu
+ ndamental de mi adaptación es que desde un punto de vista moral\, la nove
+ la va considerando la descomposición del personaje\, mientras que yo he v
+ isto la formación de ese personaje\, de su integración a la vida a medid
+ a que busca su destrucción." (Vicente Aranda)\n\n\nFuente: http://www.mec
+ d.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-
+ dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Argent
+DTSTART;VALUE=DATE-TIME:20160124T193000
+DTEND;VALUE=DATE-TIME:20160124T205500
+UID:1601243019_1_dore
+DESCRIPTION:Sala 1 - L'Argent (El dinero\, Robert Bresson\, 1983). Int.:Ch
+ ristian Patey\, Vincent Risterucci\, Caroline Lang. Francia/Suiza. 35mm. V
+ OSE. 85'\n"La calculadísima conjunción de imágenes y de sonidos\, donde
+  la duración de cada plano\, la sucesión de las miradas\, la relación e
+ ntre formas y ruidos\, el díalogo entre las manos y los objetos\, crean t
+ odo un mundo más allá de las apariencias\, donde no está ausente la emo
+ ción. Fiel a la jansenista temática bressoniana del pecado\, la gracia y
+  la redención\, El dinero es una auténtica película religiosa\, como lo
+  fueron Un condenado a muerte... o Pickpocket. Una creación a la vez fast
+ idiosa y admirable\, significa en cierto modo la suma de toda la obra de B
+ resson\, casi el testamento de un hombre grande de cine." (José Luis Guar
+ ner)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
+ d/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eden à l'Ouest
+DTSTART;VALUE=DATE-TIME:20160124T211500
+DTEND;VALUE=DATE-TIME:20160124T231200
+UID:1601241521_1_dore
+DESCRIPTION:Sala 1 - Eden à l'Ouest (Edén al oeste\, Costa-Gavras\, 2009
+ ). Int.:Ulrich Tukur\, Riccardo Scamarcio\, Juliane Köhler. Francia/Greci
+ a/Italia. 35mm. VOSE. 117'\n\n\nFuente: http://www.mecd.gob.es/cultura-mec
+ d/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/20
+ 16/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad City
+DTSTART;VALUE=DATE-TIME:20160126T173000
+DTEND;VALUE=DATE-TIME:20160126T192400
+UID:1601263017_1_dore
+DESCRIPTION:Sala 1 - Mad City (Costa-Gavras\, 1997). Int.:John Travolta\, 
+ Dustin Hoffman\, Alan Alda. EE UU.\n35mm. VOSE*. 114'\n"Mad City aborda la
+  corrupción y el arribismo de la profesión periodística desde una persp
+ ectiva actualizada del personaje que Jacques Perrin interpretaba en Z. Com
+ o La confesión o Missing\, Mad City es también el retrato de unos person
+ ajes engullidos por un sistema del que formaban parte hasta que éste los 
+ desborda y aniquila." (Esteve Riambau)\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sister Stella L
+DTSTART;VALUE=DATE-TIME:20160126T194000
+DTEND;VALUE=DATE-TIME:20160126T211600
+UID:1601264019_1_dore
+DESCRIPTION:Sala 1 - Sister Stella L (Mike de Leon\, 1984). Int.:Jay Ilaga
+ n\, Vilma Santos\, Gina Alajar. Filipinas. B-R. VOSE. 96'\nEl trabajo\, la
+  política y la religión son las cuestiones que aparecen en Sister Stella
+  L. La película cuenta la historia de la Sister Stella Legaspi\, una reli
+ giosa independiente\, cuya postura pacifista es desafiada por una compañe
+ ra radical más vieja y por Nick Fajardo\, un periodista afectado\, que es
+  su exnovio\, como respuesta a la injusticia perpetrada contra un grupo de
+  obreros industriales en Barrio Aguho.\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Libertarias
+DTSTART;VALUE=DATE-TIME:20160126T200000
+DTEND;VALUE=DATE-TIME:20160126T220600
+UID:1601260020_2_dore
+DESCRIPTION:Sala 2 - Libertarias (Vicente Aranda\, 1996). Int.:Ariadna Gil
+ \, Victoria Abril\, Ana Belén. España. 35mm. 126'\n“El fusil represent
+ aba el poder para las mujeres porque significaba poder implantar sus ideas
+ \; por eso lucharon contra los nacionales y los republicanos\, perdiendo c
+ ontra ambos por defender los ideales anarquistas” (Vicente Aranda)\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Dames du Bois de Boulogne
+DTSTART;VALUE=DATE-TIME:20160126T213500
+DTEND;VALUE=DATE-TIME:20160126T230000
+UID:1601263521_1_dore
+DESCRIPTION:Sala 1 - Les Dames du Bois de Boulogne (Robert Bresson\, 1945)
+ . Int.:María Casares\, Elina Labourdette\, Paul Bernard. Francia. 35mm. V
+ OSE*. 85'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultur
+ a-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-
+ 2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mouchette
+DTSTART;VALUE=DATE-TIME:20160127T173000
+DTEND;VALUE=DATE-TIME:20160127T185100
+UID:1601273017_1_dore
+DESCRIPTION:Sala 1 - Mouchette (Robert Bresson\, 1966). Int.:Nadine Nortie
+ r\, Jean-Claude Guilbert\, Marie Cardinal.\nFrancia. 35mm. VOSE*. 81'\n\n\
+ nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-c
+ ultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Freshman
+DTSTART;VALUE=DATE-TIME:20160127T193000
+DTEND;VALUE=DATE-TIME:20160127T205100
+UID:1601273019_1_dore
+DESCRIPTION:Sala 1 - The Freshman (El estudiante novato\, Fred Newmeyer\, 
+ Sam Taylor\, 1925). Int.:Harold Lloyd\,\nJobyna Ralston\, Brooks Benedict.
+  EE UU. 35mm. MRISE*. 86' a 21 fps. La comedia más popular de Harold Lloy
+ d es posiblemente su película más divertida. También su éxito más gra
+ nde. Harold interpreta a Harold Lamb\, estudiante de primer año en la Uni
+ versidad\, que logra ser el 'Big Man' del campus. Su metamorfosis de alumn
+ o invisible a héroe del colegio\, e ídolo del fútbol es uno de los punt
+ os culminantes de la comedia en el cine mudo. Copia cortesía de The Harol
+ d Lloyd Estate y Harold Lloyd Entertainment. Acompañamiento musical al pi
+ ano de Marcos Ortiz.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/
+ mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/Pro
+ gramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lancelot du Lac
+DTSTART;VALUE=DATE-TIME:20160127T200000
+DTEND;VALUE=DATE-TIME:20160127T212300
+UID:1601270020_2_dore
+DESCRIPTION:Sala 2 - Lancelot du Lac (Robert Bresson\, 1974). Int.:Luc Sim
+ on\, Laura Duke Condominas\, Humbert Balsan. Francia. 35mm. VOSE*. 83'\n\n
+ \nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-
+ cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amen
+DTSTART;VALUE=DATE-TIME:20160127T212000
+DTEND;VALUE=DATE-TIME:20160127T233500
+UID:1601272021_1_dore
+DESCRIPTION:Sala 1 - Amen (Amén\, Costa-Gavras\, 2002). Int.:Ulrich Tukur
+ \, Mathieu Kassovitz\, Ulrich Mühe.\nFrancia. BDG. VOSE. 135'\n"Una adapt
+ ación de la obra en verso libre de Rolf Hochhuth de 1963\, sobre el hombr
+ e que inventó el gas Ziklon B pero después no consiguió convencer al Va
+ ticano para que denunciara su empleo en el genocidio. Su crítica de la no
+  actuación no es una denuncia moralista sino una desconsolada constataci
+ ón de que el poder prefiere actuar en la sombra. Como película sobre el 
+ Holocausto\, sigue la convención reciente de centrarse en individuos que 
+ se rebelan contra la maquinaria nazi. Su protagonista es un personaje comp
+ rometido que continúa trabajando para el régimen para poder testimoniar 
+ ante el Vaticano y otras instituciones irresponsables. Pero la historia in
+ troduce una figura ficticia paralela más heroica en el delegado papal que
+  se enfrenta a sus superiores con lo que a la postre\, no son más que ges
+ tos desesperados" (Time Out)\n\n\nFuente: http://www.mecd.gob.es/cultura-m
+ ecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/
+ 2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Une femme douce
+DTSTART;VALUE=DATE-TIME:20160128T173000
+DTEND;VALUE=DATE-TIME:20160128T185800
+UID:1601283017_1_dore
+DESCRIPTION:Sala 1 - Une femme douce (Robert Bresson\, 1969). Int.:Dominiq
+ ue Sanda\, Jeanne Lobre\, Guy Frangin. Francia. 35mm. VOSE*. 88'\n\n\nFuen
+ te: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultur
+ a/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imburnal/Sewer
+DTSTART;VALUE=DATE-TIME:20160128T190000
+DTEND;VALUE=DATE-TIME:20160128T202800
+UID:1601280019_2_dore
+DESCRIPTION:Sala 2 - Imburnal/Sewer (Sherad Anthony Sanchez\, 2008). Int.:
+ Brian Monterola\, Jelieta Ruta\, Allen\nLumanog. Filipinas. B-R. VOSE. 212
+ ' (+ 10’ de descanso) Imburnal es una épica película experimental roda
+ da en los barrios bajos costeros de Davao Cty\, Filipinas. Una mezcla de G
+ ummo y Andy Warhol\, la película sigue los vagabundeos de la orilla de Al
+ len y Joel. De 8 años\, los chicos son testigos de lo que ocurre a su alr
+ ededor. Gigi cuida Gigi\, el único adulto cercano y casi una madre que da
+  guarida a muchos jóvenes huérfanos que van a la deriva.\n\n\nFuente: ht
+ tp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine
+ /mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speedy
+DTSTART;VALUE=DATE-TIME:20160128T193000
+DTEND;VALUE=DATE-TIME:20160128T205800
+UID:1601283019_1_dore
+DESCRIPTION:Sala 1 - Speedy (Relámpagos\, Ted Wilde\, 1928). Int.:Harold 
+ Lloyd\, Ann Christy\, Bert Woodruff. EE UU. 35mm. MRISE*. 93' a 22 fps. Sp
+ eedy\, la última película muda de Lloyd\, es una magnífica despedida de
+ l cine mudo. 'Speedy' era el apodo real de Harold y la película es apropi
+ adamente rápida. Lloyd interpreta a Harold Swift\, un joven loco por el b
+ éisbol que no puede aguantar en un trabajo. Sus desventuras profesionales
+  incluyen el trabajo como vendedor de soda o un taxista. La novia de Harol
+ d\, Jane\, vive con su abuelo\, “Pop” Dillon\, que posee el último tr
+ anvía tirado por caballos de Ciudad de Nueva York. Una cuadrilla contrata
+ da por el monopolio del ferrocarril roba el caballo y el tranvía. Speedy 
+ encuentra el coche y logra recuperarlo en la pista a tiempo para hacer la 
+ carrera diaria\, salvando la licencia de Pop. Filmado en parte en Nueva Yo
+ rk\, la película presenta una escena de persecución salvaje en el centro
+  de Manhattan\, donde Harold debe manejar el tranvía tirado por caballos 
+ a través del caótico tráfico de la ciudad. Copia cortesía de The Harol
+ d Lloyd Estate y Harold Lloyd Entertainment. Acompañamiento musical al pi
+ ano de Irene Albar. Segunda proyección día 30.\n\n\nFuente: http://www.m
+ ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
+ e-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Couperet
+DTSTART;VALUE=DATE-TIME:20160128T213000
+DTEND;VALUE=DATE-TIME:20160128T232700
+UID:1601283021_1_dore
+DESCRIPTION:Sala 1 - Le Couperet (Arcadia\, Costa-Gavras\, 2004). Int.:Kar
+ in Viard\, Ulrich Tukur\, José García. Francia. BDG. VOSE*. 117'\n\n\nFu
+ ente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cult
+ ura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pickpocket
+DTSTART;VALUE=DATE-TIME:20160129T173000
+DTEND;VALUE=DATE-TIME:20160129T184500
+UID:1601293017_1_dore
+DESCRIPTION:Sala 1 - Pickpocket (Robert Bresson\, 1959). Int.:Marika Green
+ \, Martin Lassalle\, Jean Pelegri. Francia.\n35mm. VOSE*. 75'\n“A los so
+ nes de la música de Lully\, Bresson ilumina el camino de un hombre\, Mich
+ el\, que sabe\, paulinamente\, que la ley mata y que el espíritu vivifica
+ . Un hombre al que acompaña la gracia en su trayectoria entre la libertad
+  y la prisión. Libre\, está preso de su cuerpo y su espíritu. Preso\, e
+ ncuentra el alma y el sentido de la frase que dijo tras la muerte de su ma
+ dre: 'Creí en Dios durante tres minutos'. Bresson decía que pocos podía
+ n decir que creyeron tanto tiempo en Dios. Pocos entendieron\, como Michel
+ \, la razón de la fuerza irracional de un destino humano" (Joao Benard da
+  Costa)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
+ mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.
+ pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Capital
+DTSTART;VALUE=DATE-TIME:20160129T190000
+DTEND;VALUE=DATE-TIME:20160129T205400
+UID:1601290019_1_dore
+DESCRIPTION:Sala 1 - Le Capital (El capital\, Costa-Gavras\, 2012). Int.:G
+ ad Elmaleh\, Gabriel Byrne\, Natacha Régnier. Francia / Reino Unido. DCP.
+  VOSE. 114'\nMarc Tourneuil es un cínico empleado de banca\, un sector qu
+ e está en plena crisis económica en todo el planeta. Desde la nada\, Mar
+ c comenzará un ascenso imparable por los entresijos del mundo de la banca
+  hasta convertirse en una de las personas más poderosas e influyentes del
+  país. "Gavras nunca lleva el material hacia el territorio alegórico\, e
+ s una mirada relativamente directa a las consecuencias de dejarse cegar po
+ r el dinero\, con una de las visiones más claras y precisas sobre la depr
+ avación económica desde Wall Street." (Eric Kohn) Con la presencia de Co
+ sta-Gavras\, Michèle Ray-Gavras\, productora\, Carlos Andradas\, Rector d
+ e la Universidad Complutense\, Carmen Pérez de Armiñán\, Decana de la F
+ acultad de Ciencias de la Información\, José Antonio Jiménez de las Her
+ as y Ricardo Jimeno. Segunda proyección día 31.\n\n\nFuente: http://www.
+ mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/ci
+ ne-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juana la Loca
+DTSTART;VALUE=DATE-TIME:20160129T200000
+DTEND;VALUE=DATE-TIME:20160129T215800
+UID:1601290020_2_dore
+DESCRIPTION:Sala 2 - Juana la Loca (Vicente Aranda\, 2001). Int.:Pilar Ló
+ pez de Ayala\, Daniele Liotti\, Rosana Pastor. España. 35mm. 118'\n"Con r
+ especto a Juana\, me interesó el apasionamiento del personaje\, pero tamb
+ ién su contradicción\, ya que en su caso no es ella la que quiere ser ot
+ ro\, sino que quiere que los demás sean otros\, que sean distintos a quie
+ nes son. He hecho una introspección sobre este personaje de característi
+ cas universales\, dejando el tratamiento histórico más de fondo. Mi inte
+ rés ha estado en la pasión de Juana\, una mujer que\, si hubiera vivido 
+ fuera de España\, habría sido considerada como una figura excepcional." 
+ (Vicente Aranda)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/Program
+ aEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Why Worry?
+DTSTART;VALUE=DATE-TIME:20160129T221500
+DTEND;VALUE=DATE-TIME:20160130T001300
+UID:1601291522_1_dore
+DESCRIPTION:Sala 1 - Why Worry? (¡Venga alegría!\, Fred Newmeyer\, Sam T
+ aylor\, 1923). Int.:Harold Lloyd\, Jobyna Ralston\, Johan Aasen. EE UU. 35
+ mm. MRISE*. 67' a 20 fps. Copia cortesía de The Harold Lloyd Estate y Har
+ old Lloyd Entertainment. Acompañamiento musical al piano de Irene Albar.\
+ n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
+ as-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speedy
+DTSTART;VALUE=DATE-TIME:20160130T173000
+DTEND;VALUE=DATE-TIME:20160130T192800
+UID:1601303017_1_dore
+DESCRIPTION:Sala 1 - Speedy (Relámpagos\, Ted Wilde\, 1928). Int.:Harold 
+ Lloyd\, Ann Christy\, Bert Woodruff. EE UU. 35mm. MRISE*. 93' a 22 fps. Co
+ pia cortesía de The Harold Lloyd Estate y Harold Lloyd Entertainment. Aco
+ mpañamiento musical al piano de Marcos Ortiz. Entrada libre para menores 
+ de 14 años.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEne
+ ro-2.pdf
+LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journal d'un curé de campagne
+DTSTART;VALUE=DATE-TIME:20160130T193000
+DTEND;VALUE=DATE-TIME:20160130T212500
+UID:1601303019_1_dore
+DESCRIPTION:Sala 1 - Journal d'un curé de campagne (Robert Bresson\, 1950
+ ). Int.:Claude Laydu\, André Guibert\, Nicole Ladmiral. Francia. 35mm. VO
+ SE*. 115'\n"Con esta película Bresson renueva la adaptación literaria ha
+ ciendo nacer sus imágenes del propio texto de Bernanos en lugar de ilustr
+ arlo. Reconstruye la vida interior y espiritual mediante un estilo hecho d
+ e rigor y ascesis\, con una dirección de actores depurada de todo artific
+ io teatral. La frase final\, 'Todo es gracia'\, define la película entera
+ " (Joël Magny).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd
+ /cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/Program
+ aEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carmen
-DTSTART;VALUE=DATE-TIME:20151213T193000
-DTEND;VALUE=DATE-TIME:20151213T205900
-UID:1512133019_2_dore
-DESCRIPTION:Sala 2 - Carmen (Doru Nitescu\, 2013). Int.:Adrian Titieni\, D
- oru Ana\, Iulia Lupascu. Rumanía. B-R. VOSE*. 89'\nEn un pequeño pueblo 
- cerca de las montañas\, Mariana y Puiu forman una familia joven con dos n
- iños: Carmen y Mircea. Una mañana\, la madre y la hija de diez años se 
- van a Bucarest\, al hospital. Sólo un doctor\, Sitaru\, cree que Carmen\,
-  que ya no puede sonreír\, tiene posibilidades de sobrevivir. Cree que pu
- ede realizar un milagro y salvar la vida de Carmen. Luchando por su hija\,
-  abandonada por todos en los que confió\, Mariana descubre que está emba
- razada. Después de que el Dr. Sitaru opera a la niña\, de una manera arr
- iesgada\, Carmen comienza a sentirse cada vez peor.\n\n\nFuente: http://ww
- w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
- cine-dore/programacion/2015/1215-Programa.pdf
+DTSTART;VALUE=DATE-TIME:20160130T200000
+DTEND;VALUE=DATE-TIME:20160130T215900
+UID:1601300020_2_dore
+DESCRIPTION:Sala 2 - Carmen (Vicente Aranda\, 2003). Int.: Paz Vega\, Leon
+ ardo Sbaraglia\, Antonio Dechent. España/Reino Unido. 35mm. 119'\n"Al des
+ pojar la trama de toda la inútil verborrea sobre los gitanos y su mundo\,
+  Aranda lanza al rostro de su espectador a una mujer cabal\, que prefiere 
+ morir a perder su libertad. Que ama sin cortapisas. Que representa\, claro
+ \, un ideal de libertad que sólo puede chocar con la desmedida turbulenci
+ a de una pasión\, la de don José\, que es ante todo deseo de control\, d
+ e posesión\, al tiempo que una denuncia sobre el amor como pertenencia. Y
+  el resultado es ni más ni menos la mejor Carmen que este cronista haya v
+ isto." (Mirito Torreiro)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/
+ dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016
+ /ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bottle Rocket
-DTSTART;VALUE=DATE-TIME:20151213T211500
-DTEND;VALUE=DATE-TIME:20151213T224600
-UID:1512131521_2_dore
-DESCRIPTION:Sala 2 - Bottle Rocket (Bottle Rocket (Ladrón que roba a ladr
- ón)\, Wes Anderson\, 1996). Int.:James Caan\, Owen Wilson\, Luke Wilson. 
- EE UU. 35mm. VOSE. 91'\nEsta es la primera vez que Wes Anderson mostró su
-  personalísima mirada cinematográfica\, tiernamente detallada\, ligerame
- nte surrealista\, con este retrato visualmente ingenioso y cálido de tres
-  jóvenes outsiders. Los mejores amigos Anthony\, Dignan y Bob organizan u
- n robo en una pequeña librería\, que les obliga a huir. Durante sus aven
- turas\, Anthony se enamora de un ama de casa sudamericana\, Inez\, que les
-  presenta a su amigo\, el extraordinario ladrón local\, Sr. Henry. Bottle
-  Rocket muestra una mirada encantadora\, divertidísima\, afectuosa \,a la
-  locura de unos soñadores de medio pelo.\n\n\nFuente: http://www.mecd.gob
- .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
- programacion/2015/1215-Programa.pdf
+SUMMARY:Lola
+DTSTART;VALUE=DATE-TIME:20160130T214500
+DTEND;VALUE=DATE-TIME:20160130T233500
+UID:1601304521_1_dore
+DESCRIPTION:Sala 1 - Lola (Brillante Mendoza\, 2011). Int.:Anita Linda\, R
+ ustica Carpio\, Benjie Filomeno. Francia/Filipinas. 35mm. VOSE. 110'\n"Men
+ doza retrata un drama de gran calibre con una naturalidad y una desdramati
+ zación que pueden resultar desconcertantes para un espectador occidental.
+  Su empleo de actores no profesionales y su estética documental hacen que
+  surjan inesperados destellos emocionales\, sin que la cámara imponga nin
+ gún juicio de valor." (Roberto Cueto)\n\n\nFuente: http://www.mecd.gob.es
+ /cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pro
+ gramacion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bokutô Kidan/The Strange Story of Oyuki
-DTSTART;VALUE=DATE-TIME:20151215T173000
-DTEND;VALUE=DATE-TIME:20151215T192600
-UID:1512153017_2_dore
-DESCRIPTION:Sala 2 - Bokutô Kidan/The Strange Story of Oyuki (Kaneto Shin
- do\, 1992). Int.:Nobuko Otowa\, Masahiko Tsugawa\, Yuki Sumida. Japón. 35
- mm. VOSI/E*. 116'\nTan melancólica como ferozmente sensual\, Bokuto Kidan
-  es un compendio íntimo\, erótico y apasionado de los temas frecuentes d
- e Shindo\, dirigida con una frescura claramente juvenil y una estilizació
- n viva\, que desmiente su edad.\n\n\nFuente: http://www.mecd.gob.es/cultur
- a-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programaci
- on/2015/1215-Programa.pdf
+SUMMARY:Trollflöjten
+DTSTART;VALUE=DATE-TIME:20160131T173000
+DTEND;VALUE=DATE-TIME:20160131T194500
+UID:1601313017_1_dore
+DESCRIPTION:Sala 1 - Trollflöjten (La flauta mágica\, Ingmar Bergman\, 1
+ 975). Int.:Josef Kostlinger\, Irma Urrila\, Hakan Hagegard. Suecia. 35mm. 
+ VOSE. 135'\n"Bergman no está aquí para hacer metafísica\, por una vez\,
+  sino\, como dice él mismo\, para dar rienda suelta a su optimismo y a su
+  fe en el amor. El espectador tiene el derecho a sospechar que tras el tel
+ ón\, y a la espera de la próxima representación\, el maestro de ceremon
+ ias está quitándose la máscara\, para que podamos al fin reconocerlo." 
+ (Yann Tobin)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cul
+ tura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEne
+ ro-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Autoportretul unei fete cumin ți / The Self -Portrait of a Dutifu
- l Daughter
-DTSTART;VALUE=DATE-TIME:20151215T194500
-DTEND;VALUE=DATE-TIME:20151215T210600
-UID:1512154519_2_dore
-DESCRIPTION:Sala 2 - Autoportretul unei fete cumin ți / The Self -Portrai
- t of a Dutiful Daughter (Ana Lungu\, 2015). Int.:Elena Popa\, Emilian Opre
- a\, Andrei Enache. Rumanía. B-R. VOSE*. 81'\n"El sujeto del autorretrato 
- del título es Cristiana\, una joven que intenta disfrutar de su recién a
- dquirida libertad tras la mudanza de sus padres del apartamento que compar
- tían. Sola en las habitaciones vacías\, Cristiana tiene que llenar el es
- pacio conquistado. Está contenta de poder ser por fin ella misma\, pero e
- n realidad no tiene ni idea de quién es. El guión escrito por Lungu cons
- igue construir una prisión imaginaria compuesta de paredes invisibles\, s
- ubrayando el conformismo de Cristiana." (Stefan Dobroiu)\n\n\nFuente: http
- ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
- c/fe/cine-dore/programacion/2015/1215-Programa.pdf
+SUMMARY:Canciones de amor en Lolita's Club
+DTSTART;VALUE=DATE-TIME:20160131T183000
+DTEND;VALUE=DATE-TIME:20160131T200800
+UID:1601313018_2_dore
+DESCRIPTION:Sala 2 - Canciones de amor en Lolita's Club (Vicente Aranda\, 
+ 2007). Int.:Flora Martínez\, Eduardo Noriega\, Belén Fabra. España. 35m
+ m. 98'\nMafias\, prostitución\, violencia\, drogas y blanqueo de dinero c
+ onforman el telón de fondo de la historia de Raúl y Valentín\, dos herm
+ anos mellizos con vidas muy diferentes: Raúl es un violento policía que 
+ se encuentra en el punto de mira de ETA y de las mafias de la prostitució
+ n. Valentín padece una discapacidad intelectual y vive enamorado de una d
+ e las prostitutas del club de carretera donde trabaja como "chico para tod
+ o".\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
+ /areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los héroes del mal
-DTSTART;VALUE=DATE-TIME:20151215T212000
-DTEND;VALUE=DATE-TIME:20151215T225800
-UID:1512152021_2_dore
-DESCRIPTION:Sala 2 - Los héroes del mal (Zoe Berriatúa\, 2015). Int.:Jor
- ge Clemente\, Emilio Palacios\, Beatriz Medina. España. B-R. 98'\n"A la h
- ora de afrontar un tema tan delicado como el ejercicio de la violencia en 
- la edad adolescente\, con elementos no menos espinosos como el acoso escol
- ar en su telón de fondo\, Los héroes del mal\, es\, ante todo\, una pel
- ícula valiente. Un discurso que asume riesgos\, enfrenta a sus espectador
- es a ideas muy poco tranquilizadoras y evita las habituales mecánicas bie
- nintencionadas que suele conllevar el siempre vigente puritanismo progresi
- sta." (Jordi Costa)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
- ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1215
- -Programa.pdf
+SUMMARY:For Heaven's Sake
+DTSTART;VALUE=DATE-TIME:20160131T201000
+DTEND;VALUE=DATE-TIME:20160131T214800
+UID:1601311020_1_dore
+DESCRIPTION:Sala 1 - For Heaven's Sake (¡Ay\, mi madre!\, Sam Taylor\, 19
+ 26). Int.:Harold Lloyd\, Jobyna Ralston\, Noah Young. EE UU. 35mm. MRISE*.
+  65' a 21 fps. Lloyd interpreta a J. Harold Manners\, un playboy millonari
+ o que por descuido contribuye a una misión religiosa de alto riesgo. Cono
+ ce y se enamora de Hope\, la hija del pastor de la misión\,Manners\, que 
+ convierte a todo tipo de hombres s´órdidos y despiadados. El día de la 
+ boda\, los amigos millonarios de Harold lo secuestran creyendo que le impi
+ den cometer un error y Harold debe huir y volver a la misión para no perd
+ erse su propia boda. La persecución final es una de las secuencias más m
+ emorables de Lloyd. Copia cortesía de The Harold Lloyd Estate y Harold Ll
+ oyd Entertainment. Acompañamiento musical al piano de Marcos Ortiz.\n\n\n
+ Fuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cu
+ ltura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEnero-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sexo fácil\, películas triste
-DTSTART;VALUE=DATE-TIME:20151216T173000
-DTEND;VALUE=DATE-TIME:20151216T190100
-UID:1512163017_2_dore
-DESCRIPTION:Sala 2 - Sexo fácil\, películas triste (Alejo Flah\, 2014). 
- Int.:Ernesto Alterio\, Quim Gutiérrez\, Marta Etura. España/Argentina. B
- -R. 91'\nEl guionista argentino Pablo recibe el encargo de escribir una co
- media romántica ambientada en Madrid. En principio no tiene problemas\; c
- onoce bien el género y\, así\, vemos los primeros pasos de la historia d
- e amor entre Marina y Víctor. Sin embargo\, Pablo entra en crisis ensegui
- da.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd
- /areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pasolini\, La verita' nascosta
-DTSTART;VALUE=DATE-TIME:20151216T191500
-DTEND;VALUE=DATE-TIME:20151216T211900
-UID:1512161519_2_dore
-DESCRIPTION:Sala 2 - Pasolini\, La verita' nascosta (Pasolini\, la verdad 
- oculta\, Federico Bruno\, 2013). Documental. Int.:Alberto Testone\, Cosimo
-  Cinieri\, Fiorenza Tessari. Italia. AD. VOSE. 124'\n\n\nFuente: http://ww
- w.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/
- cine-dore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sakura-tai Chiru/Sakuratai 8.6
-DTSTART;VALUE=DATE-TIME:20151216T214000
-DTEND;VALUE=DATE-TIME:20151216T233000
-UID:1512164021_2_dore
-DESCRIPTION:Sala 2 - Sakura-tai Chiru/Sakuratai 8.6 (Kaneto Shindo\, 1988)
- . Documental. Japón. 35mm. VOSI/E*.\n110'\nEn 1988 Kaneto Shindo dedicó 
- un documental\, utilizando imágenes de archivo y entrevistas\, al grupo d
- e teatro Sakura-tai Chiru\, que tuvo la mala fortuna de ir a Hiroshima a r
- epresentar una obra justo cuando iba a ser bombardeada. Muchos actores mur
- ieron pero el grupo se reconstruyó.\n\n\nFuente: http://www.mecd.gob.es/c
- ultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/progr
- amacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aru eiga-kantoku no shogai\, Mizoguchi Kenji no Kiroku/Kenji Mizog
- uchi\, The Life of a Film Director
-DTSTART;VALUE=DATE-TIME:20151217T173000
-DTEND;VALUE=DATE-TIME:20151217T200000
-UID:1512173017_2_dore
-DESCRIPTION:Sala 2 - Aru eiga-kantoku no shogai\, Mizoguchi Kenji no Kirok
- u/Kenji Mizoguchi\, The Life of a Film Director (Kaneto Shindo\, 1975). Do
- cumental. Japón. 16mm. VOSI/E*. 150'\nKenji Mizoguchi: The Life of a Film
-  Director es un exhaustivo documental realizado por el director Kaneto Shi
- ndo\, que explora las películas y el arte de este extraordinario director
-  japonés.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultu
- ra-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Programa
- .pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aliyah Dada
-DTSTART;VALUE=DATE-TIME:20151217T201500
-DTEND;VALUE=DATE-TIME:20151217T221000
-UID:1512171520_2_dore
-DESCRIPTION:Sala 2 - Aliyah Dada (Oana Giurgiu\, 2015). Documental. Ruman
- ía. B-R. VOSE*. 115'\nUn rumano no judío\, criado según la verdad supre
- ma del comunismo\, comienza un viaje para descubrir la realidad detrás de
-  los judíos rumanos aliyah (la vuelta a la Tierra Santa). La película cu
- enta la aventura de los primeros pobladores que abandonaron su vida modern
- a en Europa del Este al final del siglo XIX para sobrevivir de un modo pri
- mitivo en la Palestina hostil\; entonces revelará horrores mejor escondid
- os de la Segunda Guerra mundial en Rumania o los acuerdos secretos de los 
- comunistas rumanos para “enviar” a los judíos rumanos a Israel. El re
- lato histórico se narra con el estilo de Dada como un tributo a los pione
- ros de este movimiento\, Tristan Tzara y Marcel Janco\, dos judíos de asc
- endencia rumana. Coloquio con la directora Oana Giurgiu.\n\n\nFuente: http
- ://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/m
- c/fe/cine-dore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Autopsia de un amor
-DTSTART;VALUE=DATE-TIME:20151218T173000
-DTEND;VALUE=DATE-TIME:20151218T191600
-UID:1512183017_2_dore
-DESCRIPTION:Sala 2 - Autopsia de un amor (Arturo Prins\, 2014). Documental
- . España. B-R. 106'\nUn artista después de ser abandonado por su pareja 
- inicia una lucha desesperada por recuperarla. Documenta mes tras mes sus s
- entimientos grabándose a sí mismo en su peor momento\, pero la persona a
- mada nunca vuelve\, deja un vacío permanente. El protagonista necesita re
- spuestas para seguir adelante\, sale a la calle a buscarlas. Graba a sus a
- migos\, a sus padres\, a un abogado civil\, a una adolescente\, un psicól
- ogo\, un sacerdote y desconocidos. Después de grabar durante once años y
-  entrevistarse con el filósofo francés Michel Onfray\, el artista ofrece
-  al espectador un abanico de reflexiones.\n\n\nFuente: http://www.mecd.gob
- .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
- programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Body/Ciało
-DTSTART;VALUE=DATE-TIME:20151218T193000
-DTEND;VALUE=DATE-TIME:20151218T210000
-UID:1512183019_2_dore
-DESCRIPTION:Sala 2 - Body/Ciało (En cuerpo y alma\, Malgorzata Szumowska\
- , 2015). Int.:Maja Ostaszewska\, Janusz Gajos\, Justyna Suwala. Polonia. B
- -R. VOSE. 90'\nLas historias entrelazadas de un fiscal\, su hija anoréxic
- a y su terapeuta\, que afirma que se puede comunicar con los queridos muer
- tos. Tres situaciones radicalmente diferentes donde se enfoca el cuerpo y 
- el alma.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura
- -mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Programa.p
- df
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rushmore
-DTSTART;VALUE=DATE-TIME:20151218T213000
-DTEND;VALUE=DATE-TIME:20151218T230300
-UID:1512183021_2_dore
-DESCRIPTION:Sala 2 - Rushmore (Academia Rushmore\, Wes Anderson\, 1998). I
- nt.:Bill Murray\, Jason Schwartzman\, Olivia Williams. EE UU. B-R. VOSE*. 
- 93'\n"Como el gran Ernst Lubitsch\, Anderson ha aprendido a comprimir una 
- cantidad máxima de información en un mínimo de tiempo . Personajes ente
- ros se esbozan con un gesto\, un acento\, el detalle de un traje. Pero la 
- técnica sólo puede explicar hasta un cierto punto el efecto de una pelí
- cula tan intrincada y vívida como ésta\, a un tiempo sobria y excéntric
- a\, con su amor por los grandes gestos y su respeto por las más leves flu
- ctuaciones de la emoción\, su tristeza subyacente y su gran explosión de
-  esperanza. Es el material del que está hecha la poesía y en esta\, tan 
- solo su segunda película\, Wes Anderson se nos muestra como un poeta de p
- rimera fila." (Dave Kehr)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd
- /dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/201
- 5/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Meñique
-DTSTART;VALUE=DATE-TIME:20151219T173000
-DTEND;VALUE=DATE-TIME:20151219T185000
-UID:1512193017_2_dore
-DESCRIPTION:Sala 2 - Meñique (Ernesto Padrón\, 2014). Animación. Cuba/E
- spaña. B-R. 80'\nVersión libre del cuento infantil Pulgarcito. Es la his
- toria de un pequeño joven campesino que quiere sacar a su familia de la p
- obreza y se lanza a la ciudad junto a sus hermanos. Se enteran de que un e
- norme roble encantado tiene al palacio del rey en las tinieblas y sin agua
- \; y que el soberano ha prometido otorgar el título de marqués y dar a s
- u hija\, la princesa Denise\, en matrimonio\, a quien logre cortar el árb
- ol y abrir un pozo. Entrada libre para menores de 14 años.\n\n\nFuente: h
- ttp://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cin
- e/mc/fe/cine-dore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pod Mocnym Aniolem
-DTSTART;VALUE=DATE-TIME:20151219T191500
-DTEND;VALUE=DATE-TIME:20151219T210400
-UID:1512191519_2_dore
-DESCRIPTION:Sala 2 - Pod Mocnym Aniolem (Casa del ángel poderoso\, Wojcie
- ch Smarzowski\, 2014). Int.:Robert Wieckiewicz\, Marcin Dorocinski. Poloni
- a. B-R. VOSE. 109'\nJerzy es escritor y alcohólico. La película comienza
-  cuando cree que ha vencido su dependencia y que realmente puede dejar de 
- beber. Se enamora de una joven y estar feliz con su nueva relación se con
- vierte en su nuevo objetivo. Sin embargo\, superar su dependencia y empren
- der un nuevo camino resulta ser muy difícil.\n\n\nFuente: http://www.mecd
- .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
- ore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Royal Tenembaums
-DTSTART;VALUE=DATE-TIME:20151219T213000
-DTEND;VALUE=DATE-TIME:20151219T232000
-UID:1512193021_2_dore
-DESCRIPTION:Sala 2 - The Royal Tenembaums (Los Tenembaums\, Wes Anderson\,
-  2001). Int.:Gene Hackman\, Anjelica Huston\, Ben Stiller. EE UU. B-R. VOS
- E*. 110'\n"El tercer largometraje de Wes Anderson propone un juego culto y
-  distanciado que funciona como falsa pista para enmascarar su naturaleza e
- mocional y su carácter de íntima autoafirmación... Los Tenenbaum\, malo
- gradas promesas en tensa negociación familiar con el pater familias que l
- es jodió la vida\, podrían ser el retrato triple del propio Anderson y t
- ambién una metáfora estética de ese pasado cultural esplendoroso frente
-  al que todo artista debe afirmar su identidad." (Jordi Costa)\n\n\nFuente
- : http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/
- cine/mc/fe/cine-dore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Daigo fukuryû maru/Lucky Dragon No 5
-DTSTART;VALUE=DATE-TIME:20151220T173000
-DTEND;VALUE=DATE-TIME:20151220T191600
-UID:1512203017_2_dore
-DESCRIPTION:Sala 2 - Daigo fukuryû maru/Lucky Dragon No 5 (Kaneto Shindo\
- , 1959). Int.:Nobuko Otowa\, Jukichi Uno\, Yoshio Inaba. Japón. 16mm. VOS
- I/E*. 106'\n"En Lucky Dragon No. 5\, Shindô ofrece otra reflexión difere
- nte sobre la cotidianidad y la Historia a partir de la Bomba. Después de 
- una primera parte casi documental sobre la pesca en alta mar\, un respland
- or lejano alerta a los marineros\, quienes\, en el mismo centro de la nada
- \, se muestran tan confundidos como si su perro se hubiera puesto a andar 
- sobre dos patas y a recitar un tanka. Se cierne sobre ellos una lluvia de 
- cenizas que sigue al gran hongo protagonista de tan extraño suceso\, ante
-  el cual el espectador también está sin referencias. ¿Ha existido la ex
- plosión o\, como el árbol que cae en el bosque sin que nadie lo oiga\, s
- ólo ha sucedido en relación a los marineros que la han podido percibir?"
-  (Borja Vargas Llopis)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dm
- s/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1
- 215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Male stluczk
-DTSTART;VALUE=DATE-TIME:20151220T193000
-DTEND;VALUE=DATE-TIME:20151220T204800
-UID:1512203019_2_dore
-DESCRIPTION:Sala 2 - Male stluczk (Pequeños golpes\, Ireneusz Grzyb\, Ale
- ksandra Gowin\, 2014). Int.:Helena Sujecka\, Agnieszka Pawelkiewicz. Polon
- ia. B-R. VOSE. 78'\nKasia y Asia viven juntos y dirigen un pequeño negoci
- o de limpieza de pisos cuando los dueños se mudan o mueren. Peter ha aban
- donado recientemente a su esposa y ha dejado su trabajo\, ahora alquila un
-  cuarto diminuto y trabaja en una fábrica de cajas. Un día los tres se c
- ruzan y sus vidas cambian para siempre.\n\n\nFuente: http://www.mecd.gob.e
- s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
- ogramacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Segon Origen/Segundo origen
-DTSTART;VALUE=DATE-TIME:20151220T211000
-DTEND;VALUE=DATE-TIME:20151220T225500
-UID:1512201021_2_dore
-DESCRIPTION:Sala 2 - Segon Origen/Segundo origen (Carles Porta\, 2015). In
- t.:Sergi López\, Rachel Hurd-Wood\, Andrés Batista. España. B-R. 105'\n
- Alba\, una chica blanca de 14 años\, y Dídac\, un niño negro de 9 son l
- os únicos supervivientes de un holocausto de origen extraterrestre que ha
-  asolado todo el planeta. Mientras se recuperan de la catástrofe\, ademá
- s de tener que adaptarse a un mundo devastado y plagado de cadáveres\, se
-  proponen como objetivo la misión de preservar la cultura humana\, lo cua
- l implica procrear.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/m
- ecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1215
- -Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sanmon Yakusha/By Player
-DTSTART;VALUE=DATE-TIME:20151222T173000
-DTEND;VALUE=DATE-TIME:20151222T193600
-UID:1512223017_2_dore
-DESCRIPTION:Sala 2 - Sanmon Yakusha/By Player (Kaneto Shindo\, 2000). Int.
- :Nobuko Otowa\, Naoto Takenaka. Japón. 35mm. VOSI/E*. 126'\nLa película 
- es una serie de viñetas sobre la vida de Taiji Tonoyama y secuencias de a
- rchivo\, esparcidas con un diálogo a la cámara de Nobuko Otowa\, dirigi
- éndose a la cámara como si se dirigiese al propio Tonoyama\, recordando 
- acontecimientos en su vida. La película se concentra en el alcoholismo de
-  Tonoyama y sus diferentes relaciones sexuales\, así como sus trabajos ju
- nto a Shindo.\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cu
- ltura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Progr
- ama.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matka ziemia
-DTSTART;VALUE=DATE-TIME:20151222T195000
-DTEND;VALUE=DATE-TIME:20151222T213400
-UID:1512225019_2_dore
-DESCRIPTION:Sala 2 - Matka ziemia (Tierra Madre\, Piotr Zlotorowicz\, 2014
- ). Int.:Miroslaw Baka\, Dariusz Przybyl. Polonia. B-R. VOSE. 30'. Mów mi 
- Marianna (Llámame Marianna\, Karolina Bielawska\, 2015). Documental. Polo
- nia. B-R. VOSE. 74'. Total programa: 104'\nMatka ziemia: El joven Maciek n
- o quiere defraudar a su padre\, quien espera que sea matarife conforme a l
- a tradición familiar. Pero su extrema sensibilidad le hace intolerable el
-  sufrimiento de todo ser vivo. Por ello prefiere volcarse en el cuidado de
-  un viejo manzanal\, recuerdo único de su madre fallecida\, descubriendo 
- en sí mismo ciertas capacidades paranormales. Mów mi Marianna: Marianna 
- es una atractiva mujer de 40 años. Hace tiempo que huyó de la gente que 
- quería y demandó a sus propios padres. Paso a paso\, nos adentramos en l
- a vida de Marianna a fin de entender las decisiones difíciles que tuvo qu
- e tomar\, para poder cambiar de sexo.\n\n\nFuente: http://www.mecd.gob.es/
- cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/prog
- ramacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Life Aquatic with Steve Zissou
-DTSTART;VALUE=DATE-TIME:20151222T215000
-DTEND;VALUE=DATE-TIME:20151222T235300
-UID:1512225021_2_dore
-DESCRIPTION:Sala 2 - The Life Aquatic with Steve Zissou (Life Aquatic\, We
- s Anderson\, 2004). Int.:Cate Blanchett\, Bill Murray\, Owen Wilson. EE UU
- . B-R. VOSE*. 123'\nTras preparar un plan para vengar la muerte de su cole
- ga a manos de un mítico tiburón blanco\, el oceanógrafo Steve Zissou re
- cluta a una tripulación que incluye a su esposa\, a una periodista y a un
-  joven que podría ser su hijo. "Una gran película\, llena de transgresi
- ón\, humor e inteligencia." (Antonio Gasset)\n\n\nFuente: http://www.mecd
- .gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-d
- ore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fukurô/The Owl
-DTSTART;VALUE=DATE-TIME:20151223T173000
-DTEND;VALUE=DATE-TIME:20151223T192900
-UID:1512233017_2_dore
-DESCRIPTION:Sala 2 - Fukurô/The Owl (Kaneto Shindo\, 2003). Int.:Shinobu 
- Otake\, Ayumi Ito. Japón. 35mm. VOSI/E*. 119'\nCon noventa años\, Shindo
-  produjo esta comedia negra que vuelve a los temas de Onibaba en esta hist
- oria de una madre e hija que roban y asesinan a una serie de varones. La p
- elícula recibió alabanzas por su ingenio oscuro\, sus finas interpretaci
- ones\, la partitura memorable del colaborador habitual de Shindo Hikaru Ha
- yashi. Derek Elley la definió como 'un rondó encantador de sexo y muerte
- \, sostenida por un comentario ácido sobre las aspiraciones emocionales d
- e la postguerra de Japón'.\n\n\nFuente: http://www.mecd.gob.es/cultura-me
- cd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2
- 015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carte Blanche
-DTSTART;VALUE=DATE-TIME:20151223T194500
-DTEND;VALUE=DATE-TIME:20151223T213100
-UID:1512234519_2_dore
-DESCRIPTION:Sala 2 - Carte Blanche (Jacek Lusinski\, 2015). Int.:Arkadiusz
-  Jakubik\, Andrzej Chyra\, Urszula Grabowska. Polonia. B-R. VOSE. 106'\nUn
-  profesor de instituto muy querido por sus alumnos\, para no perder su pue
- sto y seguir preparando a sus discípulos\, oculta el hecho que se está q
- uedando ciego. El diagnóstico médico no le deja ninguna esperanza: al pr
- ofesor le espera por una ceguera permanente y total. Pero sus reacciones c
- ambian: asustado al principio\, está lejos de caer en la desesperación.\
- n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
- as-cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Darjeeling Limited
-DTSTART;VALUE=DATE-TIME:20151223T214500
-DTEND;VALUE=DATE-TIME:20151223T231600
-UID:1512234521_2_dore
-DESCRIPTION:Sala 2 - The Darjeeling Limited (Viaje a Darjeeling\, Wes Ande
- rson\, 2007). Int.:Jason Schwartzman\, Owen Wilson\, Adrien Brody. EE UU. 
- 35mm. VOSE. 91'\n“¿Recuerdan el ‘Si no te gusta esta película no me 
- quieres\; porque esta película soy yo\, yo soy esta película’ del The 
- Disappointment Artist \, de Jonathan Lethem? Pues con Wes Anderson es así
- . Si a alguno de sus amigos no le gusta Viaje a Darjeeling\, no es amigo s
- uyo. Si su novio no entiende por qué es usted fan\, corte con él. Es as
- í de simple. Porque el Apocalipsis será una escatológica lucha fraticid
- a entre aquellos a los que nos gusta Wes Anderson y aquellos a los que no.
-  Dos formas irreconciliables de ver el arte. Tomen partido AHORA.” (Kiko
-  Amat).\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-
- mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Programa.pd
- f
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holy Night! Noche de ¿paz?
-DTSTART;VALUE=DATE-TIME:20151226T173000
-DTEND;VALUE=DATE-TIME:20151226T190000
-UID:1512263017_2_dore
-DESCRIPTION:Sala 2 - Holy Night! Noche de ¿paz? (Juan Galiñanes\, 2014).
-  Animación. España. B-R. 90'\nNochebuena. En el salón de una casa convi
- ven dos mundos de juguete. En un lado el árbol de Navidad\, hogar de Pap
- á Noel y sus elfos. En el otro\, el Belén con los reyes Magos y demás f
- iguritas del portal. Las dos tradiciones se preparan para celebrar la Navi
- dad\, cuando de pronto salta la alarma. El trineo de Papá Noel ha desapar
- ecido y el Niño Jesús ha sido secuestrado. La Navidad está en peligro y
-  ambos mundos se culpan entre sí\, pero la verdadera culpable anda suelta
- . Entrada libre para menores de 14 años.\n\n\nFuente: http://www.mecd.gob
- .es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/
- programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moonrise Kingdom
-DTSTART;VALUE=DATE-TIME:20151226T193000
-DTEND;VALUE=DATE-TIME:20151226T210500
-UID:1512263019_2_dore
-DESCRIPTION:Sala 2 - Moonrise Kingdom (Moonrise Kingdom\, Wes Anderson\, 2
- 012). Int.:Tilda Swinton\, Edward Norton\, Bruce Willis. EE UU. B-R. VOSE.
-  95'\nNueva Inglaterra\, verano de 1965. En una isla donde se ha instalado
-  un campamento boy-scout\, Sam y Suzy\, de 12 años\, se enamoran y establ
- ecen un plan secreto para fugarse y encontrarse en medio de la Naturaleza.
-  "Es hermoso el modo en que la pureza de ese amor ensombrece el fracaso se
- ntimental de los adultos\, tiñendo de melancolía un relato que\, en esen
- cia\, quiere captar el escalofrío de un primer beso a orillas del mar. Ta
- n ligera como una canción de Françoise Hardy\, tan cristalina como una p
- ieza de Henry Purcell\, Moonrise Kingdom es lo más cerca que Anderson ha 
- estado del mejor Truffaut." (Sergi Sánchez)\n\n\nFuente: http://www.mecd.
- gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-do
- re/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diplomatie
-DTSTART;VALUE=DATE-TIME:20151226T213000
-DTEND;VALUE=DATE-TIME:20151226T225000
-UID:1512263021_2_dore
-DESCRIPTION:Sala 2 - Diplomatie (Diplomacia\, Volker Schlöndorff\, 2014).
-  Int.:André Dussollier\, Niels Arestrup\, Robert Stadlober. Francia/Alema
- nia. B-R. VOSE. 80'\n"El director deja que el espectáculo de la desolaci
- ón transcurra fuera de la pantalla. Apenas se adivinan por la ventana de 
- la habitación las huellas de la 'grandeur' capitalina\, la herida aún sa
- ngrante de la colaboración\, las mentiras de la Resistencia... Se trata s
- implemente de un hombre enfrentado a sí mismo. Porque en realidad\, y és
- e es el juego de Schlöndorff\, las posturas supuestamente opuestas de los
-  dos hombres no son más que la expresión de la misma duda." (Luis Martí
- nez)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mec
- d/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rigoletto
-DTSTART;VALUE=DATE-TIME:20151227T173000
-DTEND;VALUE=DATE-TIME:20151227T192600
-UID:1512273017_2_dore
-DESCRIPTION:Sala 2 - Rigoletto (Jean-Pierre Ponnelle\, 1982). Int.:Luciano
-  Pavarotti\, Ingwar Wixell\, Edita Gruberova. Alemania. B-R. VOSE. 116'\nF
- ilmado en 1981 in situ\, sobre los mismos lugares del Renacimiento italian
- o\, la puesta en escena de JeanPierre Ponnelle recoge toda la ternura y la
-  tragedia que constituyen el drama de Verdi. Segunda proyección día 30.\
- n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/are
- as-cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wymyk
-DTSTART;VALUE=DATE-TIME:20151227T194000
-DTEND;VALUE=DATE-TIME:20151227T210300
-UID:1512274019_2_dore
-DESCRIPTION:Sala 2 - Wymyk (Coraje\, Greg Zglinski\, 2011). Int.:Robert Wi
- eckiewicz\, Gabriela Muskala\, Marian Dziedziel. Polonia. B-R. VOSE. 83'\n
- Viajando en metro\, los dos hermanos\, Alfred y Jerzy\, contemplan cómo u
- na muchacha es asaltada por unos matones. El hermano menor\, Jerzy\, la de
- fiende\, mientras Alfred comete un error y reacciona demasiado tarde y obs
- erva la tragedia de su hermano que\, ante de sus mismos ojos\, es lanzado 
- de un tren que se apresura...\n\n\nFuente: http://www.mecd.gob.es/cultura-
- mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion
- /2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truman
-DTSTART;VALUE=DATE-TIME:20151227T212000
-DTEND;VALUE=DATE-TIME:20151227T230800
-UID:1512272021_2_dore
-DESCRIPTION:Sala 2 - Truman (Cesc Gay\, 2015). Int.:Ricardo Darín\, Javie
- r Cámara\, Javier Gutiérrez. España. B-R. 108'\nJulián y Tomás\, dos 
- amigos de la infancia que han llegado a la madurez\, se reúnen después d
- e muchos años y pasan juntos unos días inolvidables\, sobre todo porque 
- éste será su último encuentro\, su despedida.\n\n\nFuente: http://www.m
- ecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cin
- e-dore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ziarno Prawdy
-DTSTART;VALUE=DATE-TIME:20151229T173000
-DTEND;VALUE=DATE-TIME:20151229T192000
-UID:1512293017_2_dore
-DESCRIPTION:Sala 2 - Ziarno Prawdy (La semilla de la verdad\, Borys Lankos
- z\, 2014). Int.:Robert Wieckiewicz\, Jerzy Trela\, Aleksandra Hamkalo. Pol
- onia. B-R. VOSE. 110'\nUn famoso fiscal\, Teodor Szacki\, se divorcia de s
- u esposa y deja Varsovia para comenzar una nueva vida en una pintoresca ci
- udad del sudeste de Polonia\, Sandomierz. Poco después\, le encargan inve
- stigar un extraño caso de asesinato. Absolutamente fuera de esa nueva rea
- lidad de provincias\, se esfuerza por encontrar a un asesino mientras trop
- ieza con más víctimas. En un momento dado\, se da cuenta de que los ases
- inatos están relacionados con históricas matanzas rituales.\n\n\nFuente:
-  http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/c
- ine/mc/fe/cine-dore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Au revoir les enfants
-DTSTART;VALUE=DATE-TIME:20151229T194000
-DTEND;VALUE=DATE-TIME:20151229T212400
-UID:1512294019_2_dore
-DESCRIPTION:Sala 2 - Au revoir les enfants (Adiós\, muchachos\, Louis Mal
- le\, 1987). Int.:Gaspard Manesse\, Raphaël Fetjo\, Francine Racette. Fran
- cia. B-R. VOSE. 104'\n"La película esconde una facilidad milagrosa\, no f
- orzada y una naturalidad impresionante en la interpretación y la puesta e
- n escena\; es una película clásica y narrativa al servicio de momentos\,
-  y sobre todo de cómo debemos despedirnos de nuestra infancia y de nuestr
- a inocencia. De eso depende nuestra relación con la memoria\, como esta p
- elícula nos muestra." (Peter Bradshaw)\n\n\nFuente: http://www.mecd.gob.e
- s/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/pr
- ogramacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Grand Budapest Hotel
-DTSTART;VALUE=DATE-TIME:20151229T214000
-DTEND;VALUE=DATE-TIME:20151229T231900
-UID:1512294021_2_dore
-DESCRIPTION:Sala 2 - The Grand Budapest Hotel (El gran hotel Budapest\, We
- s Anderson\, 2014). Int.:Ralph Fiennes\, Tony Revolori\, Saoirse Ronan. EE
-  UU. B-R. VOSE. 99'\n"Deslumbrante carta de amor a una Europa imaginada qu
- e acaba proponiendo un sofisticado discurso sobre la construcción de la n
- ostalgia como paraíso privado. Con su apuesta radical por el artificio\, 
- su debilidad por las composiciones simétricas y su gusto por los travelli
- ngs laterales recorriendo microcosmos con alma de casa de muñecas\, el es
- tilo Anderson sigue ahí\, pero también la voluntad de plantear juegos in
- éditos\, de explorar nuevos registros." (Jordi Costa)\n\n\nFuente: http:/
- /www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/
- fe/cine-dore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Placard
-DTSTART;VALUE=DATE-TIME:20151230T173000
-DTEND;VALUE=DATE-TIME:20151230T185400
-UID:1512303017_2_dore
-DESCRIPTION:Sala 2 - Le Placard (Salir del armario\, Francis Veber\, 2001)
- . Int.:Daniel Auteil\, Thierry Lhermitte\, Gérard Depardieu. Francia. B-R
- . VOSE. 84'\n"Realizada con la habilidad de alguien que\, como Veber\, con
- oce muy bien los viejos trucos de la comedia. Con un buen punto de partida
-  y un brillante final. Comedia sin otra pretensión que hacer reír\, pero
-  que funciona a la perfección." (Augusto M. Torres)\n\n\nFuente: http://w
- ww.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/cine/mc/fe
- /cine-dore/programacion/2015/1215-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fantastic Mr. Fox
-DTSTART;VALUE=DATE-TIME:20151230T191000
-DTEND;VALUE=DATE-TIME:20151230T203700
-UID:1512301019_2_dore
-DESCRIPTION:Sala 2 - Fantastic Mr. Fox (Wes Anderson\, 2009). Animación. 
- EE UU/Reino Unido. 35mm. VOSE. 87'\n"No estamos ante una adaptación del c
- uento de Roald Dahl\, sino ante algo más extraño: lo que ocurriría si u
- na familia marca Anderson (con sus desconexiones\, tensas negociaciones de
-  pareja\, erráticas gestiones de la comunicación paterno-filial y crueld
- ades en sordina) se soñase bajo la forma de las animalizadas criaturas de
-  Dahl." (Jordi Costa)\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms
- /mecd/cultura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2015/12
- 15-Programa.pdf
-LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rigoletto
-DTSTART;VALUE=DATE-TIME:20151230T210000
-DTEND;VALUE=DATE-TIME:20151230T225600
-UID:1512300021_2_dore
-DESCRIPTION:Sala 2 - Rigoletto (Jean-Pierre Ponnelle\, 1982). Int.:Luciano
-  Pavarotti\, Ingwar Wixell\, Edita Gruberova. Alemania. B-R. VOSE. 116'\n\
- n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas
- -cultura/cine/mc/fe/cine-dore/programacion/2015/1215-Programa.pdf
+SUMMARY:Le Capital
+DTSTART;VALUE=DATE-TIME:20160131T213500
+DTEND;VALUE=DATE-TIME:20160131T232900
+UID:1601313521_1_dore
+DESCRIPTION:Sala 1 - Le Capital (El capital\, Costa-Gavras\, 2012). Int.:G
+ ad Elmaleh\, Gabriel Byrne\, Natacha Régnier. Francia / Reino Unido. DCP.
+  VOSE. 114'\n\n\nFuente: http://www.mecd.gob.es/cultura-mecd/dms/mecd/cult
+ ura-mecd/areas-cultura/cine/mc/fe/cine-dore/programacion/2016/ProgramaEner
+ o-2.pdf
 LOCATION:Calle de Santa Isabel\, 3\, 28012 Madrid\, España
 END:VEVENT
 END:VCALENDAR
