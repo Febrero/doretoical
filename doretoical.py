@@ -220,5 +220,5 @@ if __name__ == "__main__":
 			run(int(sys.argv[1]))
 		else:
 			_fillCal(sys.argv[1])
-	join()
+	#join()
 
