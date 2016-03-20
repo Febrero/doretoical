@@ -79,7 +79,7 @@ function programa() {
 	next;
 }
 
-/^\s*$/ {
+/^\s*(<\/(pre|body|html)>)?\s*$/ {
 	next;
 }
 pro==0 && /^PROGRAMACIÓN$/ {
@@ -129,7 +129,7 @@ anyo==0 && mes>0 && $1~/^[0-9][0-9][0-9][0-9]$/ {
 
 NF==1 && $1~/^\s*(Lunes|Martes|Miércoles|Jueves|Viernes|Sábado|Domingo)$/ {
 	while (getline && $0~/^\s*$/) {
-	
+
 	}
 	_d=$0
 	sub(/^\s+|\s+$/, "", d);
