@@ -93,16 +93,12 @@ def collect(ar):
 		u = p % (ar)
 		_collect(u)
 
-def _getFilm(t):
-	try:
-		url="http://www.filmaffinity.com/es/search.php?stype=title&stext="+t
-		response = requests.get(url)
-		if response and response.history and response.url:
-			if response.url.startswith("http://www.filmaffinity.com/es/film"):
-				return response.url
-	except Exception,e:
-		print str(e)
-	return None
+def _getFilm(url):
+	response = requests.get(url)
+	if response and response.history and response.url:
+		if response.url.startswith("http://www.filmaffinity.com/es/film"):
+			return response.url
+	return url
 
 def _getYaml(url,_chance=1):
 	if not exists(url):
@@ -183,10 +179,8 @@ def _fillCal(url):
 			if o['nota']:
 				des=des+ " - " + o['nota']
 			des=des+"\n"
-			furl=_getFilm(o[u'título'])
-			if furl:
-				des=des+"\nFicha: "+furl
 			des=des+"\nFuente: "+url
+			des=des+"\nFicha: " + _getFilm(o['ficha'])
 
 			event.add('DESCRIPTION',des)
 			cal.add_component(event)

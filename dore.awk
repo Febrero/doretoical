@@ -67,6 +67,9 @@ function item() {
 				print "nota: |"
 				print "  " nota;
 			}
+			gsub(/"/, "", titulo);
+			gsub(/\s+/, "+", titulo);
+			print "ficha: \"http://www.filmaffinity.com/es/search.php?stype=title&stext=" titulo "\"";
 		}
 	}
 	reset();
