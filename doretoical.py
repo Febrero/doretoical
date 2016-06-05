@@ -92,7 +92,18 @@ def collect(ar):
 	if ar > 2000:
 		u = p % (ar)
 		_collect(u)
-	
+
+def _getFilm(t):
+	try:
+		url="http://www.filmaffinity.com/es/search.php?stype=title&stext="+t
+		response = requests.get(url)
+		if response and response.history and response.url:
+			if response.url.startswith("http://www.filmaffinity.com/es/film"):
+				return response.url
+	except Exception,e:
+		print str(e)
+	return None
+
 def _getYaml(url,_chance=1):
 	if not exists(url):
 		return (None, None, None)
@@ -168,9 +179,16 @@ def _fillCal(url):
 			if o[u'duración']:
 				f=i + datetime.timedelta(minutes = int(o[u'duración']))
 				event.add('dtend', f)
+			des="Sala " + o['sala']
 			if o['nota']:
-				event.add('DESCRIPTION',"Sala " + o['sala'] + " - " + o['nota']+"\n\nFuente: "+url)
+				des=des+ " - " + o['nota']
+			des=des+"\n"
+			furl=_getFilm(o[u'título'])
+			if furl:
+				des=des+"\nFicha: "+furl
+			des=des+"\nFuente: "+url
 
+			event.add('DESCRIPTION',des)
 			cal.add_component(event)
 		if ct==0:
 			sys.stderr.write("NOT EVENTS in ("+programa+") "+ url+"\n")
